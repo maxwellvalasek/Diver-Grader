@@ -1,0 +1,77 @@
+body {
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Arial', sans-serif;
+    background-color: #f7f7f7;
+    color: #333;
+    line-height: 1.6; /* Improved line spacing for better readability */
+}
+form {
+    margin-bottom: 30px;
+}
+
+.title {
+    font-size: 28px; /* Slightly larger title for better prominence */
+    margin-bottom: 20px;
+}
+
+.overall-grade {
+    font-size: 2.5rem; /* Use rem for scalability */
+    font-weight: bold;
+    color: #34495e; /* Darker shade for better contrast */
+    margin-bottom: 0.5rem;
+}
+
+.overall-grade-value {
+    font-size: 3rem; /* Larger font size for emphasis */
+    color: #27ae60; /* A greenish shade for positive reinforcement */
+    margin-top: 0.25rem;
+}
+
+.grade-container {
+    display: flex;
+    justify-content: center;
+    gap: 2rem; /* Adjust the gap between event grades */
+    flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
+    margin: 2rem auto; /* Center the container with automatic horizontal margins */
+    max-width: 1200px; /* Maximum width of the container */
+}
+
+.grade {
+    padding: 1rem;
+    border-radius: 5px;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    margin: 0.5rem; /* Add some margin around grades */
+    min-width: 250px; /* Minimum width for event grades to maintain a readable layout */
+}
+
+.event-grade {
+    font-size: 1.5rem; /* Smaller than the overall grade for hierarchy */
+    color: #16a085; /* Color coding to distinguish from the overall grade */
+}
+
+.grade-label {
+    display: block;
+    font-size: 1.5rem;
+    color: #666;
+    margin-bottom: 0.5rem;
+}
+
+.grade-value {
+    display: block; /* Ensure the value appears on the next line */
+    font-size: 2.5rem; /* Adjust the size as desired */
+    font-weight: bold;
+}
+
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 768px) {
+    .grade-container {
+        flex-direction: column; /* Stack items in a column on smaller screens */
+    }
+    .grade {
+        width: 80%; /* Each grade takes more space on smaller screens */
+        margin-bottom: 1rem; /* Add bottom margin for spacing between stacked items */
+    }
+}
