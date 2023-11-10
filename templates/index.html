@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,7 +37,7 @@
                             const overallGrade = data.rankings.overall_average_grade || 'No overall grade available';
                             const overallGradeColor = getGradeColor(parseFloat(overallGrade));
                             $('#overallGrade').html(
-                                '<span class="grade-value" style="color:' + overallGradeColor + ';">' + overallGrade + '</span>'
+                                '<span class="overall-grade-value" style="color:' + overallGradeColor + ';">' + overallGrade + '</span>'
                             );
         
                             ['1 Meter', '3 Meter', 'Platform'].forEach(function(event) {
@@ -46,7 +48,7 @@
                                 );
                             });
         
-                            $('#rankingTitle').text('Ranking for ' + diverName);
+                            $('#rankingTitle').text('Rankings for ' + diverName);
                         } else {
                             $('#overallGrade').text('No grades available');
                             $('.event-grade').empty(); // Clear event grades
@@ -82,23 +84,32 @@
     <!-- Overall grade and event grades -->
 
     <div class="grade-container">
-        <div class="grade-label-container">
-            <span class="grade-label">Grade</span>
+        <div class="overall-grade-label-container">
+            <!-- Overall Grade -->
+            <span class="overall-grade-label">Overall</span>
             <div id="overallGrade" class="overall-grade grade"></div>
         </div>
-        <div class="grade-label-container">
-            <span class="grade-label">1 Meter</span>
-            <div id="1MeterGrade" class="event-grade grade"></div>
+    
+        <div class="event-grades-container">
+            <!-- 1 Meter Grade -->
+            <div class="grade-label-container">
+                <span class="grade-label">1 Meter</span>
+                <div id="1MeterGrade" class="event-grade grade"></div>
+            </div>
+            <!-- 3 Meter Grade -->
+            <div class="grade-label-container">
+                <span class="grade-label">3 Meter</span>
+                <div id="3MeterGrade" class="event-grade grade"></div>
+            </div>
+            <!-- Platform Grade -->
+            <div class="grade-label-container">
+                <span class="grade-label">Platform</span>
+                <div id="PlatformGrade" class="event-grade grade"></div>
+            </div>
         </div>
-        <div class="grade-label-container">
-            <span class="grade-label">3 Meter</span>
-            <div id="3MeterGrade" class="event-grade grade"></div>
-        </div>
-        <div class="grade-label-container">
-            <span class="grade-label">Platform</span>
-            <div id="PlatformGrade" class="event-grade grade"></div>
-        </div>
+        
     </div>
+    
     
 
 </body>

@@ -1,3 +1,4 @@
+
 body {
     text-align: center;
     margin-top: 30px;
@@ -21,36 +22,45 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
-    margin-bottom: 1rem;
-    margin-top: 1rem;
+    flex-grow: 1;
 
 }
 
 .overall-grade {
-    min-width: 160px;
-    min-height: 100px;
-    font-size: 2.5rem;
+    min-width: 100px;
+    min-height: 40px;
+    font-size: 2rem;
     font-weight: bold;
     color: #34495e;
-    margin-bottom: 0.5rem;
 }
 
 .overall-grade-value {
-    font-size: 3rem;
+    font-size: 2rem;
     color: #27ae60;
-    margin-top: 0.25rem;
 }
 
 .grade-container {
     display: flex;
     justify-content: center;
-    gap: .5rem;
+    align-items: flex-end; /* Align items to the bottom */
+    gap: 1rem;
     flex-wrap: nowrap;
-    margin: 2rem auto;
     background-color: #eaeaea;
     padding: .5rem;
     border-radius: 10px;
 }
+
+
+
+.event-grades-container {
+    display: flex;
+    justify-content: center;
+    gap: .5rem; /* Adjust the gap as needed */
+}
+
+
+
+
 
 .grade {
     display: flex;
@@ -61,29 +71,33 @@ body {
     border-radius: 5px;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-    margin: 0.5rem;
+    margin: 0.1rem;
 
 }
 
 
 .event-grade {
-    min-width: 125px;
-    min-height: 100px;
-    font-size: 1.5rem;
+    min-width: 40px;
+    min-height: 50px;
+
 }
 
 .grade-label {
-    font-size: 1.5rem;
+    font-size: 1rem;
     color: #666;
-    margin-bottom: 0.5rem;
+    text-align: center; /* Center the text */
+}
+
+.overall-grade-label {
+    font-size: 1.75rem;
+    font-weight: bold;
+    color: #666;
     text-align: center; /* Center the text */
 }
 
 .grade-value {
-    font-size: 2.5rem;
+    font-size: 1.2rem;
     font-weight: bold;
     text-align: center; /* Center the text */
 }
-
-
 

@@ -68,7 +68,6 @@ async def fetch_dive_heights(session, diver_number):
 
 # Async function to fetch scores for a specific dive and height
 async def fetch_scores_for_dive_height(session, diver_number, dive, height):
-    print(dive, height)
     json_data = {}
     html_content = await fetch(session, "https://secure.meetcontrol.com/divemeets/system/diversdives.php", dvrnum=diver_number, height=height, dive=dive)
     
@@ -248,9 +247,39 @@ async def dive_scores(diver_name):
 dd_data = pd.read_csv('dd.csv')
 dd_lookup = {(row['Dive'], str(row['Height'])): row['DD'] for index, row in dd_data.iterrows()}
 
-# if __name__ == "__main__":
-#     diver_name = "Conrad Eck"
-#     wrapped_json_data = asyncio.run(dive_scores(diver_name))
+
+def recalculate_and_save_rankings(directory):
+    if not os.path.exists(directory):
+        print(f"Directory '{directory}' does not exist.")
+        return
+
+    json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
+    if not json_files:
+        print("No JSON files found in the directory.")
+        return
+
+    for file_name in json_files:
+        file_path = os.path.join(directory, file_name)
+        with open(file_path, 'r') as json_file:
+            try:
+                data = json.load(json_file)
+                events_data = data.get('events', {})
+                
+                # Recalculate rankings
+                new_rankings = calculate_rankings(events_data)
+
+                # Update the JSON data with the new rankings
+                data['rankings'] = new_rankings
+
+                # Write the updated data back to the JSON file
+                with open(file_path, 'w') as updated_json_file:
+                    json.dump(data, updated_json_file, ensure_ascii=False, indent=2)
+
+                print(f"Updated rankings for {file_name}")
+            except json.JSONDecodeError:
+                print(f"Error decoding JSON in file: {file_name}")
+
+
 
 def create_diver_json(divername):
     wrapped_json_data = asyncio.run(dive_scores(divername))
