@@ -1,77 +1,89 @@
 body {
     text-align: center;
-    margin-top: 50px;
+    margin-top: 30px;
     font-family: 'Arial', sans-serif;
     background-color: #f7f7f7;
     color: #333;
-    line-height: 1.6; /* Improved line spacing for better readability */
-}
-form {
-    margin-bottom: 30px;
+    line-height: 1.6;
 }
 
 .title {
-    font-size: 28px; /* Slightly larger title for better prominence */
-    margin-bottom: 20px;
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.input-diver-title {
+    font-size: 16px;
+    margin-top: 10px;
+}
+
+.grade-label-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+
 }
 
 .overall-grade {
-    font-size: 2.5rem; /* Use rem for scalability */
+    min-width: 160px;
+    min-height: 100px;
+    font-size: 2.5rem;
     font-weight: bold;
-    color: #34495e; /* Darker shade for better contrast */
+    color: #34495e;
     margin-bottom: 0.5rem;
 }
 
 .overall-grade-value {
-    font-size: 3rem; /* Larger font size for emphasis */
-    color: #27ae60; /* A greenish shade for positive reinforcement */
+    font-size: 3rem;
+    color: #27ae60;
     margin-top: 0.25rem;
 }
 
 .grade-container {
     display: flex;
     justify-content: center;
-    gap: 2rem; /* Adjust the gap between event grades */
-    flex-wrap: wrap; /* Allow items to wrap to the next line if needed */
-    margin: 2rem auto; /* Center the container with automatic horizontal margins */
-    max-width: 1200px; /* Maximum width of the container */
+    gap: .5rem;
+    flex-wrap: nowrap;
+    margin: 2rem auto;
+    background-color: #eaeaea;
+    padding: .5rem;
+    border-radius: 10px;
 }
 
 .grade {
-    padding: 1rem;
+    display: flex;
+    flex-direction: column; /* Stack children vertically */
+    justify-content: center; /* Center content vertically */
+    align-items: center; /* Center content horizontally */
+    padding: .75rem;
     border-radius: 5px;
     background-color: #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-    margin: 0.5rem; /* Add some margin around grades */
-    min-width: 250px; /* Minimum width for event grades to maintain a readable layout */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin: 0.5rem;
+
 }
 
+
 .event-grade {
-    font-size: 1.5rem; /* Smaller than the overall grade for hierarchy */
-    color: #16a085; /* Color coding to distinguish from the overall grade */
+    min-width: 125px;
+    min-height: 100px;
+    font-size: 1.5rem;
 }
 
 .grade-label {
-    display: block;
     font-size: 1.5rem;
     color: #666;
     margin-bottom: 0.5rem;
+    text-align: center; /* Center the text */
 }
 
 .grade-value {
-    display: block; /* Ensure the value appears on the next line */
-    font-size: 2.5rem; /* Adjust the size as desired */
+    font-size: 2.5rem;
     font-weight: bold;
+    text-align: center; /* Center the text */
 }
 
 
-/* Responsive adjustments for smaller screens */
-@media (max-width: 768px) {
-    .grade-container {
-        flex-direction: column; /* Stack items in a column on smaller screens */
-    }
-    .grade {
-        width: 80%; /* Each grade takes more space on smaller screens */
-        margin-bottom: 1rem; /* Add bottom margin for spacing between stacked items */
-    }
-}
+

@@ -66,10 +66,6 @@ async def fetch_dive_heights(session, diver_number):
     soup = BeautifulSoup(html_content, 'html.parser')
     return [(row.find_all('td')[0].text, row.find_all('td')[1].text.replace("M", "").strip()) for row in soup.find_all('tr', {'bgcolor': True})]
 
-# Read the Degree of Difficulty (DD) data from CSV and create a lookup dictionary
-dd_data = pd.read_csv('dd.csv')
-dd_lookup = {(row['Dive'], str(row['Height'])): row['DD'] for index, row in dd_data.iterrows()}
-
 # Async function to fetch scores for a specific dive and height
 async def fetch_scores_for_dive_height(session, diver_number, dive, height):
     print(dive, height)
@@ -128,7 +124,6 @@ def add_count_and_average(json_data):
                     average_score = 0
                 details["count"] = count
                 details["average_score"] = round(average_score, 2)
-     
      
 def calculate_rankings(events_data):
     max_points = {
@@ -208,9 +203,6 @@ def calculate_rankings(events_data):
 
     return rankings
 
-# ... [Rest of the code remains unc
-
-
 async def dive_scores(diver_name):
     diver_number = get_diver_number(diver_name)
     async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0"}) as session:
@@ -253,6 +245,8 @@ async def dive_scores(diver_name):
 
         return wrapped_json_data
 
+dd_data = pd.read_csv('dd.csv')
+dd_lookup = {(row['Dive'], str(row['Height'])): row['DD'] for index, row in dd_data.iterrows()}
 
 # if __name__ == "__main__":
 #     diver_name = "Conrad Eck"

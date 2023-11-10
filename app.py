@@ -12,12 +12,11 @@ def index():
 
 def get_grades():
     diver_name = request.form.get('diver_name')
-    diver_id = get_diver_number(diver_name)  # Convert name to ID
-    filepath = f'divers/{diver_id}.json'  # JSON filename uses the ID
+    diver_id = get_diver_number(diver_name)
+    filepath = f'divers/{diver_id}.json'
     
     # Check if the JSON file already exists
     if not os.path.exists(filepath):
-        # Only run create_diver_json if the file does not exist
         create_diver_json(diver_name)
     
     # After checking and potential creation, open and return the JSON data

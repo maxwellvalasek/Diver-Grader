@@ -22,58 +22,84 @@
         $(document).ready(function() {
             $('#diverForm').submit(function(e) {
                 e.preventDefault();
+                $('#loadingIndicator').show(); // Show the loading indicator
+        
                 var diverName = $('#diverName').val();
                 $.ajax({
                     type: "POST",
                     url: "/get-grades",
                     data: { diver_name: diverName },
                     success: function(data) {
+                        $('#loadingIndicator').hide(); // Hide the loading indicator
                         if (data.rankings) {
                             const overallGrade = data.rankings.overall_average_grade || 'No overall grade available';
                             const overallGradeColor = getGradeColor(parseFloat(overallGrade));
                             $('#overallGrade').html(
-                                '<span class="grade-label">Overall Grade</span>' +
                                 '<span class="grade-value" style="color:' + overallGradeColor + ';">' + overallGrade + '</span>'
                             );
-
-                            // Update the event grades
+        
                             ['1 Meter', '3 Meter', 'Platform'].forEach(function(event) {
                                 const grade = data.rankings[event]?.average_grade || 'No grade available';
                                 const gradeColor = getGradeColor(parseFloat(grade));
                                 $('#' + event.replace(' ', '') + 'Grade').html(
-                                    '<span class="grade-label">' + event + '</span>' +
                                     '<span class="grade-value" style="color:' + gradeColor + ';">' + grade + '</span>'
                                 );
                             });
-
-                            // Update the title
+        
                             $('#rankingTitle').text('Ranking for ' + diverName);
-
                         } else {
                             $('#overallGrade').text('No grades available');
                             $('.event-grade').empty(); // Clear event grades
                         }
                     },
                     error: function(response) {
+                        $('#loadingIndicator').hide(); // Hide the loading indicator
                         $('#overallGrade').text('Diver not found');
                         $('.event-grade').empty(); // Clear event grades
                     }
                 });
             });
-        });
+        });        
     </script>
 </head>
 <body>
-    <div class="title" id="rankingTitle">Ranking for</div>
+    <!-- New title for the input -->
+    <div class="input-diver-title">Input Diver</div>
+
+
+    <!-- Diver input form -->
     <form id="diverForm">
         <input type="text" id="diverName" name="diver_name" placeholder="Enter Diver's Name">
         <button type="submit">Get Grades</button>
     </form>
-    <div id="overallGrade" class="overall-grade grade"></div>
+
+    <!-- Ranking section -->
+    <div class="title" id="rankingTitle">Rankings for...</div>
+
+    <!-- Loading Indicator -->
+    <div id="loadingIndicator" style="display: none;">Loading...</div>
+
+    <!-- Overall grade and event grades -->
+
     <div class="grade-container">
-        <div id="1MeterGrade" class="event-grade grade"></div>
-        <div id="3MeterGrade" class="event-grade grade"></div>
-        <div id="PlatformGrade" class="event-grade grade"></div>
+        <div class="grade-label-container">
+            <span class="grade-label">Grade</span>
+            <div id="overallGrade" class="overall-grade grade"></div>
+        </div>
+        <div class="grade-label-container">
+            <span class="grade-label">1 Meter</span>
+            <div id="1MeterGrade" class="event-grade grade"></div>
+        </div>
+        <div class="grade-label-container">
+            <span class="grade-label">3 Meter</span>
+            <div id="3MeterGrade" class="event-grade grade"></div>
+        </div>
+        <div class="grade-label-container">
+            <span class="grade-label">Platform</span>
+            <div id="PlatformGrade" class="event-grade grade"></div>
+        </div>
     </div>
+    
+
 </body>
 </html>
