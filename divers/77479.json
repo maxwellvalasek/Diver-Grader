@@ -1,0 +1,244 @@
+{
+  "name": "Oscar Bursua",
+  "gender": "M",
+  "age": "15",
+  "id": "77479",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 20.4,
+                "meet": "2022 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-23",
+                "score": 24.0,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 31.9,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 35.2,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 18.0,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 22.5,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.25
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 22.1,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 20.0,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 24.0,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-23",
+                "score": 23.8,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 35.2,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 31.9,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 29.75,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 28.05,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 36.8,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 37.95,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.38
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.37,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.55,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 22.02,
+        "best_dive_id": "202A",
+        "best_dive_avg": 23.8,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.0,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 30.87,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.55,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 33.14,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 37.38,
+        "grade": 4.4
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

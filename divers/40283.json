@@ -1,5 +1,7 @@
 {
   "name": "Jordan Rzepka",
+  "gender": "M",
+  "age": "21",
   "id": "40283",
   "events": {
     "3 Meter": {
@@ -89,12 +91,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 48.0,
+                "score": 44.4,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 44.4,
+                "score": 48.0,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -162,12 +164,12 @@
             "performance": [
               {
                 "date": "2015-08-01",
-                "score": 56.4,
+                "score": 50.4,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2015-08-01",
-                "score": 50.4,
+                "score": 56.4,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
@@ -293,11 +295,6 @@
               },
               {
                 "date": "2021-02-26",
-                "score": 75.95,
-                "meet": "2021 Coral Springs Winter Invitational"
-              },
-              {
-                "date": "2021-02-26",
                 "score": 72.85,
                 "meet": "2021 Coral Springs Winter Invitational"
               },
@@ -307,9 +304,9 @@
                 "meet": "2021 Coral Springs Winter Invitational"
               },
               {
-                "date": "2019-07-30",
-                "score": 66.65,
-                "meet": "2019 USA Diving Junior National Championships"
+                "date": "2021-02-26",
+                "score": 75.95,
+                "meet": "2021 Coral Springs Winter Invitational"
               },
               {
                 "date": "2019-07-30",
@@ -319,6 +316,11 @@
               {
                 "date": "2019-07-30",
                 "score": 70.68,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 66.65,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -353,11 +355,6 @@
               },
               {
                 "date": "2018-03-08",
-                "score": 66.65,
-                "meet": "2018 Texas All Star Challenge"
-              },
-              {
-                "date": "2018-03-08",
                 "score": 60.45,
                 "meet": "2018 Texas All Star Challenge"
               },
@@ -369,6 +366,11 @@
               {
                 "date": "2018-03-08",
                 "score": 79.05,
+                "meet": "2018 Texas All Star Challenge"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 66.65,
                 "meet": "2018 Texas All Star Challenge"
               }
             ],
@@ -401,17 +403,17 @@
               },
               {
                 "date": "2017-06-29",
+                "score": 50.4,
+                "meet": "2017 USA Diving National Preliminary Zone C Championships"
+              },
+              {
+                "date": "2017-06-29",
                 "score": 61.6,
                 "meet": "2017 USA Diving National Preliminary Zone C Championships"
               },
               {
                 "date": "2017-06-29",
                 "score": 60.2,
-                "meet": "2017 USA Diving National Preliminary Zone C Championships"
-              },
-              {
-                "date": "2017-06-29",
-                "score": 50.4,
                 "meet": "2017 USA Diving National Preliminary Zone C Championships"
               },
               {
@@ -459,22 +461,22 @@
               },
               {
                 "date": "2023-02-22",
-                "score": 70.3,
-                "meet": "2023 B1G Mens Swimming and Diving Championships"
-              },
-              {
-                "date": "2023-02-22",
                 "score": 45.6,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
-                "date": "2022-11-16",
-                "score": 57.0,
-                "meet": "Purdue Invitational"
+                "date": "2023-02-22",
+                "score": 70.3,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
                 "date": "2022-11-16",
                 "score": 70.3,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 57.0,
                 "meet": "Purdue Invitational"
               },
               {
@@ -509,12 +511,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 68.4,
+                "score": 83.6,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 83.6,
+                "score": 68.4,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -850,12 +852,12 @@
               },
               {
                 "date": "2018-07-29",
-                "score": 51.8,
+                "score": 58.8,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
-                "score": 58.8,
+                "score": 51.8,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
@@ -865,13 +867,18 @@
               },
               {
                 "date": "2018-04-18",
-                "score": 63.0,
+                "score": 58.8,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
                 "date": "2018-04-18",
-                "score": 58.8,
+                "score": 63.0,
                 "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 68.6,
+                "meet": "2018 Texas All Star Challenge"
               },
               {
                 "date": "2018-03-08",
@@ -889,9 +896,9 @@
                 "meet": "2018 Texas All Star Challenge"
               },
               {
-                "date": "2018-03-08",
-                "score": 68.6,
-                "meet": "2018 Texas All Star Challenge"
+                "date": "2017-07-29",
+                "score": 53.2,
+                "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
@@ -909,9 +916,9 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
-                "date": "2017-07-29",
-                "score": 53.2,
-                "meet": "2017 USA Diving National Diving Championships"
+                "date": "2017-06-29",
+                "score": 63.0,
+                "meet": "2017 USA Diving National Preliminary Zone C Championships"
               },
               {
                 "date": "2017-06-29",
@@ -921,11 +928,6 @@
               {
                 "date": "2017-06-29",
                 "score": 50.4,
-                "meet": "2017 USA Diving National Preliminary Zone C Championships"
-              },
-              {
-                "date": "2017-06-29",
-                "score": 63.0,
                 "meet": "2017 USA Diving National Preliminary Zone C Championships"
               },
               {
@@ -1100,12 +1102,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 42.6,
+                "score": 49.2,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 49.2,
+                "score": 42.6,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -1188,12 +1190,12 @@
               },
               {
                 "date": "2022-11-16",
-                "score": 61.6,
+                "score": 64.4,
                 "meet": "Purdue Invitational"
               },
               {
                 "date": "2022-11-16",
-                "score": 64.4,
+                "score": 61.6,
                 "meet": "Purdue Invitational"
               },
               {
@@ -1288,6 +1290,11 @@
               },
               {
                 "date": "2018-03-08",
+                "score": 63.0,
+                "meet": "2018 Texas All Star Challenge"
+              },
+              {
+                "date": "2018-03-08",
                 "score": 61.6,
                 "meet": "2018 Texas All Star Challenge"
               },
@@ -1299,11 +1306,6 @@
               {
                 "date": "2018-03-08",
                 "score": 57.4,
-                "meet": "2018 Texas All Star Challenge"
-              },
-              {
-                "date": "2018-03-08",
-                "score": 63.0,
                 "meet": "2018 Texas All Star Challenge"
               },
               {
@@ -1341,12 +1343,12 @@
               },
               {
                 "date": "2022-03-07",
-                "score": 63.0,
+                "score": 78.75,
                 "meet": "2022 NCAA ZONE C CHAMPIONSHIPS"
               },
               {
                 "date": "2022-03-07",
-                "score": 78.75,
+                "score": 63.0,
                 "meet": "2022 NCAA ZONE C CHAMPIONSHIPS"
               },
               {
@@ -1630,17 +1632,17 @@
               },
               {
                 "date": "2021-02-26",
-                "score": 72.0,
-                "meet": "2021 Coral Springs Winter Invitational"
-              },
-              {
-                "date": "2021-02-26",
                 "score": 61.5,
                 "meet": "2021 Coral Springs Winter Invitational"
               },
               {
                 "date": "2021-02-26",
                 "score": 48.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 72.0,
                 "meet": "2021 Coral Springs Winter Invitational"
               },
               {
@@ -1688,12 +1690,12 @@
               },
               {
                 "date": "2018-07-29",
-                "score": 58.05,
+                "score": 56.7,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
-                "score": 56.7,
+                "score": 58.05,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
@@ -1713,6 +1715,11 @@
               },
               {
                 "date": "2018-03-08",
+                "score": 66.15,
+                "meet": "2018 Texas All Star Challenge"
+              },
+              {
+                "date": "2018-03-08",
                 "score": 64.8,
                 "meet": "2018 Texas All Star Challenge"
               },
@@ -1724,11 +1731,6 @@
               {
                 "date": "2018-03-08",
                 "score": 63.45,
-                "meet": "2018 Texas All Star Challenge"
-              },
-              {
-                "date": "2018-03-08",
-                "score": 66.15,
                 "meet": "2018 Texas All Star Challenge"
               },
               {
@@ -1773,12 +1775,12 @@
               },
               {
                 "date": "2016-08-01",
-                "score": 45.9,
+                "score": 62.1,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2016-08-01",
-                "score": 62.1,
+                "score": 45.9,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
@@ -1866,12 +1868,12 @@
               },
               {
                 "date": "2022-11-16",
-                "score": 69.7,
+                "score": 66.3,
                 "meet": "Purdue Invitational"
               },
               {
                 "date": "2022-11-16",
-                "score": 66.3,
+                "score": 69.7,
                 "meet": "Purdue Invitational"
               },
               {
@@ -1906,12 +1908,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 74.8,
+                "score": 76.5,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 76.5,
+                "score": 74.8,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -2003,12 +2005,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 41.4,
+                "score": 43.8,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 43.8,
+                "score": 41.4,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -2064,12 +2066,12 @@
             "performance": [
               {
                 "date": "2016-08-01",
-                "score": 67.5,
+                "score": 60.0,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2016-08-01",
-                "score": 60.0,
+                "score": 67.5,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
@@ -2097,6 +2099,11 @@
               },
               {
                 "date": "2021-02-26",
+                "score": 70.5,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-26",
                 "score": 58.5,
                 "meet": "2021 Coral Springs Winter Invitational"
               },
@@ -2106,16 +2113,6 @@
                 "meet": "2021 Coral Springs Winter Invitational"
               },
               {
-                "date": "2021-02-26",
-                "score": 70.5,
-                "meet": "2021 Coral Springs Winter Invitational"
-              },
-              {
-                "date": "2019-07-30",
-                "score": 61.5,
-                "meet": "2019 USA Diving Junior National Championships"
-              },
-              {
                 "date": "2019-07-30",
                 "score": 73.5,
                 "meet": "2019 USA Diving Junior National Championships"
@@ -2123,6 +2120,11 @@
               {
                 "date": "2019-07-30",
                 "score": 72.9,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 61.5,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -2147,11 +2149,6 @@
               },
               {
                 "date": "2018-03-08",
-                "score": 75.0,
-                "meet": "2018 Texas All Star Challenge"
-              },
-              {
-                "date": "2018-03-08",
                 "score": 76.5,
                 "meet": "2018 Texas All Star Challenge"
               },
@@ -2166,14 +2163,9 @@
                 "meet": "2018 Texas All Star Challenge"
               },
               {
-                "date": "2017-07-29",
-                "score": 63.0,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
-                "score": 64.5,
-                "meet": "2017 USA Diving National Diving Championships"
+                "date": "2018-03-08",
+                "score": 75.0,
+                "meet": "2018 Texas All Star Challenge"
               },
               {
                 "date": "2017-07-29",
@@ -2183,6 +2175,16 @@
               {
                 "date": "2017-07-29",
                 "score": 54.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 63.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 64.5,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -2290,12 +2292,12 @@
               },
               {
                 "date": "2022-03-07",
-                "score": 81.6,
+                "score": 74.8,
                 "meet": "2022 NCAA ZONE C CHAMPIONSHIPS"
               },
               {
                 "date": "2022-03-07",
-                "score": 74.8,
+                "score": 81.6,
                 "meet": "2022 NCAA ZONE C CHAMPIONSHIPS"
               },
               {
@@ -2380,12 +2382,12 @@
               },
               {
                 "date": "2018-07-29",
-                "score": 76.5,
+                "score": 66.3,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
-                "score": 66.3,
+                "score": 76.5,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
@@ -2458,12 +2460,12 @@
               },
               {
                 "date": "2023-02-22",
-                "score": 81.9,
+                "score": 89.7,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
                 "date": "2023-02-22",
-                "score": 89.7,
+                "score": 81.9,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
@@ -2607,11 +2609,6 @@
             "performance": [
               {
                 "date": "2017-07-29",
-                "score": 57.4,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
                 "score": 63.0,
                 "meet": "2017 USA Diving National Diving Championships"
               },
@@ -2621,6 +2618,16 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
+                "date": "2017-07-29",
+                "score": 57.4,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 63.0,
+                "meet": "2017 USA Diving National Preliminary Zone C Championships"
+              },
+              {
                 "date": "2017-06-29",
                 "score": 60.2,
                 "meet": "2017 USA Diving National Preliminary Zone C Championships"
@@ -2628,11 +2635,6 @@
               {
                 "date": "2017-06-29",
                 "score": 57.4,
-                "meet": "2017 USA Diving National Preliminary Zone C Championships"
-              },
-              {
-                "date": "2017-06-29",
-                "score": 63.0,
                 "meet": "2017 USA Diving National Preliminary Zone C Championships"
               },
               {
@@ -2905,12 +2907,12 @@
               },
               {
                 "date": "2019-07-30",
-                "score": 59.8,
+                "score": 53.3,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2019-07-30",
-                "score": 53.3,
+                "score": 59.8,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -2953,12 +2955,12 @@
             "performance": [
               {
                 "date": "2016-08-01",
-                "score": 37.2,
+                "score": 45.6,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2016-08-01",
-                "score": 45.6,
+                "score": 37.2,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
@@ -3031,12 +3033,12 @@
               },
               {
                 "date": "2023-03-09",
-                "score": 52.8,
+                "score": 69.3,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
-                "score": 69.3,
+                "score": 52.8,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
@@ -3164,12 +3166,12 @@
               },
               {
                 "date": "2021-11-18",
-                "score": 70.5,
+                "score": 45.0,
                 "meet": "Purdue Invitational"
               },
               {
                 "date": "2021-11-18",
-                "score": 45.0,
+                "score": 70.5,
                 "meet": "Purdue Invitational"
               },
               {
@@ -3294,12 +3296,12 @@
               },
               {
                 "date": "2019-07-30",
-                "score": 42.55,
+                "score": 41.4,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2019-07-30",
-                "score": 41.4,
+                "score": 42.55,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -3314,12 +3316,12 @@
               },
               {
                 "date": "2017-07-29",
-                "score": 39.1,
+                "score": 32.2,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
-                "score": 32.2,
+                "score": 39.1,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -3540,12 +3542,12 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 43.5,
+                "score": 45.0,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-12-13",
-                "score": 45.0,
+                "score": 43.5,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -3642,12 +3644,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 43.8,
+                "score": 45.0,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 45.0,
+                "score": 43.8,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -3731,12 +3733,12 @@
               },
               {
                 "date": "2023-03-09",
-                "score": 36.0,
+                "score": 63.0,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
-                "score": 63.0,
+                "score": 36.0,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
@@ -3791,12 +3793,12 @@
               },
               {
                 "date": "2022-03-24",
-                "score": 45.0,
+                "score": 63.0,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2022-03-24",
-                "score": 63.0,
+                "score": 45.0,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -3811,12 +3813,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 63.0,
+                "score": 40.5,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 40.5,
+                "score": 63.0,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -3881,12 +3883,12 @@
               },
               {
                 "date": "2018-07-29",
-                "score": 42.0,
+                "score": 31.5,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
-                "score": 31.5,
+                "score": 42.0,
                 "meet": "2018 USA Diving Junior National Championships"
               }
             ],
@@ -4039,12 +4041,12 @@
               },
               {
                 "date": "2017-07-29",
-                "score": 45.6,
+                "score": 50.4,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
-                "score": 50.4,
+                "score": 45.6,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -4089,12 +4091,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 52.56,
+                "score": 46.08,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 46.08,
+                "score": 52.56,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -4104,12 +4106,12 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 50.4,
+                "score": 44.4,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
-                "score": 44.4,
+                "score": 50.4,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -4190,12 +4192,12 @@
               },
               {
                 "date": "2023-03-09",
-                "score": 49.6,
+                "score": 60.45,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
-                "score": 60.45,
+                "score": 49.6,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
@@ -4270,12 +4272,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 72.85,
+                "score": 68.2,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 68.2,
+                "score": 72.85,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -4295,12 +4297,12 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 74.4,
+                "score": 58.9,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-12-13",
-                "score": 58.9,
+                "score": 74.4,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -4450,12 +4452,12 @@
               },
               {
                 "date": "2015-04-09",
-                "score": 42.6,
+                "score": 45.6,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2015-04-09",
-                "score": 45.6,
+                "score": 42.6,
                 "meet": "2015 USA Diving Synchronized National Championships"
               },
               {
@@ -4473,12 +4475,12 @@
             "performance": [
               {
                 "date": "2019-07-30",
-                "score": 63.7,
+                "score": 58.5,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2019-07-30",
-                "score": 58.5,
+                "score": 63.7,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -4551,12 +4553,12 @@
               },
               {
                 "date": "2023-03-09",
-                "score": 68.8,
+                "score": 67.2,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
-                "score": 67.2,
+                "score": 68.8,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
@@ -4611,12 +4613,12 @@
               },
               {
                 "date": "2022-03-24",
-                "score": 72.0,
+                "score": 62.4,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2022-03-24",
-                "score": 62.4,
+                "score": 72.0,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -4821,22 +4823,22 @@
             "performance": [
               {
                 "date": "2019-07-30",
-                "score": 50.0,
-                "meet": "2019 USA Diving Junior National Championships"
-              },
-              {
-                "date": "2019-07-30",
                 "score": 55.0,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
-                "date": "2018-07-29",
-                "score": 52.5,
-                "meet": "2018 USA Diving Junior National Championships"
+                "date": "2019-07-30",
+                "score": 50.0,
+                "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
                 "score": 47.5,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 52.5,
                 "meet": "2018 USA Diving Junior National Championships"
               }
             ],
@@ -4897,12 +4899,12 @@
               },
               {
                 "date": "2022-03-24",
-                "score": 67.5,
+                "score": 63.0,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2022-03-24",
-                "score": 63.0,
+                "score": 67.5,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -4927,22 +4929,22 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 54.0,
-                "meet": "2021 USA Diving Winter Nationals"
-              },
-              {
-                "date": "2021-12-13",
                 "score": 61.5,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
-                "date": "2021-11-18",
-                "score": 63.0,
-                "meet": "Purdue Invitational"
+                "date": "2021-12-13",
+                "score": 54.0,
+                "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-11-18",
                 "score": 64.5,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 63.0,
                 "meet": "Purdue Invitational"
               },
               {
@@ -5001,12 +5003,12 @@
               },
               {
                 "date": "2023-05-17",
-                "score": 52.8,
+                "score": 49.8,
                 "meet": "2023 USA Diving National Championships"
               },
               {
                 "date": "2023-05-17",
-                "score": 49.8,
+                "score": 52.8,
                 "meet": "2023 USA Diving National Championships"
               },
               {
@@ -5051,17 +5053,17 @@
               },
               {
                 "date": "2018-04-18",
-                "score": 34.4,
-                "meet": "2018 USA Diving Junior World Championships Trials"
-              },
-              {
-                "date": "2018-04-18",
                 "score": 40.2,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
                 "date": "2018-04-18",
                 "score": 49.2,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 34.4,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
@@ -5313,6 +5315,16 @@
             "performance": [
               {
                 "date": "2023-05-17",
+                "score": 77.7,
+                "meet": "2023 USA Diving National Championships"
+              },
+              {
+                "date": "2023-05-17",
+                "score": 72.15,
+                "meet": "2023 USA Diving National Championships"
+              },
+              {
+                "date": "2023-05-17",
                 "score": 64.75,
                 "meet": "2023 USA Diving National Championships"
               },
@@ -5324,16 +5336,6 @@
               {
                 "date": "2023-05-17",
                 "score": 74.37,
-                "meet": "2023 USA Diving National Championships"
-              },
-              {
-                "date": "2023-05-17",
-                "score": 77.7,
-                "meet": "2023 USA Diving National Championships"
-              },
-              {
-                "date": "2023-05-17",
-                "score": 72.15,
                 "meet": "2023 USA Diving National Championships"
               },
               {
@@ -5373,12 +5375,12 @@
               },
               {
                 "date": "2022-12-14",
-                "score": 66.6,
+                "score": 70.3,
                 "meet": "2022 USA Diving Winter Nationals"
               },
               {
                 "date": "2022-12-14",
-                "score": 70.3,
+                "score": 66.6,
                 "meet": "2022 USA Diving Winter Nationals"
               },
               {
@@ -5443,12 +5445,12 @@
               },
               {
                 "date": "2021-06-06",
-                "score": 72.15,
+                "score": 33.3,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
                 "date": "2021-06-06",
-                "score": 33.3,
+                "score": 72.15,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
@@ -5458,13 +5460,18 @@
               },
               {
                 "date": "2019-07-30",
-                "score": 51.8,
+                "score": 72.15,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2019-07-30",
-                "score": 72.15,
+                "score": 51.8,
                 "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-05-19",
+                "score": 70.3,
+                "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
@@ -5474,11 +5481,6 @@
               {
                 "date": "2019-05-19",
                 "score": 64.75,
-                "meet": "2019 USA Diving Senior National Diving Championships"
-              },
-              {
-                "date": "2019-05-19",
-                "score": 70.3,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -5515,12 +5517,12 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 48.6,
+                "score": 46.8,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-12-13",
-                "score": 46.8,
+                "score": 48.6,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -5596,12 +5598,12 @@
               },
               {
                 "date": "2016-08-01",
-                "score": 49.5,
+                "score": 27.0,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2016-08-01",
-                "score": 27.0,
+                "score": 49.5,
                 "meet": "2016 USA Diving ATT National Diving Championships"
               }
             ],
@@ -5659,12 +5661,12 @@
               },
               {
                 "date": "2023-02-22",
-                "score": 45.0,
+                "score": 61.2,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
                 "date": "2023-02-22",
-                "score": 61.2,
+                "score": 45.0,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
@@ -5707,12 +5709,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 52.8,
+                "score": 64.35,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 64.35,
+                "score": 52.8,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -5757,16 +5759,6 @@
               },
               {
                 "date": "2019-12-17",
-                "score": 85.8,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
-                "score": 69.3,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
                 "score": 38.61,
                 "meet": "2019 USA Diving National Winter Championships"
               },
@@ -5778,6 +5770,16 @@
               {
                 "date": "2019-12-17",
                 "score": 79.2,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
+                "score": 85.8,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
+                "score": 69.3,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -5817,6 +5819,11 @@
               },
               {
                 "date": "2018-12-16",
+                "score": 72.6,
+                "meet": "USA Diving Winter Trials"
+              },
+              {
+                "date": "2018-12-16",
                 "score": 74.25,
                 "meet": "USA Diving Winter Trials"
               },
@@ -5828,11 +5835,6 @@
               {
                 "date": "2018-12-16",
                 "score": 67.32,
-                "meet": "USA Diving Winter Trials"
-              },
-              {
-                "date": "2018-12-16",
-                "score": 72.6,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -5852,12 +5854,12 @@
               },
               {
                 "date": "2018-04-18",
-                "score": 29.7,
+                "score": 37.95,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
                 "date": "2018-04-18",
-                "score": 37.95,
+                "score": 29.7,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
@@ -5867,17 +5869,17 @@
               },
               {
                 "date": "2017-12-13",
+                "score": 54.45,
+                "meet": "2017 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2017-12-13",
                 "score": 34.65,
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
                 "date": "2017-12-13",
                 "score": 41.25,
-                "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-12-13",
-                "score": 54.45,
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
@@ -5939,12 +5941,12 @@
               },
               {
                 "date": "2018-12-16",
-                "score": 49.8,
+                "score": 42.0,
                 "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
-                "score": 42.0,
+                "score": 49.8,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -5959,12 +5961,12 @@
               },
               {
                 "date": "2018-04-18",
-                "score": 41.4,
+                "score": 49.2,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
                 "date": "2018-04-18",
-                "score": 49.2,
+                "score": 41.4,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               }
             ],
@@ -6022,6 +6024,11 @@
               },
               {
                 "date": "2017-12-13",
+                "score": 35.0,
+                "meet": "2017 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2017-12-13",
                 "score": 68.6,
                 "meet": "2017 USA Diving Winter National Championships"
               },
@@ -6031,9 +6038,9 @@
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
-                "date": "2017-12-13",
-                "score": 35.0,
-                "meet": "2017 USA Diving Winter National Championships"
+                "date": "2017-07-29",
+                "score": 51.8,
+                "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
@@ -6043,11 +6050,6 @@
               {
                 "date": "2017-07-29",
                 "score": 37.8,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
-                "score": 51.8,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -6070,17 +6072,17 @@
             "performance": [
               {
                 "date": "2023-05-17",
-                "score": 76.5,
-                "meet": "2023 USA Diving National Championships"
-              },
-              {
-                "date": "2023-05-17",
                 "score": 54.4,
                 "meet": "2023 USA Diving National Championships"
               },
               {
                 "date": "2023-05-17",
                 "score": 85.0,
+                "meet": "2023 USA Diving National Championships"
+              },
+              {
+                "date": "2023-05-17",
+                "score": 76.5,
                 "meet": "2023 USA Diving National Championships"
               },
               {
@@ -6205,17 +6207,17 @@
               },
               {
                 "date": "2019-12-17",
-                "score": 40.8,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
                 "score": 47.6,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
                 "date": "2019-12-17",
                 "score": 39.1,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
+                "score": 40.8,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -6227,11 +6229,6 @@
                 "date": "2019-07-30",
                 "score": 86.7,
                 "meet": "2019 USA Diving Junior National Championships"
-              },
-              {
-                "date": "2019-05-19",
-                "score": 46.92,
-                "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
@@ -6251,6 +6248,11 @@
               {
                 "date": "2019-05-19",
                 "score": 66.3,
+                "meet": "2019 USA Diving Senior National Diving Championships"
+              },
+              {
+                "date": "2019-05-19",
+                "score": 46.92,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -6327,12 +6329,12 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 47.4,
+                "score": 49.2,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-12-13",
-                "score": 49.2,
+                "score": 47.4,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -6507,6 +6509,11 @@
             "performance": [
               {
                 "date": "2023-05-17",
+                "score": 70.4,
+                "meet": "2023 USA Diving National Championships"
+              },
+              {
+                "date": "2023-05-17",
                 "score": 65.6,
                 "meet": "2023 USA Diving National Championships"
               },
@@ -6526,11 +6533,6 @@
                 "meet": "2023 USA Diving National Championships"
               },
               {
-                "date": "2023-05-17",
-                "score": 70.4,
-                "meet": "2023 USA Diving National Championships"
-              },
-              {
                 "date": "2023-04-28",
                 "score": 73.92,
                 "meet": "2023 USA Diving International Camp"
@@ -6542,12 +6544,12 @@
               },
               {
                 "date": "2023-03-09",
-                "score": 68.8,
+                "score": 76.8,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
-                "score": 76.8,
+                "score": 68.8,
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
@@ -6567,12 +6569,12 @@
               },
               {
                 "date": "2022-12-14",
-                "score": 72.0,
+                "score": 81.6,
                 "meet": "2022 USA Diving Winter Nationals"
               },
               {
                 "date": "2022-12-14",
-                "score": 81.6,
+                "score": 72.0,
                 "meet": "2022 USA Diving Winter Nationals"
               },
               {
@@ -6602,12 +6604,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 80.0,
+                "score": 73.6,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 73.6,
+                "score": 80.0,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -6622,6 +6624,11 @@
               },
               {
                 "date": "2021-12-13",
+                "score": 66.24,
+                "meet": "2021 USA Diving Winter Nationals"
+              },
+              {
+                "date": "2021-12-13",
                 "score": 72.96,
                 "meet": "2021 USA Diving Winter Nationals"
               },
@@ -6633,11 +6640,6 @@
               {
                 "date": "2021-12-13",
                 "score": 80.0,
-                "meet": "2021 USA Diving Winter Nationals"
-              },
-              {
-                "date": "2021-12-13",
-                "score": 66.24,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -6672,6 +6674,11 @@
               },
               {
                 "date": "2019-12-17",
+                "score": 72.0,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
                 "score": 81.6,
                 "meet": "2019 USA Diving National Winter Championships"
               },
@@ -6683,11 +6690,6 @@
               {
                 "date": "2019-12-17",
                 "score": 63.36,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
-                "score": 72.0,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -6704,6 +6706,11 @@
                 "date": "2019-07-30",
                 "score": 47.04,
                 "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-05-19",
+                "score": 68.16,
+                "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
@@ -6726,11 +6733,6 @@
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
-                "date": "2019-05-19",
-                "score": 68.16,
-                "meet": "2019 USA Diving Senior National Diving Championships"
-              },
-              {
                 "date": "2019-04-26",
                 "score": 73.6,
                 "meet": "2019 USA Diving Junior Region 5 Championships"
@@ -6739,6 +6741,11 @@
                 "date": "2019-04-11",
                 "score": 42.24,
                 "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2018-12-16",
+                "score": 60.48,
+                "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
@@ -6756,9 +6763,9 @@
                 "meet": "USA Diving Winter Trials"
               },
               {
-                "date": "2018-12-16",
-                "score": 60.48,
-                "meet": "USA Diving Winter Trials"
+                "date": "2018-07-29",
+                "score": 65.6,
+                "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
@@ -6766,14 +6773,14 @@
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
-                "date": "2018-07-29",
-                "score": 65.6,
-                "meet": "2018 USA Diving Junior National Championships"
-              },
-              {
                 "date": "2018-06-29",
                 "score": 54.4,
                 "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 57.6,
+                "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
                 "date": "2018-04-18",
@@ -6788,11 +6795,6 @@
               {
                 "date": "2018-04-18",
                 "score": 67.2,
-                "meet": "2018 USA Diving Junior World Championships Trials"
-              },
-              {
-                "date": "2018-04-18",
-                "score": 57.6,
                 "meet": "2018 USA Diving Junior World Championships Trials"
               },
               {
@@ -6817,12 +6819,12 @@
               },
               {
                 "date": "2017-07-29",
-                "score": 68.8,
+                "score": 57.6,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
-                "score": 57.6,
+                "score": 68.8,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -6965,12 +6967,12 @@
             "performance": [
               {
                 "date": "2018-12-16",
-                "score": 57.75,
+                "score": 69.3,
                 "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
-                "score": 69.3,
+                "score": 57.75,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -7020,17 +7022,17 @@
               },
               {
                 "date": "2017-07-29",
-                "score": 87.45,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
                 "score": 72.6,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
                 "score": 67.65,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 87.45,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -7083,12 +7085,12 @@
               },
               {
                 "date": "2023-02-22",
-                "score": 68.4,
+                "score": 66.5,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
                 "date": "2023-02-22",
-                "score": 66.5,
+                "score": 68.4,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
@@ -7133,12 +7135,12 @@
               },
               {
                 "date": "2022-02-24",
-                "score": 72.2,
+                "score": 100.7,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
                 "date": "2022-02-24",
-                "score": 100.7,
+                "score": 72.2,
                 "meet": "2022 BIG TEN Men Championships"
               },
               {
@@ -7153,12 +7155,12 @@
               },
               {
                 "date": "2021-12-13",
-                "score": 51.3,
+                "score": 74.1,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
                 "date": "2021-12-13",
-                "score": 74.1,
+                "score": 51.3,
                 "meet": "2021 USA Diving Winter Nationals"
               },
               {
@@ -7198,12 +7200,12 @@
               },
               {
                 "date": "2019-07-30",
-                "score": 83.6,
+                "score": 91.2,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
                 "date": "2019-07-30",
-                "score": 91.2,
+                "score": 83.6,
                 "meet": "2019 USA Diving Junior National Championships"
               },
               {
@@ -7274,12 +7276,12 @@
               },
               {
                 "date": "2019-12-17",
-                "score": 70.08,
+                "score": 71.04,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
                 "date": "2019-12-17",
-                "score": 71.04,
+                "score": 70.08,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -7466,12 +7468,12 @@
               },
               {
                 "date": "2022-03-24",
-                "score": 57.6,
+                "score": 67.2,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2022-03-24",
-                "score": 67.2,
+                "score": 57.6,
                 "meet": "2022 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -7506,17 +7508,17 @@
               },
               {
                 "date": "2019-05-19",
-                "score": 62.4,
-                "meet": "2019 USA Diving Senior National Diving Championships"
-              },
-              {
-                "date": "2019-05-19",
                 "score": 49.6,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
                 "score": 65.6,
+                "meet": "2019 USA Diving Senior National Diving Championships"
+              },
+              {
+                "date": "2019-05-19",
+                "score": 62.4,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -7536,12 +7538,12 @@
               },
               {
                 "date": "2018-07-29",
-                "score": 59.2,
+                "score": 70.4,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
                 "date": "2018-07-29",
-                "score": 70.4,
+                "score": 59.2,
                 "meet": "2018 USA Diving Junior National Championships"
               },
               {
@@ -7556,17 +7558,17 @@
               },
               {
                 "date": "2017-12-13",
-                "score": 59.2,
-                "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-12-13",
                 "score": 54.4,
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
                 "date": "2017-12-13",
                 "score": 48.0,
+                "meet": "2017 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2017-12-13",
+                "score": 59.2,
                 "meet": "2017 USA Diving Winter National Championships"
               }
             ],
@@ -7579,11 +7581,6 @@
             "performance": [
               {
                 "date": "2023-05-17",
-                "score": 70.2,
-                "meet": "2023 USA Diving National Championships"
-              },
-              {
-                "date": "2023-05-17",
                 "score": 72.0,
                 "meet": "2023 USA Diving National Championships"
               },
@@ -7593,9 +7590,19 @@
                 "meet": "2023 USA Diving National Championships"
               },
               {
+                "date": "2023-05-17",
+                "score": 70.2,
+                "meet": "2023 USA Diving National Championships"
+              },
+              {
                 "date": "2023-03-23",
                 "score": 66.6,
                 "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 73.8,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
                 "date": "2023-03-09",
@@ -7603,18 +7610,13 @@
                 "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
               },
               {
-                "date": "2023-03-09",
-                "score": 73.8,
-                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
-              },
-              {
                 "date": "2023-02-22",
-                "score": 70.2,
+                "score": 73.8,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
                 "date": "2023-02-22",
-                "score": 73.8,
+                "score": 70.2,
                 "meet": "2023 B1G Mens Swimming and Diving Championships"
               },
               {
@@ -7649,17 +7651,17 @@
               },
               {
                 "date": "2021-06-06",
+                "score": 64.8,
+                "meet": "2020 U.S. Olympic Team Trials"
+              },
+              {
+                "date": "2021-06-06",
                 "score": 39.6,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
                 "date": "2021-06-06",
                 "score": 59.4,
-                "meet": "2020 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2021-06-06",
-                "score": 64.8,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
@@ -7709,106 +7711,106 @@
         "top_2_avg": 67.84,
         "best_dive_id": "109C",
         "best_dive_avg": 69.13,
-        "grade": 11.3
+        "grade": 8.5
       },
       "Back": {
         "top_2_avg": 51.96,
         "best_dive_id": "205C",
         "best_dive_avg": 53.12,
-        "grade": 8.7
+        "grade": 6.5
       },
       "Reverse": {
         "top_2_avg": 54.81,
         "best_dive_id": "307C",
         "best_dive_avg": 56.73,
-        "grade": 9.1
+        "grade": 6.9
       },
       "Inward": {
         "top_2_avg": 60.53,
         "best_dive_id": "405B",
         "best_dive_avg": 62.48,
-        "grade": 10.1
+        "grade": 7.6
       },
       "Twister": {
         "top_2_avg": 71.94,
         "best_dive_id": "5156B",
         "best_dive_avg": 74.8,
-        "grade": 12.0
+        "grade": 9.0
       },
-      "average_grade": 10.2
+      "average_grade": 7.7
     },
     "1 Meter": {
       "Front": {
         "top_2_avg": 59.51,
         "best_dive_id": "107B",
         "best_dive_avg": 61.23,
-        "grade": 10.4
+        "grade": 7.9
       },
       "Back": {
         "top_2_avg": 51.5,
         "best_dive_id": "205C",
         "best_dive_avg": 51.77,
-        "grade": 9.0
+        "grade": 6.9
       },
       "Reverse": {
         "top_2_avg": 52.49,
         "best_dive_id": "305C",
         "best_dive_avg": 52.65,
-        "grade": 9.2
+        "grade": 7.0
       },
       "Inward": {
         "top_2_avg": 58.02,
         "best_dive_id": "405C",
         "best_dive_avg": 63.68,
-        "grade": 10.2
+        "grade": 7.7
       },
       "Twister": {
         "top_2_avg": 66.68,
         "best_dive_id": "5154B",
         "best_dive_avg": 68.1,
-        "grade": 11.7
+        "grade": 8.9
       },
-      "average_grade": 10.1
+      "average_grade": 7.7
     },
     "Platform": {
       "Front": {
         "top_2_avg": 66.75,
         "best_dive_id": "109C",
         "best_dive_avg": 70.46,
-        "grade": 10.6
+        "grade": 7.9
       },
       "Back": {
         "top_2_avg": 54.0,
         "best_dive_id": "205B",
         "best_dive_avg": 57.6,
-        "grade": 8.6
+        "grade": 6.4
       },
       "Reverse": {
         "top_2_avg": 53.84,
         "best_dive_id": "307C",
         "best_dive_avg": 55.43,
-        "grade": 8.5
+        "grade": 6.3
       },
       "Inward": {
         "top_2_avg": 64.63,
         "best_dive_id": "407C",
         "best_dive_avg": 64.72,
-        "grade": 10.3
+        "grade": 7.6
       },
       "Twister": {
         "top_2_avg": 74.14,
         "best_dive_id": "5156B",
         "best_dive_avg": 76.0,
-        "grade": 11.8
+        "grade": 8.7
       },
       "Armstand": {
         "top_2_avg": 60.18,
         "best_dive_id": "6245D",
         "best_dive_avg": 60.26,
-        "grade": 9.6
+        "grade": 7.1
       },
-      "average_grade": 9.9
+      "average_grade": 7.3
     },
-    "overall_average_grade": 10.1
+    "overall_average_grade": 7.6
   }
 }

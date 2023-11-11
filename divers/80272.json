@@ -1,0 +1,1258 @@
+{
+  "name": "Carson Paul",
+  "gender": "M",
+  "age": "19",
+  "id": "80272",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 41.6,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 52.65,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 54.6,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 50.7,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 49.4,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 53.3,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 50.7,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 52.65,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 52.65,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 50.7,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 50.7,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 50.88
+          },
+          "107C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 27.0,
+                "meet": "UTAH vs LSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 37.95,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 48.3,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 49.45,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 47.15,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 44.85,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 36.23,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 43.13,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 52.9,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 46.58,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 9,
+            "average_score": 45.17
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 55.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 47.25,
+                "meet": "UTAH vs LSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 51.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 36.0,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 65.25,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 63.0,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 54.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 48.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 54.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 22.5,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 33.75,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 42.0,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 36.0,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 45.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 50.4,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 50.4,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 54.0,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 44.4,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 49.2,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 50.4,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 57.6,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 55.8,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 52.8,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 52.2,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 10,
+            "average_score": 51.72
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 58.9,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 39.53,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 53.48,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 60.45,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 57.35,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 32.55,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 65.1,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 34.88,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 44.18,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 69.75,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 62.78,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 52.63
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 48.0,
+                "meet": "UTAH vs LSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.0
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 50.63,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 48.75,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 50.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 50.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 45.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 50.63,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 48.75,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 55.0,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 54.38,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 9,
+            "average_score": 50.35
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 50.7,
+                "meet": "FSU vs LSU vs BAMA"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.7
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 55.8,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 54.0,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 55.2,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 52.8,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 51.6,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 54.0,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 45.0,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 52.8,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 41.4,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 9,
+            "average_score": 51.4
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 57.35,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 67.43,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 46.5,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 34.88,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 65.1,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 58.9,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 27.9,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 65.1,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 37.2,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 51.15,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 65.1,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 52.42
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 57.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 65.25,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 74.25,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 33.75,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 70.5,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 61.5,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 51.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 54.0,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 54.0,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 66.0,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 67.5,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 59.52
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 51.75,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 49.5,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 31.5,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 57.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 31.5,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 33.75,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 67.5,
+                "meet": "LSU vs AUB"
+              }
+            ],
+            "count": 7,
+            "average_score": 46.07
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 68.6,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 48.3,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.45
+          },
+          "307C": {
+            "dd": 3.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 0.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 65.63,
+                "meet": "UTAH vs LSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.81
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 58.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 63.0,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 42.75,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 54.0,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 36.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 60.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              }
+            ],
+            "count": 6,
+            "average_score": 52.38
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-16",
+                "score": 54.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 62.78,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 46.58,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 70.2,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 58.73,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 5,
+            "average_score": 58.46
+          },
+          "407C": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 49.3,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 48.45,
+                "meet": "UTAH vs LSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.88
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 61.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 60.75,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 56.25,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 42.75,
+                "meet": "LSU vs FSU"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 60.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 51.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 57.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 60.75,
+                "meet": "LSU vs BAMA"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 54.0,
+                "meet": "LSU vs AUB"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 39.0,
+                "meet": "DENV vs AFA vs LSU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 38.25,
+                "meet": "SCAR vs LSU"
+              }
+            ],
+            "count": 11,
+            "average_score": 52.84
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 66.0,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 64.5,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 72.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 81.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 69.0,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 72.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 70.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 72.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 66.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              }
+            ],
+            "count": 2,
+            "average_score": 69.0
+          },
+          "207C": {
+            "dd": 3.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 64.35,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 39.6,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 85.8,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 79.2,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 67.24
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 71.3,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 68.2,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 65.1,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 75.95,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 70.14
+          },
+          "307C": {
+            "dd": 3.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 91.8,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 54.4,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 73.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 83.2,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 72.0,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 84.8,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 72.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 84.8,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 76.8,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 78.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 48.75,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 56.25,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.5
+          },
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 76.8,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 72.0,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 81.6,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 78.4,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 77.2
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 52.8,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 51.2,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 83.2,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 54.4,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 62.4,
+                "meet": "Auburn Diving Invite (Auburn, Illinois, LSU, TN)"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 56.0,
+                "meet": "2022 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 60.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 48.89,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.88,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 46.3,
+        "best_dive_id": "205C",
+        "best_dive_avg": 51.38,
+        "grade": 6.2
+      },
+      "Reverse": {
+        "top_2_avg": 45.95,
+        "best_dive_id": "305C",
+        "best_dive_avg": 45.95,
+        "grade": 6.1
+      },
+      "Inward": {
+        "top_2_avg": 52.2,
+        "best_dive_id": "405C",
+        "best_dive_avg": 52.63,
+        "grade": 7.0
+      },
+      "Twister": {
+        "top_2_avg": 50.39,
+        "best_dive_id": "5333D",
+        "best_dive_avg": 50.7,
+        "grade": 6.7
+      },
+      "average_grade": 6.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 51.96,
+        "best_dive_id": "107B",
+        "best_dive_avg": 52.42,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 59.52,
+        "best_dive_id": "205B",
+        "best_dive_avg": 59.52,
+        "grade": 7.4
+      },
+      "Reverse": {
+        "top_2_avg": 48.82,
+        "best_dive_id": "305C",
+        "best_dive_avg": 58.45,
+        "grade": 6.1
+      },
+      "Inward": {
+        "top_2_avg": 55.14,
+        "best_dive_id": "405C",
+        "best_dive_avg": 58.46,
+        "grade": 6.9
+      },
+      "Twister": {
+        "top_2_avg": 52.84,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 52.84,
+        "grade": 6.6
+      },
+      "average_grade": 6.7
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 70.75,
+        "best_dive_id": "107B",
+        "best_dive_avg": 70.75,
+        "grade": 8.3
+      },
+      "Back": {
+        "top_2_avg": 67.83,
+        "best_dive_id": "205C",
+        "best_dive_avg": 69.0,
+        "grade": 8.0
+      },
+      "Reverse": {
+        "top_2_avg": 71.13,
+        "best_dive_id": "307C",
+        "best_dive_avg": 73.1,
+        "grade": 8.4
+      },
+      "Inward": {
+        "top_2_avg": 78.93,
+        "best_dive_id": "407C",
+        "best_dive_avg": 78.93,
+        "grade": 9.3
+      },
+      "Twister": {
+        "top_2_avg": 68.97,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 77.2,
+        "grade": 8.1
+      },
+      "Armstand": {
+        "top_2_avg": 60.0,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 60.0,
+        "grade": 7.1
+      },
+      "average_grade": 8.2
+    },
+    "overall_average_grade": 7.1
+  }
+}

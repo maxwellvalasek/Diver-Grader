@@ -1,0 +1,4458 @@
+{
+  "name": "Julia Herring",
+  "gender": "F",
+  "age": "19",
+  "id": "30542",
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 15.5,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 17.0,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 18.0,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 27.75,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 24.75,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.2,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 36.8,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 32.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 31.2,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 35.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 33.6,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 35.2,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 29.6,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 32.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.2,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 33.6,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 27.2,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 28.0,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 31.2,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 32.8,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 22.4,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 28.8,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 27.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 31.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 26.4,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 25.6,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 32.8,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 30.4,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 33.6,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 28.0,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 27.2,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 28.0,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 26.4,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 29.6,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 25.6,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 31,
+            "average_score": 30.27
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 48.6,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 54.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 48.6,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 48.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 49.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 50.4,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 48.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 40.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 51.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 45.6,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 39.6,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 44.4,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.8,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 44.4,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 42.0,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 44.4,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 45.6,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 42.0,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 43.2,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 50.4,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 45.6,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 42.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 45.6,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 38.4,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 46.8,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 48.0,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 38.4,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 37.2,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 43.2,
+                "meet": "2016 USA Diving National Zone B Meet"
+              }
+            ],
+            "count": 29,
+            "average_score": 45.06
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-05-06",
+                "score": 37.4,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 37.4,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.4
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 44.1,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 37.8,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 32.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 32.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 39.2,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 43.4,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              }
+            ],
+            "count": 6,
+            "average_score": 38.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 16.0,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.1,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 31.5,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 35.1,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 23.4,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 32.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 31.5,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 36.0,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 34.2,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 32.4,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 32.4,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 36.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 25.2,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 28.8,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 34.2,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 33.3,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 18.9,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 23.4,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 31.5,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 35.1,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 32.4,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 26.1,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 31.5,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 27.0,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 33.3,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 31.5,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 30.6,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 26,
+            "average_score": 30.88
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 18.7,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 25.5,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 30.6,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 29.75,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 29.75,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.86
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 37.8,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 39.9,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 44.8,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 51.8,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 35.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 47.6,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 43.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 36.4,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 57.4,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 29.4,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 49.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 50.4,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 32.2,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 47.6,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 14,
+            "average_score": 43.05
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.15,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 35.15,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 31.35,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 34.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.2,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 36.1,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 36.1,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 35.15,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 34.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 35.15,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 39.9,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 33.25,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 23.75,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.3,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 26.6,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 28.5,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 29.45,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 42.75,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 31.35,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 34.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 24.7,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 27.55,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 31.35,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 38.0,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 25.65,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 27.55,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 26,
+            "average_score": 32.45
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 21.6,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 30.6,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 33.3,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 31.5,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.25
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 33.6,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 27.3,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 40.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 46.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 30.8,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 23.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 36.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 37.8,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 32.2,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 35.0,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 46.2,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 18.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 36.4,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.6,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 26.6,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 35.0,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 26.6,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 22.4,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 44.8,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 29.4,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 43.4,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 21,
+            "average_score": 33.97
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 27.3,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 26.6,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 21.0,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.97
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 17.55,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.55
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.7,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 39.9,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 17.85,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 35.7,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 36.75,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 39.9,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 35.7,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 36.75,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 42.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 35.7,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 35.7,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 35.7,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 39.9,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 35.7,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 34.65,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 37.8,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 36.75,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 39.9,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 37.8,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 44.1,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 29.4,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 32.55,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 29.4,
+                "meet": "2016 USA Diving National Zone B Meet"
+              }
+            ],
+            "count": 26,
+            "average_score": 35.38
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-05-06",
+                "score": 33.25,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 35.15,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 28.5,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.3
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 36.0,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 25.2,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.53,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 38.48,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 39.15,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 45.9,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 35.1,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 45.9,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 41.85,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 48.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 37.8,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 33.75,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 43.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 43.2,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.5,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 43.2,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 33.75,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 48.6,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 52.65,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 33.75,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 40.5,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 31.05,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 40.5,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 43.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 56.7,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 41.85,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 33.75,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 48.6,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 43.2,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 39.15,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 28,
+            "average_score": 41.66
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-14",
+                "score": 32.55,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 45.0,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 43.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 45.0,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 21.0,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 39.0,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.7
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 41.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 36.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 40.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 30.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 33.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 27.0,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 38.0,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 37.0,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 33.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 31.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 41.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 36.0,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 34.0,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 37.0,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 36.0,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 29.0,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 37.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 27.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 38.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 28.0,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 30.0,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 38.0,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 38.0,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 35.0,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 41.0,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 29.0,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 35.0,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2016-03-11",
+                "score": 24.0,
+                "meet": "2016 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 28,
+            "average_score": 34.25
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 49.2,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 43.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 44.4,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 40.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 42.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 40.8,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 43.4
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 12.5,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-06-22",
+                "score": 22.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2013-06-23",
+                "score": 20.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2012-06-24",
+                "score": 19.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-06-26",
+                "score": 13.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-01-23",
+                "score": 17.0,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 5,
+            "average_score": 18.6
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 14.0,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 45.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 45.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 45.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 26.65,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-06-22",
+                "score": 30.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2013-06-23",
+                "score": 34.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2012-06-24",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 36.59
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-05-10",
+                "score": 27.0,
+                "meet": "2014 Moose Moss Invitational"
+              },
+              {
+                "date": "2011-06-26",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-01-23",
+                "score": 10.8,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.23
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-06-24",
+                "score": 18.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 39.95,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 37.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 29.75,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 38.25,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 33.15,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 37.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 35.7,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 39.95,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 43.35,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 36.55,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 35.7,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 40.8,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 35.7,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 33.15,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 32.3,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 35.7,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 32.3,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 30.6,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 33.15,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 33.15,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 37.4,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 28.9,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 36.55,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 34.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 33.15,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 34.85,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 33.15,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 33.15,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 28.9,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 34.0,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 33.15,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 29.75,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-06-26",
+                "score": 33.15,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 36.55,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 29.75,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-06-22",
+                "score": 35.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 29.75,
+                "meet": "2014 Moose Moss Invitational"
+              },
+              {
+                "date": "2013-06-23",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 38,
+            "average_score": 34.58
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 32.2,
+                "meet": "2016 USA Diving National Zone B Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-06-26",
+                "score": 44.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 17.6,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 32.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 46.8,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 65.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 66.3,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 61.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 40.3,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 40.3,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 48.1,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 53.3,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 54.6,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 54.6,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 61.1,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 63.7,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 63.7,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 42.9,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 49.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 48.1,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 59.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 53.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 49.4,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 55.9,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 57.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 54.6,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 52.0,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 59.8,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 52.0,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 41.6,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 46.8,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 45.5,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 44.2,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 42.9,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 40.3,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 52.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 37.7,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 49.4,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 40.3,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 42.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 37,
+            "average_score": 50.52
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-08",
+                "score": 48.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 48.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 26.4,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 38.4,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 44.4,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 37.2,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 36.0,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 48.0,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 28.8,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 9,
+            "average_score": 39.47
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-06-23",
+                "score": 22.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2012-06-24",
+                "score": 8.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-06-26",
+                "score": 19.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-01-23",
+                "score": 16.5,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.62
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-01-23",
+                "score": 14.5,
+                "meet": "GEORGIA ALL-STAR MEET"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-06-23",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2012-06-24",
+                "score": 20.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2011-06-26",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.22
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 36.8,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 32.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 30.4,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 33.6,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 28.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 32.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 30.4,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 33.6,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 41.6,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 33.6,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 28.8,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 32.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.4,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 33.6,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 30.4,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.0,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 32.8,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.4,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 26.4,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 33.6,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 28.0,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 32.8,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 25.6,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 31.2,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 25,
+            "average_score": 32.31
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-05-06",
+                "score": 27.75,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 24.75,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 25.5,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 44.85,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 37.95,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 54.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 51.75,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 33.35,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 49.45,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 55.2,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 33.35,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 32.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 37.95,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 44.85,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 57.5,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 57.5,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 55.2,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 34.5,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 31.05,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 48.3,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 50.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 34.5,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 49.45,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 48.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 56.35,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 46.0,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 41.4,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 40.25,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 29.9,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 39.1,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 40.25,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 35.65,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 36.8,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 34.5,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 41.4,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 50.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 40.25,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.5,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 20.7,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 39.1,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 37,
+            "average_score": 42.39
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-07-29",
+                "score": 31.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 39.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 21.0,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 33.0,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 23.0,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-06-26",
+                "score": 30.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-22",
+                "score": 34.85,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 33.15,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 34.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 30.6,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 31.45,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 21.25,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 35.7,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 41.65,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 35.7,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 28.9,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 34.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 38.25,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 34.85,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 27.2,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.3,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 47.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 33.15,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 32.3,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 29.75,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 28.9,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 35.7,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 28.9,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 45.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 30.6,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 30.6,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 31.45,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 33.15,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 33.15,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 28,
+            "average_score": 33.39
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 28.0,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 26.4,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 27.2,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 28.0,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-06-22",
+                "score": 28.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 40.8,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 23.4,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 58.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 64.8,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 42.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 52.8,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 49.2,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 39.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 43.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 50.4,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 31.2,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 55.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 39.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 37.2,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 19.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 43.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 57.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 57.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 54.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 34.8,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 21,
+            "average_score": 44.31
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-06",
+                "score": 51.45,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 40.95,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 43.05,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 30.45,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 30.45,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 38.85,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 37.8,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 44.1,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 43.05,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 27.3,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 38.74
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 34.5,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 30.75,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 32.25,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 30.75,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 27.75,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.25,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 28.5,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 28.5,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 36.75,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 27.75,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 27.75,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.5,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 31.5,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 27.0,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 28.5,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 26.25,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 33.0,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 27.0,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 35.25,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 24.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 24.75,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 28.5,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 24.0,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 28.5,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 26.25,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 29.25,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 22.5,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-06-26",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 29,
+            "average_score": 29.22
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 18.2,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 26.6,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 23.1,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-05-10",
+                "score": 20.3,
+                "meet": "2014 Moose Moss Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.05
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 22.4,
+                "meet": "South Carolina Thanksgiving Invitational 2014"
+              },
+              {
+                "date": "2014-06-22",
+                "score": 31.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.8
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 50.4,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 43.2,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 51.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 56.4,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 55.2,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 51.6,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 56.4,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 51.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 48.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 45.6,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 46.8,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 58.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 60.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 58.8,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 45.6,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 43.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 52.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 50.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 38.4,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 52.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 50.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 43.2,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 37.2,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 56.4,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 42.0,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 43.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 40.8,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 39.6,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 49.2,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 39.6,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 39.6,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 49.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 39.6,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.8,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 33.6,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 42.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 37.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 37.2,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 44.4,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 52.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 44.4,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 40.8,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 44.4,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 39.6,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 33.6,
+                "meet": "GA All Star Meet"
+              }
+            ],
+            "count": 46,
+            "average_score": 45.91
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-06",
+                "score": 33.0,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-05-06",
+                "score": 30.8,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.2,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 46.2,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 56.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 59.4,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 46.2,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 58.3,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 46.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 42.9,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 39.6,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 50.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 57.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 49.5,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 37.4,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 38.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 41.8,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 51.7,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 51.7,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 41.8,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 45.1,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 36.3,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-07-29",
+                "score": 37.4,
+                "meet": "2018 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 37.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-08",
+                "score": 27.5,
+                "meet": "2018 Moose Moss Invitational"
+              }
+            ],
+            "count": 23,
+            "average_score": 44.96
+          },
+          "5142B": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 52.65,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.65
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-05-06",
+                "score": 25.5,
+                "meet": "2016 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-12-17",
+                "score": 34.5,
+                "meet": "GA All Star Meet"
+              },
+              {
+                "date": "2016-07-06",
+                "score": 39.1,
+                "meet": "2016 USA Diving National Zone B Meet"
+              },
+              {
+                "date": "2016-06-26",
+                "score": 35.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.42
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 40.95,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 39.38,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 39.95,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 53.55,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 55.65,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 46.2,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 43.05,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 37.8,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 42.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 50.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 52.5,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 47.25,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 37.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 37.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 37.8,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 47.25,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 49.35,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 43.05,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 47.25,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 49.35,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2020-01-17",
+                "score": 45.15,
+                "meet": "50th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 40.95,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 49.35,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-09",
+                "score": 39.9,
+                "meet": "South Carolina Thanksgiving Invite 2019"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 36.75,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 39.9,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.8,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 37.8,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 37.8,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-18",
+                "score": 30.45,
+                "meet": "2018 USA Diving Junior World Championships Trials"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 38.85,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 32.55,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 34.65,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 47.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 28.35,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 36.75,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-04-15",
+                "score": 30.45,
+                "meet": "2017 Georgia Games"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 36.75,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 39,
+            "average_score": 41.45
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-03-24",
+                "score": 28.8,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 28.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 31.2,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 31.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 26.4,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 29.6,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.33
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 33.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 26.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 26.0,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 37.7,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.88
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-03-08",
+                "score": 42.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-04-28",
+                "score": 21.0,
+                "meet": "2017 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 27.0,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 37.95,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 32.2,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 44.85,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 32.2,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 44.85,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.41
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-07-29",
+                "score": 30.6,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-06-27",
+                "score": 23.8,
+                "meet": "2017 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2017-06-08",
+                "score": 27.2,
+                "meet": "2017 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 35.15,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 37.05,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.76
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-03-17",
+                "score": 28.5,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "403B": {
+            "dd": 2.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-03-24",
+                "score": 38.0,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 39.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 35.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 37.0,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 29.0,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 29.0,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-03-17",
+                "score": 38.5,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          },
+          "405B": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.9,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 47.6,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 40.6,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 22.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 32.2,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 44.8,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 54.6,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 47.6,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 46.2,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 9,
+            "average_score": 41.77
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-08",
+                "score": 36.75,
+                "meet": "2018 Moose Moss Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 26.25,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2017-03-17",
+                "score": 34.65,
+                "meet": "2017 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.55
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-03-08",
+                "score": 35.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.0
+          },
+          "5251B": {
+            "dd": 2.6,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 52.65,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 44.2,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 49.4,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 42.9,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 50.7,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 46.8,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 50.7,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 46.8,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-14",
+                "score": 36.4,
+                "meet": "2019 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.5,
+                "meet": "2018 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 45.3
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-03-24",
+                "score": 33.25,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 28.5,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 38.95,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 36.1,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 30.4,
+                "meet": "2018 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.2,
+                "meet": "2018 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.57
+          },
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 48.6,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2022-03-24",
+                "score": 40.8,
+                "meet": "2022 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 42.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 42.0,
+                "meet": "2021 The Carolina BIG DIVE JO-Open-Master Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.88,
+        "best_dive_id": "105B",
+        "best_dive_avg": 45.06,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 35.14,
+        "best_dive_id": "205C",
+        "best_dive_avg": 43.05,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 33.13,
+        "best_dive_id": "305C",
+        "best_dive_avg": 33.97,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 38.64,
+        "best_dive_id": "405C",
+        "best_dive_avg": 41.66,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 41.26,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 43.4,
+        "grade": 5.2
+      },
+      "average_grade": 4.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 48.36,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.52,
+        "grade": 6.4
+      },
+      "Back": {
+        "top_2_avg": 38.33,
+        "best_dive_id": "203B",
+        "best_dive_avg": 42.39,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 42.51,
+        "best_dive_id": "303B",
+        "best_dive_avg": 44.31,
+        "grade": 5.7
+      },
+      "Inward": {
+        "top_2_avg": 45.33,
+        "best_dive_id": "403B",
+        "best_dive_avg": 45.91,
+        "grade": 6.0
+      },
+      "Twister": {
+        "top_2_avg": 45.28,
+        "best_dive_id": "5142B",
+        "best_dive_avg": 52.65,
+        "grade": 6.0
+      },
+      "average_grade": 5.9
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 33.1,
+        "best_dive_id": "105C",
+        "best_dive_avg": 42.0,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 34.29,
+        "best_dive_id": "203B",
+        "best_dive_avg": 38.41,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 30.76,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.76,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 41.44,
+        "best_dive_id": "405B",
+        "best_dive_avg": 41.77,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 44.36,
+        "best_dive_id": "5251B",
+        "best_dive_avg": 45.3,
+        "grade": 5.2
+      },
+      "Armstand": {
+        "top_2_avg": 37.67,
+        "best_dive_id": "614B",
+        "best_dive_avg": 42.6,
+        "grade": 4.4
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 5.0
+  }
+}

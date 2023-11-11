@@ -4,33 +4,9 @@ from bs4 import BeautifulSoup
 import json
 import re
 import pandas as pd
-from bs4 import BeautifulSoup
 import mechanize
-import re
 import os
-
-def get_diver_number(name):
-    br = mechanize.Browser()
-
-    # Split name
-    comps = name.split()
-    if len(comps) != 2:
-        raise Exception("Name provided must be two words (First Last)")
-    first, last = comps
-
-    # Submit member search form
-    url = "https://secure.meetcontrol.com/divemeets/system/memberlist.php"
-    br.open(url)
-    br.select_form(nr=0)
-    br.form["first"] = first
-    br.form["last"] = last
-    req = br.submit()
-    soup = BeautifulSoup(req.read(), "html.parser")
-    br.close()
-
-    link = soup.find("a", attrs={"href": re.compile("profile.php")}).get("href")
-    last_five = link[-5:]
-    return last_five
+import time
 
 # Function to extract the first date in the format "Aug 1, 2012" from text
 def extract_first_date(text):
@@ -49,6 +25,21 @@ def extract_first_date(text):
 def extract_text_before_hyphen(text):
     return text.split(" -", 1)[0] if " -" in text else text
 
+# Function to extract details (name, gender, age) from a string
+def extract_details_from_string(input_string):
+    name_pattern = r"<strong>Name: </strong>([^<]+)<br><strong>"
+    gender_pattern = r"Gender: </strong>([MF])<br><strong>"
+    age_pattern = r"Age: </strong>(\d+)<br><strong>"
+
+    name_match = re.search(name_pattern, input_string)
+    gender_match = re.search(gender_pattern, input_string)
+    age_match = re.search(age_pattern, input_string)
+
+    name = name_match.group(1) if name_match else "Name not found"
+    gender = gender_match.group(1) if gender_match else "Gender not found"
+    age = age_match.group(1) if age_match else "Age not found"
+    return name, gender, age
+
 # Async function to fetch a webpage using aiohttp
 async def fetch(session, url, **params):
     async with session.get(url, params=params) as response:
@@ -64,7 +55,9 @@ async def fetch_dive_heights(session, diver_number):
     if not html_content:
         return []
     soup = BeautifulSoup(html_content, 'html.parser')
-    return [(row.find_all('td')[0].text, row.find_all('td')[1].text.replace("M", "").strip()) for row in soup.find_all('tr', {'bgcolor': True})]
+    heights = [(row.find_all('td')[0].text, row.find_all('td')[1].text.replace("M", "").strip()) for row in soup.find_all('tr', {'bgcolor': True})]
+    name, gender, age = extract_details_from_string(html_content)
+    return heights, name, gender, age
 
 # Async function to fetch scores for a specific dive and height
 async def fetch_scores_for_dive_height(session, diver_number, dive, height):
@@ -111,6 +104,7 @@ async def fetch_scores_for_dive_height(session, diver_number, dive, height):
     
     return json_data
 
+# Function to add count and average score for each dive
 def add_count_and_average(json_data):
     for event, directions in json_data.items():
         for direction, dives in directions.items():
@@ -123,12 +117,12 @@ def add_count_and_average(json_data):
                     average_score = 0
                 details["count"] = count
                 details["average_score"] = round(average_score, 2)
-     
+
 def calculate_rankings(events_data):
     max_points = {
-        "Platform": 63,
-        "3 Meter": 60,
-        "1 Meter": 57
+        "Platform": 85,
+        "3 Meter": 80,
+        "1 Meter": 75
     }
     
     rankings = {}
@@ -202,13 +196,14 @@ def calculate_rankings(events_data):
 
     return rankings
 
-async def dive_scores(diver_name):
-    diver_number = get_diver_number(diver_name)
+async def dive_scores(diver_number):
     async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0"}) as session:
-        dive_list = await fetch_dive_heights(session, diver_number)
+        dive_list, diver_name, diver_gender, diver_age = await fetch_dive_heights(session, diver_number)
         tasks = [fetch_scores_for_dive_height(session, diver_number, dive, height) for dive, height in dive_list]
         results = await asyncio.gather(*tasks)
-        
+        print(diver_name)
+        print(diver_age)
+        print(diver_gender)
         # Combine results from all tasks into a single JSON structure
         combined_json_data = {}
         for result in results:
@@ -230,9 +225,11 @@ async def dive_scores(diver_name):
         # Calculate rankings based on the top 2 dives
         rankings = calculate_rankings(combined_json_data)
         
-        # Include rankings in the wrapped JSON data
+        # Include rankings, gender, and age in the wrapped JSON data
         wrapped_json_data = {
             "name": diver_name,
+            "gender": diver_gender,
+            "age": diver_age,
             "id": diver_number,
             "events": combined_json_data,
             "rankings": rankings
@@ -244,42 +241,16 @@ async def dive_scores(diver_name):
 
         return wrapped_json_data
 
+# Load DD data from a CSV file
 dd_data = pd.read_csv('dd.csv')
 dd_lookup = {(row['Dive'], str(row['Height'])): row['DD'] for index, row in dd_data.iterrows()}
 
+# Main function to create a diver's JSON file
+def create_diver_json(divernumber):
+    start_time = time.time()
+    wrapped_json_data = asyncio.run(dive_scores(divernumber))
+    end_time = time.time()
+    print(f"Execution time for create_diver_json: {end_time - start_time} seconds")
 
-def recalculate_and_save_rankings(directory):
-    if not os.path.exists(directory):
-        print(f"Directory '{directory}' does not exist.")
-        return
-
-    json_files = [f for f in os.listdir(directory) if f.endswith('.json')]
-    if not json_files:
-        print("No JSON files found in the directory.")
-        return
-
-    for file_name in json_files:
-        file_path = os.path.join(directory, file_name)
-        with open(file_path, 'r') as json_file:
-            try:
-                data = json.load(json_file)
-                events_data = data.get('events', {})
-                
-                # Recalculate rankings
-                new_rankings = calculate_rankings(events_data)
-
-                # Update the JSON data with the new rankings
-                data['rankings'] = new_rankings
-
-                # Write the updated data back to the JSON file
-                with open(file_path, 'w') as updated_json_file:
-                    json.dump(data, updated_json_file, ensure_ascii=False, indent=2)
-
-                print(f"Updated rankings for {file_name}")
-            except json.JSONDecodeError:
-                print(f"Error decoding JSON in file: {file_name}")
-
-
-
-def create_diver_json(divername):
-    wrapped_json_data = asyncio.run(dive_scores(divername))
+# Example usage
+create_diver_json("34255")

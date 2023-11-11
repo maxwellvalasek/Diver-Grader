@@ -1,0 +1,649 @@
+{
+  "name": "Luke Landreth",
+  "gender": "M",
+  "age": "13",
+  "id": "81480",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 27.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 32.4,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 34.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 27.9,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.38
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 31.9,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 42.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 33.0,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 36.3,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 37.4,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 24.3,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 26.1,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 31.5,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 32.4,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.25,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.51
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 26.35,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 30.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 26.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 20.0,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 20.0,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 26.1,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 29.7,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 27.9,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.36
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 36.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 31.5,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 31.5,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 27.9,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.48
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 35.2,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 27.5,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.7,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 29.7,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 35.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 31.46
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 27.9,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 24.3,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 24.3,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 24.3,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.77
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 29.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 39.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 33.25,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 31.35,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.83
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 43.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 39.6,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 35.2,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 41.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.87
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 24.7,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 26.6,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 31.35,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.68
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 27.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.4,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 27.2,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.05,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.8,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 30.4,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 21.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.21
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 31.35,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 34.2,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 34.2,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.89
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.5,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 33.25,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 23.75,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.4,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.98
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 20.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 16.15,
+                "meet": "2023 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2023-03-23",
+                "score": 22.8,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.21
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 33.67,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.3,
+        "grade": 4.5
+      },
+      "Back": {
+        "top_2_avg": 27.32,
+        "best_dive_id": "201C",
+        "best_dive_avg": 27.51,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 26.36,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.36,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 30.97,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.46,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 25.77,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 25.77,
+        "grade": 3.4
+      },
+      "average_grade": 3.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.95,
+        "best_dive_id": "105B",
+        "best_dive_avg": 43.2,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 27.54,
+        "best_dive_id": "201C",
+        "best_dive_avg": 27.68,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 23.21,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.21,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 29.94,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.89,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 21.21,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 21.21,
+        "grade": 2.7
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "name": "Amelia Carrell",
+  "gender": "F",
+  "age": "12",
+  "id": "73572",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 23.4,
+                "meet": "2021 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 22.5,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.9
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 14.45,
+                "meet": "2021 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 22.1,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 25.5,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 30.6,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 20.7,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.3
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 13.6,
+                "meet": "2021 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 21.25,
+                "meet": "2021 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.43
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-22",
+                "score": 19.5,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 24.3,
+                "meet": "2021 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 26.1,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 24.8,
+                "meet": "2021 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-22",
+                "score": 18.7,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-28",
+                "score": 5.4,
+                "meet": "2021 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.79,
+        "best_dive_id": "101C",
+        "best_dive_avg": 24.9,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.3,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 25.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 12.05,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 18.7,
+        "grade": 1.6
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

@@ -1,0 +1,928 @@
+{
+  "name": "Chloe Totaro",
+  "gender": "F",
+  "age": "10",
+  "id": "75331",
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 16.0,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 17.0,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 29.45,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 27.55,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 32.3,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 30.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 40.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 35.15,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 18.9,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 31.35,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 23.1,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 16.1,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 10,
+            "average_score": 28.45
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 25.5,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 23.25,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 35.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.25,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 21.75,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 18.75,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 24.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 21.75,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 21.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 10,
+            "average_score": 24.02
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 15.5,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 19.95,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 31.35,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.75,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 33.25,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 39.27,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 26.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 20.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.3,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 28.36
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 22.4,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 25.6,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.96,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 22.4,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 20.8,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 24.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 8,
+            "average_score": 24.22
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 19.8,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 26.1,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 19.8,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.1,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 35.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 28.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 21.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 28.8,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 27.55,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 30.4,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 29.45,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.5,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 29.45,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 31.35,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 18.85,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 8,
+            "average_score": 27.82
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 20.9,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 16.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 32.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 29.7,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 36.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 31.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 20.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 28.8,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-07-25",
+                "score": 20.7,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 23.4,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 28.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 18.6,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 18.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 26.19
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 26.6,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 21.6,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 18.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 33.6,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 28.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 22.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 23.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-07-25",
+                "score": 18.4,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 22.4,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 16.8,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 21.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 20.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 12,
+            "average_score": 22.53
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 25.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 33.3,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 31.5,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 35.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 30.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 18.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 29.7,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-07-25",
+                "score": 24.3,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 18.9,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 22.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 23.25,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 19.5,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 25.74
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 26.55,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-07-25",
+                "score": 15.0,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 20.25,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 19.5,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 20.25,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.31
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 17.6,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.6,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 30.24,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 28.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 17.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 24.66
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 0.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 29.7,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 37.8,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 28.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 24.3,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-07-25",
+                "score": 0.0,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 22.5,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 23.4,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 21.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 21.7,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 11,
+            "average_score": 21.53
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.15,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 18.7,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.42
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 20.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 17.1,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.6,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 26.6,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.8
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-25",
+                "score": 7.2,
+                "meet": "2022 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 19.8,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 20.7,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 19.8,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.88
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.24,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.45,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 26.29,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.36,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 25.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.8,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 27.05,
+        "best_dive_id": "401C",
+        "best_dive_avg": 27.82,
+        "grade": 3.4
+      },
+      "average_grade": 3.3
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.22,
+        "best_dive_id": "102C",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 24.23,
+        "best_dive_id": "201C",
+        "best_dive_avg": 25.74,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.66,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.66,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 21.53,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.53,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 21.01,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 22.8,
+        "grade": 2.8
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.2
+  }
+}

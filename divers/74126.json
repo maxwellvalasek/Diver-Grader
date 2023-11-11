@@ -1,0 +1,393 @@
+{
+  "name": "Sophia Wu",
+  "gender": "F",
+  "age": "10",
+  "id": "74126",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 33.3,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 27.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.2,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 32.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 24.3,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.35
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 16.8,
+                "meet": "2022 USA Diving Zone A Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 23.2,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 28.6,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 24.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 27.5,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 29.7,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 29.7,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 31.5,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.2,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.8,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 22.5,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 20.7,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.4
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 21.75,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 20.25,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 27.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 27.2,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 19.2,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 19.2,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 27.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 30.6,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 31.5,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 27.0,
+                "meet": "2022 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.7,
+                "meet": "2022 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.95
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.8,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 28.0,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 20.8,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.87
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 24.2,
+                "meet": "2023 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 25.2,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 24.75,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 23.4,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 32.3,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.01,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.35,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 25.05,
+        "best_dive_id": "201C",
+        "best_dive_avg": 26.4,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 27.92,
+        "best_dive_id": "401C",
+        "best_dive_avg": 28.95,
+        "grade": 3.7
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.98,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 27.85,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.3,
+        "grade": 3.5
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.4
+  }
+}

@@ -1,5 +1,7 @@
 {
   "name": "Jordan Windle",
+  "gender": "M",
+  "age": "24",
   "id": "15476",
   "events": {
     "3 Meter": {
@@ -290,17 +292,17 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 49.8,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
                 "score": 32.0,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
                 "score": 51.6,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 49.8,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -558,12 +560,12 @@
             "performance": [
               {
                 "date": "2013-08-04",
-                "score": 48.96,
+                "score": 59.76,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
-                "score": 59.76,
+                "score": 48.96,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -583,12 +585,12 @@
               },
               {
                 "date": "2010-07-23",
-                "score": 40.8,
+                "score": 45.6,
                 "meet": "2010 Speedo Junior National Championships"
               },
               {
                 "date": "2010-07-23",
-                "score": 45.6,
+                "score": 40.8,
                 "meet": "2010 Speedo Junior National Championships"
               },
               {
@@ -734,12 +736,12 @@
             "performance": [
               {
                 "date": "2021-11-18",
-                "score": 75.95,
+                "score": 72.85,
                 "meet": "2021 University of Texas Diving Invitational"
               },
               {
                 "date": "2021-11-18",
-                "score": 72.85,
+                "score": 75.95,
                 "meet": "2021 University of Texas Diving Invitational"
               },
               {
@@ -764,22 +766,22 @@
               },
               {
                 "date": "2021-03-25",
-                "score": 79.05,
+                "score": 74.4,
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2021-03-25",
-                "score": 74.4,
+                "score": 79.05,
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2021-03-11",
-                "score": 72.85,
+                "score": 74.4,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2021-03-11",
-                "score": 74.4,
+                "score": 72.85,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -809,12 +811,12 @@
               },
               {
                 "date": "2020-03-09",
-                "score": 75.95,
+                "score": 74.4,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2020-03-09",
-                "score": 74.4,
+                "score": 75.95,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -889,22 +891,22 @@
               },
               {
                 "date": "2019-04-11",
-                "score": 75.95,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
-                "score": 73.47,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
                 "score": 69.75,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
                 "date": "2019-04-11",
                 "score": 63.55,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 75.95,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 73.47,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
@@ -964,12 +966,12 @@
               },
               {
                 "date": "2018-12-16",
-                "score": 74.4,
+                "score": 66.03,
                 "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
-                "score": 66.03,
+                "score": 74.4,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -1009,12 +1011,12 @@
               },
               {
                 "date": "2018-03-05",
-                "score": 75.95,
+                "score": 74.4,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2018-03-05",
-                "score": 74.4,
+                "score": 75.95,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -1049,11 +1051,6 @@
               },
               {
                 "date": "2017-12-13",
-                "score": 62.0,
-                "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-12-13",
                 "score": 71.3,
                 "meet": "2017 USA Diving Winter National Championships"
               },
@@ -1063,13 +1060,18 @@
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
-                "date": "2017-11-16",
-                "score": 83.7,
-                "meet": "2017 University of Texas Diving Invitational"
+                "date": "2017-12-13",
+                "score": 62.0,
+                "meet": "2017 USA Diving Winter National Championships"
               },
               {
                 "date": "2017-11-16",
                 "score": 77.5,
+                "meet": "2017 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2017-11-16",
+                "score": 83.7,
                 "meet": "2017 University of Texas Diving Invitational"
               },
               {
@@ -1084,17 +1086,17 @@
               },
               {
                 "date": "2017-07-29",
-                "score": 65.1,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
                 "score": 66.65,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
                 "score": 75.95,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 65.1,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -1109,17 +1111,17 @@
               },
               {
                 "date": "2017-05-04",
-                "score": 68.2,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
-              },
-              {
-                "date": "2017-05-04",
                 "score": 43.4,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
                 "date": "2017-05-04",
                 "score": 69.75,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              },
+              {
+                "date": "2017-05-04",
+                "score": 68.2,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
@@ -1189,16 +1191,6 @@
               },
               {
                 "date": "2015-08-01",
-                "score": 68.2,
-                "meet": "2015 USA Diving ATT National Diving Championships"
-              },
-              {
-                "date": "2015-08-01",
-                "score": 74.4,
-                "meet": "2015 USA Diving ATT National Diving Championships"
-              },
-              {
-                "date": "2015-08-01",
                 "score": 80.6,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
@@ -1213,9 +1205,14 @@
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
-                "date": "2015-06-16",
-                "score": 58.9,
-                "meet": "2015 USA Diving National Preliminary Zone A Championships"
+                "date": "2015-08-01",
+                "score": 68.2,
+                "meet": "2015 USA Diving ATT National Diving Championships"
+              },
+              {
+                "date": "2015-08-01",
+                "score": 74.4,
+                "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
                 "date": "2015-06-16",
@@ -1223,9 +1220,19 @@
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
+                "date": "2015-06-16",
+                "score": 58.9,
+                "meet": "2015 USA Diving National Preliminary Zone A Championships"
+              },
+              {
                 "date": "2014-12-16",
                 "score": 69.75,
                 "meet": "2014 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2014-08-12",
+                "score": 75.95,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-12",
@@ -1238,9 +1245,14 @@
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2014-08-12",
-                "score": 75.95,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+                "date": "2014-08-04",
+                "score": 74.4,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 79.05,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
@@ -1253,23 +1265,13 @@
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
-                "date": "2014-08-04",
-                "score": 74.4,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
-                "score": 79.05,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
                 "date": "2014-07-18",
-                "score": 75.95,
+                "score": 66.65,
                 "meet": "2014 USA Diving National Preliminary Zone B Championships"
               },
               {
                 "date": "2014-07-18",
-                "score": 66.65,
+                "score": 75.95,
                 "meet": "2014 USA Diving National Preliminary Zone B Championships"
               },
               {
@@ -1309,12 +1311,12 @@
               },
               {
                 "date": "2013-08-04",
-                "score": 60.45,
+                "score": 71.3,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
-                "score": 71.3,
+                "score": 60.45,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -1450,22 +1452,22 @@
               },
               {
                 "date": "2019-12-17",
-                "score": 53.2,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
-                "score": 53.2,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
                 "score": 58.14,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
                 "date": "2019-12-17",
                 "score": 55.86,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
+                "score": 53.2,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
+                "score": 53.2,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -1485,12 +1487,12 @@
               },
               {
                 "date": "2019-05-19",
-                "score": 91.2,
+                "score": 81.7,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
-                "score": 81.7,
+                "score": 91.2,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -1585,12 +1587,12 @@
               },
               {
                 "date": "2018-12-16",
-                "score": 46.8,
+                "score": 48.6,
                 "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
-                "score": 48.6,
+                "score": 46.8,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -1635,17 +1637,17 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 42.3,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
                 "score": 44.4,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
                 "score": 45.6,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 42.3,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -1760,12 +1762,12 @@
               },
               {
                 "date": "2009-05-30",
-                "score": 27.9,
+                "score": 36.0,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 36.0,
+                "score": 27.9,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -1780,12 +1782,12 @@
               },
               {
                 "date": "2009-02-16",
-                "score": 27.0,
+                "score": 33.3,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
                 "date": "2009-02-16",
-                "score": 33.3,
+                "score": 27.0,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
@@ -2490,22 +2492,22 @@
               },
               {
                 "date": "2013-08-04",
-                "score": 51.8,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2013-08-04",
-                "score": 32.2,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2013-08-04",
                 "score": 64.68,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
                 "score": 49.56,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 51.8,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 32.2,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -2550,12 +2552,12 @@
               },
               {
                 "date": "2011-08-01",
-                "score": 43.4,
+                "score": 39.2,
                 "meet": "2011 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2011-08-01",
-                "score": 39.2,
+                "score": 43.4,
                 "meet": "2011 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -2595,12 +2597,12 @@
               },
               {
                 "date": "2010-07-23",
-                "score": 60.2,
+                "score": 46.2,
                 "meet": "2010 Speedo Junior National Championships"
               },
               {
                 "date": "2010-07-23",
-                "score": 46.2,
+                "score": 60.2,
                 "meet": "2010 Speedo Junior National Championships"
               },
               {
@@ -2620,12 +2622,12 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 44.8,
+                "score": 46.2,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 46.2,
+                "score": 44.8,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
@@ -2890,22 +2892,22 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 38.7,
+                "score": 35.1,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 35.1,
+                "score": 38.7,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-04-17",
-                "score": 35.1,
+                "score": 34.2,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
                 "date": "2010-04-17",
-                "score": 34.2,
+                "score": 35.1,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
@@ -2960,12 +2962,12 @@
               },
               {
                 "date": "2007-06-15",
-                "score": 18.9,
+                "score": 16.2,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
                 "date": "2007-06-15",
-                "score": 16.2,
+                "score": 18.9,
                 "meet": "2007 Summer Region 7 Championships"
               }
             ],
@@ -3011,12 +3013,12 @@
             "performance": [
               {
                 "date": "2009-08-05",
-                "score": 46.0,
+                "score": 42.0,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
                 "date": "2009-08-05",
-                "score": 42.0,
+                "score": 46.0,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
@@ -3051,12 +3053,12 @@
               },
               {
                 "date": "2009-02-16",
-                "score": 42.0,
+                "score": 22.0,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
                 "date": "2009-02-16",
-                "score": 22.0,
+                "score": 42.0,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
@@ -3167,12 +3169,12 @@
               },
               {
                 "date": "2013-08-04",
-                "score": 49.0,
+                "score": 68.6,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
-                "score": 68.6,
+                "score": 49.0,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -3262,12 +3264,12 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 37.8,
+                "score": 35.0,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 35.0,
+                "score": 37.8,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               }
             ],
@@ -3340,12 +3342,12 @@
               },
               {
                 "date": "2020-11-19",
-                "score": 68.25,
+                "score": 91.88,
                 "meet": "2020 University of Texas Diving Invitational"
               },
               {
                 "date": "2020-11-19",
-                "score": 91.88,
+                "score": 68.25,
                 "meet": "2020 University of Texas Diving Invitational"
               },
               {
@@ -3410,12 +3412,12 @@
               },
               {
                 "date": "2019-11-21",
-                "score": 66.5,
+                "score": 70.0,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-11-21",
-                "score": 70.0,
+                "score": 66.5,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
@@ -3445,6 +3447,11 @@
               },
               {
                 "date": "2019-04-11",
+                "score": 73.5,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
                 "score": 71.4,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
@@ -3456,11 +3463,6 @@
               {
                 "date": "2019-04-11",
                 "score": 78.75,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
-                "score": 73.5,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
@@ -3510,6 +3512,11 @@
               },
               {
                 "date": "2018-12-16",
+                "score": 73.5,
+                "meet": "USA Diving Winter Trials"
+              },
+              {
+                "date": "2018-12-16",
                 "score": 56.0,
                 "meet": "USA Diving Winter Trials"
               },
@@ -3521,11 +3528,6 @@
               {
                 "date": "2018-12-16",
                 "score": 63.0,
-                "meet": "USA Diving Winter Trials"
-              },
-              {
-                "date": "2018-12-16",
-                "score": 73.5,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -3575,12 +3577,12 @@
               },
               {
                 "date": "2018-02-21",
-                "score": 61.25,
+                "score": 87.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
               },
               {
                 "date": "2018-02-21",
-                "score": 87.5,
+                "score": 61.25,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
               },
               {
@@ -3620,12 +3622,12 @@
               },
               {
                 "date": "2017-11-16",
-                "score": 64.75,
+                "score": 82.25,
                 "meet": "2017 University of Texas Diving Invitational"
               },
               {
                 "date": "2017-11-16",
-                "score": 82.25,
+                "score": 64.75,
                 "meet": "2017 University of Texas Diving Invitational"
               },
               {
@@ -3665,17 +3667,17 @@
               },
               {
                 "date": "2017-05-04",
+                "score": 84.0,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              },
+              {
+                "date": "2017-05-04",
                 "score": 68.25,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
                 "date": "2017-05-04",
                 "score": 80.5,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
-              },
-              {
-                "date": "2017-05-04",
-                "score": 84.0,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
@@ -3690,17 +3692,17 @@
               },
               {
                 "date": "2016-12-15",
-                "score": 57.75,
-                "meet": "2016 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2016-12-15",
-                "score": 57.75,
-                "meet": "2016 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2016-12-15",
                 "score": 50.75,
+                "meet": "2016 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2016-12-15",
+                "score": 57.75,
+                "meet": "2016 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2016-12-15",
+                "score": 57.75,
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
@@ -3745,12 +3747,12 @@
               },
               {
                 "date": "2015-06-16",
-                "score": 59.5,
+                "score": 89.25,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
                 "date": "2015-06-16",
-                "score": 89.25,
+                "score": 59.5,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
@@ -3760,17 +3762,17 @@
               },
               {
                 "date": "2014-08-12",
+                "score": 77.0,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2014-08-12",
                 "score": 87.5,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-12",
                 "score": 78.75,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2014-08-12",
-                "score": 77.0,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
@@ -3963,12 +3965,12 @@
             "performance": [
               {
                 "date": "2007-06-15",
-                "score": 21.0,
+                "score": 18.2,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
                 "date": "2007-06-15",
-                "score": 18.2,
+                "score": 21.0,
                 "meet": "2007 Summer Region 7 Championships"
               }
             ],
@@ -4239,12 +4241,12 @@
               },
               {
                 "date": "2009-02-16",
-                "score": 38.0,
+                "score": 28.5,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
                 "date": "2009-02-16",
-                "score": 28.5,
+                "score": 38.0,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
@@ -4412,17 +4414,17 @@
               },
               {
                 "date": "2019-05-19",
-                "score": 42.0,
-                "meet": "2019 USA Diving Senior National Diving Championships"
-              },
-              {
-                "date": "2019-05-19",
                 "score": 58.5,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
                 "score": 70.5,
+                "meet": "2019 USA Diving Senior National Diving Championships"
+              },
+              {
+                "date": "2019-05-19",
+                "score": 42.0,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -4447,12 +4449,12 @@
               },
               {
                 "date": "2019-03-28",
-                "score": 67.5,
+                "score": 63.0,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2019-03-28",
-                "score": 63.0,
+                "score": 67.5,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -4482,22 +4484,22 @@
               },
               {
                 "date": "2018-12-16",
-                "score": 70.5,
-                "meet": "USA Diving Winter Trials"
-              },
-              {
-                "date": "2018-12-16",
                 "score": 42.0,
                 "meet": "USA Diving Winter Trials"
               },
               {
-                "date": "2018-11-14",
-                "score": 72.0,
-                "meet": "2018 University of Texas Diving Invitational"
+                "date": "2018-12-16",
+                "score": 70.5,
+                "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-11-14",
                 "score": 67.5,
+                "meet": "2018 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2018-11-14",
+                "score": 72.0,
                 "meet": "2018 University of Texas Diving Invitational"
               },
               {
@@ -4522,12 +4524,12 @@
               },
               {
                 "date": "2018-03-05",
-                "score": 63.0,
+                "score": 67.5,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2018-03-05",
-                "score": 67.5,
+                "score": 63.0,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -4567,12 +4569,12 @@
               },
               {
                 "date": "2017-11-16",
-                "score": 75.0,
+                "score": 66.0,
                 "meet": "2017 University of Texas Diving Invitational"
               },
               {
                 "date": "2017-11-16",
-                "score": 66.0,
+                "score": 75.0,
                 "meet": "2017 University of Texas Diving Invitational"
               },
               {
@@ -4602,12 +4604,12 @@
               },
               {
                 "date": "2017-06-22",
-                "score": 84.0,
+                "score": 69.0,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
               },
               {
                 "date": "2017-06-22",
-                "score": 69.0,
+                "score": 84.0,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
               },
               {
@@ -4632,12 +4634,12 @@
               },
               {
                 "date": "2016-12-15",
-                "score": 64.5,
+                "score": 70.5,
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
                 "date": "2016-12-15",
-                "score": 70.5,
+                "score": 64.5,
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
@@ -4682,12 +4684,12 @@
               },
               {
                 "date": "2016-03-11",
-                "score": 69.0,
+                "score": 73.5,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
                 "date": "2016-03-11",
-                "score": 73.5,
+                "score": 69.0,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
@@ -4717,12 +4719,12 @@
               },
               {
                 "date": "2015-06-16",
-                "score": 75.0,
+                "score": 70.5,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
                 "date": "2015-06-16",
-                "score": 70.5,
+                "score": 75.0,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
@@ -4737,11 +4739,6 @@
               },
               {
                 "date": "2014-08-12",
-                "score": 67.5,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2014-08-12",
                 "score": 76.5,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
@@ -4751,9 +4748,9 @@
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2014-08-04",
+                "date": "2014-08-12",
                 "score": 67.5,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-04",
@@ -4768,6 +4765,11 @@
               {
                 "date": "2014-08-04",
                 "score": 64.8,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 67.5,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -4825,11 +4827,6 @@
               },
               {
                 "date": "2013-08-04",
-                "score": 70.47,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2013-08-04",
                 "score": 60.75,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
@@ -4841,6 +4838,11 @@
               {
                 "date": "2013-08-04",
                 "score": 63.99,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 70.47,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -4915,11 +4917,6 @@
               },
               {
                 "date": "2011-01-30",
-                "score": 22.95,
-                "meet": "2011 USA Diving Winter National  Preliminary"
-              },
-              {
-                "date": "2011-01-30",
                 "score": 42.93,
                 "meet": "2011 USA Diving Winter National Championships"
               },
@@ -4929,18 +4926,23 @@
                 "meet": "2011 USA Diving Winter National Championships"
               },
               {
+                "date": "2011-01-30",
+                "score": 22.95,
+                "meet": "2011 USA Diving Winter National  Preliminary"
+              },
+              {
                 "date": "2010-05-14",
                 "score": 36.45,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-04-17",
-                "score": 49.95,
+                "score": 48.6,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
                 "date": "2010-04-17",
-                "score": 48.6,
+                "score": 49.95,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
@@ -5008,12 +5010,12 @@
               },
               {
                 "date": "2020-02-26",
-                "score": 100.3,
+                "score": 81.6,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
                 "date": "2020-02-26",
-                "score": 81.6,
+                "score": 100.3,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
@@ -5210,11 +5212,6 @@
               },
               {
                 "date": "2011-01-30",
-                "score": 40.95,
-                "meet": "2011 USA Diving Winter National  Preliminary"
-              },
-              {
-                "date": "2011-01-30",
                 "score": 42.0,
                 "meet": "2011 USA Diving Winter National Championships"
               },
@@ -5222,6 +5219,11 @@
                 "date": "2011-01-30",
                 "score": 48.0,
                 "meet": "2011 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2011-01-30",
+                "score": 40.95,
+                "meet": "2011 USA Diving Winter National  Preliminary"
               },
               {
                 "date": "2010-07-23",
@@ -5255,12 +5257,12 @@
               },
               {
                 "date": "2010-04-17",
-                "score": 42.0,
+                "score": 43.05,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
                 "date": "2010-04-17",
-                "score": 43.05,
+                "score": 42.0,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
@@ -5396,17 +5398,17 @@
               },
               {
                 "date": "2019-04-11",
+                "score": 69.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
                 "score": 67.5,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
                 "date": "2019-04-11",
                 "score": 54.0,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
-                "score": 69.0,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
@@ -5471,12 +5473,12 @@
               },
               {
                 "date": "2018-03-05",
-                "score": 61.5,
+                "score": 67.5,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2018-03-05",
-                "score": 67.5,
+                "score": 61.5,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -5501,17 +5503,17 @@
               },
               {
                 "date": "2017-12-13",
-                "score": 67.5,
-                "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-12-13",
                 "score": 61.5,
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
                 "date": "2017-12-13",
                 "score": 57.0,
+                "meet": "2017 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2017-12-13",
+                "score": 67.5,
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
@@ -5536,17 +5538,17 @@
               },
               {
                 "date": "2017-07-29",
+                "score": 72.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
                 "score": 76.5,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
                 "score": 75.0,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
-                "score": 72.0,
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
@@ -5561,17 +5563,17 @@
               },
               {
                 "date": "2017-05-04",
+                "score": 69.0,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              },
+              {
+                "date": "2017-05-04",
                 "score": 63.0,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
                 "date": "2017-05-04",
                 "score": 70.5,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
-              },
-              {
-                "date": "2017-05-04",
-                "score": 69.0,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2017"
               },
               {
@@ -5591,6 +5593,11 @@
               },
               {
                 "date": "2016-12-15",
+                "score": 57.0,
+                "meet": "2016 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2016-12-15",
                 "score": 58.5,
                 "meet": "2016 USA Diving Winter National Championships"
               },
@@ -5600,18 +5607,13 @@
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
-                "date": "2016-12-15",
-                "score": 57.0,
-                "meet": "2016 USA Diving Winter National Championships"
-              },
-              {
                 "date": "2016-07-06",
-                "score": 73.5,
+                "score": 72.0,
                 "meet": "2016 USA Diving National Zone A Meet"
               },
               {
                 "date": "2016-07-06",
-                "score": 72.0,
+                "score": 73.5,
                 "meet": "2016 USA Diving National Zone A Meet"
               },
               {
@@ -5646,16 +5648,6 @@
               },
               {
                 "date": "2015-08-01",
-                "score": 69.0,
-                "meet": "2015 USA Diving ATT National Diving Championships"
-              },
-              {
-                "date": "2015-08-01",
-                "score": 67.5,
-                "meet": "2015 USA Diving ATT National Diving Championships"
-              },
-              {
-                "date": "2015-08-01",
                 "score": 76.5,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
@@ -5667,6 +5659,16 @@
               {
                 "date": "2015-08-01",
                 "score": 63.0,
+                "meet": "2015 USA Diving ATT National Diving Championships"
+              },
+              {
+                "date": "2015-08-01",
+                "score": 69.0,
+                "meet": "2015 USA Diving ATT National Diving Championships"
+              },
+              {
+                "date": "2015-08-01",
+                "score": 67.5,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
@@ -5696,28 +5698,18 @@
               },
               {
                 "date": "2014-08-12",
-                "score": 70.5,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2014-08-12",
-                "score": 70.5,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2014-08-12",
                 "score": 75.0,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2014-08-04",
-                "score": 67.5,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2014-08-12",
+                "score": 70.5,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2014-08-04",
-                "score": 63.0,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2014-08-12",
+                "score": 70.5,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-04",
@@ -5727,6 +5719,16 @@
               {
                 "date": "2014-08-04",
                 "score": 65.7,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 67.5,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 63.0,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -5779,12 +5781,12 @@
             "performance": [
               {
                 "date": "2021-11-18",
-                "score": 69.7,
+                "score": 66.3,
                 "meet": "2021 University of Texas Diving Invitational"
               },
               {
                 "date": "2021-11-18",
-                "score": 66.3,
+                "score": 69.7,
                 "meet": "2021 University of Texas Diving Invitational"
               },
               {
@@ -5814,12 +5816,12 @@
               },
               {
                 "date": "2021-03-11",
-                "score": 71.4,
+                "score": 76.5,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2021-03-11",
-                "score": 76.5,
+                "score": 71.4,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -5889,6 +5891,11 @@
               },
               {
                 "date": "2019-12-17",
+                "score": 68.0,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
                 "score": 69.36,
                 "meet": "2019 USA Diving National Winter Championships"
               },
@@ -5903,18 +5910,13 @@
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
-                "date": "2019-12-17",
-                "score": 68.0,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
                 "date": "2019-11-21",
-                "score": 78.2,
+                "score": 88.4,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-11-21",
-                "score": 88.4,
+                "score": 78.2,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
@@ -5944,22 +5946,22 @@
               },
               {
                 "date": "2019-04-11",
-                "score": 76.5,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
-                "score": 76.5,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
-                "score": 76.5,
-                "meet": "2019 USA FINA Diving Grand Prix"
-              },
-              {
-                "date": "2019-04-11",
                 "score": 72.42,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 76.5,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 76.5,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 76.5,
                 "meet": "2019 USA FINA Diving Grand Prix"
               },
               {
@@ -5974,12 +5976,12 @@
               },
               {
                 "date": "2019-03-11",
-                "score": 79.9,
+                "score": 78.2,
                 "meet": "2019 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2019-03-11",
-                "score": 78.2,
+                "score": 79.9,
                 "meet": "2019 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -6054,12 +6056,12 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 76.5,
+                "score": 88.4,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-22",
-                "score": 88.4,
+                "score": 76.5,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -6154,12 +6156,12 @@
               },
               {
                 "date": "2017-06-22",
-                "score": 79.9,
+                "score": 86.7,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
               },
               {
                 "date": "2017-06-22",
-                "score": 86.7,
+                "score": 79.9,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
               },
               {
@@ -6229,6 +6231,11 @@
               },
               {
                 "date": "2015-08-01",
+                "score": 45.9,
+                "meet": "2015 USA Diving ATT National Diving Championships"
+              },
+              {
+                "date": "2015-08-01",
                 "score": 71.4,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
@@ -6245,11 +6252,6 @@
               {
                 "date": "2015-08-01",
                 "score": 61.2,
-                "meet": "2015 USA Diving ATT National Diving Championships"
-              },
-              {
-                "date": "2015-08-01",
-                "score": 45.9,
                 "meet": "2015 USA Diving ATT National Diving Championships"
               },
               {
@@ -6547,12 +6549,12 @@
             "performance": [
               {
                 "date": "2007-06-15",
-                "score": 18.2,
+                "score": 21.0,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
                 "date": "2007-06-15",
-                "score": 21.0,
+                "score": 18.2,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
@@ -6735,12 +6737,12 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 29.75,
+                "score": 36.55,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 36.55,
+                "score": 29.75,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
@@ -6800,12 +6802,12 @@
               },
               {
                 "date": "2009-05-30",
-                "score": 36.55,
+                "score": 31.45,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 31.45,
+                "score": 36.55,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -6906,12 +6908,12 @@
             "performance": [
               {
                 "date": "2009-08-05",
-                "score": 36.3,
+                "score": 44.0,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
                 "date": "2009-08-05",
-                "score": 44.0,
+                "score": 36.3,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
@@ -6926,12 +6928,12 @@
               },
               {
                 "date": "2009-05-30",
-                "score": 44.0,
+                "score": 37.4,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 37.4,
+                "score": 44.0,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -6956,12 +6958,12 @@
               },
               {
                 "date": "2009-02-12",
-                "score": 36.3,
+                "score": 38.5,
                 "meet": "2009 ALL STARS CHALLENGE"
               },
               {
                 "date": "2009-02-12",
-                "score": 38.5,
+                "score": 36.3,
                 "meet": "2009 ALL STARS CHALLENGE"
               },
               {
@@ -7294,12 +7296,12 @@
               },
               {
                 "date": "2015-06-16",
-                "score": 62.4,
+                "score": 63.7,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
                 "date": "2015-06-16",
-                "score": 63.7,
+                "score": 62.4,
                 "meet": "2015 USA Diving National Preliminary Zone A Championships"
               },
               {
@@ -7407,12 +7409,12 @@
             "performance": [
               {
                 "date": "2011-04-30",
-                "score": 36.0,
+                "score": 25.2,
                 "meet": "2011 Pine Crest David Nielsen Invitational"
               },
               {
                 "date": "2011-04-30",
-                "score": 25.2,
+                "score": 36.0,
                 "meet": "2011 Pine Crest David Nielsen Invitational"
               },
               {
@@ -7583,12 +7585,12 @@
               },
               {
                 "date": "2021-03-01",
-                "score": 64.5,
+                "score": 72.0,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2021"
               },
               {
                 "date": "2021-03-01",
-                "score": 72.0,
+                "score": 64.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2021"
               },
               {
@@ -7678,12 +7680,12 @@
               },
               {
                 "date": "2019-02-27",
-                "score": 75.0,
+                "score": 70.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
                 "date": "2019-02-27",
-                "score": 70.5,
+                "score": 75.0,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
@@ -7728,22 +7730,22 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 67.5,
-                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
-              },
-              {
-                "date": "2018-03-22",
                 "score": 58.5,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
-                "date": "2018-03-05",
-                "score": 66.0,
-                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+                "date": "2018-03-22",
+                "score": 67.5,
+                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-05",
                 "score": 69.0,
+                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+              },
+              {
+                "date": "2018-03-05",
+                "score": 66.0,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -8081,12 +8083,12 @@
               },
               {
                 "date": "2009-02-16",
-                "score": 32.8,
+                "score": 21.6,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
                 "date": "2009-02-16",
-                "score": 21.6,
+                "score": 32.8,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
@@ -8318,12 +8320,12 @@
               },
               {
                 "date": "2010-04-17",
-                "score": 48.0,
+                "score": 25.2,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
                 "date": "2010-04-17",
-                "score": 25.2,
+                "score": 48.0,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
@@ -8358,22 +8360,22 @@
               },
               {
                 "date": "2009-02-16",
-                "score": 27.0,
-                "meet": "David Nielsen JO and Future Champions Invitational"
-              },
-              {
-                "date": "2009-02-16",
                 "score": 36.0,
                 "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
-                "date": "2009-02-12",
-                "score": 30.0,
-                "meet": "2009 ALL STARS CHALLENGE"
+                "date": "2009-02-16",
+                "score": 27.0,
+                "meet": "David Nielsen JO and Future Champions Invitational"
               },
               {
                 "date": "2009-02-12",
                 "score": 28.0,
+                "meet": "2009 ALL STARS CHALLENGE"
+              },
+              {
+                "date": "2009-02-12",
+                "score": 30.0,
                 "meet": "2009 ALL STARS CHALLENGE"
               },
               {
@@ -8531,12 +8533,12 @@
               },
               {
                 "date": "2020-03-09",
-                "score": 67.5,
+                "score": 49.5,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2020-03-09",
-                "score": 49.5,
+                "score": 67.5,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -8566,12 +8568,12 @@
               },
               {
                 "date": "2019-11-21",
-                "score": 63.0,
+                "score": 67.5,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-11-21",
-                "score": 67.5,
+                "score": 63.0,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
@@ -8606,12 +8608,12 @@
               },
               {
                 "date": "2019-02-27",
-                "score": 64.5,
+                "score": 58.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
                 "date": "2019-02-27",
-                "score": 58.5,
+                "score": 64.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
@@ -8656,22 +8658,22 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 67.5,
+                "score": 51.0,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-22",
-                "score": 51.0,
+                "score": 67.5,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-05",
-                "score": 67.5,
+                "score": 51.0,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2018-03-05",
-                "score": 51.0,
+                "score": 67.5,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -8766,12 +8768,12 @@
               },
               {
                 "date": "2016-03-11",
-                "score": 58.5,
+                "score": 54.0,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
                 "date": "2016-03-11",
-                "score": 54.0,
+                "score": 58.5,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
@@ -8806,12 +8808,12 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 45.0,
+                "score": 64.5,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
-                "score": 64.5,
+                "score": 45.0,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -9104,12 +9106,12 @@
               },
               {
                 "date": "2007-06-15",
-                "score": 24.8,
+                "score": 14.4,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
                 "date": "2007-06-15",
-                "score": 14.4,
+                "score": 24.8,
                 "meet": "2007 Summer Region 7 Championships"
               }
             ],
@@ -9177,12 +9179,12 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 47.25,
+                "score": 42.0,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 42.0,
+                "score": 47.25,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
@@ -9315,12 +9317,12 @@
               },
               {
                 "date": "2020-03-09",
-                "score": 63.0,
+                "score": 55.5,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2020-03-09",
-                "score": 55.5,
+                "score": 63.0,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -9350,12 +9352,12 @@
               },
               {
                 "date": "2019-11-21",
-                "score": 69.0,
+                "score": 72.0,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-11-21",
-                "score": 72.0,
+                "score": 69.0,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
@@ -9390,12 +9392,12 @@
               },
               {
                 "date": "2019-02-27",
-                "score": 70.5,
+                "score": 72.0,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
                 "date": "2019-02-27",
-                "score": 72.0,
+                "score": 70.5,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
@@ -9440,22 +9442,22 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 70.5,
-                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
-              },
-              {
-                "date": "2018-03-22",
                 "score": 81.0,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
-                "date": "2018-03-05",
-                "score": 67.5,
-                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+                "date": "2018-03-22",
+                "score": 70.5,
+                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-05",
                 "score": 63.0,
+                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+              },
+              {
+                "date": "2018-03-05",
+                "score": 67.5,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -9590,12 +9592,12 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 79.5,
+                "score": 75.0,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
-                "score": 75.0,
+                "score": 79.5,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -9630,12 +9632,12 @@
               },
               {
                 "date": "2013-08-04",
-                "score": 54.0,
+                "score": 16.5,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
-                "score": 16.5,
+                "score": 54.0,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -9832,17 +9834,17 @@
               },
               {
                 "date": "2010-04-17",
+                "score": 39.75,
+                "meet": "2010 David Nielsen Invitational"
+              },
+              {
+                "date": "2010-04-17",
                 "score": 39.0,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
                 "date": "2010-04-17",
                 "score": 38.4,
-                "meet": "2010 David Nielsen Invitational"
-              },
-              {
-                "date": "2010-04-17",
-                "score": 39.75,
                 "meet": "2010 David Nielsen Invitational"
               },
               {
@@ -9985,12 +9987,12 @@
             "performance": [
               {
                 "date": "2007-06-15",
-                "score": 23.1,
+                "score": 16.1,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
                 "date": "2007-06-15",
-                "score": 16.1,
+                "score": 23.1,
                 "meet": "2007 Summer Region 7 Championships"
               },
               {
@@ -10031,12 +10033,12 @@
             "performance": [
               {
                 "date": "2013-08-04",
-                "score": 50.4,
+                "score": 54.0,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
-                "score": 54.0,
+                "score": 50.4,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -10139,12 +10141,12 @@
               },
               {
                 "date": "2010-05-14",
-                "score": 45.1,
+                "score": 50.6,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
                 "date": "2010-05-14",
-                "score": 50.6,
+                "score": 45.1,
                 "meet": "2010 Wendy Wyland Memorial International Invite"
               },
               {
@@ -10209,12 +10211,12 @@
               },
               {
                 "date": "2009-05-30",
-                "score": 29.7,
+                "score": 36.3,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 36.3,
+                "score": 29.7,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -10357,12 +10359,12 @@
               },
               {
                 "date": "2021-03-11",
-                "score": 68.2,
+                "score": 65.1,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2021-03-11",
-                "score": 65.1,
+                "score": 68.2,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -10672,12 +10674,12 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 77.5,
+                "score": 74.4,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
-                "score": 74.4,
+                "score": 77.5,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -10910,12 +10912,12 @@
               },
               {
                 "date": "2016-03-11",
-                "score": 63.7,
+                "score": 65.0,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
                 "date": "2016-03-11",
-                "score": 65.0,
+                "score": 63.7,
                 "meet": "2016 The Carolina BIG DIVE AAU Invitational"
               },
               {
@@ -11018,12 +11020,12 @@
               },
               {
                 "date": "2021-03-25",
-                "score": 70.4,
+                "score": 62.4,
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2021-03-25",
-                "score": 62.4,
+                "score": 70.4,
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -11883,12 +11885,12 @@
             "performance": [
               {
                 "date": "2009-05-30",
-                "score": 41.4,
+                "score": 43.2,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 43.2,
+                "score": 41.4,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -11906,12 +11908,12 @@
             "performance": [
               {
                 "date": "2014-08-04",
-                "score": 72.9,
+                "score": 81.9,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
-                "score": 81.9,
+                "score": 72.9,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -11946,16 +11948,6 @@
               },
               {
                 "date": "2013-08-13",
-                "score": 51.3,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
-                "score": 66.0,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
                 "score": 76.5,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
@@ -11970,13 +11962,23 @@
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2013-08-04",
-                "score": 64.5,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2013-08-13",
+                "score": 51.3,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2013-08-13",
+                "score": 66.0,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2013-08-04",
                 "score": 79.5,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 64.5,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -11991,16 +11993,6 @@
               },
               {
                 "date": "2013-05-15",
-                "score": 62.1,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 37.5,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
                 "score": 76.5,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
@@ -12012,6 +12004,16 @@
               {
                 "date": "2013-05-15",
                 "score": 66.6,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 62.1,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 37.5,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
@@ -12031,16 +12033,6 @@
               },
               {
                 "date": "2012-08-14",
-                "score": 69.0,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 81.0,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
                 "score": 81.0,
                 "meet": "2012 AT T National Diving Championships"
               },
@@ -12055,9 +12047,14 @@
                 "meet": "2012 AT T National Diving Championships"
               },
               {
-                "date": "2012-08-04",
-                "score": 64.5,
-                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2012-08-14",
+                "score": 69.0,
+                "meet": "2012 AT T National Diving Championships"
+              },
+              {
+                "date": "2012-08-14",
+                "score": 81.0,
+                "meet": "2012 AT T National Diving Championships"
               },
               {
                 "date": "2012-08-04",
@@ -12072,6 +12069,11 @@
               {
                 "date": "2012-08-04",
                 "score": 72.9,
+                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-08-04",
+                "score": 64.5,
                 "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -12096,6 +12098,11 @@
               },
               {
                 "date": "2011-12-17",
+                "score": 66.0,
+                "meet": "2012 USA DIVING WINTER NATIONAL"
+              },
+              {
+                "date": "2011-12-17",
                 "score": 61.5,
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
@@ -12110,24 +12117,9 @@
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
               {
-                "date": "2011-12-17",
-                "score": 66.0,
-                "meet": "2012 USA DIVING WINTER NATIONAL"
-              },
-              {
                 "date": "2011-12-15",
                 "score": 33.0,
                 "meet": "2012 USA DIVING WINTER NATIONAL Preliminaries"
-              },
-              {
-                "date": "2011-12-02",
-                "score": 52.5,
-                "meet": "HOBIE INTERNATIONAL INVITE"
-              },
-              {
-                "date": "2011-12-02",
-                "score": 60.3,
-                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-12-02",
@@ -12140,9 +12132,14 @@
                 "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
-                "date": "2011-08-09",
-                "score": 39.0,
-                "meet": "2011 AT T National Diving Championships"
+                "date": "2011-12-02",
+                "score": 52.5,
+                "meet": "HOBIE INTERNATIONAL INVITE"
+              },
+              {
+                "date": "2011-12-02",
+                "score": 60.3,
+                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-08-09",
@@ -12152,6 +12149,11 @@
               {
                 "date": "2011-08-09",
                 "score": 68.4,
+                "meet": "2011 AT T National Diving Championships"
+              },
+              {
+                "date": "2011-08-09",
+                "score": 39.0,
                 "meet": "2011 AT T National Diving Championships"
               },
               {
@@ -12189,17 +12191,17 @@
               },
               {
                 "date": "2021-06-06",
-                "score": 77.7,
-                "meet": "2020 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2021-06-06",
                 "score": 88.8,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
                 "date": "2021-06-06",
                 "score": 99.9,
+                "meet": "2020 U.S. Olympic Team Trials"
+              },
+              {
+                "date": "2021-06-06",
+                "score": 77.7,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
@@ -12214,22 +12216,22 @@
               },
               {
                 "date": "2021-03-11",
-                "score": 62.9,
-                "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
-              },
-              {
-                "date": "2021-03-11",
                 "score": 77.7,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
-                "date": "2021-03-01",
-                "score": 111.0,
-                "meet": "Big 12 Conference Swimming and Diving Championships 2021"
+                "date": "2021-03-11",
+                "score": 62.9,
+                "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2021-03-01",
                 "score": 90.65,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2021"
+              },
+              {
+                "date": "2021-03-01",
+                "score": 111.0,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2021"
               },
               {
@@ -12239,22 +12241,22 @@
               },
               {
                 "date": "2020-03-09",
-                "score": 103.6,
-                "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
-              },
-              {
-                "date": "2020-03-09",
                 "score": 94.35,
                 "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
-                "date": "2020-02-26",
-                "score": 83.25,
-                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
+                "date": "2020-03-09",
+                "score": 103.6,
+                "meet": "2020 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2020-02-26",
                 "score": 105.45,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
+              },
+              {
+                "date": "2020-02-26",
+                "score": 83.25,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
@@ -12294,12 +12296,12 @@
               },
               {
                 "date": "2019-03-28",
-                "score": 44.4,
+                "score": 88.8,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2019-03-28",
-                "score": 88.8,
+                "score": 44.4,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -12379,6 +12381,11 @@
               },
               {
                 "date": "2017-07-29",
+                "score": 103.6,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
                 "score": 53.65,
                 "meet": "2017 USA Diving National Diving Championships"
               },
@@ -12388,14 +12395,14 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
-                "date": "2017-07-29",
-                "score": 103.6,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
                 "date": "2017-06-22",
                 "score": 86.95,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
+              },
+              {
+                "date": "2017-05-19",
+                "score": 105.45,
+                "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
                 "date": "2017-05-19",
@@ -12405,11 +12412,6 @@
               {
                 "date": "2017-05-19",
                 "score": 72.15,
-                "meet": "2017 USA Diving FINA World Championships Individual Trials"
-              },
-              {
-                "date": "2017-05-19",
-                "score": 105.45,
                 "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
@@ -12439,17 +12441,17 @@
               },
               {
                 "date": "2016-06-18",
-                "score": 33.3,
-                "meet": "2016 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2016-06-18",
                 "score": 66.6,
                 "meet": "2016 U.S. Olympic Team Trials"
               },
               {
                 "date": "2016-06-18",
                 "score": 94.35,
+                "meet": "2016 U.S. Olympic Team Trials"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 33.3,
                 "meet": "2016 U.S. Olympic Team Trials"
               },
               {
@@ -12474,6 +12476,11 @@
               },
               {
                 "date": "2015-12-15",
+                "score": 44.4,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2015-12-15",
                 "score": 49.95,
                 "meet": "2015 USA Diving Winter National Championships"
               },
@@ -12481,16 +12488,6 @@
                 "date": "2015-12-15",
                 "score": 44.4,
                 "meet": "2015 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2015-12-15",
-                "score": 44.4,
-                "meet": "2015 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
-                "score": 62.16,
-                "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-12-16",
@@ -12513,9 +12510,9 @@
                 "meet": "2014 USA Diving Winter National Championships"
               },
               {
-                "date": "2014-08-12",
-                "score": 103.6,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+                "date": "2014-12-16",
+                "score": 62.16,
+                "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-08-12",
@@ -12525,6 +12522,11 @@
               {
                 "date": "2014-08-12",
                 "score": 83.25,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2014-08-12",
+                "score": 103.6,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
@@ -12561,12 +12563,12 @@
             "performance": [
               {
                 "date": "2019-05-19",
-                "score": 47.4,
+                "score": 46.8,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
-                "score": 46.8,
+                "score": 47.4,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -12581,12 +12583,12 @@
               },
               {
                 "date": "2017-04-12",
-                "score": 49.8,
+                "score": 47.4,
                 "meet": "2017 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2017-04-12",
-                "score": 47.4,
+                "score": 49.8,
                 "meet": "2017 USA Diving Synchronized National Championships"
               },
               {
@@ -12606,17 +12608,17 @@
               },
               {
                 "date": "2011-05-12",
+                "score": 41.4,
+                "meet": "World Championship Synchro and 1 Meter Trials"
+              },
+              {
+                "date": "2011-05-12",
                 "score": 39.0,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               },
               {
                 "date": "2011-05-12",
                 "score": 38.4,
-                "meet": "World Championship Synchro and 1 Meter Trials"
-              },
-              {
-                "date": "2011-05-12",
-                "score": 41.4,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               }
             ],
@@ -12664,12 +12666,12 @@
               },
               {
                 "date": "2011-08-01",
-                "score": 36.0,
+                "score": 42.0,
                 "meet": "2011 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2011-08-01",
-                "score": 42.0,
+                "score": 36.0,
                 "meet": "2011 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -12725,11 +12727,6 @@
             "performance": [
               {
                 "date": "2021-06-06",
-                "score": 70.95,
-                "meet": "2020 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2021-06-06",
                 "score": 56.1,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
@@ -12739,9 +12736,9 @@
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
-                "date": "2021-03-25",
-                "score": 84.15,
-                "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
+                "date": "2021-06-06",
+                "score": 70.95,
+                "meet": "2020 U.S. Olympic Team Trials"
               },
               {
                 "date": "2021-03-25",
@@ -12749,13 +12746,18 @@
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
-                "date": "2021-03-01",
-                "score": 90.75,
-                "meet": "Big 12 Conference Swimming and Diving Championships 2021"
+                "date": "2021-03-25",
+                "score": 84.15,
+                "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2021-03-01",
                 "score": 95.7,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2021"
+              },
+              {
+                "date": "2021-03-01",
+                "score": 90.75,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2021"
               },
               {
@@ -12775,18 +12777,13 @@
               },
               {
                 "date": "2020-02-26",
-                "score": 74.25,
-                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
-              },
-              {
-                "date": "2020-02-26",
                 "score": 59.4,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
-                "date": "2019-12-17",
-                "score": 72.6,
-                "meet": "2019 USA Diving National Winter Championships"
+                "date": "2020-02-26",
+                "score": 74.25,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
                 "date": "2019-12-17",
@@ -12799,18 +12796,23 @@
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
+                "date": "2019-12-17",
+                "score": 72.6,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
                 "date": "2019-11-21",
                 "score": 82.5,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-03-28",
-                "score": 56.1,
+                "score": 52.8,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2019-03-28",
-                "score": 52.8,
+                "score": 56.1,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -12845,12 +12847,12 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 89.1,
+                "score": 57.75,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-22",
-                "score": 57.75,
+                "score": 89.1,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -12860,13 +12862,18 @@
               },
               {
                 "date": "2018-02-21",
-                "score": 92.4,
+                "score": 75.9,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
               },
               {
                 "date": "2018-02-21",
-                "score": 75.9,
+                "score": 92.4,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
+              },
+              {
+                "date": "2017-12-13",
+                "score": 59.4,
+                "meet": "2017 USA Diving Winter National Championships"
               },
               {
                 "date": "2017-12-13",
@@ -12879,9 +12886,14 @@
                 "meet": "2017 USA Diving Winter National Championships"
               },
               {
-                "date": "2017-12-13",
-                "score": 59.4,
-                "meet": "2017 USA Diving Winter National Championships"
+                "date": "2017-07-29",
+                "score": 64.35,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
+                "score": 64.35,
+                "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
@@ -12889,19 +12901,14 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
-                "date": "2017-07-29",
-                "score": 64.35,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
-                "date": "2017-07-29",
-                "score": 64.35,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
                 "date": "2017-06-22",
                 "score": 67.65,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
+              },
+              {
+                "date": "2017-05-19",
+                "score": 59.4,
+                "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
                 "date": "2017-05-19",
@@ -12914,23 +12921,18 @@
                 "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
-                "date": "2017-05-19",
-                "score": 59.4,
-                "meet": "2017 USA Diving FINA World Championships Individual Trials"
-              },
-              {
                 "date": "2017-04-21",
                 "score": 89.1,
                 "meet": "2017 USA Diving Junior Region 8 Championships"
               },
               {
                 "date": "2016-12-15",
-                "score": 58.41,
+                "score": 78.21,
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
                 "date": "2016-12-15",
-                "score": 78.21,
+                "score": 58.41,
                 "meet": "2016 USA Diving Winter National Championships"
               },
               {
@@ -12960,16 +12962,6 @@
               },
               {
                 "date": "2016-03-31",
-                "score": 68.31,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
-              },
-              {
-                "date": "2016-03-31",
-                "score": 44.55,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
-              },
-              {
-                "date": "2016-03-31",
                 "score": 52.8,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
@@ -12979,14 +12971,14 @@
                 "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
-                "date": "2015-12-15",
-                "score": 62.37,
-                "meet": "2015 USA Diving Winter National Championships"
+                "date": "2016-03-31",
+                "score": 68.31,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
-                "date": "2015-12-15",
-                "score": 99.0,
-                "meet": "2015 USA Diving Winter National Championships"
+                "date": "2016-03-31",
+                "score": 44.55,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
                 "date": "2015-12-15",
@@ -13004,9 +12996,29 @@
                 "meet": "2015 USA Diving Winter National Championships"
               },
               {
+                "date": "2015-12-15",
+                "score": 62.37,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2015-12-15",
+                "score": 99.0,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
                 "date": "2015-04-09",
                 "score": 49.5,
                 "meet": "2015 USA Diving Synchronized National Championships"
+              },
+              {
+                "date": "2014-12-16",
+                "score": 34.65,
+                "meet": "2014 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2014-12-16",
+                "score": 90.75,
+                "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-12-16",
@@ -13021,16 +13033,6 @@
               {
                 "date": "2014-12-16",
                 "score": 70.29,
-                "meet": "2014 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
-                "score": 34.65,
-                "meet": "2014 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
-                "score": 90.75,
                 "meet": "2014 USA Diving Winter National Championships"
               },
               {
@@ -13100,6 +13102,16 @@
               },
               {
                 "date": "2013-08-13",
+                "score": 97.35,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2013-08-13",
+                "score": 63.36,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2013-08-13",
                 "score": 75.24,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
@@ -13114,14 +13126,9 @@
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2013-08-13",
-                "score": 97.35,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
-                "score": 63.36,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+                "date": "2013-08-04",
+                "score": 61.05,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
@@ -13129,24 +13136,9 @@
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
-                "date": "2013-08-04",
-                "score": 61.05,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
                 "date": "2013-06-14",
                 "score": 79.2,
                 "meet": "2013 USA Diving Summer Junior Region 4 Championships"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 65.34,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 75.24,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
                 "date": "2013-05-15",
@@ -13161,6 +13153,16 @@
               {
                 "date": "2013-05-15",
                 "score": 28.05,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 65.34,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 75.24,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
@@ -13180,6 +13182,16 @@
               },
               {
                 "date": "2012-08-14",
+                "score": 82.5,
+                "meet": "2012 AT T National Diving Championships"
+              },
+              {
+                "date": "2012-08-14",
+                "score": 72.27,
+                "meet": "2012 AT T National Diving Championships"
+              },
+              {
+                "date": "2012-08-14",
                 "score": 60.39,
                 "meet": "2012 AT T National Diving Championships"
               },
@@ -13191,16 +13203,6 @@
               {
                 "date": "2012-08-14",
                 "score": 70.95,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 82.5,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 72.27,
                 "meet": "2012 AT T National Diving Championships"
               },
               {
@@ -13225,6 +13227,11 @@
               },
               {
                 "date": "2011-12-17",
+                "score": 42.9,
+                "meet": "2012 USA DIVING WINTER NATIONAL"
+              },
+              {
+                "date": "2011-12-17",
                 "score": 59.4,
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
@@ -13234,14 +13241,14 @@
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
               {
-                "date": "2011-12-17",
-                "score": 42.9,
-                "meet": "2012 USA DIVING WINTER NATIONAL"
-              },
-              {
                 "date": "2011-12-15",
                 "score": 59.4,
                 "meet": "2012 USA DIVING WINTER NATIONAL Preliminaries"
+              },
+              {
+                "date": "2011-12-02",
+                "score": 81.84,
+                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-12-02",
@@ -13249,9 +13256,9 @@
                 "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
-                "date": "2011-12-02",
-                "score": 81.84,
-                "meet": "HOBIE INTERNATIONAL INVITE"
+                "date": "2011-08-09",
+                "score": 29.7,
+                "meet": "2011 AT T National Diving Championships"
               },
               {
                 "date": "2011-08-09",
@@ -13261,11 +13268,6 @@
               {
                 "date": "2011-08-09",
                 "score": 62.37,
-                "meet": "2011 AT T National Diving Championships"
-              },
-              {
-                "date": "2011-08-09",
-                "score": 29.7,
                 "meet": "2011 AT T National Diving Championships"
               }
             ],
@@ -13322,13 +13324,18 @@
               },
               {
                 "date": "2014-12-16",
-                "score": 45.6,
+                "score": 44.4,
                 "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-12-16",
-                "score": 44.4,
+                "score": 45.6,
                 "meet": "2014 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 47.5,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
@@ -13338,11 +13345,6 @@
               {
                 "date": "2014-08-04",
                 "score": 44.4,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
-                "score": 47.5,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -13387,17 +13389,17 @@
               },
               {
                 "date": "2013-08-04",
+                "score": 45.6,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
                 "score": 44.4,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2013-08-04",
                 "score": 46.2,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2013-08-04",
-                "score": 45.6,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -13412,12 +13414,12 @@
               },
               {
                 "date": "2013-05-15",
-                "score": 54.0,
+                "score": 53.4,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
                 "date": "2013-05-15",
-                "score": 53.4,
+                "score": 54.0,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
@@ -13447,17 +13449,17 @@
               },
               {
                 "date": "2012-08-04",
-                "score": 43.7,
-                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2012-08-04",
                 "score": 46.8,
                 "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2012-08-04",
                 "score": 40.2,
+                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-08-04",
+                "score": 43.7,
                 "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -13507,17 +13509,17 @@
               },
               {
                 "date": "2011-05-12",
+                "score": 40.2,
+                "meet": "World Championship Synchro and 1 Meter Trials"
+              },
+              {
+                "date": "2011-05-12",
                 "score": 42.6,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               },
               {
                 "date": "2011-05-12",
                 "score": 43.2,
-                "meet": "World Championship Synchro and 1 Meter Trials"
-              },
-              {
-                "date": "2011-05-12",
-                "score": 40.2,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               }
             ],
@@ -14342,12 +14344,12 @@
             "performance": [
               {
                 "date": "2009-08-05",
-                "score": 46.2,
+                "score": 44.0,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
                 "date": "2009-08-05",
-                "score": 44.0,
+                "score": 46.2,
                 "meet": "2009 Speedo Junior National Diving Championships"
               },
               {
@@ -14362,12 +14364,12 @@
               },
               {
                 "date": "2009-05-30",
-                "score": 49.5,
+                "score": 42.9,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
                 "date": "2009-05-30",
-                "score": 42.9,
+                "score": 49.5,
                 "meet": "2009 Florida Gold Coast Diving Summer Championship"
               },
               {
@@ -14463,11 +14465,6 @@
               },
               {
                 "date": "2021-06-06",
-                "score": 96.0,
-                "meet": "2020 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2021-06-06",
                 "score": 70.4,
                 "meet": "2020 U.S. Olympic Team Trials"
               },
@@ -14477,13 +14474,18 @@
                 "meet": "2020 U.S. Olympic Team Trials"
               },
               {
-                "date": "2021-03-25",
-                "score": 76.8,
-                "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
+                "date": "2021-06-06",
+                "score": 96.0,
+                "meet": "2020 U.S. Olympic Team Trials"
               },
               {
                 "date": "2021-03-25",
                 "score": 91.2,
+                "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2021-03-25",
+                "score": 76.8,
                 "meet": "2021 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -14533,17 +14535,17 @@
               },
               {
                 "date": "2019-12-17",
+                "score": 91.2,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
+                "date": "2019-12-17",
                 "score": 88.0,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
                 "date": "2019-12-17",
                 "score": 86.4,
-                "meet": "2019 USA Diving National Winter Championships"
-              },
-              {
-                "date": "2019-12-17",
-                "score": 91.2,
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
@@ -14593,12 +14595,12 @@
               },
               {
                 "date": "2018-12-16",
-                "score": 70.4,
+                "score": 60.8,
                 "meet": "USA Diving Winter Trials"
               },
               {
                 "date": "2018-12-16",
-                "score": 60.8,
+                "score": 70.4,
                 "meet": "USA Diving Winter Trials"
               },
               {
@@ -14638,6 +14640,11 @@
               },
               {
                 "date": "2017-12-13",
+                "score": 67.2,
+                "meet": "2017 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2017-12-13",
                 "score": 72.0,
                 "meet": "2017 USA Diving Winter National Championships"
               },
@@ -14645,16 +14652,6 @@
                 "date": "2017-12-13",
                 "score": 86.4,
                 "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-12-13",
-                "score": 67.2,
-                "meet": "2017 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2017-07-29",
-                "score": 72.0,
-                "meet": "2017 USA Diving National Diving Championships"
               },
               {
                 "date": "2017-07-29",
@@ -14667,14 +14664,14 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
+                "date": "2017-07-29",
+                "score": 72.0,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
                 "date": "2017-06-22",
                 "score": 89.6,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
-              },
-              {
-                "date": "2017-05-19",
-                "score": 80.0,
-                "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
                 "date": "2017-05-19",
@@ -14684,6 +14681,11 @@
               {
                 "date": "2017-05-19",
                 "score": 91.2,
+                "meet": "2017 USA Diving FINA World Championships Individual Trials"
+              },
+              {
+                "date": "2017-05-19",
+                "score": 80.0,
                 "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
@@ -14723,6 +14725,11 @@
               },
               {
                 "date": "2016-06-18",
+                "score": 75.2,
+                "meet": "2016 U.S. Olympic Team Trials"
+              },
+              {
+                "date": "2016-06-18",
                 "score": 80.0,
                 "meet": "2016 U.S. Olympic Team Trials"
               },
@@ -14732,14 +14739,14 @@
                 "meet": "2016 U.S. Olympic Team Trials"
               },
               {
-                "date": "2016-06-18",
-                "score": 75.2,
-                "meet": "2016 U.S. Olympic Team Trials"
-              },
-              {
                 "date": "2016-04-29",
                 "score": 68.8,
                 "meet": "2016 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2016-03-31",
+                "score": 57.6,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
                 "date": "2016-03-31",
@@ -14757,21 +14764,6 @@
                 "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
-                "date": "2016-03-31",
-                "score": 57.6,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
-              },
-              {
-                "date": "2015-12-15",
-                "score": 65.6,
-                "meet": "2015 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2015-12-15",
-                "score": 68.16,
-                "meet": "2015 USA Diving Winter National Championships"
-              },
-              {
                 "date": "2015-12-15",
                 "score": 64.32,
                 "meet": "2015 USA Diving Winter National Championships"
@@ -14787,9 +14779,29 @@
                 "meet": "2015 USA Diving Winter National Championships"
               },
               {
+                "date": "2015-12-15",
+                "score": 65.6,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2015-12-15",
+                "score": 68.16,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
                 "date": "2015-04-09",
                 "score": 49.92,
                 "meet": "2015 USA Diving Synchronized National Championships"
+              },
+              {
+                "date": "2014-12-16",
+                "score": 68.16,
+                "meet": "2014 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2014-12-16",
+                "score": 58.56,
+                "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-12-16",
@@ -14804,16 +14816,6 @@
               {
                 "date": "2014-12-16",
                 "score": 84.8,
-                "meet": "2014 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
-                "score": 68.16,
-                "meet": "2014 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
-                "score": 58.56,
                 "meet": "2014 USA Diving Winter National Championships"
               },
               {
@@ -14833,22 +14835,22 @@
               },
               {
                 "date": "2014-08-04",
-                "score": 71.04,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
-                "score": 85.44,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
-              },
-              {
-                "date": "2014-08-04",
                 "score": 80.0,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
                 "date": "2014-08-04",
                 "score": 88.0,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 71.04,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 85.44,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -14893,16 +14895,6 @@
               },
               {
                 "date": "2013-08-13",
-                "score": 73.92,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
-                "score": 52.8,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
                 "score": 78.4,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
@@ -14917,13 +14909,23 @@
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2013-08-04",
-                "score": 96.0,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2013-08-13",
+                "score": 73.92,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2013-08-13",
+                "score": 52.8,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2013-08-04",
                 "score": 76.8,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 96.0,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -14938,16 +14940,6 @@
               },
               {
                 "date": "2013-05-15",
-                "score": 68.16,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 68.8,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
                 "score": 67.2,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
@@ -14959,6 +14951,16 @@
               {
                 "date": "2013-05-15",
                 "score": 69.12,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 68.16,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 68.8,
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
@@ -14978,16 +14980,6 @@
               },
               {
                 "date": "2012-08-14",
-                "score": 57.6,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 81.6,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
                 "score": 38.4,
                 "meet": "2012 AT T National Diving Championships"
               },
@@ -15002,9 +14994,14 @@
                 "meet": "2012 AT T National Diving Championships"
               },
               {
-                "date": "2012-08-04",
-                "score": 54.4,
-                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2012-08-14",
+                "score": 57.6,
+                "meet": "2012 AT T National Diving Championships"
+              },
+              {
+                "date": "2012-08-14",
+                "score": 81.6,
+                "meet": "2012 AT T National Diving Championships"
               },
               {
                 "date": "2012-08-04",
@@ -15019,6 +15016,11 @@
               {
                 "date": "2012-08-04",
                 "score": 75.84,
+                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-08-04",
+                "score": 54.4,
                 "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -15043,6 +15045,11 @@
               },
               {
                 "date": "2011-12-17",
+                "score": 60.8,
+                "meet": "2012 USA DIVING WINTER NATIONAL"
+              },
+              {
+                "date": "2011-12-17",
                 "score": 67.2,
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
@@ -15057,24 +15064,9 @@
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
               {
-                "date": "2011-12-17",
-                "score": 60.8,
-                "meet": "2012 USA DIVING WINTER NATIONAL"
-              },
-              {
                 "date": "2011-12-15",
                 "score": 43.2,
                 "meet": "2012 USA DIVING WINTER NATIONAL Preliminaries"
-              },
-              {
-                "date": "2011-12-02",
-                "score": 69.44,
-                "meet": "HOBIE INTERNATIONAL INVITE"
-              },
-              {
-                "date": "2011-12-02",
-                "score": 56.26,
-                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-12-02",
@@ -15087,9 +15079,14 @@
                 "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
-                "date": "2011-08-09",
-                "score": 51.2,
-                "meet": "2011 AT T National Diving Championships"
+                "date": "2011-12-02",
+                "score": 69.44,
+                "meet": "HOBIE INTERNATIONAL INVITE"
+              },
+              {
+                "date": "2011-12-02",
+                "score": 56.26,
+                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-08-09",
@@ -15099,6 +15096,11 @@
               {
                 "date": "2011-08-09",
                 "score": 54.72,
+                "meet": "2011 AT T National Diving Championships"
+              },
+              {
+                "date": "2011-08-09",
+                "score": 51.2,
                 "meet": "2011 AT T National Diving Championships"
               },
               {
@@ -15148,17 +15150,17 @@
             "performance": [
               {
                 "date": "2011-05-12",
-                "score": 60.39,
-                "meet": "World Championship Synchro and 1 Meter Trials"
-              },
-              {
-                "date": "2011-05-12",
                 "score": 47.52,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               },
               {
                 "date": "2011-05-12",
                 "score": 50.49,
+                "meet": "World Championship Synchro and 1 Meter Trials"
+              },
+              {
+                "date": "2011-05-12",
+                "score": 60.39,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               }
             ],
@@ -15212,11 +15214,6 @@
               },
               {
                 "date": "2014-12-16",
-                "score": 75.84,
-                "meet": "2014 USA Diving Winter National Championships"
-              },
-              {
-                "date": "2014-12-16",
                 "score": 81.6,
                 "meet": "2014 USA Diving Winter National Championships"
               },
@@ -15236,9 +15233,9 @@
                 "meet": "2014 USA Diving Winter National Championships"
               },
               {
-                "date": "2014-08-12",
-                "score": 80.0,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+                "date": "2014-12-16",
+                "score": 75.84,
+                "meet": "2014 USA Diving Winter National Championships"
               },
               {
                 "date": "2014-08-12",
@@ -15251,9 +15248,9 @@
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2014-08-04",
-                "score": 86.4,
-                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2014-08-12",
+                "score": 80.0,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-04",
@@ -15268,6 +15265,11 @@
               {
                 "date": "2014-08-04",
                 "score": 68.8,
+                "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-08-04",
+                "score": 86.4,
                 "meet": "2014 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -15312,11 +15314,6 @@
               },
               {
                 "date": "2013-08-13",
-                "score": 76.8,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
                 "score": 71.04,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
@@ -15336,13 +15333,18 @@
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
-                "date": "2013-08-04",
+                "date": "2013-08-13",
                 "score": 76.8,
-                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2013-08-04",
                 "score": 94.4,
+                "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2013-08-04",
+                "score": 76.8,
                 "meet": "2013 USA DIVING JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
@@ -15354,16 +15356,6 @@
                 "date": "2013-06-14",
                 "score": 68.8,
                 "meet": "2013 USA Diving Summer Junior Region 4 Championships"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 81.6,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
-              },
-              {
-                "date": "2013-05-15",
-                "score": 63.36,
-                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
                 "date": "2013-05-15",
@@ -15381,6 +15373,16 @@
                 "meet": "2013 USA Diving FINA World Championships and WUG Trials"
               },
               {
+                "date": "2013-05-15",
+                "score": 81.6,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
+                "date": "2013-05-15",
+                "score": 63.36,
+                "meet": "2013 USA Diving FINA World Championships and WUG Trials"
+              },
+              {
                 "date": "2013-05-09",
                 "score": 67.2,
                 "meet": "2013 FINA USA Grand Prix"
@@ -15394,11 +15396,6 @@
                 "date": "2013-03-15",
                 "score": 70.4,
                 "meet": "2013 USA Diving Spring Junior Region 4 Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 75.84,
-                "meet": "2012 AT T National Diving Championships"
               },
               {
                 "date": "2012-08-14",
@@ -15421,9 +15418,9 @@
                 "meet": "2012 AT T National Diving Championships"
               },
               {
-                "date": "2012-08-04",
-                "score": 68.16,
-                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+                "date": "2012-08-14",
+                "score": 75.84,
+                "meet": "2012 AT T National Diving Championships"
               },
               {
                 "date": "2012-08-04",
@@ -15441,9 +15438,19 @@
                 "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
               },
               {
+                "date": "2012-08-04",
+                "score": 68.16,
+                "meet": "2012 JUNIOR NATIONAL DIVING CHAMPIONSHIPS"
+              },
+              {
                 "date": "2012-07-19",
                 "score": 72.0,
                 "meet": "2012 USA Diving National Preliminary Zone A Championships"
+              },
+              {
+                "date": "2012-06-17",
+                "score": 52.8,
+                "meet": "U.S. Olympic Team Trials"
               },
               {
                 "date": "2012-06-17",
@@ -15454,16 +15461,6 @@
                 "date": "2012-06-17",
                 "score": 67.2,
                 "meet": "U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2012-06-17",
-                "score": 52.8,
-                "meet": "U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2011-12-17",
-                "score": 62.4,
-                "meet": "2012 USA DIVING WINTER NATIONAL"
               },
               {
                 "date": "2011-12-17",
@@ -15481,14 +15478,14 @@
                 "meet": "2012 USA DIVING WINTER NATIONAL"
               },
               {
+                "date": "2011-12-17",
+                "score": 62.4,
+                "meet": "2012 USA DIVING WINTER NATIONAL"
+              },
+              {
                 "date": "2011-12-15",
                 "score": 57.6,
                 "meet": "2012 USA DIVING WINTER NATIONAL Preliminaries"
-              },
-              {
-                "date": "2011-12-02",
-                "score": 68.8,
-                "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
                 "date": "2011-12-02",
@@ -15503,6 +15500,11 @@
               {
                 "date": "2011-12-02",
                 "score": 71.04,
+                "meet": "HOBIE INTERNATIONAL INVITE"
+              },
+              {
+                "date": "2011-12-02",
+                "score": 68.8,
                 "meet": "HOBIE INTERNATIONAL INVITE"
               },
               {
@@ -15527,17 +15529,17 @@
               },
               {
                 "date": "2011-05-12",
+                "score": 72.96,
+                "meet": "World Championship Synchro and 1 Meter Trials"
+              },
+              {
+                "date": "2011-05-12",
                 "score": 54.72,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               },
               {
                 "date": "2011-05-12",
                 "score": 62.4,
-                "meet": "World Championship Synchro and 1 Meter Trials"
-              },
-              {
-                "date": "2011-05-12",
-                "score": 72.96,
                 "meet": "World Championship Synchro and 1 Meter Trials"
               }
             ],
@@ -15580,12 +15582,12 @@
               },
               {
                 "date": "2021-03-11",
-                "score": 88.2,
+                "score": 86.4,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
                 "date": "2021-03-11",
-                "score": 86.4,
+                "score": 88.2,
                 "meet": "2021 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -15615,18 +15617,13 @@
               },
               {
                 "date": "2020-02-26",
-                "score": 91.8,
-                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
-              },
-              {
-                "date": "2020-02-26",
                 "score": 93.6,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
-                "date": "2019-12-17",
-                "score": 90.0,
-                "meet": "2019 USA Diving National Winter Championships"
+                "date": "2020-02-26",
+                "score": 91.8,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2020"
               },
               {
                 "date": "2019-12-17",
@@ -15639,18 +15636,23 @@
                 "meet": "2019 USA Diving National Winter Championships"
               },
               {
+                "date": "2019-12-17",
+                "score": 90.0,
+                "meet": "2019 USA Diving National Winter Championships"
+              },
+              {
                 "date": "2019-11-21",
                 "score": 73.8,
                 "meet": "2019 U of Texas Diving Invitational"
               },
               {
                 "date": "2019-05-19",
-                "score": 76.68,
+                "score": 77.76,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
                 "date": "2019-05-19",
-                "score": 77.76,
+                "score": 76.68,
                 "meet": "2019 USA Diving Senior National Diving Championships"
               },
               {
@@ -15660,12 +15662,12 @@
               },
               {
                 "date": "2019-03-28",
-                "score": 84.6,
+                "score": 86.4,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2019-03-28",
-                "score": 86.4,
+                "score": 84.6,
                 "meet": "2019 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
@@ -15700,22 +15702,22 @@
               },
               {
                 "date": "2018-03-22",
-                "score": 73.8,
-                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
-              },
-              {
-                "date": "2018-03-22",
                 "score": 79.2,
                 "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
-                "date": "2018-03-05",
-                "score": 86.4,
-                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+                "date": "2018-03-22",
+                "score": 73.8,
+                "meet": "2018 NCAA Div I Mens Swimming and Diving Championship"
               },
               {
                 "date": "2018-03-05",
                 "score": 70.2,
+                "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
+              },
+              {
+                "date": "2018-03-05",
+                "score": 86.4,
                 "meet": "2018 NCAA ZONE D CHAMPIONSHIPS"
               },
               {
@@ -15790,12 +15792,12 @@
               },
               {
                 "date": "2017-04-12",
-                "score": 59.4,
+                "score": 74.52,
                 "meet": "2017 USA Diving Synchronized National Championships"
               },
               {
                 "date": "2017-04-12",
-                "score": 74.52,
+                "score": 59.4,
                 "meet": "2017 USA Diving Synchronized National Championships"
               },
               {
@@ -15815,11 +15817,6 @@
               },
               {
                 "date": "2016-06-18",
-                "score": 88.2,
-                "meet": "2016 U.S. Olympic Team Trials"
-              },
-              {
-                "date": "2016-06-18",
                 "score": 64.8,
                 "meet": "2016 U.S. Olympic Team Trials"
               },
@@ -15829,19 +15826,14 @@
                 "meet": "2016 U.S. Olympic Team Trials"
               },
               {
+                "date": "2016-06-18",
+                "score": 88.2,
+                "meet": "2016 U.S. Olympic Team Trials"
+              },
+              {
                 "date": "2016-04-29",
                 "score": 86.4,
                 "meet": "2016 USA Diving Junior Region 2 Championships"
-              },
-              {
-                "date": "2016-03-31",
-                "score": 59.4,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
-              },
-              {
-                "date": "2016-03-31",
-                "score": 72.0,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
                 "date": "2016-03-31",
@@ -15854,14 +15846,14 @@
                 "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
-                "date": "2015-12-15",
-                "score": 61.2,
-                "meet": "2015 USA Diving Winter National Championships"
+                "date": "2016-03-31",
+                "score": 59.4,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
-                "date": "2015-12-15",
-                "score": 57.6,
-                "meet": "2015 USA Diving Winter National Championships"
+                "date": "2016-03-31",
+                "score": 72.0,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
                 "date": "2015-12-15",
@@ -15871,6 +15863,16 @@
               {
                 "date": "2015-12-15",
                 "score": 81.0,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2015-12-15",
+                "score": 61.2,
+                "meet": "2015 USA Diving Winter National Championships"
+              },
+              {
+                "date": "2015-12-15",
+                "score": 57.6,
                 "meet": "2015 USA Diving Winter National Championships"
               }
             ],
@@ -16143,12 +16145,12 @@
               },
               {
                 "date": "2019-02-27",
-                "score": 92.8,
+                "score": 78.4,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
                 "date": "2019-02-27",
-                "score": 78.4,
+                "score": 92.8,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2019"
               },
               {
@@ -16188,12 +16190,12 @@
               },
               {
                 "date": "2018-02-21",
-                "score": 65.6,
+                "score": 86.4,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
               },
               {
                 "date": "2018-02-21",
-                "score": 86.4,
+                "score": 65.6,
                 "meet": "Big 12 Conference Swimming and Diving Championships 2018"
               },
               {
@@ -16218,6 +16220,11 @@
               },
               {
                 "date": "2017-07-29",
+                "score": 52.8,
+                "meet": "2017 USA Diving National Diving Championships"
+              },
+              {
+                "date": "2017-07-29",
                 "score": 72.0,
                 "meet": "2017 USA Diving National Diving Championships"
               },
@@ -16227,14 +16234,14 @@
                 "meet": "2017 USA Diving National Diving Championships"
               },
               {
-                "date": "2017-07-29",
-                "score": 52.8,
-                "meet": "2017 USA Diving National Diving Championships"
-              },
-              {
                 "date": "2017-06-22",
                 "score": 70.4,
                 "meet": "2017 USA Diving National Preliminary Zone D Championships"
+              },
+              {
+                "date": "2017-05-19",
+                "score": 78.4,
+                "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
                 "date": "2017-05-19",
@@ -16244,11 +16251,6 @@
               {
                 "date": "2017-05-19",
                 "score": 67.2,
-                "meet": "2017 USA Diving FINA World Championships Individual Trials"
-              },
-              {
-                "date": "2017-05-19",
-                "score": 78.4,
                 "meet": "2017 USA Diving FINA World Championships Individual Trials"
               },
               {
@@ -16263,6 +16265,11 @@
               },
               {
                 "date": "2016-06-18",
+                "score": 64.0,
+                "meet": "2016 U.S. Olympic Team Trials"
+              },
+              {
+                "date": "2016-06-18",
                 "score": 67.2,
                 "meet": "2016 U.S. Olympic Team Trials"
               },
@@ -16272,19 +16279,9 @@
                 "meet": "2016 U.S. Olympic Team Trials"
               },
               {
-                "date": "2016-06-18",
-                "score": 64.0,
-                "meet": "2016 U.S. Olympic Team Trials"
-              },
-              {
                 "date": "2016-04-29",
                 "score": 57.6,
                 "meet": "2016 USA Diving Junior Region 2 Championships"
-              },
-              {
-                "date": "2016-03-31",
-                "score": 60.8,
-                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
                 "date": "2016-03-31",
@@ -16294,6 +16291,11 @@
               {
                 "date": "2016-03-31",
                 "score": 57.6,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2016"
+              },
+              {
+                "date": "2016-03-31",
+                "score": 60.8,
                 "meet": "Puerto Rico FINA Diving Grand Prix 2016"
               },
               {
@@ -16323,17 +16325,17 @@
               },
               {
                 "date": "2014-08-12",
+                "score": 44.8,
+                "meet": "2014 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2014-08-12",
                 "score": 62.4,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2014-08-12",
                 "score": 70.4,
-                "meet": "2014 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2014-08-12",
-                "score": 44.8,
                 "meet": "2014 USA Diving ATT Senior National Diving Championships"
               },
               {
@@ -16368,17 +16370,17 @@
               },
               {
                 "date": "2013-08-13",
-                "score": 64.0,
-                "meet": "2013 USA Diving ATT Senior National Diving Championships"
-              },
-              {
-                "date": "2013-08-13",
                 "score": 70.4,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
                 "date": "2013-08-13",
                 "score": 57.6,
+                "meet": "2013 USA Diving ATT Senior National Diving Championships"
+              },
+              {
+                "date": "2013-08-13",
+                "score": 64.0,
                 "meet": "2013 USA Diving ATT Senior National Diving Championships"
               },
               {
@@ -16403,17 +16405,17 @@
               },
               {
                 "date": "2012-08-14",
+                "score": 59.2,
+                "meet": "2012 AT T National Diving Championships"
+              },
+              {
+                "date": "2012-08-14",
                 "score": 41.6,
                 "meet": "2012 AT T National Diving Championships"
               },
               {
                 "date": "2012-08-14",
                 "score": 49.6,
-                "meet": "2012 AT T National Diving Championships"
-              },
-              {
-                "date": "2012-08-14",
-                "score": 59.2,
                 "meet": "2012 AT T National Diving Championships"
               },
               {
@@ -16493,106 +16495,106 @@
         "top_2_avg": 72.44,
         "best_dive_id": "109C",
         "best_dive_avg": 73.87,
-        "grade": 12.1
+        "grade": 9.1
       },
       "Back": {
         "top_2_avg": 61.1,
         "best_dive_id": "205B",
         "best_dive_avg": 64.57,
-        "grade": 10.2
+        "grade": 7.6
       },
       "Reverse": {
         "top_2_avg": 71.54,
         "best_dive_id": "307C",
         "best_dive_avg": 72.01,
-        "grade": 11.9
+        "grade": 8.9
       },
       "Inward": {
         "top_2_avg": 67.5,
         "best_dive_id": "407C",
         "best_dive_avg": 67.88,
-        "grade": 11.2
+        "grade": 8.4
       },
       "Twister": {
         "top_2_avg": 71.59,
         "best_dive_id": "5154B",
         "best_dive_avg": 74.09,
-        "grade": 11.9
+        "grade": 8.9
       },
-      "average_grade": 11.5
+      "average_grade": 8.6
     },
     "1 Meter": {
       "Front": {
         "top_2_avg": 65.38,
         "best_dive_id": "107B",
         "best_dive_avg": 67.93,
-        "grade": 11.5
+        "grade": 8.7
       },
       "Back": {
         "top_2_avg": 57.89,
         "best_dive_id": "205C",
         "best_dive_avg": 60.93,
-        "grade": 10.2
+        "grade": 7.7
       },
       "Reverse": {
         "top_2_avg": 60.01,
         "best_dive_id": "305C",
         "best_dive_avg": 65.0,
-        "grade": 10.5
+        "grade": 8.0
       },
       "Inward": {
         "top_2_avg": 62.97,
         "best_dive_id": "405C",
         "best_dive_avg": 65.13,
-        "grade": 11.0
+        "grade": 8.4
       },
       "Twister": {
         "top_2_avg": 64.78,
         "best_dive_id": "5152B",
         "best_dive_avg": 66.45,
-        "grade": 11.4
+        "grade": 8.6
       },
-      "average_grade": 10.9
+      "average_grade": 8.3
     },
     "Platform": {
       "Front": {
         "top_2_avg": 69.0,
         "best_dive_id": "109C",
         "best_dive_avg": 74.83,
-        "grade": 11.0
+        "grade": 8.1
       },
       "Back": {
         "top_2_avg": 66.03,
         "best_dive_id": "207B",
         "best_dive_avg": 72.0,
-        "grade": 10.5
+        "grade": 7.8
       },
       "Reverse": {
         "top_2_avg": 69.99,
         "best_dive_id": "307C",
         "best_dive_avg": 70.12,
-        "grade": 11.1
+        "grade": 8.2
       },
       "Inward": {
         "top_2_avg": 71.05,
         "best_dive_id": "407C",
         "best_dive_avg": 71.77,
-        "grade": 11.3
+        "grade": 8.4
       },
       "Twister": {
         "top_2_avg": 74.09,
         "best_dive_id": "5255B",
         "best_dive_avg": 77.68,
-        "grade": 11.8
+        "grade": 8.7
       },
       "Armstand": {
         "top_2_avg": 65.14,
         "best_dive_id": "616B",
         "best_dive_avg": 70.86,
-        "grade": 10.3
+        "grade": 7.7
       },
-      "average_grade": 11.0
+      "average_grade": 8.1
     },
-    "overall_average_grade": 11.1
+    "overall_average_grade": 8.3
   }
 }

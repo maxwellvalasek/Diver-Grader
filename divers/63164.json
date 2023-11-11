@@ -1,0 +1,3455 @@
+{
+  "name": "Thomas Dowling",
+  "gender": "M",
+  "age": "19",
+  "id": "63164",
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 15.5,
+                "meet": "2019 FGCDA Spring Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 22.2,
+                "meet": "2019 FGCDA Spring Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 26.35,
+                "meet": "2019 FGCDA Spring Association Championship"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 30.4,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.65
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 44.2,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 48.1,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.15
+          },
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 43.5,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 60.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 58.5,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 54.0,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 58.5,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 43.5,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 54.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 61.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 61.5,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 48.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 54.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 19.0,
+                "meet": "2019 FGCDA Spring Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 22.5,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 58.5,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 54.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 39.0,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 54.0,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 36.0,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 27.0,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 58.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 52.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 52.5,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 34.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 21.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 12,
+            "average_score": 42.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 19.95,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 23.1,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 34.65,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 17.85,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.99
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 36.4,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 25.2,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 42.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 50.4,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 53.2,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 19.6,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 44.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 38.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 21.75,
+                "meet": "2019 FGCDA Spring Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "403B": {
+            "dd": 2.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 40.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 40.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.0
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 40.3,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.3
+          },
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 52.8,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 72.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 54.4,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 59.2,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 69.6,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 51.2,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 43.2,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 48.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 46.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 64.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 44.8,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 55.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 41.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 46.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 44.1,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.03
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 46.25,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.25
+          },
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 43.2,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 49.6,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 64.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 51.2,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 67.2,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 46.4,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 56.0,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 60.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 38.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 60.8,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 59.2,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 54.25
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 29.75,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 33.25,
+                "meet": "2019 FGCDA Spring Association Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 39.6,
+                "meet": "2023 NCAA Div I Mens Swimming and Diving Championship"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 42.0,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-09",
+                "score": 43.2,
+                "meet": "2023 NCAA ZONE C CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 42.0,
+                "meet": "Louisville Last Chance I AM"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 43.2,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 39.6,
+                "meet": "Purdue Invitational"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 36.0,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 40.8
+          },
+          "6241B": {
+            "dd": 2.7,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 45.9,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 37.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 44.55,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 37.8,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.51
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 34.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 34.85,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 34.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 42.5,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 32.3,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 32.3,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 30.6,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 37.4,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 35.7,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 33.15,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 30.6,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 30.6,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 30.6,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 33.15,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 33.15,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 24.65,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 16,
+            "average_score": 33.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 32.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 25.6,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 49.4,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 46.8,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 50.7,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 50.7,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 46.8,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 42.9,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 46.8,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 46.8,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 50.7,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 53.3,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 58.5,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 48.1,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 52.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 66.3,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 45.5,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 49.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 40.3,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 48.1,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 45.5,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 55.9,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 36.4,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 31.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 39.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.3,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 42.9,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 41.6,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 46.8,
+                "meet": "Seahawks Diving Invite"
+              }
+            ],
+            "count": 27,
+            "average_score": 47.14
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-01-26",
+                "score": 42.0,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          },
+          "107C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 39.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 45.0,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 36.0,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 49.5,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 45.0,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 40.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 36.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 41.57
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 31.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 33.6,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 38.4,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 35.2,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 22.4,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 31.2,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 23.2,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 26.4,
+                "meet": "2019 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 30.13
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 27.0,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 32.25,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 26.25,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 27.0,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 24.0,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 30.75,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 30.75,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 28.12
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 41.4,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 20.7,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 31.05,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 41.4,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 34.5,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 39.1,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 23.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 47.15,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 49.45,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 51.75,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 32.2,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 39.1,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.6,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 18.4,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 26.45,
+                "meet": "2019 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 15,
+            "average_score": 34.88
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-16",
+                "score": 31.0,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 35.0,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 30.0,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 26.0,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.5
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 38.25,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 36.0,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 37.5,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 34.5,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 22.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 31.5,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 33.0,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 31.92
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 33.15,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.75,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 39.95,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 39.1,
+                "meet": "FHSAA District 11"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.49
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 14.4,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 10.4,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 28.8,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.2,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 28.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 25.6,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 28.8,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 26.4,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 24.36
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 26.4,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 31.5,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 22.05,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 31.5,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 28.35,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 33.6,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 30.45,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 26.25,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 28.35,
+                "meet": "Wendy Wyland Memorial Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 29.01
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 39.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 11.25,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 49.5,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 40.5,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 31.5,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 29.25,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 33.75,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 31.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 30.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 37.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 39.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 60.0,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 18.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 24.0,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 19.5,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              }
+            ],
+            "count": 16,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 30.75,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.25,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 33.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 38.25,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 29.25,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 27.75,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 27.75,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 25.5,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 31.5,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 29.25,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 26.25,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 24.75,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.75,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 28.5,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 27.0,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 27.0,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 31.5,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 17,
+            "average_score": 29.12
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 39.6,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 48.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 49.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 52.8,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 50.4,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 57.6,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 57.6,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 45.6,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 46.8,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 43.2,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 49.08
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 57.35,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 53.48,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 58.13,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 55.8,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 27.9,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 44.18,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 51.15,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 55.8,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 54.25,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 41.85,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 57.35,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 43.4,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 71.3,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 66.65,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 37.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.1,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 41.85,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 48.05,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 41.85,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 48.05,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 48.05,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 38.75,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 38.75,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 48.05,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 54.25,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 27.9,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 46.5,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 40.3,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 28,
+            "average_score": 47.58
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 36.3,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 41.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 46.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 50.6,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 53.9,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 38.5,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 42.9,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 37.4,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 39.6,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 42.9,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 36.3,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 34.1,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 36.3,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 36.3,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 35.2,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 27.5,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 38.5,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 34.1,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 18,
+            "average_score": 39.36
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 46.8,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 53.3,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 36.4,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 45.5
+          },
+          "5152B": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 43.2,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 43.2,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 50.4,
+                "meet": "UL vs UCIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 52.8,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 40.8,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 0.0,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 41.6,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 51.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 40.4
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 46.88,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 48.75,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 55.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 61.25,
+                "meet": "FHSAA District 11"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 50.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 47.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 48.75,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 51.25,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 46.25,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 45.0,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 42.5,
+                "meet": "2019 YCF Diving Christmas Invitational"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 42.5,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 38.75,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.5,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 38.75,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 45.0,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 43.75,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 36.25,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 18,
+            "average_score": 45.87
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 32.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 31.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 31.2,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 32.8,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 29.6,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 28.8,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 27.2,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 29.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.3
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 27.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 26.25,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.75,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 28.5,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 31.5,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 24.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-20",
+                "score": 45.0,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 43.2,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 39.6,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 42.0,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 43.2,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.6
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 60.45,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 55.8,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 62.78,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 44.18,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 51.15,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 53.48,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 48.83,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 58.9,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 55.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 57.35,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 57.35,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 35.65,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 51.15,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 54.25,
+                "meet": "2021 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 14,
+            "average_score": 53.37
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 50.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 54.6,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 60.2,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 50.4,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 63.0,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 35.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 42.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 42.0,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 39.2,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 35.0,
+                "meet": "Seahawks Diving Invite"
+              }
+            ],
+            "count": 10,
+            "average_score": 47.18
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 31.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.1,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 33.3,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.3
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 28.05,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 30.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 31.45,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 33.15,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 34.85,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 27.2,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 30.6,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 25.5,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 29.75,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 31.45,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 22.1,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 26.35,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 29.25
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 17.1,
+                "meet": "UL vs Xavier University"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 51.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 31.5,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 33.75,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 40.5,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 29.25,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 56.25,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 40.5,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 49.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 36.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 54.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 48.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 34.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 30.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 41.13
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 28.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 28.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 33.6,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 49.0,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 21.0,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 35.0,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 0.0,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 42.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 47.6,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 22.4,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 28.0,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 25.2,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 43.4,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 25.2,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 14,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 37.05,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 33.25,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 36.1,
+                "meet": "2022 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.47
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 25.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 27.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 13.5,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 27.0,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 37.8,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 21.6,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 29.7,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 25.2,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 15.3,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 25.2,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 19.8,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 24.75
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 18.0,
+                "meet": "UL vs Xavier University"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 47.25,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 51.75,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 38.25,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 45.0,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 27.0,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 27.0,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 18.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 36.47
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 42.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 36.4,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 42.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 35.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 21.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 37.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 22.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 0.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 23.8,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 0.0,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 37.8,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 27.11
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-09-30",
+                "score": 40.95,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 40.95,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 45.15,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 36.75,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 40.95,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 37.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 37.8,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 40.95,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 40.95,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 32.55,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.95,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 34.65,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 31.5,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 30.45,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 34.65,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 33.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 16,
+            "average_score": 37.54
+          },
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 52.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 40.5,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 47.25,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 65.25,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 45.0,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 49.5,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 51.75,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 40.5,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 54.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 54.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 58.5,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 61.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 60.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 48.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.5,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 15,
+            "average_score": 51.05
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 49.95,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 43.2,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 0.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 40.5,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 47.25,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 43.2,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 44.55,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 43.2,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 39.15,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 37.8,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 38.88
+          },
+          "407C": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.7,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 45.9,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.7,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 37.4,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 40.8,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 44.2,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 49.3,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-06-24",
+                "score": 51.0,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 23.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 0.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 39.1,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 32.3,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 47.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 37.14
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 38.85,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 39.9,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 34.65,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 33.6,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 39.9,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 31.5,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 35.7,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 34.91
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 43.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 51.75,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 56.25,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 63.0,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 49.5,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 56.25,
+                "meet": "ND vs UL"
+              },
+              {
+                "date": "2022-10-20",
+                "score": 56.25,
+                "meet": "UL vs TENN"
+              },
+              {
+                "date": "2022-09-30",
+                "score": 31.5,
+                "meet": "UL vs Xavier University"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 49.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 60.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-03-03",
+                "score": 63.0,
+                "meet": "2022 Moose Moss Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 58.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 57.0,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 55.5,
+                "meet": "2022 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 0.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 43.5,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 34.5,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 51.0,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 13.5,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 20,
+            "average_score": 46.05
+          },
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.85,
+                "meet": "UTAH vs LSU"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 58.65,
+                "meet": "Louisville First Chance"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 51.0,
+                "meet": "UK vs UL"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 53.55,
+                "meet": "MIZ vs UL"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 52.7,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 46.75
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 40.8,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 31.2,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 49.2,
+                "meet": "2021 Coral Springs Winter Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 46.8,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 42.0,
+                "meet": "Jupiter Diving Club Invitational"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 39.6,
+                "meet": "2019 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.8,
+                "meet": "2019 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2019-03-16",
+                "score": 45.6,
+                "meet": "David Nielsen Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 37.2,
+                "meet": "Wendy Wyland Memorial Invite"
+              },
+              {
+                "date": "2019-02-16",
+                "score": 34.8,
+                "meet": "Seahawks Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 30.0,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 31.2,
+                "meet": "2019 Orlando All Star Invitational"
+              },
+              {
+                "date": "2019-01-26",
+                "score": 32.4,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 38.58
+          },
+          "5253B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 44.2,
+                "meet": "2021 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 42.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 32.3,
+                "meet": "2020 Orlando All Star Invitational"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 44.2,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 52.94,
+        "best_dive_id": "107B",
+        "best_dive_avg": 54.3,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 40.69,
+        "best_dive_id": "205C",
+        "best_dive_avg": 42.5,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 33.05,
+        "best_dive_id": "305C",
+        "best_dive_avg": 38.8,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 53.82,
+        "best_dive_id": "407C",
+        "best_dive_avg": 55.05,
+        "grade": 6.3
+      },
+      "Twister": {
+        "top_2_avg": 53.58,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 54.25,
+        "grade": 6.3
+      },
+      "Armstand": {
+        "top_2_avg": 41.06,
+        "best_dive_id": "6241B",
+        "best_dive_avg": 41.51,
+        "grade": 4.8
+      },
+      "average_grade": 5.4
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 46.96,
+        "best_dive_id": "105B",
+        "best_dive_avg": 47.14,
+        "grade": 6.3
+      },
+      "Back": {
+        "top_2_avg": 33.77,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.88,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 32.86,
+        "best_dive_id": "301B",
+        "best_dive_avg": 35.49,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 47.97,
+        "best_dive_id": "403B",
+        "best_dive_avg": 49.08,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 45.82,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 45.87,
+        "grade": 6.1
+      },
+      "average_grade": 5.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 50.79,
+        "best_dive_id": "107B",
+        "best_dive_avg": 53.37,
+        "grade": 6.3
+      },
+      "Back": {
+        "top_2_avg": 39.66,
+        "best_dive_id": "205B",
+        "best_dive_avg": 41.13,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 36.2,
+        "best_dive_id": "305B",
+        "best_dive_avg": 36.47,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 46.18,
+        "best_dive_id": "405B",
+        "best_dive_avg": 51.05,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 46.19,
+        "best_dive_id": "5154B",
+        "best_dive_avg": 46.75,
+        "grade": 5.8
+      },
+      "average_grade": 5.5
+    },
+    "overall_average_grade": 5.5
+  }
+}

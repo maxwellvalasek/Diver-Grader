@@ -1,0 +1,642 @@
+{
+  "name": "Theoryn Pyke",
+  "gender": "M",
+  "age": "11",
+  "id": "77123",
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 20.7,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 25.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 19.8,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.94
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 24.65,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 26.35,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 24.0,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 19.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.67
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 24.75,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 16.5,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.9,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 25.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.27
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 23.0,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 28.8,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 28.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 20.8,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 18.0,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 19.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.12
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 23.2,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 22.4,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 25.6,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.73
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 19.8,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 25.2,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 18.9,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 23.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.78
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-22",
+                "score": 11.2,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 31.35,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 0.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.68
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 19.5,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 16.5,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 30.4,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 29.45,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.92
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 0.0,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 33.25,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.62
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 25.5,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 18.7,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 14.95,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 17.55,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.25
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 13.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 19.2,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 12.0,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.4,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 19.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 19.5,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 22.5,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 23.25,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 20.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.4,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 28.8,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 14.0,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 17.5,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 20.3,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 18.9,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.67
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-23",
+                "score": 6.8,
+                "meet": "2023 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 17.0,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 17.85,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 20.4,
+                "meet": "2022 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.51
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.39,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 24.06,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.27,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 23.35,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.73,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 20.02,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.78,
+        "grade": 2.7
+      },
+      "average_grade": 3.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.84,
+        "best_dive_id": "103C",
+        "best_dive_avg": 18.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 29.92,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.92,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 19.36,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.1,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 16.25,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.25,
+        "grade": 2.0
+      },
+      "average_grade": 2.6
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 17.2,
+        "best_dive_id": "103C",
+        "best_dive_avg": 18.2,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 21.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 21.75,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 28.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 17.67,
+        "best_dive_id": "401C",
+        "best_dive_avg": 17.67,
+        "grade": 2.1
+      },
+      "Armstand": {
+        "top_2_avg": 15.51,
+        "best_dive_id": "612B",
+        "best_dive_avg": 15.51,
+        "grade": 1.8
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.6
+  }
+}
