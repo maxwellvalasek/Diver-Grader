@@ -1,0 +1,79 @@
+{
+  "name": "Sophia Abraham",
+  "gender": "F",
+  "age": "9",
+  "id": 101667,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 14.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 11.2,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 6.75,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 11.2,
+        "best_dive_id": "101A",
+        "best_dive_avg": 11.2,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 6.75,
+        "best_dive_id": "200C",
+        "best_dive_avg": 6.75,
+        "grade": 0.8
+      },
+      "average_grade": 1.1
+    },
+    "overall_average_grade": 1.1
+  }
+}

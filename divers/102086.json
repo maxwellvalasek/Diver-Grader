@@ -1,0 +1,245 @@
+{
+  "name": "Brecken  Ciocchetti",
+  "gender": "F",
+  "age": "11",
+  "id": 102086,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 0.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 20.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5201A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5201A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 14.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 20.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 20.5,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "5201A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.75,
+        "best_dive_id": "100A",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.5,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "5301A",
+        "best_dive_avg": 15.5,
+        "grade": 2.0
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.2
+  }
+}

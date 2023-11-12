@@ -1,0 +1,345 @@
+{
+  "name": "Rodolfo Vazquez ",
+  "gender": "M",
+  "age": "18",
+  "id": 102449,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.45,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 56.55,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 50.03,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 51.75,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 50.89
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 38.25,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 47.25,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 55.8,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 67.43,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 61.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 52.8,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 64.8,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.8
+          },
+          "5335D": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 67.5,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 65.25,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 66.38
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 54.0,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.45,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 44.18,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.31
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 63.0,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 49.5,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 56.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.75,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 65.25,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 63.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 63.0,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 56.25,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 59.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.75,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 60.75,
+                "meet": "UNCW vs UNC"
+              }
+            ],
+            "count": 2,
+            "average_score": 60.75
+          },
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 51.0,
+                "meet": "SCAR vs UNC"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 58.5,
+        "best_dive_id": "105B",
+        "best_dive_avg": 58.5,
+        "grade": 7.8
+      },
+      "Back": {
+        "top_2_avg": 50.89,
+        "best_dive_id": "203B",
+        "best_dive_avg": 50.89,
+        "grade": 6.8
+      },
+      "Reverse": {
+        "top_2_avg": 42.75,
+        "best_dive_id": "305C",
+        "best_dive_avg": 42.75,
+        "grade": 5.7
+      },
+      "Inward": {
+        "top_2_avg": 61.62,
+        "best_dive_id": "405C",
+        "best_dive_avg": 61.62,
+        "grade": 8.2
+      },
+      "Twister": {
+        "top_2_avg": 62.59,
+        "best_dive_id": "5335D",
+        "best_dive_avg": 66.38,
+        "grade": 8.3
+      },
+      "average_grade": 7.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 52.87,
+        "best_dive_id": "105B",
+        "best_dive_avg": 54.0,
+        "grade": 6.6
+      },
+      "Back": {
+        "top_2_avg": 56.25,
+        "best_dive_id": "205B",
+        "best_dive_avg": 56.25,
+        "grade": 7.0
+      },
+      "Reverse": {
+        "top_2_avg": 63.0,
+        "best_dive_id": "305B",
+        "best_dive_avg": 63.0,
+        "grade": 7.9
+      },
+      "Inward": {
+        "top_2_avg": 59.62,
+        "best_dive_id": "405B",
+        "best_dive_avg": 59.62,
+        "grade": 7.5
+      },
+      "Twister": {
+        "top_2_avg": 57.5,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 60.75,
+        "grade": 7.2
+      },
+      "average_grade": 7.2
+    },
+    "overall_average_grade": 7.3
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Daeges  Morgan",
+  "gender": "F",
+  "age": "19",
+  "id": 102838,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.2,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.0,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.2,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 41.8,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.7,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.35,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "201B",
+        "best_dive_avg": 28.0,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 41.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 41.8,
+        "grade": 5.6
+      },
+      "Twister": {
+        "top_2_avg": 23.52,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.35,
+        "grade": 3.1
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

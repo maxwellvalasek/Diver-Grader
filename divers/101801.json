@@ -1,0 +1,75 @@
+{
+  "name": "Dev Gill",
+  "gender": "M",
+  "age": "11",
+  "id": 101801,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 10.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 11.05,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 16.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.53,
+        "best_dive_id": "101A",
+        "best_dive_avg": 11.05,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "201A",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

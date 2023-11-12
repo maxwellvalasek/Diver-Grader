@@ -1,0 +1,186 @@
+{
+  "name": "Robert Sarama",
+  "gender": "M",
+  "age": "10",
+  "id": 101275,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 11.5,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 11.5,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.25,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 7.25,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 0.0,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 0.0,
+                "meet": "Kenwood @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 3.38
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 12.6,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 16.8,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 17.5,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 15.4,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 16.8,
+                "meet": "Kenwood @ Bethesda"
+              }
+            ],
+            "count": 5,
+            "average_score": 15.82
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 0.0,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 5.5,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 5.25,
+                "meet": "Kenwood @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 5.38
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 10.2,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 15.3,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.29,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.82,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 6.99,
+        "best_dive_id": "201A",
+        "best_dive_avg": 10.2,
+        "grade": 0.9
+      },
+      "Twister": {
+        "top_2_avg": 15.3,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 15.3,
+        "grade": 2.0
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

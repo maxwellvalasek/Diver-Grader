@@ -1,0 +1,56 @@
+{
+  "name": "Teddy George",
+  "gender": "M",
+  "age": "8",
+  "id": 101276,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 12.0,
+                "meet": "Bethesda @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 5.75,
+                "meet": "Bethesda @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 5.75,
+        "best_dive_id": "100A",
+        "best_dive_avg": 5.75,
+        "grade": 0.8
+      },
+      "average_grade": 0.8
+    },
+    "overall_average_grade": 0.8
+  }
+}

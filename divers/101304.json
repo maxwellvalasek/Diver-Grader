@@ -1,0 +1,143 @@
+{
+  "name": "Patrick Pollock",
+  "gender": "M",
+  "age": "8",
+  "id": 101304,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 9.8,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-17",
+                "score": 16.8,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 18.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 16.1,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 18.9,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 18.9,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.57
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 15.4,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 16.1,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 14.7,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 15.4,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 16.8,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 5,
+            "average_score": 15.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 0.0,
+                "meet": "Congo @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 5.4,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.17,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.57,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "201A",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Twister": {
+        "top_2_avg": 5.4,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 5.4,
+        "grade": 0.7
+      },
+      "average_grade": 1.0
+    },
+    "overall_average_grade": 1.0
+  }
+}

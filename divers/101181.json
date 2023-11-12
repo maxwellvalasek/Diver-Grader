@@ -1,0 +1,217 @@
+{
+  "name": "William Archer",
+  "gender": "M",
+  "age": "15",
+  "id": 101181,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 19.8,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 20.4,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 19.8,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 15.6,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.9
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 21.7,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 22.4,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 21.7,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.93
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 19.2,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 20.4,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 19.55,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 15.3,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 17.85,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.27
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 18.75,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 22.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 16.5,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 16.5,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.56
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 23.8,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 23.1,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 21.0,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.23
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 17.85,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "102C",
+        "best_dive_avg": 21.93,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 18.41,
+        "best_dive_id": "202C",
+        "best_dive_avg": 18.56,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 22.23,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.23,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

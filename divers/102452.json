@@ -1,0 +1,277 @@
+{
+  "name": "Troy Borrero",
+  "gender": "M",
+  "age": "18",
+  "id": 102452,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.0,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 37.05,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.05
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.4,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.93,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.93,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 23.4,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 34.65,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.5,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.33,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.33
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 37.95,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 39.68,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.68
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 44.55,
+                "meet": "KALC vs AC"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.0,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 31.72,
+        "best_dive_id": "201A",
+        "best_dive_avg": 37.05,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 29.93,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.93,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 29.93,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.93,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 23.4,
+        "grade": 2.9
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.65,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.65,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "203C",
+        "best_dive_avg": 28.5,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 29.33,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.33,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 37.95,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.95,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 42.11,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 44.55,
+        "grade": 5.6
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.0
+  }
+}

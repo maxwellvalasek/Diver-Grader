@@ -1,0 +1,118 @@
+{
+  "name": "Abigail Whittington",
+  "gender": "F",
+  "age": "7",
+  "id": 101120,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 14.5,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 11.0,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 14.5,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 15.0,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 15.0,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 12.0,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.0,
+        "grade": 1.8
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

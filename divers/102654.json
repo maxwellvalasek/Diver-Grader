@@ -1,0 +1,199 @@
+{
+  "name": "Luciana Staudinger ",
+  "gender": "F",
+  "age": "10",
+  "id": 102654,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 0.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.4,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 12.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 11.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 8.7,
+        "best_dive_id": "101C",
+        "best_dive_avg": 17.4,
+        "grade": 1.2
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "average_grade": 1.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 13.0,
+        "best_dive_id": "100C",
+        "best_dive_avg": 14.5,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200B",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

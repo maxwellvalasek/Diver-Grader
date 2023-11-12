@@ -1,0 +1,144 @@
+{
+  "name": "Jake Burns",
+  "gender": "M",
+  "age": "19",
+  "id": 93432,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 23.2,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 18.75,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 21.6,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 18.2,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 24.0,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 17.85,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.2,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 18.75,
+        "best_dive_id": "202C",
+        "best_dive_avg": 18.75,
+        "grade": 2.5
+      },
+      "Reverse": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 21.1,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

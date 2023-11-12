@@ -1,0 +1,156 @@
+{
+  "name": "Nikita Hains",
+  "gender": "F",
+  "age": "23",
+  "id": 100781,
+  "events": {
+    "Platform": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 61.5,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 42.0,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 54.6,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 61.6,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 40.0,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 32.0,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 52.8,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 54.4,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 53.6
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 64.0,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 72.0,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 68.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 51.75,
+        "best_dive_id": "107B",
+        "best_dive_avg": 51.75,
+        "grade": 6.1
+      },
+      "Reverse": {
+        "top_2_avg": 58.1,
+        "best_dive_id": "305C",
+        "best_dive_avg": 58.1,
+        "grade": 6.8
+      },
+      "Inward": {
+        "top_2_avg": 36.0,
+        "best_dive_id": "407C",
+        "best_dive_avg": 36.0,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 53.6,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 53.6,
+        "grade": 6.3
+      },
+      "Armstand": {
+        "top_2_avg": 68.0,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 68.0,
+        "grade": 8.0
+      },
+      "average_grade": 6.3
+    },
+    "overall_average_grade": 6.3
+  }
+}

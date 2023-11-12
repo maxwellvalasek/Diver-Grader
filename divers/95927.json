@@ -1,0 +1,383 @@
+{
+  "name": "Tristan  Rodriguez ",
+  "gender": "M",
+  "age": "17",
+  "id": 95927,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 27.3,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 29.7,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 30.75,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 39.6,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.15,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.15
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 27.9,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.9
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.35,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 36.1,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.73
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 42.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 43.2,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.1,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 30.6,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.85
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 33.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 49.2,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 24.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 36.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.6,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 28.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.4,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 39.6,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 41.25,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 35.17,
+        "best_dive_id": "105C",
+        "best_dive_avg": 39.6,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 35.15,
+        "best_dive_id": "203C",
+        "best_dive_avg": 35.15,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 32.45,
+        "best_dive_id": "303C",
+        "best_dive_avg": 37.0,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 33.73,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.73,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 42.6,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 43.2,
+        "grade": 5.3
+      },
+      "average_grade": 4.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 41.1,
+        "best_dive_id": "105C",
+        "best_dive_avg": 49.2,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 30.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 36.0,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 33.6,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.6,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 35.0,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.5,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 41.25,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 41.25,
+        "grade": 5.5
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.7
+  }
+}

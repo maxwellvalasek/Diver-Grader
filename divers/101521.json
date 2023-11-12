@@ -1,0 +1,122 @@
+{
+  "name": "Grayson Latimer",
+  "gender": "M",
+  "age": "4",
+  "id": 101521,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 11.0,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 14.0,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 10.5,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 3,
+            "average_score": 11.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 6.0,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.25,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 7.25,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 5.5,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 4,
+            "average_score": 6.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 14.7,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 13.3,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 5.0,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 8.83,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.0,
+        "grade": 1.2
+      },
+      "Back": {
+        "top_2_avg": 5.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 5.0,
+        "grade": 0.7
+      },
+      "average_grade": 0.9
+    },
+    "overall_average_grade": 0.9
+  }
+}

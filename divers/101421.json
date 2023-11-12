@@ -1,0 +1,75 @@
+{
+  "name": "Addison Cummings",
+  "gender": "F",
+  "age": "10",
+  "id": 101421,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 18.2,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 7.5,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 21.25,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 14.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.25,
+        "grade": 1.9
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Cho Zama",
+  "gender": "M",
+  "age": "10",
+  "id": 101287,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 8.0,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 0.0,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 4.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.75,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.75,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 7.0,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 4,
+            "average_score": 6.75
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 11.9,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 11.2,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.75,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.5,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 6.5,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 4,
+            "average_score": 6.56
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 8.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 11.55,
+        "grade": 1.1
+      },
+      "Back": {
+        "top_2_avg": 6.56,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.56,
+        "grade": 0.9
+      },
+      "average_grade": 1.0
+    },
+    "overall_average_grade": 1.0
+  }
+}

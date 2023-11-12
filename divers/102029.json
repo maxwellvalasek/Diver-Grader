@@ -1,0 +1,111 @@
+{
+  "name": "Asa Keim",
+  "gender": "M",
+  "age": "16",
+  "id": 102029,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 33.15,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 31.9,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 28.6,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 28.5,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5322D": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 28.0,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.52,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 28.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 28.25,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 28.5,
+        "grade": 3.8
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "name": "Archer Kouhestani",
+  "gender": "M",
+  "age": "11",
+  "id": 101512,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 22.2,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 20.4,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 21.0,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 21.6,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.3
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 24.0,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 32.0,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 24.0,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 26.4,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 34.0,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 33.15,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 31.45,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 33.15,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.94
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 31.5,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 25.2,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 33.25,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 23.75,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 28.5,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.95,
+        "best_dive_id": "103C",
+        "best_dive_avg": 26.6,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 32.65,
+        "best_dive_id": "201A",
+        "best_dive_avg": 32.94,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 28.5,
+        "grade": 3.8
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "name": "Rachel Simon",
+  "gender": "F",
+  "age": "9",
+  "id": 101731,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 14.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 13.65,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 13.6,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.82,
+        "best_dive_id": "100D",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "201A",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

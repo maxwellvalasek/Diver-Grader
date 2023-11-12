@@ -1,0 +1,118 @@
+{
+  "name": "Layla Royce",
+  "gender": "F",
+  "age": "13",
+  "id": 102741,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 12.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 13.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

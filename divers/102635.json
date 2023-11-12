@@ -1,0 +1,209 @@
+{
+  "name": "Robert Harris",
+  "gender": "M",
+  "age": "15",
+  "id": 102635,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 23.8,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 22.4,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 16.5,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 30.75,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 34.0,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 34.4,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.4
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 14.7,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 15.4,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.4
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 19.2,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211D": {
+            "dd": "DD Not Found",
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 9.6,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.6
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 22.1,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 32.38,
+        "best_dive_id": "204C",
+        "best_dive_avg": 34.0,
+        "grade": 4.3
+      },
+      "Reverse": {
+        "top_2_avg": 24.55,
+        "best_dive_id": "302C",
+        "best_dive_avg": 34.4,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 17.3,
+        "best_dive_id": "402C",
+        "best_dive_avg": 19.2,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 15.85,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 22.1,
+        "grade": 2.1
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

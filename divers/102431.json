@@ -1,0 +1,141 @@
+{
+  "name": "Ines Wickwire",
+  "gender": "F",
+  "age": "14",
+  "id": 102431,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.0,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 19.5,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 33.15,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 27.5,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 19.5,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.9,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.9,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.32,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 24.2,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.9,
+        "grade": 3.5
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.6
+  }
+}

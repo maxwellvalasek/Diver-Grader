@@ -1,0 +1,92 @@
+{
+  "name": "Julieta Santin",
+  "gender": "F",
+  "age": "9",
+  "id": 100767,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 17.5,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 12.5,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 15.0,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 18.0,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

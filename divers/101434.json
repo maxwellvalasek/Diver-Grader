@@ -1,0 +1,65 @@
+{
+  "name": "Harlowe Mclaughin",
+  "gender": "F",
+  "age": "9",
+  "id": 101434,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 5.75,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.75
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 5.5,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 5.5,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 5.62,
+        "best_dive_id": "100A",
+        "best_dive_avg": 5.75,
+        "grade": 0.8
+      },
+      "average_grade": 0.8
+    },
+    "overall_average_grade": 0.8
+  }
+}

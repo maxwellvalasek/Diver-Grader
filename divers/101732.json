@@ -1,0 +1,75 @@
+{
+  "name": "Claire  Rivers",
+  "gender": "F",
+  "age": "9",
+  "id": 101732,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 12.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 14.3,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 17.6,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.15,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.3,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 17.6,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.6,
+        "grade": 2.3
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

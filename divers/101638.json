@@ -1,0 +1,90 @@
+{
+  "name": "Gracie Barr",
+  "gender": "F",
+  "age": "11",
+  "id": 101638,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 6.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 18.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 18.2,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 25.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 21.25,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.38
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.53,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.55,
+        "grade": 1.7
+      },
+      "Back": {
+        "top_2_avg": 23.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.38,
+        "grade": 3.1
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

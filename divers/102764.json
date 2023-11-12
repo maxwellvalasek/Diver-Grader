@@ -1,0 +1,105 @@
+{
+  "name": "Lock Sleeper",
+  "gender": "M",
+  "age": "7",
+  "id": 102764,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 21.6,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 18.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 15.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 16.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 14.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.25,
+        "best_dive_id": "100A",
+        "best_dive_avg": 18.5,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.9
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

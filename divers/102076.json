@@ -1,0 +1,205 @@
+{
+  "name": "Alexis Thibodeau",
+  "gender": "F",
+  "age": "14",
+  "id": 102076,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 13.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 17.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.2,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 19.6,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 23.2,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 23.8,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 21.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "average_grade": 2.0
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.4,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.2,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.5
+  }
+}

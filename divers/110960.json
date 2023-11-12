@@ -1,0 +1,144 @@
+{
+  "name": "Lachlan Fraser",
+  "gender": "M",
+  "age": "14",
+  "id": 110960,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 22.4,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.9,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.65,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.8,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 21.0,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 0.0,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "103C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 26.77,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

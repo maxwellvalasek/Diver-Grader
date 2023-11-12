@@ -1,0 +1,153 @@
+{
+  "name": "Christian Repellin",
+  "gender": "M",
+  "age": "8",
+  "id": 101208,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 6.0,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.25,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 3.75,
+                "meet": "Bethesda @ Manor"
+              }
+            ],
+            "count": 3,
+            "average_score": 5.33
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 14.0,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 18.2,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 17.5,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 12.6,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 10.5,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 14.7,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 6,
+            "average_score": 14.58
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 17.85,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 18.7,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.27
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 4.5,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 18.9,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 19.8,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 18.9,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.53
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 11.5,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.58,
+        "grade": 1.5
+      },
+      "Back": {
+        "top_2_avg": 18.27,
+        "best_dive_id": "201A",
+        "best_dive_avg": 18.27,
+        "grade": 2.4
+      },
+      "Twister": {
+        "top_2_avg": 15.53,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 15.53,
+        "grade": 2.1
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

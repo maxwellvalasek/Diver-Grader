@@ -1,0 +1,114 @@
+{
+  "name": "Mary Kildea",
+  "gender": "F",
+  "age": "7",
+  "id": 101300,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 12.0,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 13.5,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 11.5,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.33
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 15.4,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 15.4,
+                "meet": "Congo @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.25,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.25,
+                "meet": "Congo @ Bethesda"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.25,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 6.75,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 4.5,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 5,
+            "average_score": 6.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.4,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 6.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.0,
+        "grade": 0.8
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

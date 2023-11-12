@@ -1,0 +1,170 @@
+{
+  "name": "Savannah Archuleta",
+  "gender": "F",
+  "age": "16",
+  "id": 93801,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.4,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 24.8,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 27.2,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.4,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 20.3,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 25.6,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 23.75,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 31.05,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.6,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "402C",
+        "best_dive_avg": 25.6,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 27.4,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 31.05,
+        "grade": 3.7
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

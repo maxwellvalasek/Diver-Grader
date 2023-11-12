@@ -1,0 +1,121 @@
+{
+  "name": "Noah Paulson",
+  "gender": "M",
+  "age": "9",
+  "id": 101597,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 6.0,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 5.25,
+                "meet": "Bethesda @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 10.8,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 12.6,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 15.0,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 12.0,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 12.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 9.1,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 11.9,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 2,
+            "average_score": 10.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 6.8,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 11.9,
+        "best_dive_id": "101C",
+        "best_dive_avg": 12.6,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 6.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 6.8,
+        "grade": 0.9
+      },
+      "average_grade": 1.2
+    },
+    "overall_average_grade": 1.2
+  }
+}

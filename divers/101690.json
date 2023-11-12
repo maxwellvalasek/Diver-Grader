@@ -1,0 +1,62 @@
+{
+  "name": "Isah Palaniswamy",
+  "gender": "M",
+  "age": "8",
+  "id": 101690,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 13.3,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 14.0,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.65
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 16.1,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 18.2,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "102C",
+        "best_dive_avg": 17.15,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

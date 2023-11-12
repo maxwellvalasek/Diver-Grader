@@ -1,0 +1,62 @@
+{
+  "name": "Grace Douglas",
+  "gender": "F",
+  "age": "6",
+  "id": 101483,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 17.5,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 5.25,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "101A",
+        "best_dive_avg": 17.5,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 5.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 5.25,
+        "grade": 0.7
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.5
+  }
+}

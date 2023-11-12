@@ -1,0 +1,135 @@
+{
+  "name": "Avery Seymour",
+  "gender": "F",
+  "age": "9",
+  "id": 101376,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 16.8,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.0,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 17.5,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 23.1,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 18.2,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 19.32
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 19.6,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.7,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 23.8,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 23.1,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 15.4,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.72
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 20.4,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 25.5,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 20.4,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 24.65,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 18.7,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.93
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.02,
+        "best_dive_id": "102C",
+        "best_dive_avg": 20.72,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 21.93,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.93,
+        "grade": 2.9
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

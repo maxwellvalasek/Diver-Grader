@@ -1,0 +1,92 @@
+{
+  "name": "Rebecca Pinsky",
+  "gender": "F",
+  "age": "11",
+  "id": 102435,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 18.0,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 23.8,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 23.1,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 18.0,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.45,
+        "best_dive_id": "101A",
+        "best_dive_avg": 23.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

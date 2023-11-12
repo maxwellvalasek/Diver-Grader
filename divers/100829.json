@@ -1,0 +1,121 @@
+{
+  "name": "Brooklyn Crompton",
+  "gender": "F",
+  "age": "16",
+  "id": 100829,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 29.75,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 25.5,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 11.9,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 28.5,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 22.8,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.75,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "202A",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 11.9,
+        "best_dive_id": "301B",
+        "best_dive_avg": 11.9,
+        "grade": 1.6
+      },
+      "Twister": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 28.5,
+        "grade": 3.4
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "name": "Morgan  Gill",
+  "gender": "F",
+  "age": "7",
+  "id": 101186,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 10.5,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 13.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 11.5,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 11.0,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 4,
+            "average_score": 11.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 12.0,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 13.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 12.0,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 11.5,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 12.12
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 14.7,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "WGCC @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.7,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 6.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.5,
+        "grade": 0.9
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

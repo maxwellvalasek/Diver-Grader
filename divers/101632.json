@@ -1,0 +1,114 @@
+{
+  "name": "Connor Faught",
+  "gender": "M",
+  "age": "7",
+  "id": 101632,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 10.0,
+                "meet": "Bethesda @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 17.5,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 19.6,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 16.8,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 17.5,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 16.8,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.64
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 6.5,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 6.75,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 6.5,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 6.56
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.64,
+        "best_dive_id": "101A",
+        "best_dive_avg": 17.64,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 6.56,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.56,
+        "grade": 0.9
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.6
+  }
+}

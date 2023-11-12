@@ -1,0 +1,345 @@
+{
+  "name": "Lydia Georgopoulou",
+  "gender": "F",
+  "age": "19",
+  "id": 102382,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.9,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 29.33,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 26.78,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.34
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 40.25,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 34.5,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 34.5,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.55,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 39.38,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.5,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.48
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 42.0,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 50.4,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 37.8,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 36.3,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 37.95,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.35,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.2
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 40.95,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 44.1,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 36.23,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.43
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.0,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 33.25,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 34.0,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 43.05,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 39.0,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 45.6,
+                "meet": "NU vs SIU"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.34,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.34,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 36.42,
+        "best_dive_id": "203B",
+        "best_dive_avg": 40.25,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 34.48,
+        "best_dive_id": "303C",
+        "best_dive_avg": 34.48,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 43.4,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.4,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 37.81,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 40.43,
+        "grade": 5.0
+      },
+      "average_grade": 4.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.0,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 33.25,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.25,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "303C",
+        "best_dive_avg": 34.0,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 43.05,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.05,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 42.3,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 45.6,
+        "grade": 5.3
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.7
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "name": "Addyson Clark",
+  "gender": "F",
+  "age": "16",
+  "id": 100849,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 30.4,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 29.75,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 27.2,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 30.0,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 26.4,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 35.15,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.4,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.4,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 28.48,
+        "best_dive_id": "201A",
+        "best_dive_avg": 29.75,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 28.2,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.0,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 35.15,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 35.15,
+        "grade": 4.7
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.1
+  }
+}

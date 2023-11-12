@@ -1,0 +1,113 @@
+{
+  "name": "Sydney Keene-osborne",
+  "gender": "F",
+  "age": "10",
+  "id": 101142,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 20.4,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 19.8,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 23.4,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 15.4,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 19.6,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 26.6,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.53
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 24.65,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 24.65,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.65
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 17.25,
+                "meet": "Chevy @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.86,
+        "best_dive_id": "101C",
+        "best_dive_avg": 21.2,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 22.18,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 3.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Vivian Replogle",
+  "gender": "F",
+  "age": "9",
+  "id": 101700,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 17.5,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 0.0,
+                "meet": "ANCC @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.75
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 15.4,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 15.4,
+                "meet": "ANCC @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.07,
+        "best_dive_id": "102C",
+        "best_dive_avg": 15.4,
+        "grade": 1.6
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.6
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Swun  Tun",
+  "gender": "M",
+  "age": "21",
+  "id": 102535,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.4,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 22.4,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 22.4,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.25,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.8,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 21.6,
+                "meet": "UCHI vs WTN vs ONC vs IIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "103B",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "202B",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 20.52,
+        "best_dive_id": "402C",
+        "best_dive_avg": 20.8,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

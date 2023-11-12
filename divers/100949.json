@@ -1,0 +1,131 @@
+{
+  "name": "Jonah Fourmy",
+  "gender": "M",
+  "age": "17",
+  "id": 100949,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 24.0,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 11.9,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 21.6,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 16.1,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 3.4,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 3.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 11.9,
+        "best_dive_id": "201A",
+        "best_dive_avg": 11.9,
+        "grade": 1.6
+      },
+      "Reverse": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 16.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.1,
+        "grade": 2.1
+      },
+      "Twister": {
+        "top_2_avg": 3.4,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 3.4,
+        "grade": 0.5
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

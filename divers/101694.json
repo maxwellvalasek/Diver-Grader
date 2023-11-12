@@ -1,0 +1,124 @@
+{
+  "name": "Logan Bui",
+  "gender": "M",
+  "age": "13",
+  "id": 101694,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 23.0,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 23.4,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 24.8,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 21.0,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 30.0,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 27.2,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.1,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.8,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "201C",
+        "best_dive_avg": 30.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

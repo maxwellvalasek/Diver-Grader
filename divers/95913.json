@@ -1,0 +1,170 @@
+{
+  "name": "Colin Loventhal",
+  "gender": "M",
+  "age": "15",
+  "id": 95913,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 16.2,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 16.8,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 17.85,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 13.5,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 0.0,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 14.7,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 20.7,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 21.6,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "102C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 15.68,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.85,
+        "grade": 2.1
+      },
+      "Reverse": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Inward": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.7,
+        "grade": 2.0
+      },
+      "Twister": {
+        "top_2_avg": 21.15,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.6,
+        "grade": 2.8
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

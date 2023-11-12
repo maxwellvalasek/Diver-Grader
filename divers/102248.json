@@ -1,0 +1,235 @@
+{
+  "name": "Genevieve  Hofstadter",
+  "gender": "F",
+  "age": "10",
+  "id": 102248,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 14.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.0,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 15.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 12.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 12.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 10.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 12.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 12.0,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 14.0,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 13.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 12.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 11.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 12.5,
+        "grade": 1.5
+      },
+      "average_grade": 1.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 12.25,
+        "best_dive_id": "100A",
+        "best_dive_avg": 12.5,
+        "grade": 1.5
+      },
+      "Back": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 12.5,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 12.5,
+        "grade": 1.6
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.7
+  }
+}

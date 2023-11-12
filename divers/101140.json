@@ -1,0 +1,176 @@
+{
+  "name": "Rowan Wilson",
+  "gender": "F",
+  "age": "10",
+  "id": 101140,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 16.8,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 15.4,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 18.2,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 17.5,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 19.6,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 15.4,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 6,
+            "average_score": 17.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 16.15,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 16.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 23.2,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 23.2,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.8
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 26.4,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 19.2,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 20.0,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.87
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 18.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 7.0,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 18.9,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 19.6,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 14.0,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 15.68
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.15,
+        "best_dive_id": "101A",
+        "best_dive_avg": 17.15,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 21.33,
+        "best_dive_id": "202B",
+        "best_dive_avg": 21.87,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 15.68,
+        "best_dive_id": "401C",
+        "best_dive_avg": 15.68,
+        "grade": 2.1
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}
