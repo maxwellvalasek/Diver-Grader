@@ -1,0 +1,109 @@
+{
+  "name": "Jacob Herbert",
+  "gender": "M",
+  "age": "8",
+  "id": 75447,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 10.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 5.0,
+                "meet": "Woodlands Diving Skills Challenge 2022"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 8.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 7.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 16.5,
+                "meet": "Woodlands Diving Skills Challenge 2022"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 17.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 15.5,
+                "meet": "Woodlands Diving Skills Challenge 2022"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 15.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.83
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.83,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.83,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

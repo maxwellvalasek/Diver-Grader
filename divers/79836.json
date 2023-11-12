@@ -1,0 +1,159 @@
+{
+  "name": "MICH WOMEN B TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79836,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 48.6,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 48.0,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 39.1,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 48.0,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 46.8,
+                "meet": "University of Tennessee Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.6,
+        "best_dive_id": "107C",
+        "best_dive_avg": 33.6,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 48.6,
+        "best_dive_id": "405C",
+        "best_dive_avg": 48.6,
+        "grade": 6.1
+      },
+      "Twister": {
+        "top_2_avg": 48.0,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 48.0,
+        "grade": 6.0
+      },
+      "average_grade": 5.4
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 39.1,
+        "best_dive_id": "203B",
+        "best_dive_avg": 39.1,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 48.0,
+        "best_dive_id": "303B",
+        "best_dive_avg": 48.0,
+        "grade": 6.4
+      },
+      "Inward": {
+        "top_2_avg": 46.8,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.8,
+        "grade": 6.2
+      },
+      "average_grade": 6.0
+    },
+    "overall_average_grade": 5.7
+  }
+}

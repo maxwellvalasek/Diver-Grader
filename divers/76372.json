@@ -1,0 +1,170 @@
+{
+  "name": "Grace Murray",
+  "gender": "F",
+  "age": "19",
+  "id": 76372,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 25.5,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 26.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 21.25,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 24.65,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 24.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 21.6,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 25.65,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.65
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 24.15,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.95,
+        "best_dive_id": "104C",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "202A",
+        "best_dive_avg": 21.25,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 24.65,
+        "best_dive_id": "302B",
+        "best_dive_avg": 24.65,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.0,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 24.9,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 25.65,
+        "grade": 3.3
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

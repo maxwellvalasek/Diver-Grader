@@ -1,0 +1,835 @@
+{
+  "name": "Julia Rojas",
+  "gender": "F",
+  "age": "17",
+  "id": 74541,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 22.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 18.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 24.5,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 18.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 19.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 30.6,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 27.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 24.75,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 38.85,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 35.7,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.28
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 31.45,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "612C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 24.75,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 20.5,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 21.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 20.5,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 21.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 22.5,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 18.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 18.5,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 19.0,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 23.25,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.25,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 17.6,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 28.8,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 30.4,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 26.4,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.8,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 19.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 19.5,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 18.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 17.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.33
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 24.65,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 24.65,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.65
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 39.6,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 28.8,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 36.0,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 20.7,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 26.1,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 29.7,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 18.0,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.62
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 23.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 23.1,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.8,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 32.3,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 21.85,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 33.25,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 23.75,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 34.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 33.0,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 27.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 35.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 35.0,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 32.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 32.4
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 37.2,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 18.5,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 18.0,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 31.45,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 30.6,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.02
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 28.6,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 20.9,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 23.1,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 20.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 14.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 24.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 29.75,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 23.2,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 18.4,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 24.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 39.6,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 24.7,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 36.8,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 22.05,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 25.2,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 27.43,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.9,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 24.75,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.75,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 37.28,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 37.28,
+        "grade": 4.4
+      },
+      "Armstand": {
+        "top_2_avg": 28.1,
+        "best_dive_id": "612B",
+        "best_dive_avg": 31.45,
+        "grade": 3.3
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.4,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 30.74,
+        "best_dive_id": "203A",
+        "best_dive_avg": 34.8,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 23.5,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.62,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 27.46,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.07,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 33.2,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 37.2,
+        "grade": 4.1
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.93,
+        "best_dive_id": "103B",
+        "best_dive_avg": 31.02,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 26.88,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.75,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.6,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 36.8,
+        "grade": 4.1
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.5
+  }
+}

@@ -1,0 +1,601 @@
+{
+  "name": "Mireille Bird",
+  "gender": "F",
+  "age": "8",
+  "id": 77998,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 18.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 13.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 19.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 17.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 17.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 16.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 17.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 16.5,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 15.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 20.4,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 18.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 17.4,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 14.4,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 13.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 5,
+            "average_score": 16.74
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 18.75,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 21.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 20.3,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 14.7,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.67
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 18.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 17.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 14.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.33
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 14.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 15.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 15.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.67
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 29.75,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 23.8,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 20.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 18.75,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 23.1,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 23.8,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.45
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 16.5,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 15.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 13.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 12.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 14.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 6,
+            "average_score": 14.33
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 14.5,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 13.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 14.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 17.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 17.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 17.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.17
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 16.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 13.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 15.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 21.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2023-10-29",
+                "score": 23.1,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 20.3,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 25.9,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 11.9,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.44
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 18.75,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2023-10-29",
+                "score": 24.0,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.38
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 15.5,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 13.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 14.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 15.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 15.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 20.4,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2023-10-29",
+                "score": 20.4,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 13.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2023-10-29",
+                "score": 18.2,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 18.85,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.68
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.69,
+        "best_dive_id": "102B",
+        "best_dive_avg": 18.75,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 24.51,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.77,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 23.45,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.45,
+        "grade": 3.1
+      },
+      "average_grade": 3.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.71,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.38,
+        "grade": 2.6
+      },
+      "Back": {
+        "top_2_avg": 16.8,
+        "best_dive_id": "201C",
+        "best_dive_avg": 20.4,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 16.68,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.68,
+        "grade": 2.1
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.6
+  }
+}

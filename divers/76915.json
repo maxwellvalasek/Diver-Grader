@@ -1,0 +1,858 @@
+{
+  "name": "Charlotte Chelius",
+  "gender": "F",
+  "age": "13",
+  "id": 76915,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 16.5,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 14.5,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 15.0,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.33
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 16.5,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 17.0,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 14.25,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.92
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 15.5,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 16.5,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 23.75,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 31.35,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 24.5,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.05,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.97
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 21.6,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 19.2,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 16.8,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.2
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 0.0,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 17.25,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 30.6,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 22.8,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 23.75,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.72
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.6,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 6.65,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 23.4,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 29.45,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 11.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.42
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 19.95,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 18.85,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 34.2,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 21.45,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 21.45,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.99
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 16.15,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 16.15,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 23.75,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.68
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 13.5,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 8.55,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.03
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 0.0,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-10",
+                "score": 18.0,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              },
+              {
+                "date": "2022-06-10",
+                "score": 0.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 20.0,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 17.5,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 23.4,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 23.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.4
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 20.4,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 21.6,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 20.4,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 23.4,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              },
+              {
+                "date": "2022-06-10",
+                "score": 15.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.16
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 14.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 21.25,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 25.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 29.75,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 32.8,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 24.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 16.8,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.53
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 35.2,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-10",
+                "score": 18.5,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              },
+              {
+                "date": "2022-06-10",
+                "score": 15.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 13.0,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 20.5,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 18.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 28.5,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 23.4,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 32.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 30.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.57
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 20.25,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 18.75,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 15.0,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              },
+              {
+                "date": "2022-06-10",
+                "score": 9.75,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.94
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 14.45,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 18.0,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 23.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 26.4,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 19.2,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 19.2,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.24
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 25.9,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 30.6,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 28.7,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 26.6,
+                "meet": "Coast Divers Halloween Invite 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 25.9,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 21.0,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              },
+              {
+                "date": "2022-06-10",
+                "score": 17.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 19.8,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 39.6,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 33.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 22.1,
+                "meet": "2023 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 0.0,
+                "meet": "2023 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 27.9,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.67
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.41,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.97,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 23.6,
+        "best_dive_id": "201C",
+        "best_dive_avg": 25.72,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 21.42,
+        "best_dive_id": "301C",
+        "best_dive_avg": 21.42,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 23.18,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.99,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 7.35,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 11.03,
+        "grade": 0.9
+      },
+      "average_grade": 2.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.62,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.8,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 25.46,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.57,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 20.11,
+        "best_dive_id": "301C",
+        "best_dive_avg": 21.24,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 26.87,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.8,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 16.67,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 16.67,
+        "grade": 2.2
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 2.8
+  }
+}

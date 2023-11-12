@@ -1,0 +1,148 @@
+{
+  "name": "Stella Lutfi",
+  "gender": "F",
+  "age": "10",
+  "id": 75926,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 15.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 9.5,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 9.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 13.5,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 15.5,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 11.9,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 14.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 15.0,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 15.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 12.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.72,
+        "best_dive_id": "100A",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "Twister": {
+        "top_2_avg": 12.0,
+        "best_dive_id": "5101D",
+        "best_dive_avg": 12.0,
+        "grade": 1.6
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

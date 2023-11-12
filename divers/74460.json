@@ -1,0 +1,254 @@
+{
+  "name": "Willaim Lanning",
+  "gender": "M",
+  "age": "10",
+  "id": 74460,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 15.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2022-01-08",
+                "score": 15.0,
+                "meet": "2022 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 16.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2022-01-08",
+                "score": 14.5,
+                "meet": "2022 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 13.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2022-01-08",
+                "score": 16.0,
+                "meet": "2022 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 15.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 17.5,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 16.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.83
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 15.5,
+                "meet": "2022 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 14.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 10.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.83
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 13.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 15.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 14.5,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 14.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.67
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 14.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.25,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.25,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "average_grade": 1.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.9,
+        "best_dive_id": "100C",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.9,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.25,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.0
+  }
+}

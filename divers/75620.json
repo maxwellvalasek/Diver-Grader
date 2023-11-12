@@ -1,0 +1,669 @@
+{
+  "name": "Sam Wallace",
+  "gender": "M",
+  "age": "22",
+  "id": 75620,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 28.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 30.75,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 45.6,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 44.4,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 50.4,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 50.4,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 47.7
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 44.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 0.0,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 63.0,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 53.2,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 29.75,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 35.7,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.73
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.2,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 30.8,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 47.6,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 50.4,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.4,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 42.3,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.35
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 51.0,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 51.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 15.4,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 51.8,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.67
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 36.1,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 40.85,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.48
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 37.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 48.6,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 54.0,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 56.7,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 49.28
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 37.0,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 45.6,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.6
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 50.4,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 43.4,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 57.4,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 57.4,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 52.15
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.0,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 37.2,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 39.6,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 46.8,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 54.0,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 57.6,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 49.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 24.75,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 31.5,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.12
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 33.35,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 31.05,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 49.45,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 44.85,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 39.68
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 37.2,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.0
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.4,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 44.4,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 49.2,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.0
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 31.05,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 44.0,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 46.2,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.1
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 44.8,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 56.0,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 65.8,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 48.3,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 53.72
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 39.15,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 37.8,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 60.75,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 56.7,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 48.6
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 35.7,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 50.4,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.05
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 45.0,
+                "meet": "2022 NCAA Division III Region 1 Diving Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 48.75,
+                "meet": "UIC Diving Invite at University of Illinois at Chicago"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 52.5,
+                "meet": "Carthage College vs Ripon College vs Lawrence University vs Beloit College"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 54.38,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 50.16
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.98,
+        "best_dive_id": "105B",
+        "best_dive_avg": 47.7,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 37.74,
+        "best_dive_id": "205C",
+        "best_dive_avg": 40.25,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 42.5,
+        "best_dive_id": "303C",
+        "best_dive_avg": 51.0,
+        "grade": 5.3
+      },
+      "Inward": {
+        "top_2_avg": 45.68,
+        "best_dive_id": "405C",
+        "best_dive_avg": 49.28,
+        "grade": 5.7
+      },
+      "Twister": {
+        "top_2_avg": 50.84,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 52.15,
+        "grade": 6.4
+      },
+      "average_grade": 5.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 44.53,
+        "best_dive_id": "105C",
+        "best_dive_avg": 49.5,
+        "grade": 5.9
+      },
+      "Back": {
+        "top_2_avg": 35.83,
+        "best_dive_id": "203B",
+        "best_dive_avg": 39.68,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "303B",
+        "best_dive_avg": 42.0,
+        "grade": 5.2
+      },
+      "Inward": {
+        "top_2_avg": 50.85,
+        "best_dive_id": "404C",
+        "best_dive_avg": 53.72,
+        "grade": 6.8
+      },
+      "Twister": {
+        "top_2_avg": 49.38,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 50.16,
+        "grade": 6.6
+      },
+      "average_grade": 5.9
+    },
+    "overall_average_grade": 5.7
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Sarah Ben-makhlouf",
+  "gender": "F",
+  "age": "18",
+  "id": 77515,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 16.8,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 29.7,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 15.3,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 30.6,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 0.0,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 24.8,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 13.3,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.3
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 27.2,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 28.6,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 26.35,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 0.0,
+                "meet": "2022 WCAL Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "104C",
+        "best_dive_avg": 29.7,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "202A",
+        "best_dive_avg": 30.6,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 12.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 1.7
+      },
+      "Inward": {
+        "top_2_avg": 27.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 13.18,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 26.35,
+        "grade": 1.8
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

@@ -1,0 +1,761 @@
+{
+  "name": "Madeline Atwood",
+  "gender": "F",
+  "age": "22",
+  "id": 75284,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-11",
+                "score": 22.8,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 8.4,
+                "meet": "CAN vs MC"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.6
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.6,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 24.0,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.8,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 25.2,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 16.8,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 22.4,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 30.0,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 7,
+            "average_score": 23.83
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.65,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 22.8,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 25.65,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 27.08,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 2.85,
+                "meet": "CAN vs MC"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.81
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 17.85,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 26.78,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.32
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.7,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 29.7,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 25.65,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 31.05,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 18.9,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 19.8,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 25.65,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 7,
+            "average_score": 24.49
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.0,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 21.0,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 23.1,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 22.05,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 9.45,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 14.0,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 19.95,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 7,
+            "average_score": 18.65
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 19.95,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 18.53,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.08,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 22.8,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 34.2,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.51
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.0,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 27.0,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 24.0,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 28.5,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 10.5,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 14.0,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 30.0,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 7,
+            "average_score": 22.14
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.4,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 26.4,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 25.2,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 25.2,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 24.0,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 20.8,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 26.4,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 20.4,
+                "meet": "Bryant University vs MC"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 22.8,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 9,
+            "average_score": 23.29
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.2,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2022-10-14",
+                "score": 24.75,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 25.3,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 26.4,
+                "meet": "BING vs MC"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.16
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 22.1,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 20.4,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 15.3,
+                "meet": "CAN vs MC"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.27
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 18.0,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 22.5,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 16.5,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 21.38,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 21.38,
+                "meet": "Bryant University vs MC"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 21.38,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 6,
+            "average_score": 20.19
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 22.95,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.8,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 25.2,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.8,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 25.2,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 26.4,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 21.6,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 26.4,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 21.6,
+                "meet": "Bryant University vs MC"
+              }
+            ],
+            "count": 8,
+            "average_score": 23.75
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 24.0,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 19.2,
+                "meet": "MC vs Bryant University"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 13.5,
+                "meet": "CAN vs MC"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.2,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 25.2,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 18.9,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 24.15,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 18.9,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 23.1,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 22.05,
+                "meet": "Bryant University vs MC"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 22.05,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 8,
+            "average_score": 21.57
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-11",
+                "score": 26.4,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 24.0,
+                "meet": "Bryant University vs MC"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 19.2,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 16.58,
+                "meet": "COLG vs MC"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.58
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 16.2,
+                "meet": "MAAC Swimming "
+              },
+              {
+                "date": "2023-01-28",
+                "score": 24.3,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.95,
+                "meet": "MC vs Bryant University"
+              },
+              {
+                "date": "2023-01-11",
+                "score": 27.0,
+                "meet": "MC vs SCSU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 17.55,
+                "meet": "CAN vs MC"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 14.4,
+                "meet": "2022 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 29.7,
+                "meet": "BING vs MC"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 17.55,
+                "meet": "Bryant University vs MC"
+              }
+            ],
+            "count": 8,
+            "average_score": 21.21
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 23.83,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 21.24,
+        "best_dive_id": "201C",
+        "best_dive_avg": 22.32,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 24.49,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.49,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 21.09,
+        "best_dive_id": "403C",
+        "best_dive_avg": 24.51,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 22.14,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 22.14,
+        "grade": 2.8
+      },
+      "average_grade": 2.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.87,
+        "best_dive_id": "104C",
+        "best_dive_avg": 25.16,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 19.88,
+        "best_dive_id": "201C",
+        "best_dive_avg": 20.19,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 23.66,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.75,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 22.01,
+        "best_dive_id": "402C",
+        "best_dive_avg": 23.2,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 20.7,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.21,
+        "grade": 2.8
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

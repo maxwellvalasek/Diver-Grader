@@ -1,0 +1,85 @@
+{
+  "name": "Emilia Vayra",
+  "gender": "F",
+  "age": "12",
+  "id": 78134,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 18.2,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 25.5,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 21.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

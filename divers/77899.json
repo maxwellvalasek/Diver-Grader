@@ -1,0 +1,88 @@
+{
+  "name": "Barbara Montagner",
+  "gender": "F",
+  "age": "6",
+  "id": 77899,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 12.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 15.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 6.25,
+        "best_dive_id": "100A",
+        "best_dive_avg": 12.5,
+        "grade": 0.8
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

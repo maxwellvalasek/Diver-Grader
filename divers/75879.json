@@ -1,0 +1,111 @@
+{
+  "name": "Sedona Mile",
+  "gender": "F",
+  "age": "18",
+  "id": 75879,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 0.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 0.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 27.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 28.6,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 0.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Inward": {
+        "top_2_avg": 27.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 1.2
+    },
+    "overall_average_grade": 1.2
+  }
+}

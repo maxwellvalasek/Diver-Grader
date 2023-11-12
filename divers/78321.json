@@ -1,0 +1,111 @@
+{
+  "name": "Landon Sharon",
+  "gender": "M",
+  "age": "16",
+  "id": 78321,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 24.65,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 24.0,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 33.0,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 23.8,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 27.3,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.65,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.0,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 25.55,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 27.3,
+        "grade": 3.4
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

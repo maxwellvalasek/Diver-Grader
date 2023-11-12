@@ -1,0 +1,209 @@
+{
+  "name": "Emily  Krause ",
+  "gender": "F",
+  "age": "20",
+  "id": 75837,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 26.35,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 37.95,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 24.8,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 37.95,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 33.15,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 37.8,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 29.25,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 35.2,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 27.5,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 34.5,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 33.6,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.15,
+        "best_dive_id": "104B",
+        "best_dive_avg": 37.95,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 31.38,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 35.47,
+        "best_dive_id": "303C",
+        "best_dive_avg": 37.8,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 32.23,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.2,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 34.05,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 34.5,
+        "grade": 4.5
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.4
+  }
+}

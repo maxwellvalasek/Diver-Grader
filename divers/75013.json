@@ -1,0 +1,82 @@
+{
+  "name": "Rachel Sullo",
+  "gender": "F",
+  "age": "14",
+  "id": 75013,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 17.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 18.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 19.8,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 27.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "102B",
+        "best_dive_avg": 27.0,
+        "grade": 3.1
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

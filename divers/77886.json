@@ -1,0 +1,111 @@
+{
+  "name": "Sylvia Scaravaglione",
+  "gender": "F",
+  "age": "10",
+  "id": 77886,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 23.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 30.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 18.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 21.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.05,
+        "best_dive_id": "101C",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

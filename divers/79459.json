@@ -1,0 +1,141 @@
+{
+  "name": "IND WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79459,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 58.8,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 67.5,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 67.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 64.5,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 64.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 58.8,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.8
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Armstand": {
+        "dives": {
+          "626C": {
+            "dd": 3.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 79.2,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 79.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 58.8,
+        "best_dive_id": "107C",
+        "best_dive_avg": 58.8,
+        "grade": 7.3
+      },
+      "Twister": {
+        "top_2_avg": 67.5,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 67.5,
+        "grade": 8.4
+      },
+      "average_grade": 7.9
+    },
+    "1 Meter": {
+      "Reverse": {
+        "top_2_avg": 64.5,
+        "best_dive_id": "305C",
+        "best_dive_avg": 64.5,
+        "grade": 8.6
+      },
+      "Inward": {
+        "top_2_avg": 58.8,
+        "best_dive_id": "403B",
+        "best_dive_avg": 58.8,
+        "grade": 7.8
+      },
+      "average_grade": 8.2
+    },
+    "Platform": {
+      "Armstand": {
+        "top_2_avg": 79.2,
+        "best_dive_id": "626C",
+        "best_dive_avg": 79.2,
+        "grade": 9.3
+      },
+      "average_grade": 9.3
+    },
+    "overall_average_grade": 8.5
+  }
+}

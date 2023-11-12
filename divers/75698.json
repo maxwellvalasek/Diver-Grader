@@ -1,0 +1,225 @@
+{
+  "name": "Reagan Shorter",
+  "gender": "F",
+  "age": "14",
+  "id": 75698,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 19.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 19.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 12.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 15.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 14.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 17.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 15.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 15.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 13.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 14.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 12.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 15.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "200C",
+        "best_dive_avg": 17.5,
+        "grade": 2.0
+      },
+      "average_grade": 1.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

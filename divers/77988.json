@@ -1,0 +1,963 @@
+{
+  "name": "Reese Calvin",
+  "gender": "F",
+  "age": "15",
+  "id": 77988,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 19.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 22.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 17.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 28.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 32.25,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.75,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 24.75,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 24.75,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 23.1,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 33.6,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 29.6,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.8,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 26.4,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 28.8,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.73
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 28.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 18.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 26.1,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 36.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 28.8,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 31.5,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 30.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.6
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 28.05,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 26.4,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 41.8,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 41.8,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.7,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 36.3,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 26.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 35.15,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 24.7,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.45,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.98
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 21.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 25.5,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 29.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 25.9,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 28.7,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 27.3,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 28.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.3,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 27.3,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 23.8,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.9
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 24.05,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.05
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 31.5,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 43.05,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 35.7,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.55,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.35,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.23
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 32.3,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 32.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 39.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 38.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 30.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 31.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 22.75,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.75
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 18.6,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.9,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 34.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.75,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 31.45,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 0.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.82
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 28.8,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 17.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 35.2,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 26.4,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 18.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 23.25,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 21.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 32.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 37.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 23.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.7,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 34.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.2,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 20.8,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 23.2,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 22.05,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 33.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.25,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 24.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 28.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 24.75,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 22.4,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 40.8,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 42.9,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 42.9,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 31.9,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 36.3,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 17.1,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 30.6,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.75,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.2,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.18
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 34.65,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 38.85,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.55,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.3,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.34
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 0.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.55,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.73,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 32.9,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.2,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.98,
+        "best_dive_id": "303C",
+        "best_dive_avg": 29.0,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 33.91,
+        "best_dive_id": "403B",
+        "best_dive_avg": 34.23,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 34.0,
+        "grade": 4.2
+      },
+      "average_grade": 4.0
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.48,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.8,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 30.76,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.2,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 25.48,
+        "best_dive_id": "301B",
+        "best_dive_avg": 26.63,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 38.96,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.8,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 31.56,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 33.34,
+        "grade": 4.2
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.0
+  }
+}

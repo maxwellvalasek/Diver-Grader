@@ -1,0 +1,385 @@
+{
+  "name": "Megan Black",
+  "gender": "F",
+  "age": "22",
+  "id": 74204,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 24.75,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 18.0,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 25.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 34.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 37.8,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 28.5,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 20.7,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 37.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 25.2,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 21.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 24.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 25.2,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.6
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 15.3,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 29.33,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.31
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 27.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 32.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 30.0,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 28.05,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 28.35,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 25.88,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.88
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 33.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 34.2,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 34.5,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 31.05,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.77
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.98,
+        "best_dive_id": "105B",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 36.3,
+        "best_dive_id": "203A",
+        "best_dive_avg": 36.3,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.6,
+        "best_dive_id": "301B",
+        "best_dive_avg": 28.5,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 28.2,
+        "best_dive_id": "403B",
+        "best_dive_avg": 31.5,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 24.6,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 24.6,
+        "grade": 3.1
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.07,
+        "best_dive_id": "104B",
+        "best_dive_avg": 27.6,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 31.1,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.2,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.2,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.35,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 31.23,
+        "best_dive_id": "403B",
+        "best_dive_avg": 33.9,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 32.77,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 32.77,
+        "grade": 4.4
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.7
+  }
+}

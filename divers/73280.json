@@ -1,0 +1,249 @@
+{
+  "name": "Dylan Hardee",
+  "gender": "M",
+  "age": "18",
+  "id": 73280,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 34.0,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 23.8,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 25.3,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 18.7,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 21.0,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 27.75,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 14.0,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 20.0,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 17.6,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 10.4,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-15",
+                "score": 28.0,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-15",
+                "score": 18.0,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 35.2,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 27.5,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 29.45,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 32.3,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.88
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-15",
+                "score": 26.35,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-22",
+                "score": 23.1,
+                "meet": "KHSAA Swimming "
+              },
+              {
+                "date": "2021-04-15",
+                "score": 27.3,
+                "meet": "KHSAA Super Regional B: Region 4,5,6"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.45,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.9,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 20.69,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.38,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 18.67,
+        "best_dive_id": "302C",
+        "best_dive_avg": 28.0,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 26.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 29.37,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 30.88,
+        "grade": 3.9
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

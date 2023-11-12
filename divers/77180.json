@@ -1,0 +1,144 @@
+{
+  "name": "Aaron Jordan",
+  "gender": "M",
+  "age": "25",
+  "id": 77180,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 17.5,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 6.4,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 13.6,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 8.0,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 7.0,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-15",
+                "score": 17.85,
+                "meet": "So Cal Conference/Regionals"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 11.95,
+        "best_dive_id": "101A",
+        "best_dive_avg": 17.5,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "201A",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "Reverse": {
+        "top_2_avg": 8.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 8.0,
+        "grade": 1.1
+      },
+      "Inward": {
+        "top_2_avg": 7.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 7.0,
+        "grade": 0.9
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.6
+  }
+}

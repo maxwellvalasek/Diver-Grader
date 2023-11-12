@@ -1,0 +1,209 @@
+{
+  "name": "Emily Mintz",
+  "gender": "F",
+  "age": "17",
+  "id": 77443,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 30.8,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 33.15,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 30.0,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 37.4,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 36.55,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 34.4,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 39.6,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 31.2,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 31.45,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 41.8,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 35.7,
+                "meet": "Channel League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.98,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 33.7,
+        "best_dive_id": "202A",
+        "best_dive_avg": 37.4,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 35.47,
+        "best_dive_id": "301B",
+        "best_dive_avg": 36.55,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 35.4,
+        "best_dive_id": "401A",
+        "best_dive_avg": 39.6,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 38.75,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 41.8,
+        "grade": 5.2
+      },
+      "average_grade": 4.7
+    },
+    "overall_average_grade": 4.7
+  }
+}

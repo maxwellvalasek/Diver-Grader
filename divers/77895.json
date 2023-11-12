@@ -1,0 +1,101 @@
+{
+  "name": "Quinn Feierabend",
+  "gender": "F",
+  "age": "10",
+  "id": 77895,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 19.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 18.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 14.45,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.25,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.5,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 14.45,
+        "best_dive_id": "201A",
+        "best_dive_avg": 14.45,
+        "grade": 1.9
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

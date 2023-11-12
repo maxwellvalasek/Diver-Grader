@@ -1,0 +1,284 @@
+{
+  "name": "UNT WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79591,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 45.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-02-13",
+                "score": 42.0,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-13",
+                "score": 25.2,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 25.2,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5251B": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 41.85,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.85
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 40.0,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 42.55,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 42.55,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 33.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-13",
+                "score": 48.0,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 40.8,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-13",
+                "score": 39.9,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-13",
+                "score": 41.4,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 31.45,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "6241B": {
+            "dd": 2.7,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 24.3,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-02-13",
+                "score": 45.9,
+                "meet": "2023 American Athletic Conference Swimming and Diving Champi"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.8,
+        "best_dive_id": "105B",
+        "best_dive_avg": 43.8,
+        "grade": 5.5
+      },
+      "Reverse": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "305C",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 40.92,
+        "best_dive_id": "5251B",
+        "best_dive_avg": 41.85,
+        "grade": 5.1
+      },
+      "average_grade": 4.6
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 42.55,
+        "best_dive_id": "203B",
+        "best_dive_avg": 42.55,
+        "grade": 5.7
+      },
+      "Reverse": {
+        "top_2_avg": 33.6,
+        "best_dive_id": "303B",
+        "best_dive_avg": 33.6,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 44.4,
+        "best_dive_id": "403B",
+        "best_dive_avg": 44.4,
+        "grade": 5.9
+      },
+      "Twister": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 39.9,
+        "grade": 5.3
+      },
+      "average_grade": 5.3
+    },
+    "Platform": {
+      "Back": {
+        "top_2_avg": 41.4,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.4,
+        "grade": 4.9
+      },
+      "Armstand": {
+        "top_2_avg": 33.88,
+        "best_dive_id": "6241B",
+        "best_dive_avg": 35.1,
+        "grade": 4.0
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.8
+  }
+}

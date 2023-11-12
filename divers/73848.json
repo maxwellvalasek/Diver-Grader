@@ -1,0 +1,111 @@
+{
+  "name": "Andrew Gallagher",
+  "gender": "M",
+  "age": "12",
+  "id": 73848,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 21.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 24.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 21.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 20.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.82,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.9,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.25,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

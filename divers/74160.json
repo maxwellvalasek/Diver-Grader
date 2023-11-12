@@ -1,0 +1,121 @@
+{
+  "name": "Carter Forcum",
+  "gender": "M",
+  "age": "16",
+  "id": 74160,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 30.8,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 27.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 21.7,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 27.55,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 23.8,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.8,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.8,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 21.7,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.7,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 25.68,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.55,
+        "grade": 3.4
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

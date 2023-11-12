@@ -1,0 +1,601 @@
+{
+  "name": "Catherine  Gibbs",
+  "gender": "F",
+  "age": "12",
+  "id": 76460,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 19.0,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 18.5,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 17.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 17.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 17.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 20.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 31.5,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 30.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 33.0,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 28.5,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.75
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 23.8,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 30.4,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 28.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 26.4,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 22.4,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 22.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 34.2,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 31.35,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.8,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 24.7,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.01
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 29.4,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 30.1,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.4,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 27.3,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.3
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 18.2,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 20.15,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.17
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 32.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 32.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.0,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 33.0,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.75
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 24.7,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 24.05,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 26.0,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 24.05,
+                "meet": "Plantation Back to School Diving Invitational"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 18.2,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.4
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 20.4,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 24.75,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 33.15,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 34.85,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 36.55,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 26.35,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.73
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 26.4,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 26.4,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 29.75,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 32.3,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.85,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 32.3,
+                "meet": "Plantation Back to School Diving Invitational"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 13.6,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 24.65,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.91
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 27.75,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 25.5,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.62
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 28.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.9,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 23.1,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 21.7,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.68
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 29.7,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 36.9,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 21.6,
+                "meet": "Saint Andrews Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 29.7,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.47
+          },
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.25,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 30.4,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 32.3,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 28.77,
+        "best_dive_id": "101B",
+        "best_dive_avg": 30.75,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 33.01,
+        "best_dive_id": "201A",
+        "best_dive_avg": 33.01,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 24.59,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.3,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 32.75,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 32.75,
+        "grade": 4.1
+      },
+      "average_grade": 3.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.62,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.73,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 27.91,
+        "best_dive_id": "201A",
+        "best_dive_avg": 27.91,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 25.33,
+        "best_dive_id": "401B",
+        "best_dive_avg": 26.62,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 30.1,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 31.35,
+        "grade": 4.0
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

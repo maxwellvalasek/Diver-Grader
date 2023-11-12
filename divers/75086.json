@@ -1,0 +1,528 @@
+{
+  "name": "Kendall Watson",
+  "gender": "F",
+  "age": "19",
+  "id": 75086,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102A": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 24.0,
+                "meet": "Central Holiday Invite Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 34.0,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 34.85,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 15.3,
+                "meet": "Central Holiday Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 30.6,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 28.9,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 33.15,
+                "meet": "Forsyth County HS Championship Dive"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 29.75,
+                "meet": "Lambert Dive Meet"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 0.0,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 26.35,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 22.1,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 10,
+            "average_score": 25.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 27.5,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 27.5,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 11.0,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 17.6,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 10.2,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-09",
+                "score": 30.6,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 27.2,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 30.6,
+                "meet": "Forsyth County HS Championship Dive"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 29.75,
+                "meet": "Lambert Dive Meet"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 34.0,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 22.95,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.18
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 35.2,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.0,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 34.0,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 19.0,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 15.0,
+                "meet": "Central Holiday Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 30.0,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 0.0,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 27.0,
+                "meet": "Forsyth County HS Championship Dive"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 17.0,
+                "meet": "Lambert Dive Meet"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 27.0,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 26.0,
+                "meet": "Central Holiday Invite Dive"
+              }
+            ],
+            "count": 11,
+            "average_score": 22.93
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 24.8,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.2,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 22.4,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 20.0,
+                "meet": "Central Holiday Invite"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 19.2,
+                "meet": "Forsyth County HS Championship Dive"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.72
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 42.75,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.5,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 21.75,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 27.75,
+                "meet": "Lambert Dive Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.94
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 28.7,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 25.9,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 22.4,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 19.6,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.15
+          },
+          "402B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-09",
+                "score": 17.0,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 34.0,
+                "meet": "Central Holiday Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.3,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 31.2,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 20.0,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 28.8,
+                "meet": "Forsyth County HS Championship Dive"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 28.0,
+                "meet": "Lambert Dive Meet"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 31.2,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 28.0,
+                "meet": "Central Holiday Invite Dive"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.87
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 27.9,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 0.0,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.95
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 37.8,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 24.7,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2021-12-10",
+                "score": 32.3,
+                "meet": "Reindeer Games Tri Dive Meet"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 31.35,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 21.85,
+                "meet": "NF 14th Invitational Swim and Dive Meet"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-26",
+                "score": 43.7,
+                "meet": "2023 Last Chance Dive Meet"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 43.7,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 46.0,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 32.2,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 27.6,
+                "meet": "Central Holiday Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 41.4,
+                "meet": "Forsyth vs Fulton Cup Dive Only"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 36.8,
+                "meet": "Forsyth County HS Championship Dive"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 29.9,
+                "meet": "Lambert Dive Meet"
+              }
+            ],
+            "count": 8,
+            "average_score": 37.66
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.36,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 25.14,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.18,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 22.72,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.72,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 29.1,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.94,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 34.56,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 37.66,
+        "grade": 4.6
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "name": "Lauren Stuart",
+  "gender": "F",
+  "age": "17",
+  "id": 75978,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 26.78,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.78
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 14.85,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.85
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 19.13,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.13
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 24.23,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.23
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 19.2,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 22.8,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 23.63,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.63
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 20.4,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 27.08,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.08
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 0.0,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.82,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.78,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "202A",
+        "best_dive_avg": 24.23,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 22.02,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.63,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 13.54,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.08,
+        "grade": 1.8
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

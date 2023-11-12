@@ -1,0 +1,170 @@
+{
+  "name": "Tom Nguyen",
+  "gender": "M",
+  "age": "19",
+  "id": 74229,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 24.65,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 38.4,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 30.6,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 33.0,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 34.65,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 21.75,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 29.7,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 25.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.52,
+        "best_dive_id": "105C",
+        "best_dive_avg": 38.4,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "204C",
+        "best_dive_avg": 33.0,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 34.65,
+        "best_dive_id": "304C",
+        "best_dive_avg": 34.65,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 25.73,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.7,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "name": "Layla Genevich",
+  "gender": "F",
+  "age": "18",
+  "id": 76969,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 33.15,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 26.4,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 21.75,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 27.2,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 22.4,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 24.8,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 25.5,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 31.9,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 22.95,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 23.75,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.77,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 24.48,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.2,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 23.6,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 28.7,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.9,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 23.35,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 23.75,
+        "grade": 3.1
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

@@ -1,0 +1,798 @@
+{
+  "name": "Tyler Czeiner",
+  "gender": "M",
+  "age": "21",
+  "id": 78585,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 30.6,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 26.78,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 30.6,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.33
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 44.85,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.2,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 33.15,
+                "meet": "PENN vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.4
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 32.4,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 32.4,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 37.8,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 43.2,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 22.5,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 19.13,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.81
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 37.95,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 36.23,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 37.95,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 31.05,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 27.6,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 36.23,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.0,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 20.4,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 25.2,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 27.6,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.3
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.78,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.08,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 40.95,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 34.65,
+                "meet": "PENN vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.87
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 23.63,
+                "meet": "WCUP vs TCNJ"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.63
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 30.6,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 27.0,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 50.4,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 43.2,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 43.2,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 0.0,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 6,
+            "average_score": 32.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 36.3,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 41.25,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 31.35,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 33.08,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 31.5,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.23,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 34.65,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 31.5,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 33.08,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.34
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 33.75,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 39.38,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 48.75,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 41.25,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 31.88,
+                "meet": "WCUP vs UDEL"
+              }
+            ],
+            "count": 5,
+            "average_score": 39.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 25.2,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.2,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 45.0,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 37.8,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 41.4,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 39.6,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 36.0,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 6,
+            "average_score": 39.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 39.6,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 20.4,
+                "meet": "WCUP vs UDEL"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 27.0,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 24.0,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.4,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 31.35,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 26.4,
+                "meet": "PENN vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.94
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 31.05,
+                "meet": "WCUP vs UDEL"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 28.05,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 21.68,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.87
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 33.0,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 39.0,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 30.0,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.5,
+                "meet": "PENN vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.88
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.65,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 29.93,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 33.08,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 33.08,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 31.5,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 34.65,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 39.38,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 7,
+            "average_score": 33.75
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 48.6,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 44.55,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 44.55,
+                "meet": "WCUP vs UDEL"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 26.33,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.01
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 20.48,
+                "meet": "WCUP vs SCSU vs Shippensburg University of Pennsylvania"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.48
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 28.5,
+                "meet": "WCUP vs Bloomsburg University of Pennsylvania vs LEHU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 30.6,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 28.8,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 43.2,
+                "meet": "WCUP vs NYU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 36.0,
+                "meet": "PENN vs WCUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 10.8,
+                "meet": "WCUP vs UDEL"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.88
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 35.7,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 39.9,
+                "meet": "WCUP vs SCSU vs SU"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.43,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.45,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 31.08,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.5,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 29.09,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.87,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 32.96,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 38.23,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 39.0,
+        "grade": 5.1
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.09,
+        "best_dive_id": "105C",
+        "best_dive_avg": 39.6,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 30.15,
+        "best_dive_id": "203B",
+        "best_dive_avg": 30.94,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 31.71,
+        "best_dive_id": "303C",
+        "best_dive_avg": 31.88,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 36.39,
+        "best_dive_id": "405C",
+        "best_dive_avg": 41.01,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 32.14,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 37.8,
+        "grade": 4.0
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.4
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "name": "Carter Gaines",
+  "gender": "M",
+  "age": "9",
+  "id": 73824,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 21.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 18.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 21.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 30.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.92,
+        "best_dive_id": "101A",
+        "best_dive_avg": 29.75,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 26.05,
+        "best_dive_id": "201A",
+        "best_dive_avg": 30.6,
+        "grade": 3.5
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

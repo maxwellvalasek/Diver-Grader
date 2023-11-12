@@ -1,0 +1,391 @@
+{
+  "name": "Ryan Clark",
+  "gender": "M",
+  "age": "20",
+  "id": 77268,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-05",
+                "score": 20.0,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 25.6,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 30.4,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 33.0,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 22.8,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 33.25,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 4.75,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.27
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 31.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 33.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 15.0,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.33
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-05",
+                "score": 10.2,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 25.9,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 14.7,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.3
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 38.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 37.05,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.52
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 29.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 19.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 16.0,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.33
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 19.55,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 28.05,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 17.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 19.55,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.27
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 25.2,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 27.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 29.25,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 30.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.62
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 42.9,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 34.1,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 20.7,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 26.1,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.67,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.0,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 20.27,
+        "best_dive_id": "201A",
+        "best_dive_avg": 20.27,
+        "grade": 2.5
+      },
+      "Reverse": {
+        "top_2_avg": 22.3,
+        "best_dive_id": "301A",
+        "best_dive_avg": 26.33,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 28.91,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.52,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 21.33,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 21.33,
+        "grade": 2.7
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "103B",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 18.27,
+        "best_dive_id": "201A",
+        "best_dive_avg": 18.27,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 26.1,
+        "best_dive_id": "301A",
+        "best_dive_avg": 26.1,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 34.06,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.5,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 23.4,
+        "grade": 3.1
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.2
+  }
+}

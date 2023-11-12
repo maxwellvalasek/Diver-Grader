@@ -1,0 +1,111 @@
+{
+  "name": "Lea Verni",
+  "gender": "F",
+  "age": "18",
+  "id": 77099,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 10.2,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 11.2,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 22.1,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 15.75,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 4.5,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 4.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.7,
+        "best_dive_id": "102C",
+        "best_dive_avg": 11.2,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 18.93,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.1,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 4.5,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 4.5,
+        "grade": 0.6
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.5
+  }
+}

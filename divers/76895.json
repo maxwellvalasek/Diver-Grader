@@ -1,0 +1,39 @@
+{
+  "name": "Jordan LONG",
+  "gender": "F",
+  "age": "17",
+  "id": 76895,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 15.6,
+                "meet": "Surf City High School Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.6,
+        "best_dive_id": "101C",
+        "best_dive_avg": 15.6,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

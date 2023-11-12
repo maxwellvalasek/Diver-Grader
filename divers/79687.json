@@ -1,0 +1,213 @@
+{
+  "name": "DUQU WOMEN B TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79687,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 37.8,
+                "meet": "MARS vs DUQU"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.2,
+                "meet": "A"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 46.8,
+                "meet": "MARS vs DUQU"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 26.25,
+                "meet": "A"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 48.6,
+                "meet": "MARS vs DUQU"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 44.55,
+                "meet": "A"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.58
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 39.6,
+                "meet": "MARS vs DUQU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 17.6,
+                "meet": "A"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 43.2,
+                "meet": "A"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 26.33,
+                "meet": "MARS vs DUQU"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.33
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 39.38,
+                "meet": "MARS vs DUQU"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 42.5,
+                "meet": "A"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.94
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.5,
+        "best_dive_id": "105C",
+        "best_dive_avg": 34.5,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 36.52,
+        "best_dive_id": "303B",
+        "best_dive_avg": 46.8,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 46.58,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 46.58,
+        "grade": 6.2
+      },
+      "average_grade": 5.2
+    },
+    "3 Meter": {
+      "Back": {
+        "top_2_avg": 28.6,
+        "best_dive_id": "203A",
+        "best_dive_avg": 39.6,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 34.77,
+        "best_dive_id": "404C",
+        "best_dive_avg": 43.2,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 40.94,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 40.94,
+        "grade": 5.1
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.8
+  }
+}

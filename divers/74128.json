@@ -1,0 +1,200 @@
+{
+  "name": "Ryan Cruz  Calvillo ",
+  "gender": "M",
+  "age": "9",
+  "id": 74128,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 17.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 13.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 18.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 18.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 10.2,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 15.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 18.2,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.57
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 16.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 17.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 24.65,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 18.9,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 15.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.95
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 21.07,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 16.95,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.95,
+        "grade": 2.3
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

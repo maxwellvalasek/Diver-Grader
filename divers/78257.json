@@ -1,0 +1,143 @@
+{
+  "name": "Gabriella Bowers",
+  "gender": "F",
+  "age": "12",
+  "id": 78257,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 19.5,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 17.5,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 14.0,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 23.1,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 18.9,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 16.0,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 16.0,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 26.35,
+                "meet": "Wellington Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 22.1,
+                "meet": "Plantation Back to School Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.25,
+        "best_dive_id": "101A",
+        "best_dive_avg": 21.0,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 20.12,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.23,
+        "grade": 2.7
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

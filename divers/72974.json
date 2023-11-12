@@ -1,0 +1,877 @@
+{
+  "name": "Colin Halverson",
+  "gender": "M",
+  "age": "19",
+  "id": 72974,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 28.9,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 28.05,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 28.05,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 26.78,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.95
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 34.5,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 37.95,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.65
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 45.0,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 39.6,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.92
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 25.6,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 25.2,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 24.8,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 24.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.9
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.5,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 39.68,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 34.5,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 25.3,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 33.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 25.5,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 24.23,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 25.5,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 30.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.46
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.2,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 43.2,
+                "meet": "UWLC vs LUTH"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 23.63,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 27.3,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 26.78,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.75,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 24.75,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 22.5,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 24.75,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.94
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 36.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 39.6,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 31.35,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.48
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-28",
+                "score": 30.8,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 35.7,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 48.3,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 36.23,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 34.5,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 39.68,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 39.68
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 40.5,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 48.6,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 38.48,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 36.45,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 40.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 40.91
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.65,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 31.25,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 24.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 23.2,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 20.4,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 27.6,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 50.4,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 30.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 32.4,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 32.4,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.7,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 23.4,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 29.7,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 31.05,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.46
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-28",
+                "score": 23.4,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 28.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 45.6,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 19.8,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 34.2,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.45,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 36.1,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 26.6,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 29.93,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 27.08,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.83
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-28",
+                "score": 20.4,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 22.95,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 25.5,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.95
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 6.9,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 25.2,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 25.2,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 30.45,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 38.85,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 24.15,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.65,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 25.2,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.66
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.7,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 18.9,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-28",
+                "score": 30.45,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 33.08,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 33.08,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.2
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 32.5,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 48.75,
+                "meet": "UWLC vs LUTH"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.62
+          },
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 0.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-28",
+                "score": 29.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 36.0,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 34.5,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.17
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.2,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 46.8,
+                "meet": "UWLC vs LUTH"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 30.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 37.8,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2021-03-06",
+                "score": 36.0,
+                "meet": "2021 Schroeder March Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.56
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.07,
+        "best_dive_id": "105C",
+        "best_dive_avg": 37.92,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 29.79,
+        "best_dive_id": "203B",
+        "best_dive_avg": 33.7,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 31.04,
+        "best_dive_id": "303B",
+        "best_dive_avg": 40.2,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 35.65,
+        "best_dive_id": "403B",
+        "best_dive_avg": 36.0,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 40.36,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 40.91,
+        "grade": 5.4
+      },
+      "average_grade": 4.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.67,
+        "best_dive_id": "105B",
+        "best_dive_avg": 36.0,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 30.28,
+        "best_dive_id": "203A",
+        "best_dive_avg": 32.1,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 27.25,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.83,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 29.1,
+        "best_dive_id": "403B",
+        "best_dive_avg": 30.66,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 38.43,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 40.62,
+        "grade": 4.8
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 4.3
+  }
+}

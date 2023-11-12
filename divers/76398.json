@@ -1,0 +1,111 @@
+{
+  "name": "David Kraus",
+  "gender": "M",
+  "age": "19",
+  "id": 76398,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 13.2,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 13.2,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 0.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 22.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 6.3,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.2,
+        "best_dive_id": "101C",
+        "best_dive_avg": 13.2,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 11.0,
+        "best_dive_id": "204C",
+        "best_dive_avg": 22.0,
+        "grade": 1.5
+      },
+      "Twister": {
+        "top_2_avg": 6.3,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 6.3,
+        "grade": 0.8
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

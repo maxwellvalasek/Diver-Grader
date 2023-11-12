@@ -1,0 +1,92 @@
+{
+  "name": "Garrett  Hill",
+  "gender": "M",
+  "age": "11",
+  "id": 74379,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 16.0,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 19.0,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 18.5,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 16.5,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "100C",
+        "best_dive_avg": 18.5,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200B",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

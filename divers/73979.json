@@ -1,0 +1,118 @@
+{
+  "name": "Norah Turpin",
+  "gender": "F",
+  "age": "10",
+  "id": 73979,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 14.25,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 13.5,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 14.25,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 13.5,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 13.5,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-23",
+                "score": 14.25,
+                "meet": "2021 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.88,
+        "best_dive_id": "100A",
+        "best_dive_avg": 14.25,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.88,
+        "best_dive_id": "200C",
+        "best_dive_avg": 14.25,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

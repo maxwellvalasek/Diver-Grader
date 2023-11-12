@@ -1,0 +1,236 @@
+{
+  "name": "Laney Fullenwider",
+  "gender": "F",
+  "age": "10",
+  "id": 78576,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 14.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 18.0,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 12.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 15.0,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 15.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 14.5,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.75
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 18.9,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 15.5,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 17.5,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 15.0,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 15.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 12.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 15.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 12.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 15.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.95,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.9,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.25,
+        "grade": 2.1
+      },
+      "average_grade": 2.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.0,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 2.0
+  }
+}

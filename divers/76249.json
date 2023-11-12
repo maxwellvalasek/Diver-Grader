@@ -1,0 +1,170 @@
+{
+  "name": "Lucy Johnson",
+  "gender": "F",
+  "age": "16",
+  "id": 76249,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 24.65,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 17.6,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 25.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 18.7,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 24.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 20.25,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 24.2,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 27.55,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.12,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 21.35,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 22.23,
+        "best_dive_id": "403C",
+        "best_dive_avg": 24.2,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 27.55,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.55,
+        "grade": 3.7
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "name": "Alex Weinstein",
+  "gender": "M",
+  "age": "15",
+  "id": 73744,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 34.85,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 37.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.12
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 32.3,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 31.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 40.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.5
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 34.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 32.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 34.85,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 36.55,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.7
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.85,
+        "best_dive_id": "101C",
+        "best_dive_avg": 36.12,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 35.77,
+        "best_dive_id": "301A",
+        "best_dive_avg": 40.5,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "401C",
+        "best_dive_avg": 35.7,
+        "grade": 3.2
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.1
+  }
+}

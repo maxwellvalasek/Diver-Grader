@@ -1,0 +1,645 @@
+{
+  "name": "Elle Seever",
+  "gender": "F",
+  "age": "16",
+  "id": 75427,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 36.55,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-27",
+                "score": 21.75,
+                "meet": "Thanksgiving Dive Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 19.5,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 25.5,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 23.8,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 31.45,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 28.9,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.58
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 25.6,
+                "meet": "Last Chance Dive Meet"
+              },
+              {
+                "date": "2021-11-27",
+                "score": 24.0,
+                "meet": "Thanksgiving Dive Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 20.8,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 35.2,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-12-28",
+                "score": 27.5,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2022-01-27",
+                "score": 39.6,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 22.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 19.2,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-12-28",
+                "score": 23.2,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 36.55,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.34
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.75,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.75
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-27",
+                "score": 28.9,
+                "meet": "Thanksgiving Dive Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 26.35,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 40.25,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 32.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.23
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 28.0,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 27.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 28.9,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-12-28",
+                "score": 23.8,
+                "meet": "Cambridge December Dive"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 19.2,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 29.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-11-27",
+                "score": 0.0,
+                "meet": "Thanksgiving Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.27
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 16.15,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-28",
+                "score": 24.8,
+                "meet": "Cambridge December Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 23.1,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-11-27",
+                "score": 24.5,
+                "meet": "Thanksgiving Dive Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.5,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.08
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.2,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 31.9,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 24.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 31.9,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-12-28",
+                "score": 30.8,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 35.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-01-27",
+                "score": 34.1,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-27",
+                "score": 18.7,
+                "meet": "Thanksgiving Dive Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 25.5,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.1
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 19.95,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 20.4,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 47.15,
+                "meet": "16th Annual Kickoff Invitational Swim and Dive"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 37.95,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 0.0,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2022-12-28",
+                "score": 26.45,
+                "meet": "Cambridge December Dive"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.89
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.4,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 16.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 19.95,
+                "meet": "52th Annual METRO Atlanta Swimming and Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.05
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.65,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.65,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 18.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 31.35,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 34.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.71,
+        "best_dive_id": "101B",
+        "best_dive_avg": 36.55,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 35.4,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.23,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 26.17,
+        "best_dive_id": "301B",
+        "best_dive_avg": 26.63,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 31.05,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.9,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 25.96,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 27.89,
+        "grade": 3.5
+      },
+      "average_grade": 4.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.0,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 25.15,
+        "best_dive_id": "203C",
+        "best_dive_avg": 25.65,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 34.0,
+        "grade": 4.2
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.8
+  }
+}

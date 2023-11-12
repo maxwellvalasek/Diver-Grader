@@ -1,0 +1,344 @@
+{
+  "name": "Jacob Word",
+  "gender": "M",
+  "age": "10",
+  "id": 78338,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 12.0,
+                "meet": "Kuni Klassic 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 10.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 11.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 12.0,
+                "meet": "Kuni Klassic 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 15.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.83
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 18.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 0.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 13.5,
+                "meet": "Kuni Klassic 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 15.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 11.25
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 11.5,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 13.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 16.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 13.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 14.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 14.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.83
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 11.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 14.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.75
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 12.5,
+                "meet": "Kuni Klassic 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 11.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 16.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 11.5,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 15.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 13.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 14.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 12.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 14.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 15.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.83
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 18.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 11.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 11.25,
+        "grade": 1.4
+      },
+      "average_grade": 1.6
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.37,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.8
+  }
+}

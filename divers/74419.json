@@ -1,0 +1,440 @@
+{
+  "name": "Mason Humphrey",
+  "gender": "M",
+  "age": "14",
+  "id": 74419,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 20.0,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 13.0,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 29.25,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 27.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.12
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 25.6,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 16.0,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 25.5,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 24.65,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.07
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 22.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 21.7,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 29.45,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 26.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.02
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 15.0,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 17.5,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 18.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 20.15,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.15
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 24.6,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 22.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 27.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 20.8,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 22.4,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 37.4,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 0.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 16.0,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 16.5,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.5,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.33
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 29.25,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 21.75,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 24.0,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 16.5,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 27.2,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 20.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 19.6,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 24.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 18.7,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.28,
+        "best_dive_id": "101B",
+        "best_dive_avg": 28.12,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 22.05,
+        "best_dive_id": "201C",
+        "best_dive_avg": 25.07,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.5,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 25.91,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.02,
+        "grade": 3.2
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.44,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.47,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 20.5,
+        "best_dive_id": "201C",
+        "best_dive_avg": 22.88,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 23.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.6,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 21.8,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 2.9
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

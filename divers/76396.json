@@ -1,0 +1,443 @@
+{
+  "name": "John Mann",
+  "gender": "M",
+  "age": "16",
+  "id": 76396,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 23.1,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 21.0,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 17.5,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.53
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 14.4,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 24.0,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 21.0,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 21.6,
+                "meet": "Bethesda @ Manor"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.25
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 28.9,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 24.65,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 25.6,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 28.8,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 28.8,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 27.2,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 27.2,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 19.2,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.13
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 22.0,
+                "meet": "Manor @ Chevy"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 26.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 19.8,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.73
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 24.8,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 26.4,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 18.4,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 24.8,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 24.8,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 27.2,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 23.2,
+                "meet": "Manor @ Chevy"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 18.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 12.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.22
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 15.0,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 24.75,
+                "meet": "WGCC @ Manor"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 22.1,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 28.05,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 29.75,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 30.6,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 30.6,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 19.55,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.78
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 24.0,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 16.8,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 24.8,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 23.2,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 28.0,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 25.6,
+                "meet": "Bethesda @ Manor"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.68
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 20.3,
+                "meet": "Manor @ Chevy"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 16.1,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 18.2,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 27.2,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 29.6,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 17.6,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 28.0,
+                "meet": "Manor @ Congo"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 28.8,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 20.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 29.7,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 27.5,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 14.45,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.29,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.77,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 21.79,
+        "best_dive_id": "201B",
+        "best_dive_avg": 22.22,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 26.38,
+        "best_dive_id": "301B",
+        "best_dive_avg": 26.78,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 26.05,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 14.45,
+        "best_dive_id": "5111B",
+        "best_dive_avg": 14.45,
+        "grade": 1.9
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

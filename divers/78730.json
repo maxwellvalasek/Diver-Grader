@@ -1,0 +1,164 @@
+{
+  "name": "OSU MEN A TEAM",
+  "gender": "M",
+  "age": "2",
+  "id": 78730,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 57.35,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 57.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 66.3,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 66.3
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 65.6,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 65.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 70.5,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 70.5
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 73.6,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 73.6
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 56.0,
+                "meet": "2023 B1G Mens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 56.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 57.35,
+        "best_dive_id": "107B",
+        "best_dive_avg": 57.35,
+        "grade": 7.2
+      },
+      "Twister": {
+        "top_2_avg": 66.3,
+        "best_dive_id": "5154B",
+        "best_dive_avg": 66.3,
+        "grade": 8.3
+      },
+      "average_grade": 7.7
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 65.6,
+        "best_dive_id": "205B",
+        "best_dive_avg": 65.6,
+        "grade": 8.7
+      },
+      "Reverse": {
+        "top_2_avg": 70.5,
+        "best_dive_id": "305C",
+        "best_dive_avg": 70.5,
+        "grade": 9.4
+      },
+      "average_grade": 9.1
+    },
+    "Platform": {
+      "Inward": {
+        "top_2_avg": 73.6,
+        "best_dive_id": "407C",
+        "best_dive_avg": 73.6,
+        "grade": 8.7
+      },
+      "Armstand": {
+        "top_2_avg": 56.0,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 56.0,
+        "grade": 6.6
+      },
+      "average_grade": 7.6
+    },
+    "overall_average_grade": 8.1
+  }
+}

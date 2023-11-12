@@ -1,0 +1,443 @@
+{
+  "name": "Abigail Simonds",
+  "gender": "F",
+  "age": "17",
+  "id": 77756,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 16.5,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 16.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 21.0,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 18.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 21.0,
+                "meet": "2023 Moose Moss Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 32.25,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 29.25,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 33.6,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 32.3,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 32.3,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 31.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 30.8,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.3,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.05
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 24.65,
+                "meet": "2023 Moose Moss Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 24.0,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 14.3,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 19.8,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 20.25,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 23.25,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 22.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 25.0,
+                "meet": "2023 Moose Moss Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 19.2,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 16.8,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 21.6,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 21.0,
+                "meet": "2023 Moose Moss Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 26.25,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 24.75,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 19.8,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 29.7,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 24.7,
+                "meet": "2023 Moose Moss Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-02",
+                "score": 25.5,
+                "meet": "2023 Moose Moss Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.9,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 31.7,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.6,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "201C",
+        "best_dive_avg": 32.3,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "301C",
+        "best_dive_avg": 31.5,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 29.05,
+        "best_dive_id": "401B",
+        "best_dive_avg": 29.05,
+        "grade": 3.6
+      },
+      "average_grade": 3.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.32,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 23.75,
+        "best_dive_id": "203C",
+        "best_dive_avg": 25.0,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 21.3,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.6,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 25.12,
+        "best_dive_id": "401B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 26.37,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 27.2,
+        "grade": 3.5
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.6
+  }
+}

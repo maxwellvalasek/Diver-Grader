@@ -1,0 +1,272 @@
+{
+  "name": "Chloe Yun",
+  "gender": "F",
+  "age": "17",
+  "id": 77142,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 12.35,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 16.25,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.3
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 17.5,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 16.1,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 19.55,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 25.5,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.52
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 11.9,
+                "meet": "Olympic League Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-13",
+                "score": 20.25,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 0.0,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 0.0,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 0.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 27.2,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 22.4,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 33.0,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 21.75,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.38
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 21.6,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 23.2,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 21.6,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 33.3,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.45
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 0.0,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 0.0,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 0.0
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-14",
+                "score": 17.1,
+                "meet": "Olympic League Finals"
+              },
+              {
+                "date": "2022-04-13",
+                "score": 9.9,
+                "meet": "MHS Dive Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.55,
+        "best_dive_id": "102C",
+        "best_dive_avg": 16.8,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 21.76,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.52,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 12.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 1.7
+      },
+      "Inward": {
+        "top_2_avg": 24.89,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.38,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 20.48,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 27.45,
+        "grade": 2.7
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

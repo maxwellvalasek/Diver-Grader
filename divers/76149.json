@@ -1,0 +1,220 @@
+{
+  "name": "Russell Offutt",
+  "gender": "M",
+  "age": "16",
+  "id": 76149,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 32.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 34.85,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 32.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.15
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 50.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 40.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 37.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 32.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 39.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 36.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.67
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 25.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 37.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 37.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 41.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 44.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 36.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 32.55,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 35.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 29.7,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.97,
+        "best_dive_id": "105C",
+        "best_dive_avg": 42.8,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 35.67,
+        "best_dive_id": "204C",
+        "best_dive_avg": 35.67,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 33.73,
+        "best_dive_id": "304C",
+        "best_dive_avg": 37.8,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 40.7,
+        "best_dive_id": "403C",
+        "best_dive_avg": 40.7,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 32.48,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 32.55,
+        "grade": 4.3
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.8
+  }
+}

@@ -1,0 +1,636 @@
+{
+  "name": "Devon Claiborne",
+  "gender": "M",
+  "age": "18",
+  "id": 76923,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 23.25,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 20.25,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 17.6,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 28.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 19.5,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 18.75,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.12
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 15.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 33.3,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 24.3,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 27.0,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 18.9,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 24.7,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.75,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 22.95,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 23.8,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.8,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 20.3,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 17.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.35
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 37.05,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.65,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 22.8,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 11.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 20.15,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.15
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 22.95,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 29.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.82
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 27.2,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 24.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 28.6,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 30.8,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 38.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.63
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 20.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 24.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 22.4,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 20.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.6
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 29.9,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 20.7,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.3
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 23.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 22.1,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.8,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 25.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 27.2,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.65
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 23.2,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 0.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 17.85,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 24.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.25,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 23.25,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.12
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 33.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 30.8,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 35.2,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-07-09",
+                "score": 36.3,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 25.65,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 0.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.82
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 23.8,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 19.55,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 22.1,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.82
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.27,
+        "best_dive_id": "103B",
+        "best_dive_avg": 22.8,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201B",
+        "best_dive_avg": 25.88,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.23,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 24.41,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.5,
+        "grade": 3.1
+      },
+      "average_grade": 2.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.23,
+        "best_dive_id": "104C",
+        "best_dive_avg": 32.63,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 24.53,
+        "best_dive_id": "203B",
+        "best_dive_avg": 25.3,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 24.36,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.65,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 27.98,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.83,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 18.22,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 21.82,
+        "grade": 2.4
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.1
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "name": "Sarah Welsh",
+  "gender": "F",
+  "age": "18",
+  "id": 75798,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 19.8,
+                "meet": "2023 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2022-12-19",
+                "score": 15.0,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 17.4,
+                "meet": "2022 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 18.0,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.55
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-21",
+                "score": 23.1,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 24.0,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 20.8,
+                "meet": "2022 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 22.4,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 14.3,
+                "meet": "2023 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2022-12-19",
+                "score": 30.8,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 17.0,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 22.95,
+                "meet": "2022 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 22.95,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.97
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 21.75,
+                "meet": "2023 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2022-12-19",
+                "score": 21.75,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 20.25,
+                "meet": "2022 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 19.5,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.81
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 16.8,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 24.8,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 13.6,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 24.8,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 14.0,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 14.7,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.35
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-19",
+                "score": 18.4,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 17.6,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 24.7,
+                "meet": "2023 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2022-12-19",
+                "score": 21.85,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 19.0,
+                "meet": "2022 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 24.7,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.56
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 23.8,
+                "meet": "2023 NCHSAA Central 1A 2A 3A 4A Diving Regional"
+              },
+              {
+                "date": "2022-12-19",
+                "score": 25.5,
+                "meet": "11th Annual Robert R. Sawyer High School Invitational"
+              },
+              {
+                "date": "2021-12-21",
+                "score": 27.2,
+                "meet": "10th Annual Robert R. Sawyer High School Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.73,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.1,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 20.88,
+        "best_dive_id": "201A",
+        "best_dive_avg": 20.97,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 20.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 20.8,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 16.18,
+        "best_dive_id": "402C",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 23.82,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 25.5,
+        "grade": 3.2
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "name": "Advait Kashikar",
+  "gender": "M",
+  "age": "13",
+  "id": 78599,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 14.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 12.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 14.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 14.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 9.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 14.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 12.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 15.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 15.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 11.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.38,
+        "best_dive_id": "100C",
+        "best_dive_avg": 13.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.75,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 11.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 11.5,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.7
+  }
+}

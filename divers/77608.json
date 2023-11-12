@@ -1,0 +1,144 @@
+{
+  "name": "Allie D'acquisto",
+  "gender": "F",
+  "age": "19",
+  "id": 77608,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 26.35,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 0.0,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 27.2,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 24.8,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 24.0,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.9,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.18,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.35,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 28.9,
+        "grade": 3.9
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

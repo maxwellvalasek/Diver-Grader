@@ -1,0 +1,108 @@
+{
+  "name": "Will Daunais",
+  "gender": "M",
+  "age": "6",
+  "id": 77926,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 23.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 19.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 35.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 21.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 14.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 38.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 22.95,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.93,
+        "best_dive_id": "101A",
+        "best_dive_avg": 30.6,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 24.18,
+        "best_dive_id": "201A",
+        "best_dive_avg": 30.6,
+        "grade": 3.2
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "name": "Alice Pham",
+  "gender": "F",
+  "age": "12",
+  "id": 75224,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 15.0,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 17.85,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 13.2,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 13.5,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 25.5,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 23.63,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.63
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 23.1,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.43,
+        "best_dive_id": "101A",
+        "best_dive_avg": 17.85,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 24.56,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.1,
+        "grade": 3.1
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

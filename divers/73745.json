@@ -1,0 +1,157 @@
+{
+  "name": "Willow Campbell",
+  "gender": "F",
+  "age": "13",
+  "id": 73745,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 10.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.12
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 20.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 36.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 28.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 27.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 32.3,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.35,
+        "best_dive_id": "103C",
+        "best_dive_avg": 32.4,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 30.17,
+        "best_dive_id": "202C",
+        "best_dive_avg": 32.3,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

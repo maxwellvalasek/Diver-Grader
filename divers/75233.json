@@ -1,0 +1,255 @@
+{
+  "name": "Amelia Dawson",
+  "gender": "F",
+  "age": "11",
+  "id": 75233,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 15.5,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 15.0,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 21.0,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 25.9,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 24.5,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 15.0,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 16.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 17.0,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 16.0,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 20.0,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 7.2,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 13.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 13.5,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 11.5,
+                "meet": "2022 California Games"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 4.0,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 7.75
+          },
+          "5201D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 14.5,
+                "meet": "2022 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.45,
+        "best_dive_id": "102C",
+        "best_dive_avg": 25.9,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 24.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 24.5,
+        "grade": 3.3
+      },
+      "average_grade": 3.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.05,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.5,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 10.0,
+        "best_dive_id": "5201D",
+        "best_dive_avg": 14.5,
+        "grade": 1.2
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 2.4
+  }
+}

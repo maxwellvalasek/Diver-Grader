@@ -1,0 +1,159 @@
+{
+  "name": "MESA MEN B TEAM",
+  "gender": "M",
+  "age": "2",
+  "id": 78902,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 54.6,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 32.78,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.78
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 34.43,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.43
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 48.3,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 56.25,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 56.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 35.7,
+                "meet": "Denver Relays"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 54.6,
+        "best_dive_id": "105B",
+        "best_dive_avg": 54.6,
+        "grade": 7.3
+      },
+      "Back": {
+        "top_2_avg": 32.78,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.78,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 34.43,
+        "best_dive_id": "301B",
+        "best_dive_avg": 34.43,
+        "grade": 4.6
+      },
+      "average_grade": 5.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "107C",
+        "best_dive_avg": 48.3,
+        "grade": 6.0
+      },
+      "Inward": {
+        "top_2_avg": 56.25,
+        "best_dive_id": "405B",
+        "best_dive_avg": 56.25,
+        "grade": 7.0
+      },
+      "Twister": {
+        "top_2_avg": 35.7,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 35.7,
+        "grade": 4.5
+      },
+      "average_grade": 5.8
+    },
+    "overall_average_grade": 5.6
+  }
+}

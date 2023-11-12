@@ -1,0 +1,124 @@
+{
+  "name": "Lili  Gaskins",
+  "gender": "F",
+  "age": "15",
+  "id": 77033,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 17.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 20.3,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 21.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 19.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 23.8,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 23.4,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.65,
+        "best_dive_id": "102C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 21.4,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 23.4,
+        "grade": 3.1
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "name": "Jaxon Kuzmich",
+  "gender": "M",
+  "age": "7",
+  "id": 77124,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "The Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "The Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 13.5,
+                "meet": "The Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "The Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 15.0,
+                "meet": "The Black Gold Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "100A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

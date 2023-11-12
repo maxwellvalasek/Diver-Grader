@@ -1,0 +1,177 @@
+{
+  "name": "Lily Anderson",
+  "gender": "F",
+  "age": "12",
+  "id": 73840,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 17.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 18.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 34.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 25.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 22.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 24.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.27
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 21.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 22.1,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.23
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 22.1,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 19.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 27.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 12.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.32
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.73,
+        "best_dive_id": "101A",
+        "best_dive_avg": 27.2,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.23,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 13.32,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 13.32,
+        "grade": 1.8
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

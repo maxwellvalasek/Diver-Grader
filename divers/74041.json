@@ -1,0 +1,121 @@
+{
+  "name": "Hudson Lynch",
+  "gender": "M",
+  "age": "12",
+  "id": 74041,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 16.8,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 19.2,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 11.9,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 16.8,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 22.95,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 19.55,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 11.9,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.6,
+        "best_dive_id": "101C",
+        "best_dive_avg": 18.0,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.25,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 11.9,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 11.9,
+        "grade": 1.6
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

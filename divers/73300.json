@@ -1,0 +1,641 @@
+{
+  "name": "Berit Kallemeier",
+  "gender": "F",
+  "age": "17",
+  "id": 73300,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 21.75,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.75,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 29.6,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 23.2,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 31.2,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 33.0,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 27.9,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 29.7,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 33.3,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.3
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 30.4,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 14.4,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.8
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 24.65,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 22.95,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 14.0,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 25.9,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 23.75,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 20.9,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 30.4,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.02
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 22.8,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 22.8,
+                "meet": "2021 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.35,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 29.4,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 34.65,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.8
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 33.0,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 32.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 22.8,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 27.2,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 24.65,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 28.05,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 31.9,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 19.8,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.85
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 27.2,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 26.4,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.07
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 29.9,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.9
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 27.0,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 29.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 21.25,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 22.4,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 25.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.35,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 24.0,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 26.25,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.75
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 26.4,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 34.1,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 30.8,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.43
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 26.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 35.65,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 36.8,
+                "meet": "2021 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.22
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 35.1,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 23.1,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 29.4,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.25,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.0,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 29.03,
+        "best_dive_id": "201B",
+        "best_dive_avg": 30.3,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 26.0,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.4,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 25.24,
+        "best_dive_id": "401B",
+        "best_dive_avg": 25.9,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 31.48,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 32.5,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.32,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.63,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 28.63,
+        "best_dive_id": "203B",
+        "best_dive_avg": 29.9,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 25.45,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.35,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 27.09,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.43,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 35.85,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 36.22,
+        "grade": 4.8
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.7
+  }
+}

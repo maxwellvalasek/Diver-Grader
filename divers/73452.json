@@ -1,0 +1,114 @@
+{
+  "name": "Connor Zeuli",
+  "gender": "M",
+  "age": "10",
+  "id": 73452,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 7.0,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 6.5,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 6.5,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 7.7,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 12.0,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-23",
+                "score": 6.5,
+                "meet": "2021 Orcas Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 7.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 7.7,
+        "grade": 1.0
+      },
+      "Back": {
+        "top_2_avg": 9.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 12.0,
+        "grade": 1.2
+      },
+      "average_grade": 1.1
+    },
+    "overall_average_grade": 1.1
+  }
+}

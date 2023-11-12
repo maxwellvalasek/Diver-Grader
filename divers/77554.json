@@ -1,0 +1,124 @@
+{
+  "name": "Leah Gargantiel",
+  "gender": "F",
+  "age": "14",
+  "id": 77554,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 16.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 18.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 27.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 18.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 29.75,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 27.2,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "102B",
+        "best_dive_avg": 27.0,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 23.88,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.75,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

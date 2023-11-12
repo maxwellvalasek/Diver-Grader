@@ -1,0 +1,196 @@
+{
+  "name": "Alyssa Britt",
+  "gender": "F",
+  "age": "19",
+  "id": 73342,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 31.45,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 31.05,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 30.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 31.45,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 24.15,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 36.3,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 36.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 43.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.25,
+        "best_dive_id": "103B",
+        "best_dive_avg": 31.45,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 29.4,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.0,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 27.8,
+        "best_dive_id": "301B",
+        "best_dive_avg": 31.45,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 40.0,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 43.2,
+        "grade": 5.3
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

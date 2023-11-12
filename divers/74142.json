@@ -1,0 +1,351 @@
+{
+  "name": "Zach Berg",
+  "gender": "M",
+  "age": "16",
+  "id": 74142,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 31.45,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 31.45,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 32.3,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.73
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 45.6,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 46.8,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 40.8,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 30.4,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 32.8,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 29.6,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.93
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 41.4,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 36.0,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 44.0,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 28.8,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 34.4,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 21.6,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.27
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 38.85,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 39.9,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 37.8,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 29.25,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 30.75,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 30.75,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.25
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 44.4,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 43.2,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 40.7,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 42.9,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 41.8,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.35
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 33.8,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.8
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 40.25,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.25
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 38.85,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 42.0,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2021-09-25",
+                "score": 34.65,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.5
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 43.75,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 47.5,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.62
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.06,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 40.47,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.4,
+        "grade": 5.4
+      },
+      "Reverse": {
+        "top_2_avg": 33.56,
+        "best_dive_id": "303C",
+        "best_dive_avg": 38.85,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 42.77,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.8,
+        "grade": 5.7
+      },
+      "Twister": {
+        "top_2_avg": 43.98,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 45.62,
+        "grade": 5.9
+      },
+      "average_grade": 5.3
+    },
+    "overall_average_grade": 5.3
+  }
+}

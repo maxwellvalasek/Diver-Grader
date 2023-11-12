@@ -1,0 +1,134 @@
+{
+  "name": "Ava Marsh",
+  "gender": "F",
+  "age": "16",
+  "id": 75051,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 21.0,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 27.0,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 30.4,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 24.0,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 24.5,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 24.7,
+                "meet": "Westminster Middle School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.7,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.4,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "202C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 24.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 24.5,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 24.7,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 24.7,
+        "grade": 3.3
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

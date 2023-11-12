@@ -1,0 +1,195 @@
+{
+  "name": "Lola Clark",
+  "gender": "F",
+  "age": "8",
+  "id": 75196,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 14.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 12.5,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 15.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 16.8,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 23.8,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 19.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 21.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.47
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 26.35,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 22.1,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 24.8,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 21.75,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5202A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 12.5,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 0.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "102C",
+        "best_dive_avg": 21.47,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 24.42,
+        "best_dive_id": "202B",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 6.25,
+        "best_dive_id": "5202A",
+        "best_dive_avg": 12.5,
+        "grade": 0.8
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

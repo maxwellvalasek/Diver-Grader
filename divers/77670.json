@@ -1,0 +1,482 @@
+{
+  "name": "Benaiah Schnurstein",
+  "gender": "M",
+  "age": "17",
+  "id": 77670,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 27.2,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 32.3,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 35.7,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 30.6,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.16
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 43.7,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.85
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 44.2,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.2
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 28.8,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 50.4,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 24.8,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 26.4,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 32.0,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.73
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 25.5,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.75
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 36.8,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 36.8,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 36.8,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.8
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 42.55,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 23.2,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 23.2,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 24.0,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 28.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 26.4,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 31.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 36.75,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.12
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 25.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 29.25,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.38
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 28.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 38.4,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 43.2,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 34.1,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.05
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-11",
+                "score": 49.0,
+                "meet": "2023 CIF State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 41.4,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.7
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 37.4,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 24.2,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 42.9,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.83
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 44.2,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.2
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 46.0,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.0
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-12",
+                "score": 0.0,
+                "meet": "2022 CIF State Diving Championships"
+              },
+              {
+                "date": "2022-05-12",
+                "score": 49.95,
+                "meet": "2022 CIF State Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.98
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 46.25,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-05-11",
+                "score": 43.75,
+                "meet": "2023 CIF State Diving Championships"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 48.75,
+                "meet": "CIF Sac Joaquin Section Championships 2023"
+              }
+            ],
+            "count": 3,
+            "average_score": 46.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 41.13,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.2,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 38.24,
+        "best_dive_id": "204B",
+        "best_dive_avg": 42.55,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 27.77,
+        "best_dive_id": "303C",
+        "best_dive_avg": 34.12,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 43.53,
+        "best_dive_id": "404C",
+        "best_dive_avg": 49.0,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 45.74,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 46.25,
+        "grade": 6.1
+      },
+      "average_grade": 5.2
+    },
+    "overall_average_grade": 5.2
+  }
+}

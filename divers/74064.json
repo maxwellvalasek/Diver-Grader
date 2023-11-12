@@ -1,0 +1,216 @@
+{
+  "name": "Ryan  Calligaro",
+  "gender": "M",
+  "age": "16",
+  "id": 74064,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 25.2,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 20.3,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 21.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.17
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 39.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 42.0,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 14.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 25.5,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 16.5,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 24.75,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 27.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 26.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 24.15,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 31.05,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 21.7,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 29.7,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 28.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.0,
+        "best_dive_id": "104C",
+        "best_dive_avg": 39.6,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 26.25,
+        "best_dive_id": "202C",
+        "best_dive_avg": 27.0,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "304C",
+        "best_dive_avg": 27.6,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 26.67,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.15,
+        "grade": 3.6
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

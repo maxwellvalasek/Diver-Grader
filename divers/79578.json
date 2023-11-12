@@ -1,0 +1,149 @@
+{
+  "name": "MIAF WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79578,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 40.8,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 29.25,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 39.9,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 35.1,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 40.5,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-05",
+                "score": 51.3,
+                "meet": "Test Meet NCAA"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 35.02,
+        "best_dive_id": "101A",
+        "best_dive_avg": 40.8,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "201A",
+        "best_dive_avg": 39.9,
+        "grade": 5.0
+      },
+      "average_grade": 4.7
+    },
+    "1 Meter": {
+      "Reverse": {
+        "top_2_avg": 35.1,
+        "best_dive_id": "301A",
+        "best_dive_avg": 35.1,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 40.5,
+        "best_dive_id": "401A",
+        "best_dive_avg": 40.5,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 51.3,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 51.3,
+        "grade": 6.8
+      },
+      "average_grade": 5.6
+    },
+    "overall_average_grade": 5.2
+  }
+}

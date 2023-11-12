@@ -1,0 +1,105 @@
+{
+  "name": "Liliana Taylor",
+  "gender": "F",
+  "age": "9",
+  "id": 76863,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 9.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 12.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 12.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 9.1,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 12.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.8,
+        "best_dive_id": "100C",
+        "best_dive_avg": 12.5,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 12.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 12.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.6
+  }
+}

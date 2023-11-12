@@ -1,0 +1,69 @@
+{
+  "name": "Daniel Gardner",
+  "gender": "M",
+  "age": "9",
+  "id": 78045,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 11.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 8.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 7.25,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 7.25,
+        "best_dive_id": "100A",
+        "best_dive_avg": 7.25,
+        "grade": 0.9
+      },
+      "average_grade": 0.9
+    },
+    "overall_average_grade": 0.9
+  }
+}

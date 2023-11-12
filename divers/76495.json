@@ -1,0 +1,660 @@
+{
+  "name": "Jake Krusell",
+  "gender": "M",
+  "age": "23",
+  "id": 76495,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 16.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 16.8,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 0.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 11.2
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 19.2,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 21.6,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 21.6,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.8
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 19.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 13.3,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 0.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 6.65
+          },
+          "202B": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 5.1,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.1
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 18.4,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 14.25,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 18.05,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.15
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 2.7,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 0.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 1.35
+          },
+          "302B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 8.1,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.1
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 22.1,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 25.5,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 14.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 27.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 11.2,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 17.55,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 0.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.78
+          },
+          "402C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 18.9,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 5.7,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 23.75,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 22.8,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.42
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111D": {
+            "dd": "DD Not Found",
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 17.1,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 0.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.55
+          },
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 0.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 19.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 16.15,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 17.1,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.42
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 25.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 23.8,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.65
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 23.1,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 23.1,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 25.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 15.2,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 17.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 22.0,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 20.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 10.2,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.3
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 18.9,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 24.15,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.52
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 21.75,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 18.9,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 22.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 18.4,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 27.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 26.4,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 18.7,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 22.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 14.45,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 20.7,
+                "meet": "2022 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.55,
+        "best_dive_id": "103B",
+        "best_dive_avg": 20.8,
+        "grade": 2.6
+      },
+      "Back": {
+        "top_2_avg": 16.9,
+        "best_dive_id": "202C",
+        "best_dive_avg": 18.4,
+        "grade": 2.1
+      },
+      "Reverse": {
+        "top_2_avg": 22.15,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 17.79,
+        "best_dive_id": "402C",
+        "best_dive_avg": 18.9,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 13.87,
+        "best_dive_id": "5321D",
+        "best_dive_avg": 17.42,
+        "grade": 1.7
+      },
+      "average_grade": 2.3
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.88,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 21.5,
+        "best_dive_id": "202A",
+        "best_dive_avg": 25.5,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 18.41,
+        "best_dive_id": "303C",
+        "best_dive_avg": 21.52,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 25.22,
+        "best_dive_id": "403C",
+        "best_dive_avg": 26.95,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 21.75,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 22.8,
+        "grade": 2.9
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 2.6
+  }
+}

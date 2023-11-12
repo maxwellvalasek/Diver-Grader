@@ -1,0 +1,215 @@
+{
+  "name": "Ainsley  Branstetter",
+  "gender": "F",
+  "age": "12",
+  "id": 74290,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 13.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 13.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 12.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 15.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 13.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 14.4,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 15.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 14.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 12.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 15.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 17.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 16.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.95,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.5,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

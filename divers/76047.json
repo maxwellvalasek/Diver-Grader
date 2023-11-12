@@ -1,0 +1,170 @@
+{
+  "name": "Sydney Wilson",
+  "gender": "F",
+  "age": "14",
+  "id": 76047,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 31.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 32.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 30.6,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 23.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 24.3,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.15,
+        "best_dive_id": "101C",
+        "best_dive_avg": 31.5,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.8,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 32.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.4,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 26.9,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 24.3,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 24.3,
+        "grade": 3.2
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

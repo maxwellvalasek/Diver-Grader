@@ -1,0 +1,601 @@
+{
+  "name": "Lance Meeson",
+  "gender": "M",
+  "age": "21",
+  "id": 76622,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.15,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 34.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.58
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 37.2,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 42.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 45.6,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 28.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 28.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 40.25,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 27.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 29.9,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.58
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 30.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 22.95,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 39.6,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 37.2,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 36.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 26.1,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.1
+          },
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.75,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 37.2,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 27.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 43.2,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.0
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 40.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 50.4,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 38.5,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 41.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 40.7,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.33
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 32.5,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 41.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.05
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 40.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 31.2,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 32.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.6
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 26.4,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 40.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 39.6,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 33.3,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 32.4,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 32.4,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.7
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-25",
+                "score": 32.2,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 39.9,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 8.55,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 46.2,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 50.4,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 37.8,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 36.75,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.27
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 48.6,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 29.7,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 35.1,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 36.75,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.27
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 45.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 43.75,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 40.0,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.92
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 42.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 46.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2022-02-25",
+                "score": 43.2,
+                "meet": "2022 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.39,
+        "best_dive_id": "105C",
+        "best_dive_avg": 41.6,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.58,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 33.27,
+        "best_dive_id": "303B",
+        "best_dive_avg": 37.6,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 39.8,
+        "best_dive_id": "404C",
+        "best_dive_avg": 45.5,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 40.25,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 40.33,
+        "grade": 5.4
+      },
+      "average_grade": 4.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.6,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 32.58,
+        "best_dive_id": "201B",
+        "best_dive_avg": 32.7,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 36.57,
+        "best_dive_id": "305C",
+        "best_dive_avg": 44.8,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 37.59,
+        "best_dive_id": "405C",
+        "best_dive_avg": 37.8,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 43.46,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 44.0,
+        "grade": 5.4
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.7
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "name": "Sophia  Esquivia",
+  "gender": "F",
+  "age": "8",
+  "id": 77161,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 14.5,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 15.0,
+                "meet": "2022 FGCDA Spring Championship"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 15.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 15.5,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 16.5,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 17.0,
+                "meet": "2022 FGCDA Spring Championship"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 17.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 15.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 19.5,
+                "meet": "2022 FGCDA Spring Championship"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 16.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 18.5,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "5201A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 16.0,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.83,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.83,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.0,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 17.25,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 18.5,
+        "grade": 2.3
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

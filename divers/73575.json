@@ -1,0 +1,296 @@
+{
+  "name": "Riley Perri",
+  "gender": "F",
+  "age": "19",
+  "id": 73575,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102A": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 14.4,
+                "meet": "Husky Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-12",
+                "score": 22.4,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 28.05,
+                "meet": "Husky Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-12",
+                "score": 29.6,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 6.6,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 30.8,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 27.2,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 28.05,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 23.8,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 27.2,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 25.6,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 27.2,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 21.6,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 22.4,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 23.25,
+                "meet": "Husky Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-12",
+                "score": 23.1,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 19.2,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 21.6,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-12",
+                "score": 22.95,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 25.65,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2021-05-12",
+                "score": 24.7,
+                "meet": "Baseline League Diving Finals"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.17
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 17.1,
+                "meet": "Husky Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.83,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.6,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 26.56,
+        "best_dive_id": "201A",
+        "best_dive_avg": 27.62,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.4,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 23.18,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.25,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 24.43,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 25.17,
+        "grade": 3.3
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

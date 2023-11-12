@@ -1,0 +1,209 @@
+{
+  "name": "Alice Poynton",
+  "gender": "F",
+  "age": "11",
+  "id": 77145,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 15.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 23.8,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 18.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 16.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 17.0,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "5201A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 17.5,
+                "meet": "Nexgen Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.9,
+        "best_dive_id": "101A",
+        "best_dive_avg": 23.8,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 18.5,
+        "grade": 2.5
+      },
+      "average_grade": 2.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "100C",
+        "best_dive_avg": 16.5,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 17.25,
+        "best_dive_id": "5201A",
+        "best_dive_avg": 17.5,
+        "grade": 2.2
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.4
+  }
+}

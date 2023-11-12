@@ -1,0 +1,209 @@
+{
+  "name": "James Snell",
+  "gender": "M",
+  "age": "20",
+  "id": 77576,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 23.1,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 25.6,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 38.5,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 21.25,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 22.5,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 24.0,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 27.2,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 27.2,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.6,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 28.8,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 26.25,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.05,
+        "best_dive_id": "104C",
+        "best_dive_avg": 38.5,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 21.88,
+        "best_dive_id": "202C",
+        "best_dive_avg": 22.5,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 25.6,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.2,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 27.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 27.52,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 28.8,
+        "grade": 3.7
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.6
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "name": "Macy Santoni",
+  "gender": "F",
+  "age": "18",
+  "id": 76660,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 34.85,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 46.8,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 35.7,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 25.0,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 30.4,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 29.4,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 30.75,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 39.6,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 28.5,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-27",
+                "score": 34.85,
+                "meet": "2022 North Star Diving Club Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.83,
+        "best_dive_id": "105C",
+        "best_dive_avg": 46.8,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 30.35,
+        "best_dive_id": "201A",
+        "best_dive_avg": 35.7,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 29.9,
+        "best_dive_id": "301C",
+        "best_dive_avg": 30.4,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 35.17,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.6,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 31.68,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 34.85,
+        "grade": 4.2
+      },
+      "average_grade": 4.5
+    },
+    "overall_average_grade": 4.5
+  }
+}

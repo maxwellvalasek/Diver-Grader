@@ -1,0 +1,471 @@
+{
+  "name": "Ellie Perkins",
+  "gender": "F",
+  "age": "18",
+  "id": 74939,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.95,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 29.75,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.35
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 30.8,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.95,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 21.25,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.1
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 18.7,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 19.8,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 19.2,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 25.6,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 17.6,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.8,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 20.25,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.12
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 16.5,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 29.9,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 33.35,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.62
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 31.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 30.45,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.98
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 20.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 28.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 20.9,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 20.9,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 27.55,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 30.4,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.98
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 29.7,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 27.9,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 26.1,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 22.5,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.3
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 25.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.65,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.07
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 21.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 21.7,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.35
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.8,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 29.45,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.12
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 31.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 26.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.5
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 24.7,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.38,
+        "best_dive_id": "104C",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 20.68,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.1,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 21.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 20.25,
+        "best_dive_id": "401B",
+        "best_dive_avg": 22.12,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 31.3,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 31.62,
+        "grade": 4.2
+      },
+      "average_grade": 3.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.45,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 28.89,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.98,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 24.69,
+        "best_dive_id": "302C",
+        "best_dive_avg": 25.07,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 23.73,
+        "best_dive_id": "403C",
+        "best_dive_avg": 26.12,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 27.23,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.5,
+        "grade": 3.4
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Levi  Mckay",
+  "gender": "M",
+  "age": "17",
+  "id": 77001,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 18.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 25.6,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 35.2,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 30.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 25.5,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 24.8,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 24.8,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 23.8,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 27.5,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 28.5,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 39.6,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.4,
+        "best_dive_id": "104C",
+        "best_dive_avg": 35.2,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 27.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 30.0,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 34.05,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 39.6,
+        "grade": 4.5
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

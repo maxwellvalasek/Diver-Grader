@@ -1,0 +1,182 @@
+{
+  "name": "Addison Payne",
+  "gender": "F",
+  "age": "18",
+  "id": 76129,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 13.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 15.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 28.9,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 31.45,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.17
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 18.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 28.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 27.75,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 23.25,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 18.4,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 34.5,
+                "meet": "Georgia High School State Championship 1-5A"
+              },
+              {
+                "date": "2022-02-03",
+                "score": 32.2,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.35
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 6.75,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.3,
+        "best_dive_id": "104C",
+        "best_dive_avg": 14.3,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 30.17,
+        "best_dive_id": "202A",
+        "best_dive_avg": 30.17,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.2,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "401B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 28.37,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 33.35,
+        "grade": 3.8
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

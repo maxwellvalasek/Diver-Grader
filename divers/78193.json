@@ -1,0 +1,111 @@
+{
+  "name": "Anna Wylie",
+  "gender": "F",
+  "age": "16",
+  "id": 78193,
+  "events": {
+    "12 Meter": {
+      "Front": {
+        "dives": {
+          "112B": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 59.8,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 59.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 48.3,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.3
+          }
+        }
+      }
+    },
+    "15 Meter": {
+      "Back": {
+        "dives": {
+          "212B": {
+            "dd": "DD Not Found",
+            "height": "15",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 68.6,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 68.6
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "611B": {
+            "dd": "DD Not Found",
+            "height": "15",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 37.5,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "12 Meter": {
+      "Front": {
+        "top_2_avg": 59.8,
+        "best_dive_id": "112B",
+        "best_dive_avg": 59.8,
+        "grade": null
+      },
+      "Twister": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 48.3,
+        "grade": null
+      }
+    },
+    "15 Meter": {
+      "Back": {
+        "top_2_avg": 68.6,
+        "best_dive_id": "212B",
+        "best_dive_avg": 68.6,
+        "grade": null
+      },
+      "Armstand": {
+        "top_2_avg": 37.5,
+        "best_dive_id": "611B",
+        "best_dive_avg": 37.5,
+        "grade": null
+      }
+    },
+    "overall_average_grade": 0
+  }
+}

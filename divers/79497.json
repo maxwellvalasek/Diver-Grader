@@ -1,0 +1,230 @@
+{
+  "name": "NU WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79497,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 41.6,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 50.7,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.15
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 48.0,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 48.0,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 57.4,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 47.6,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-16",
+                "score": 52.5,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-11-16",
+                "score": 63.0,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 63.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 64.0,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 64.0
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "2023 B1G Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-11-16",
+                "score": 39.6,
+                "meet": "Purdue Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 46.15,
+        "best_dive_id": "105B",
+        "best_dive_avg": 46.15,
+        "grade": 6.2
+      },
+      "Inward": {
+        "top_2_avg": 48.0,
+        "best_dive_id": "403B",
+        "best_dive_avg": 48.0,
+        "grade": 6.4
+      },
+      "average_grade": 6.3
+    },
+    "3 Meter": {
+      "Back": {
+        "top_2_avg": 52.5,
+        "best_dive_id": "205C",
+        "best_dive_avg": 52.5,
+        "grade": 6.6
+      },
+      "Reverse": {
+        "top_2_avg": 42.0,
+        "best_dive_id": "305C",
+        "best_dive_avg": 42.0,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 52.5,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 52.5,
+        "grade": 6.6
+      },
+      "average_grade": 6.1
+    },
+    "Platform": {
+      "Reverse": {
+        "top_2_avg": 63.0,
+        "best_dive_id": "305C",
+        "best_dive_avg": 63.0,
+        "grade": 7.4
+      },
+      "Twister": {
+        "top_2_avg": 64.0,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 64.0,
+        "grade": 7.5
+      },
+      "Armstand": {
+        "top_2_avg": 40.8,
+        "best_dive_id": "614B",
+        "best_dive_avg": 40.8,
+        "grade": 4.8
+      },
+      "average_grade": 6.6
+    },
+    "overall_average_grade": 6.3
+  }
+}

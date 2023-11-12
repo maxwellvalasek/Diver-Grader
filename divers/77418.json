@@ -1,0 +1,128 @@
+{
+  "name": "Rafael Hanono",
+  "gender": "M",
+  "age": "16",
+  "id": 77418,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 16.5,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 15.5,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 18.0,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 19.5,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 24.65,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 23.1,
+                "meet": "2022 FGCDA Spring Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "101C",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 22.07,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.1,
+        "grade": 3.1
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

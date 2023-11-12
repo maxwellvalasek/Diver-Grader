@@ -1,0 +1,101 @@
+{
+  "name": "Alexandra Safonov",
+  "gender": "F",
+  "age": "13",
+  "id": 75534,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 17.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 17.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 18.5,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.5,
+        "grade": 2.3
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

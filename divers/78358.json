@@ -1,0 +1,609 @@
+{
+  "name": "Alaina  Dackermann",
+  "gender": "F",
+  "age": "20",
+  "id": 78358,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 21.75,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 24.75,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 18.4,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 25.2,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.8
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 36.0,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 39.6,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 42.0,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 30.6,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 28.8,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 29.7,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 27.0,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 27.9,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 33.75,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 29.45,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 30.4,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 29.93,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 32.3,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 30.4,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 31.35,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 30.64
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 21.7,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 24.5,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 26.25,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 25.2,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 23.1,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 26.25,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.5
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 17.1,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 29.45,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.35,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 33.25,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.79
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 27.0,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 30.0,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.5,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 35.0,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 30.0,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 33.0,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 31.08
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 22.95,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 25.5,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 31.88,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.78
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 29.9,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 31.05,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 37.95,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 28.75,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 37.95,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 43.13,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.79
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 17.25,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 19.55,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.05,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 31.05,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 33.35,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 31.05,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.22
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 15.75,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 29.4,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 23.63,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 22.05,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 23.1,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 31.5,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.24
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 20.9,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 24.2,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 36.3,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 40.7,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 37.4,
+                "meet": "VT vs GW vs OU"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 46.2,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.28
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 32.2,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 42.0,
+                "meet": "OU vs MU"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 34.1,
+                "meet": "Ohio State Fall Invitational"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 30.8,
+                "meet": "MICH vs EMIU vs OU vs PUR"
+              },
+              {
+                "date": "2022-09-23",
+                "score": 39.6,
+                "meet": "OU Intrasquad Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.83
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 34.65,
+                "meet": "OU vs MU"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 43.05,
+                "meet": "The Fletch College Invite @OU"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 28.35,
+                "meet": "VT vs GW vs OU"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.95,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.8,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 29.62,
+        "best_dive_id": "201B",
+        "best_dive_avg": 29.62,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 30.64,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.64,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 25.82,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.79,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 31.08,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 31.08,
+        "grade": 3.9
+      },
+      "average_grade": 3.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.12,
+        "best_dive_id": "104B",
+        "best_dive_avg": 34.79,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 27.22,
+        "best_dive_id": "203B",
+        "best_dive_avg": 27.22,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 24.24,
+        "best_dive_id": "303C",
+        "best_dive_avg": 24.24,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 34.83,
+        "best_dive_id": "404C",
+        "best_dive_avg": 35.93,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 35.09,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.35,
+        "grade": 4.7
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 3.9
+  }
+}

@@ -1,0 +1,418 @@
+{
+  "name": "Keaton Hall",
+  "gender": "M",
+  "age": "16",
+  "id": 77490,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 33.15,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 32.3,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 22.1,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 23.8,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.84
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 43.7,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 35.65,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.67
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 33.0,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 46.8,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 36.0,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 33.6,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 34.4,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 33.6,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 25.6,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.8
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 44.85,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 24.15,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-23",
+                "score": 23.0,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 38.25,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 32.3,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 21.25,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 21.25,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.26
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 40.8,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 39.9,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 23.1,
+                "meet": "2022 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 32.25,
+                "meet": "2023 Boys Como Invitational"
+              },
+              {
+                "date": "2022-09-24",
+                "score": 33.0,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 29.25,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 26.25,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.19
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 46.8,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 44.0,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 36.3,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 27.5,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 35.15,
+                "meet": "2022 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.15
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 26.35,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-24",
+                "score": 49.45,
+                "meet": "2022 Boys Como Invitational"
+              },
+              {
+                "date": "2022-06-23",
+                "score": 34.5,
+                "meet": "2022 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 37.95,
+                "meet": "2022 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.63
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 48.6,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.6
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 52.5,
+                "meet": "2023 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.15,
+        "best_dive_id": "104B",
+        "best_dive_avg": 39.67,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 30.7,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.5,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 34.6,
+        "best_dive_id": "303B",
+        "best_dive_avg": 40.8,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 38.65,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.8,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 50.55,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 52.5,
+        "grade": 6.7
+      },
+      "average_grade": 5.2
+    },
+    "overall_average_grade": 5.2
+  }
+}

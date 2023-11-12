@@ -1,0 +1,144 @@
+{
+  "name": "Stella Yu",
+  "gender": "F",
+  "age": "10",
+  "id": 76789,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 17.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 16.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 14.4,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 12.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 15.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 14.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.75
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 20.4,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 15.75,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 15.4,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 14.7,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.1,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 18.07,
+        "best_dive_id": "201A",
+        "best_dive_avg": 20.4,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 15.05,
+        "best_dive_id": "401C",
+        "best_dive_avg": 15.05,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

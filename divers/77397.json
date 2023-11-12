@@ -1,0 +1,134 @@
+{
+  "name": "Lucy Cavaliere",
+  "gender": "F",
+  "age": "14",
+  "id": 77397,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 17.5,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 32.3,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 16.5,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 23.8,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 25.2,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 26.35,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.9,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.3,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 20.15,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 26.35,
+        "grade": 3.5
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

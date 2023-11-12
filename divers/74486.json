@@ -1,0 +1,124 @@
+{
+  "name": "Jax Rodgers",
+  "gender": "M",
+  "age": "9",
+  "id": 74486,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 17.0,
+                "meet": "BiG Cat Diving Summer Splash Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 14.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 11.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 16.0,
+                "meet": "BiG Cat Diving Summer Splash Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 17.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 17.5,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 15.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.38
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 16.5,
+                "meet": "BiG Cat Diving Summer Splash Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 14.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 17.0,
+                "meet": "2022 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 15.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.88
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.38,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.38,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 15.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.88,
+        "grade": 2.1
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "name": "Jocelyn Hansen",
+  "gender": "F",
+  "age": "54",
+  "id": 76084,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.0,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 19.8,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.0,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 15.4,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 32.0,
+                "meet": "2022 DAL League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-26",
+                "score": 25.5,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 27.75,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 16.5,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.12
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 26.6,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 21.0,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-26",
+                "score": 20.7,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 19.55,
+                "meet": "2022 DAL League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.27,
+        "best_dive_id": "103C",
+        "best_dive_avg": 32.0,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 20.12,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 20.7,
+        "grade": 2.7
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

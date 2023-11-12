@@ -1,0 +1,164 @@
+{
+  "name": "Marko Volkov",
+  "gender": "M",
+  "age": "11",
+  "id": 76867,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 15.5,
+                "meet": "Las Vegas Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 5.5,
+                "meet": "Las Vegas Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 16.5,
+                "meet": "Las Vegas Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.4,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 11.5,
+                "meet": "Las Vegas Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.95
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 15.4,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 18.0,
+                "meet": "Las Vegas Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 17.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 17.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.25,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 17.5,
+        "grade": 2.3
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

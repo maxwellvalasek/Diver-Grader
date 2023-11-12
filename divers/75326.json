@@ -1,0 +1,174 @@
+{
+  "name": "Jordyn Burkey",
+  "gender": "F",
+  "age": "21",
+  "id": 75326,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 22.95,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 12.75,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.85
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 22.1,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.35,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 28.05,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 28.9,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 21.75,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.75,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 27.55,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 27.55,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.55
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 31.05,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 33.35,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "103B",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 24.23,
+        "best_dive_id": "202A",
+        "best_dive_avg": 24.23,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.48,
+        "best_dive_id": "301B",
+        "best_dive_avg": 28.48,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.25,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 29.88,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 32.2,
+        "grade": 4.0
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

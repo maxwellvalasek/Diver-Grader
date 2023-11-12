@@ -1,0 +1,212 @@
+{
+  "name": "Ava Henrickson",
+  "gender": "F",
+  "age": "20",
+  "id": 74750,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 22.1,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 21.45,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 19.5,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.02
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 32.3,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 26.78,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 24.23,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 23.25,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 23.63,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 15.75,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 24.8,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 24.0,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 21.6,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-23",
+                "score": 27.0,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 28.0,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 27.6,
+                "meet": "TU vs UMBC"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 28.5,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 29.93,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 32.78,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.39,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.77,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 20.88,
+        "best_dive_id": "201C",
+        "best_dive_avg": 20.88,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 23.47,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.47,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 27.53,
+        "best_dive_id": "402C",
+        "best_dive_avg": 27.8,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 30.4,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 30.4,
+        "grade": 4.1
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

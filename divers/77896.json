@@ -1,0 +1,216 @@
+{
+  "name": "Brooklyn Zschach",
+  "gender": "F",
+  "age": "11",
+  "id": 77896,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 16.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 21.6,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 30.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 37.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.87
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 23.25,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 24.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 23.1,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 16.5,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 24.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.35,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 33.15,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.75
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 26.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.3,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-06-24",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.33
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-25",
+                "score": 21.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.37,
+        "best_dive_id": "101C",
+        "best_dive_avg": 29.87,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 28.58,
+        "best_dive_id": "201A",
+        "best_dive_avg": 29.75,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 23.33,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.33,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 21.25,
+        "grade": 2.8
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

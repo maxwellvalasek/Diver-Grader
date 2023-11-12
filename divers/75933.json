@@ -1,0 +1,170 @@
+{
+  "name": "Elizabeth Mcwhinnie",
+  "gender": "F",
+  "age": "15",
+  "id": 75933,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 11.9,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 34.4,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 28.0,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 31.0,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 27.2,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 32.25,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 25.3,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5112B": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 0.0,
+                "meet": "2022 KHSAA Regions 7"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.15,
+        "best_dive_id": "103C",
+        "best_dive_avg": 34.4,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 29.5,
+        "best_dive_id": "203C",
+        "best_dive_avg": 31.0,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 28.77,
+        "best_dive_id": "401B",
+        "best_dive_avg": 32.25,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5112B",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

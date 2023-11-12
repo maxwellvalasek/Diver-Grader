@@ -1,0 +1,85 @@
+{
+  "name": "Catherine Cutts",
+  "gender": "F",
+  "age": "13",
+  "id": 74010,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 16.1,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 17.85,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 21.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.1,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.1,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

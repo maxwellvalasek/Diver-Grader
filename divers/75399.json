@@ -1,0 +1,98 @@
+{
+  "name": "Zachary  Shecter",
+  "gender": "M",
+  "age": "17",
+  "id": 75399,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 21.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 29.6,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 28.5,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 30.1,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.3,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.6,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.5,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 30.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 30.1,
+        "grade": 4.0
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

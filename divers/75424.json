@@ -1,0 +1,781 @@
+{
+  "name": "Luke Bartruff",
+  "gender": "M",
+  "age": "21",
+  "id": 75424,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 20.25,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 18.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.12
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 29.6,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 30.4,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 18.4,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 15.2,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 16.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.92
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.0,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 42.0,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 21.6,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 32.4,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 39.6,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 31.92
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.2,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 35.1,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 30.6,
+                "meet": "Rodionoff Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.3
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 10.8,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.8
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 16.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "204C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 36.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 36.0,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 33.25,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 34.2,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 22.8,
+                "meet": "Rodionoff Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.08
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 22.95,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 25.5,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 17.0,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 12.75,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.55
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 17.5,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 13.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.6,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 30.4,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 27.55,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 34.2,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 34.2,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.59
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 25.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 26.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 25.0,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 19.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.75
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 23.0,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 28.0,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 30.0,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 28.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 24.0,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.6
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 30.6,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 30.6,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 17.0,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 18.7,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.23
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 13.8,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 34.5,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 25.3,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.53
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 26.4,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 29.7,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.05
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.4,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 30.0,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 25.2,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 27.6,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 27.6,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.56
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.8,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 32.8,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 26.4,
+                "meet": "Rodionoff Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.67
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 17.0,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 22.5,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 33.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 26.4,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.5,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 28.9,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 25.5,
+                "meet": "Rodionoff Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 15.2,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 20.0,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 27.2,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 20.0,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 22.5,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 18.75,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 8.25,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 31.9,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 31.9,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 37.4,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 29.7,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.72
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 29.7,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.3,
+                "meet": "2021 Collegiate Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 0.0,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.2,
+                "meet": "2023 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 28.35,
+                "meet": "Rodionoff Invite"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 28.35,
+                "meet": "2022 PCSC Conference Championship"
+              },
+              {
+                "date": "2022-02-16",
+                "score": 30.45,
+                "meet": "2022 PCSC Conference Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.09
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.92,
+        "best_dive_id": "105B",
+        "best_dive_avg": 31.92,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 32.58,
+        "best_dive_id": "204C",
+        "best_dive_avg": 36.0,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 24.06,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.08,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 28.41,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.59,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 25.33,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 26.6,
+        "grade": 3.2
+      },
+      "average_grade": 3.4
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.41,
+        "best_dive_id": "105C",
+        "best_dive_avg": 28.56,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 30.28,
+        "best_dive_id": "201B",
+        "best_dive_avg": 30.67,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 24.51,
+        "best_dive_id": "301B",
+        "best_dive_avg": 26.63,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 25.77,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.72,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 27.73,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.09,
+        "grade": 3.7
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.5
+  }
+}

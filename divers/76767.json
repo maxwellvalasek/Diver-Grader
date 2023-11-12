@@ -1,0 +1,131 @@
+{
+  "name": "Aiya Mohammed",
+  "gender": "F",
+  "age": "16",
+  "id": 76767,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 14.0,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 8.0,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 13.5,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 12.0,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 14.0,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 14.5,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 13.5,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.25,
+        "best_dive_id": "101C",
+        "best_dive_avg": 14.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.5,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "name": "Grace Bedo",
+  "gender": "F",
+  "age": "11",
+  "id": 77664,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 13.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 13.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 14.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 17.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 15.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 19.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 12.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 9.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 17.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 14.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 13.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 18.5,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 17.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 12.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 13.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 18.0,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 13.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 13.0,
+        "grade": 1.7
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 1.9
+  }
+}

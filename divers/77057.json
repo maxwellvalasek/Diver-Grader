@@ -1,0 +1,118 @@
+{
+  "name": "Sam Humes",
+  "gender": "M",
+  "age": "10",
+  "id": 77057,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 17.0,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 15.0,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 16.5,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 13.5,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 15.5,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 10.0,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 16.5,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 12.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

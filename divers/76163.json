@@ -1,0 +1,452 @@
+{
+  "name": "Morgan Kelly",
+  "gender": "F",
+  "age": "19",
+  "id": 76163,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 21.25,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 40.25,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 39.1,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 31.05,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.05,
+                "meet": "DREX vs TU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 34.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.19
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 39.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 34.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 30.6,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 30.6,
+                "meet": "DREX vs TU"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 29.75,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 39.1,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 37.95,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 31.05,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.23,
+                "meet": "DREX vs TU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 33.35,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.54
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 23.2,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 16.8,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 25.2,
+                "meet": "DREX vs TU"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.3
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 19.2,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 21.75,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 28.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 30.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 36.3,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.3,
+                "meet": "DREX vs TU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 26.4,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 5,
+            "average_score": 31.68
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 36.8,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 39.9,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 36.75,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 26.78,
+                "meet": "UDEL vs TU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.38,
+                "meet": "DREX vs TU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 29.4,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.44
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 39.6,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 33.0,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 22.95,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 31.35,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 30.0,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 21.6,
+                "meet": "UDEL vs TU"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.62,
+        "best_dive_id": "104B",
+        "best_dive_avg": 35.19,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 34.57,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.54,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.3,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 30.03,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.68,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 34.83,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 36.8,
+        "grade": 4.6
+      },
+      "average_grade": 4.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.6,
+        "best_dive_id": "105B",
+        "best_dive_avg": 39.6,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "203B",
+        "best_dive_avg": 33.0,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.95,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 25.8,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 30.0,
+        "grade": 3.2
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 4.0
+  }
+}

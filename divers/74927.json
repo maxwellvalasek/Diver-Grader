@@ -1,0 +1,209 @@
+{
+  "name": "Gage Mccauley",
+  "gender": "M",
+  "age": "19",
+  "id": 74927,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 26.65,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.65
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 36.3,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 22.4,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 14.0,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 31.45,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 37.8,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 32.25,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.25
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 33.6,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 25.65,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.65
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 28.05,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 35.1,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.47,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.3,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "201B",
+        "best_dive_avg": 22.4,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 34.62,
+        "best_dive_id": "304C",
+        "best_dive_avg": 37.8,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 32.92,
+        "best_dive_id": "404C",
+        "best_dive_avg": 33.6,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 31.58,
+        "best_dive_id": "5321D",
+        "best_dive_avg": 35.1,
+        "grade": 4.2
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

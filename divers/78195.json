@@ -1,0 +1,492 @@
+{
+  "name": "Adam Cohen",
+  "gender": "M",
+  "age": "18",
+  "id": 78195,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 52.0,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 54.6,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 48.75,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 51.78
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 48.3,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 44.85,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 25.88,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.68
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 44.4,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 46.8,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 46.8,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 46.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 56.4,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 54.0,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 54.0,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 54.8
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 60.45,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 41.85,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 44.18,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 48.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 53.75,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 48.75,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 45.0,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 49.17
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 43.4,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 44.18,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 60.45,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 49.34
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 69.0,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 63.0,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 58.5,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 63.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 66.0,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 65.25,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 60.75,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 64.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 66.0,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 65.25,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 63.0,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 64.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 43.5,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 54.0,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 58.5,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 52.0
+          },
+          "5351B": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 58.05,
+                "meet": "NU vs SIU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 56.7,
+                "meet": "Miami (OH) vs Northwestern"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 40.5,
+                "meet": "UCIN vs NU"
+              }
+            ],
+            "count": 3,
+            "average_score": 51.75
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.1,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 81.2,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 81.2
+          }
+        }
+      }
+    },
+    "12 Meter": {
+      "Inward": {
+        "dives": {
+          "412C": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 75.6,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 75.6
+          }
+        }
+      }
+    },
+    "15 Meter": {
+      "Twister": {
+        "dives": {
+          "5141B": {
+            "dd": "DD Not Found",
+            "height": "15",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 54.0,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          },
+          "5441C": {
+            "dd": "DD Not Found",
+            "height": "15",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 85.25,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 85.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 51.78,
+        "best_dive_id": "105B",
+        "best_dive_avg": 51.78,
+        "grade": 6.9
+      },
+      "Back": {
+        "top_2_avg": 39.68,
+        "best_dive_id": "203B",
+        "best_dive_avg": 39.68,
+        "grade": 5.3
+      },
+      "Reverse": {
+        "top_2_avg": 46.0,
+        "best_dive_id": "303B",
+        "best_dive_avg": 46.0,
+        "grade": 6.1
+      },
+      "Inward": {
+        "top_2_avg": 51.81,
+        "best_dive_id": "403B",
+        "best_dive_avg": 54.8,
+        "grade": 6.9
+      },
+      "Twister": {
+        "top_2_avg": 49.17,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 49.17,
+        "grade": 6.6
+      },
+      "average_grade": 6.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 49.34,
+        "best_dive_id": "107B",
+        "best_dive_avg": 49.34,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 63.5,
+        "best_dive_id": "205B",
+        "best_dive_avg": 63.5,
+        "grade": 7.9
+      },
+      "Reverse": {
+        "top_2_avg": 64.0,
+        "best_dive_id": "305B",
+        "best_dive_avg": 64.0,
+        "grade": 8.0
+      },
+      "Inward": {
+        "top_2_avg": 64.75,
+        "best_dive_id": "405B",
+        "best_dive_avg": 64.75,
+        "grade": 8.1
+      },
+      "Twister": {
+        "top_2_avg": 51.88,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 52.0,
+        "grade": 6.5
+      },
+      "average_grade": 7.3
+    },
+    "Platform": {
+      "Back": {
+        "top_2_avg": 81.2,
+        "best_dive_id": "204C",
+        "best_dive_avg": 81.2,
+        "grade": 9.6
+      },
+      "average_grade": 9.6
+    },
+    "12 Meter": {
+      "Inward": {
+        "top_2_avg": 75.6,
+        "best_dive_id": "412C",
+        "best_dive_avg": 75.6,
+        "grade": null
+      }
+    },
+    "15 Meter": {
+      "Twister": {
+        "top_2_avg": 69.62,
+        "best_dive_id": "5441C",
+        "best_dive_avg": 85.25,
+        "grade": null
+      }
+    },
+    "overall_average_grade": 7.7
+  }
+}

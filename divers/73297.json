@@ -1,0 +1,889 @@
+{
+  "name": "Hans Anderson",
+  "gender": "M",
+  "age": "19",
+  "id": 73297,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 22.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 32.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 26.4,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 28.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 27.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.7
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 50.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 51.6,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 34.8,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 33.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 32.4,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 40.56
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 37.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 33.3,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 32.4,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 24.3,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.95
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 45.1,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 42.9,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 36.3,
+                "meet": "2021 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.43
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 38.95,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 37.05,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 22.8,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.7,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 27.08,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.91
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 28.75,
+                "meet": "2021 USA Diving Zone D Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.75
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 38.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 48.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 33.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.67
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 23.1,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 15.4,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 27.3,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.93
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 43.05,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 28.35,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 33.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.0
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 44.55,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 40.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.52
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 7.35,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 27.3,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.32
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 21.0,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 29.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 31.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.17
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 31.2,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 33.6,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 12.0,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.5
+          },
+          "5331D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 29.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 32.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 37.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 25.5,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 23.8,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 30.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 32.8,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.8
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 26.45,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 27.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.52
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 50.7,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 41.6,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.15
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 22.8,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 30.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 25.6,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 32.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 33.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 27.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 34.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 41.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.95
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 30.0,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 43.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 32.3,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 30.6,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 25.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.47
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 34.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 44.1,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 45.15,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 38.85,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 32.55,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 28.35,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 21.75,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 23.63,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.13
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 39.6,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 26.4,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 34.1,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 36.3,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.1
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.2,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-01",
+                "score": 18.7,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 27.5,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 37.95,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 41.4,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 28.75,
+                "meet": "2021 USA Diving Zone D Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 34.5,
+                "meet": "2021 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 29.33,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.39
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 33.6,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 26.78,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.19
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 29.7,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 38.5,
+                "meet": "2023 MIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 35.29,
+        "best_dive_id": "105B",
+        "best_dive_avg": 40.56,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 40.81,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.43,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 36.94,
+        "best_dive_id": "303C",
+        "best_dive_avg": 39.67,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 38.01,
+        "best_dive_id": "405C",
+        "best_dive_avg": 42.52,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 33.13,
+        "best_dive_id": "5333D",
+        "best_dive_avg": 35.0,
+        "grade": 4.1
+      },
+      "average_grade": 4.6
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 41.7,
+        "best_dive_id": "105B",
+        "best_dive_avg": 46.15,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 37.08,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 37.23,
+        "best_dive_id": "303C",
+        "best_dive_avg": 37.8,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 37.43,
+        "best_dive_id": "404C",
+        "best_dive_avg": 44.1,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 34.31,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 34.39,
+        "grade": 4.6
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 4.8
+  }
+}

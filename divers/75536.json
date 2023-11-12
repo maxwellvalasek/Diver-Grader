@@ -1,0 +1,418 @@
+{
+  "name": "Ava Bleckler",
+  "gender": "F",
+  "age": "14",
+  "id": 75536,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 20.5,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 19.0,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 17.5,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 20.0,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 16.5,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 16.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 20.0,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 16.5,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 18.5,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.33
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 29.75,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 25.5,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 28.9,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.05
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 25.5,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 18.0,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 21.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 32.3,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 29.75,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 27.2,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              },
+              {
+                "date": "2022-03-05",
+                "score": 14.5,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 0.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 10.67
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 16.5,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 16.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 26.35,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 27.2,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 24.8,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 26.4,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 19.0,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 18.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 20.0,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 20.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 28.9,
+                "meet": "MAC Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 24.0,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 26.35,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 25.5,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-05",
+                "score": 16.0,
+                "meet": "MAC Invitational 2022"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 11.5,
+                "meet": "2021 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.78,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.05,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "401C",
+        "best_dive_avg": 29.75,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 10.67,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 10.67,
+        "grade": 1.3
+      },
+      "average_grade": 2.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.19,
+        "best_dive_id": "101C",
+        "best_dive_avg": 26.77,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 22.97,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.9,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 25.93,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.93,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 13.75,
+        "grade": 1.8
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 2.9
+  }
+}

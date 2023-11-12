@@ -1,0 +1,196 @@
+{
+  "name": "Emma Johnson",
+  "gender": "F",
+  "age": "17",
+  "id": 77760,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.75,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.65,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 27.2,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.65,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 10.2,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 22.4,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 22.4,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.0,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 20.4,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.15,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.7,
+        "best_dive_id": "102B",
+        "best_dive_avg": 24.75,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 25.92,
+        "best_dive_id": "201A",
+        "best_dive_avg": 27.2,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 16.3,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.4,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 22.27,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 24.15,
+        "grade": 3.0
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

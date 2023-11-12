@@ -1,0 +1,297 @@
+{
+  "name": "Giulia  Gardiner",
+  "gender": "F",
+  "age": "17",
+  "id": 77367,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 26.25,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 23.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 23.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 23.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 15.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 25.3,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 33.35,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.35
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 5.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 27.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 29.45,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.73,
+        "best_dive_id": "101B",
+        "best_dive_avg": 26.25,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201C",
+        "best_dive_avg": 23.8,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 26.15,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.5,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "average_grade": 2.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.3,
+        "best_dive_id": "104B",
+        "best_dive_avg": 25.3,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 28.68,
+        "best_dive_id": "203B",
+        "best_dive_avg": 33.35,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 5.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 5.6,
+        "grade": 0.7
+      },
+      "Inward": {
+        "top_2_avg": 25.75,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 29.45,
+        "grade": 3.9
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 2.9
+  }
+}

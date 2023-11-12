@@ -1,0 +1,88 @@
+{
+  "name": "Alexander Lum",
+  "gender": "M",
+  "age": "13",
+  "id": 78118,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 18.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 17.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 7.65,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.65
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 17.25,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.8,
+        "best_dive_id": "101C",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 12.45,
+        "best_dive_id": "202C",
+        "best_dive_avg": 17.25,
+        "grade": 1.7
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

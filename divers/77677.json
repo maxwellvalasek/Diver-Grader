@@ -1,0 +1,101 @@
+{
+  "name": "Taylor  Moody",
+  "gender": "F",
+  "age": "12",
+  "id": 77677,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 13.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 11.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 15.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 14.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 14.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "102C",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200B",
+        "best_dive_avg": 14.5,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

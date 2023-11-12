@@ -1,0 +1,421 @@
+{
+  "name": "Meghan  Keppler ",
+  "gender": "F",
+  "age": "21",
+  "id": 75504,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 22.8,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.8,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 22.4,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.33
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 21.6,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 27.0,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 27.0,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.2
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 29.7,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 29.7,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 19.8,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 27.0,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 31.0,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.0
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 25.0,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 26.78,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 32.55,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 29.4,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.58
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 33.0,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 29.0,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 29.0,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.33
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 21.45,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 27.5,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 18.7,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 30.0,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.0,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 22.4,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.47
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 20.7,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 30.0,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 23.0,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 25.65,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 29.7,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.67
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 15.75,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 34.65,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 25.3,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 29.7,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.88
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 24.23,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 25.5,
+                "meet": "Zippy Invitational @Akron"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 25.5,
+                "meet": "Zippy Invitational @Akron"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.08
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.33,
+        "best_dive_id": "103B",
+        "best_dive_avg": 23.33,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 25.8,
+        "best_dive_id": "203B",
+        "best_dive_avg": 26.4,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 27.67,
+        "best_dive_id": "301A",
+        "best_dive_avg": 29.0,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 29.58,
+        "best_dive_id": "403B",
+        "best_dive_avg": 29.58,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 30.33,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 30.33,
+        "grade": 3.8
+      },
+      "average_grade": 3.4
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.55,
+        "best_dive_id": "104C",
+        "best_dive_avg": 22.55,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 25.88,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.5,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 23.7,
+        "best_dive_id": "301A",
+        "best_dive_avg": 27.67,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 29.88,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.88,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 25.08,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 25.08,
+        "grade": 3.3
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

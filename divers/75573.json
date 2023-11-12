@@ -1,0 +1,914 @@
+{
+  "name": "Alex Watts",
+  "gender": "M",
+  "age": "20",
+  "id": 75573,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 34.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 35.7,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 33.15,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 26.35,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.3
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 46.8,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 52.2,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 52.2,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 39.6,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 32.4,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 24.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 6,
+            "average_score": 41.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 24.8,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 26.25,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 28.13,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 24.75,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.38
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 29.33,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 29.33,
+                "meet": "TCNJ vs Ramapo College"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.33
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 29.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 26.0,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 32.0,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 34.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.25
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 36.3,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 26.4,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 20.8,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 12.8,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 29.6,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.8,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 24.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.47
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 16.8,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 39.38,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 39.38,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 34.65,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 24.15,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.87
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 30.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 32.63,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 27.0,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 30.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.91
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 49.5,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 51.15,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 51.15,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 36.3,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 38.5,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 35.2,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 6,
+            "average_score": 43.63
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 44.1,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 44.1,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 28.0,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 33.6,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 27.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 20.9,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.65,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.65,
+                "meet": "TCNJ vs Ramapo College"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.07
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 36.75,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.5,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 24.15,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 35.7,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 36.75,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 5,
+            "average_score": 32.97
+          },
+          "5411B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 21.25,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 28.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 26.88,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 18.4,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.43
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 15.6,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 32.4,
+                "meet": "TCNJ vs Ramapo College"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 34.98,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 43.56,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 34.1,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 21.6,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 28.9,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 30.6,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 32.13,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.54
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 39.6,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 36.72,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 28.8,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 31.2,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.08
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 24.3,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 19.44,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 21.6,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.78
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 24.65,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 35.88,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 37.95,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.92
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 29.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 24.0,
+                "meet": "TCNJ vs Ramapo College"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 23.8,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 23.52,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 25.2,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.17
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 39.9,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 42.53,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 39.06,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 40.32,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 36.1,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.1
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 38.4,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 29.7,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 44.55,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 25.92,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 37.26,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.36
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 23.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          },
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 32.55,
+                "meet": "TCNJ vs USMM vs MONT"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 30.0,
+                "meet": "TCNJ vs USMM vs MONT"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 30.0,
+                "meet": "TCNJ vs Ramapo College"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 24.0,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 28.0,
+                "meet": "TCNJ vs USMM vs WCUP"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 20.16,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 21.6,
+                "meet": "2022 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.88
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.64,
+        "best_dive_id": "105C",
+        "best_dive_avg": 41.2,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 31.46,
+        "best_dive_id": "204C",
+        "best_dive_avg": 36.3,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.84,
+        "best_dive_id": "303C",
+        "best_dive_avg": 30.87,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 41.16,
+        "best_dive_id": "403C",
+        "best_dive_avg": 43.63,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 31.88,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 32.97,
+        "grade": 4.3
+      },
+      "average_grade": 4.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.99,
+        "best_dive_id": "105C",
+        "best_dive_avg": 37.55,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 32.56,
+        "best_dive_id": "203A",
+        "best_dive_avg": 34.08,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 31.71,
+        "best_dive_id": "303B",
+        "best_dive_avg": 36.92,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 40.04,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.45,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 28.91,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 32.55,
+        "grade": 3.6
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.3
+  }
+}

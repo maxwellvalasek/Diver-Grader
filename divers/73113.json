@@ -1,0 +1,820 @@
+{
+  "name": "Sophie Moran",
+  "gender": "F",
+  "age": "17",
+  "id": 73113,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 19.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 23.0,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 19.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 22.5,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-08",
+                "score": 30.75,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 27.2,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 29.6,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 20.8,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.87
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 18.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 22.0,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.25
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 30.6,
+                "meet": "13th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 29.75,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 31.45,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 34.85,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.66
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 26.1,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 22.5,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-08",
+                "score": 27.3,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 38.95,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 30.45,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 38.85,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 28.35,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.55
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 37.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 39.0,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 37.0,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.67
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 28.8,
+                "meet": "13th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 39.6,
+                "meet": "Surf City High School Invite 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.2
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 26.0,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 18.85,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 21.45,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 20.8,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 23.4,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.1
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 22.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 28.9,
+                "meet": "13th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 26.35,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 26.35,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 25.5,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 33.15,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 28.9,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 24.65,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.69
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 20.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 23.2,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 24.0,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 24.0,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.8,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-09",
+                "score": 27.75,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 24.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 24.0,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.25
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 28.9,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 27.2,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 30.6,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 22.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 24.75,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 27.2,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 27.2,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 27.2,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 21.6,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 22.4,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 27.2,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 27.2,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 25.6,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 20.8,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 26.4,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 23.2,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.07
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 26.25,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 25.5,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 26.25,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 26.25,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 21.75,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.2
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 21.7,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 23.1,
+                "meet": "13th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 37.4,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 30.8,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 29.7,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 12.1,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 30.8,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 26.4,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.19
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 28.5,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-19",
+                "score": 18.7,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 17.6,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.6,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 23.1,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 28.05,
+                "meet": "Region 12 Only Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 26.45,
+                "meet": "13th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 39.1,
+                "meet": "Surf City High School Invite 2022"
+              },
+              {
+                "date": "2022-02-19",
+                "score": 37.95,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 33.35,
+                "meet": "3rd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 41.4,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 31.05,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2021-05-08",
+                "score": 40.25,
+                "meet": "12th Annual Santa Margarita Catholic High School Invitationa"
+              }
+            ],
+            "count": 7,
+            "average_score": 35.65
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 30.45,
+                "meet": "Surf City High School Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.09,
+        "best_dive_id": "101B",
+        "best_dive_avg": 30.75,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 27.86,
+        "best_dive_id": "201C",
+        "best_dive_avg": 31.66,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.3,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.3,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 33.12,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.95,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 36.28,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 37.67,
+        "grade": 4.5
+      },
+      "average_grade": 3.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.69,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 27.07,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.9,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 25.34,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.6,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 26.36,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.19,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 35.0,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 35.65,
+        "grade": 4.7
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.7
+  }
+}

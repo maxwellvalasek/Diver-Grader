@@ -1,0 +1,543 @@
+{
+  "name": "Ava Lazovsky",
+  "gender": "F",
+  "age": "17",
+  "id": 77619,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 22.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 19.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 24.8,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 16.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 28.8,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 22.75,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 31.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 23.8,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 25.5,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 36.55,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 30.6,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.11
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 44.0,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 33.0,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 30.8,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 34.1,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.2,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.42
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 16.8,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.8,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 28.8,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 31.2,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 33.15,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 26.35,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.05,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 30.6,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 33.15,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.26
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 28.9,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 28.05,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 0.0,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 23.8,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 28.05,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.76
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 27.2,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 24.0,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 20.0,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.73
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 29.7,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 29.25,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 24.75,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 27.75,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.06
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 24.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 41.8,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 35.2,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 34.1,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 28.6,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.92
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 24.7,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 32.3,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.5
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 42.55,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 31.05,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 41.4,
+                "meet": "2022 CIF Central Coast Section Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.23
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 37.8,
+                "meet": "2023 CIF Central Coast Section Diving Championship"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.3,
+                "meet": "2023 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 32.55,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-10-15",
+                "score": 28.35,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.15,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.8,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 28.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 22.75,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.75,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 31.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 31.0,
+        "grade": 3.9
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.62,
+        "best_dive_id": "104C",
+        "best_dive_avg": 35.42,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 28.54,
+        "best_dive_id": "202A",
+        "best_dive_avg": 30.26,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.73,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 33.88,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.92,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 38.34,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 42.55,
+        "grade": 5.1
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 3.6
+  }
+}

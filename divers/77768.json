@@ -1,0 +1,215 @@
+{
+  "name": "Gaven Novak",
+  "gender": "M",
+  "age": "14",
+  "id": 77768,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 17.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 15.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 24.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 27.2,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 23.8,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 15.5,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 28.05,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 16.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 0.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 32.3,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.8,
+        "grade": 3.0
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.77,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.05,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Twister": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 32.3,
+        "grade": 4.3
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.7
+  }
+}

@@ -1,0 +1,258 @@
+{
+  "name": "Natalia Re'",
+  "gender": "F",
+  "age": "12",
+  "id": 77749,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 16.0,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 17.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 17.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 15.0,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 16.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 14.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 18.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 19.0,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 26.35,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 18.0,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 26.35,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 27.2,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-21",
+                "score": 15.5,
+                "meet": "CdS"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 16.5,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "average_grade": 1.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.68,
+        "best_dive_id": "101C",
+        "best_dive_avg": 26.35,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 22.18,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.35,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.4
+  }
+}

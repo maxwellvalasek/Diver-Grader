@@ -1,0 +1,164 @@
+{
+  "name": "TCU MEN A TEAM",
+  "gender": "M",
+  "age": "2",
+  "id": 78767,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 63.55,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 63.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 57.0,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 57.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 54.0,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 74.4,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 74.4
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 60.8,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 60.8
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6241B": {
+            "dd": 2.7,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 59.4,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 59.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 63.55,
+        "best_dive_id": "107B",
+        "best_dive_avg": 63.55,
+        "grade": 7.9
+      },
+      "Reverse": {
+        "top_2_avg": 57.0,
+        "best_dive_id": "305B",
+        "best_dive_avg": 57.0,
+        "grade": 7.1
+      },
+      "average_grade": 7.5
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 54.0,
+        "best_dive_id": "205C",
+        "best_dive_avg": 54.0,
+        "grade": 7.2
+      },
+      "Inward": {
+        "top_2_avg": 74.4,
+        "best_dive_id": "405C",
+        "best_dive_avg": 74.4,
+        "grade": 9.9
+      },
+      "average_grade": 8.6
+    },
+    "Platform": {
+      "Twister": {
+        "top_2_avg": 60.8,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 60.8,
+        "grade": 7.2
+      },
+      "Armstand": {
+        "top_2_avg": 59.4,
+        "best_dive_id": "6241B",
+        "best_dive_avg": 59.4,
+        "grade": 7.0
+      },
+      "average_grade": 7.1
+    },
+    "overall_average_grade": 7.7
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Josh Fountain",
+  "gender": "M",
+  "age": "20",
+  "id": 75630,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 22.95,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 30.6,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 26.4,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 0.0,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 29.33,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.33
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 31.2,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 12.38,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.38
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 44.55,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.55
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 23.1,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 9.98,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.98
+          },
+          "5123D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 0.0,
+                "meet": "2021 Carthage Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.77,
+        "best_dive_id": "105C",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 13.2,
+        "best_dive_id": "201B",
+        "best_dive_avg": 26.4,
+        "grade": 1.8
+      },
+      "Reverse": {
+        "top_2_avg": 30.27,
+        "best_dive_id": "302C",
+        "best_dive_avg": 31.2,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 33.83,
+        "best_dive_id": "403C",
+        "best_dive_avg": 44.55,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 4.99,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 9.98,
+        "grade": 0.7
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

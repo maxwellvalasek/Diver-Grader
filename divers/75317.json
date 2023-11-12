@@ -1,0 +1,377 @@
+{
+  "name": "Kristopher Fritsch",
+  "gender": "M",
+  "age": "21",
+  "id": 75317,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 19.8,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 28.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 31.2,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 21.45,
+                "meet": "GTWU vs UCON vs NJIT"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 31.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 19.8,
+                "meet": "GTWU vs UCON vs NJIT"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 25.5,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 12.75,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 21.38,
+                "meet": "GTWU vs UCON vs NJIT"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.06
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 13.6,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 19.2,
+                "meet": "GTWU vs UCON vs NJIT"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 27.6,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 23.1,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 33.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 31.35,
+                "meet": "GTWU vs UCON vs NJIT"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.17
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 18.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 27.0,
+                "meet": "GTWU vs UCON vs NJIT"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.35,
+                "meet": "NJIT Vs STFR"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.45
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 19.5,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 29.7,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 15.3,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 17.1,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 22.8,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 10.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.55,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.6,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 19.87,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 20.13,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.4,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 29.15,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.17,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 24.45,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 24.45,
+        "grade": 3.3
+      },
+      "average_grade": 3.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.6,
+        "best_dive_id": "105C",
+        "best_dive_avg": 29.7,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 15.3,
+        "best_dive_id": "201C",
+        "best_dive_avg": 15.3,
+        "grade": 1.9
+      },
+      "Reverse": {
+        "top_2_avg": 17.1,
+        "best_dive_id": "301C",
+        "best_dive_avg": 17.1,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 22.8,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 10.0,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 10.0,
+        "grade": 1.2
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.7
+  }
+}

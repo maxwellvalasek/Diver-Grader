@@ -1,0 +1,111 @@
+{
+  "name": "Charlie  Sundberg ",
+  "gender": "M",
+  "age": "12",
+  "id": 75119,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 16.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 20.8,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 17.5,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 23.25,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-13",
+                "score": 15.2,
+                "meet": "Coast Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.65,
+        "best_dive_id": "103C",
+        "best_dive_avg": 20.8,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 20.38,
+        "best_dive_id": "202C",
+        "best_dive_avg": 23.25,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 15.2,
+        "best_dive_id": "402C",
+        "best_dive_avg": 15.2,
+        "grade": 2.0
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

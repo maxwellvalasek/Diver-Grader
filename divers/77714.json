@@ -1,0 +1,852 @@
+{
+  "name": "Simon Dean",
+  "gender": "M",
+  "age": "20",
+  "id": 77714,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 28.05,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 35.1,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 33.8,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 35.1,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.67
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 32.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 37.95,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 44.85,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 29.33,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 26.45,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.65
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 32.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 30.6,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 38.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 14.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 37.8,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 33.6,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 35.7,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 31.5,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 45.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 39.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 43.2,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 45.6,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 45.6,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 43.92
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 41.85,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 60.45,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.15
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 35.2,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 37.8,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 38.85,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 36.75,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.8
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 47.5,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.25,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 45.0,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 28.8,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 45.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 37.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "SMU vs UIW"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.4
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 29.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 33.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 30.8,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.27
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 32.4,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 46.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 50.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 42.0,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 33.6,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 43.05
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 23.4,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 33.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 37.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 36.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 35.7,
+                "meet": "SMU vs UIW"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.63
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 39.9,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 51.3,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 52.65,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 48.6,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 48.6,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 50.29
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-05-14",
+                "score": 32.55,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 33.0,
+                "meet": "SMU vs UIW"
+              },
+              {
+                "date": "2022-05-14",
+                "score": 36.0,
+                "meet": "2022 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 43.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "SMU vs UIW"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.8
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 25.5,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 40.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 22.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 15.75,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 26.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 29.6,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-10-14",
+                "score": 25.5,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 34.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 38.85,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.42
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 28.05,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 26.35,
+                "meet": "HU vs IDAH vs UIW vs UNT"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.56,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 34.12,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.65,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 34.43,
+        "best_dive_id": "303C",
+        "best_dive_avg": 35.7,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 45.99,
+        "best_dive_id": "405C",
+        "best_dive_avg": 51.15,
+        "grade": 6.1
+      },
+      "Twister": {
+        "top_2_avg": 41.91,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 45.0,
+        "grade": 5.6
+      },
+      "average_grade": 5.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 36.34,
+        "best_dive_id": "105B",
+        "best_dive_avg": 41.4,
+        "grade": 4.5
+      },
+      "Back": {
+        "top_2_avg": 40.92,
+        "best_dive_id": "205C",
+        "best_dive_avg": 43.05,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 35.72,
+        "best_dive_id": "305C",
+        "best_dive_avg": 36.63,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 48.21,
+        "best_dive_id": "405C",
+        "best_dive_avg": 50.29,
+        "grade": 6.0
+      },
+      "Twister": {
+        "top_2_avg": 40.08,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 43.8,
+        "grade": 5.0
+      },
+      "average_grade": 5.0
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 33.15,
+        "best_dive_id": "105C",
+        "best_dive_avg": 40.8,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 19.07,
+        "best_dive_id": "201B",
+        "best_dive_avg": 22.4,
+        "grade": 2.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.0,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 29.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.1,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 40.42,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 40.42,
+        "grade": 4.8
+      },
+      "Armstand": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "612B",
+        "best_dive_avg": 27.2,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 4.6
+  }
+}

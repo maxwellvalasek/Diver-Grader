@@ -1,0 +1,74 @@
+{
+  "name": "Dillon Ray",
+  "gender": "M",
+  "age": "32",
+  "id": 78207,
+  "events": {
+    "20 Meter": {
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": "DD Not Found",
+            "height": "20",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 25.5,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "212B": {
+            "dd": "DD Not Found",
+            "height": "20",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 33.6,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5141C": {
+            "dd": "DD Not Found",
+            "height": "20",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 45.5,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "20 Meter": {
+      "Back": {
+        "top_2_avg": 29.55,
+        "best_dive_id": "212B",
+        "best_dive_avg": 33.6,
+        "grade": null
+      },
+      "Twister": {
+        "top_2_avg": 45.5,
+        "best_dive_id": "5141C",
+        "best_dive_avg": 45.5,
+        "grade": null
+      }
+    },
+    "overall_average_grade": 0
+  }
+}

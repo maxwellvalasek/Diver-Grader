@@ -1,0 +1,105 @@
+{
+  "name": "Audrey Mosser",
+  "gender": "F",
+  "age": "12",
+  "id": 76410,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 13.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 13.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 13.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 16.1,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 13.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.55,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.1,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.0,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

@@ -1,0 +1,194 @@
+{
+  "name": "GW WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79442,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 45.6,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 44.4,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 36.4,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 50.4,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.4
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 48.3,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 47.15,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 47.72
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 45.6,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 53.2,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 61.6,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 57.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 42.5,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 45.0,
+                "meet": "2022 Wolfpack Diving Invitational @ GAC NC State"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 45.0,
+        "best_dive_id": "105C",
+        "best_dive_avg": 45.0,
+        "grade": 6.0
+      },
+      "Inward": {
+        "top_2_avg": 43.4,
+        "best_dive_id": "404C",
+        "best_dive_avg": 43.4,
+        "grade": 5.8
+      },
+      "average_grade": 5.9
+    },
+    "Platform": {
+      "Back": {
+        "top_2_avg": 47.72,
+        "best_dive_id": "203B",
+        "best_dive_avg": 47.72,
+        "grade": 5.6
+      },
+      "Armstand": {
+        "top_2_avg": 44.4,
+        "best_dive_id": "614B",
+        "best_dive_avg": 44.4,
+        "grade": 5.2
+      },
+      "average_grade": 5.4
+    },
+    "3 Meter": {
+      "Reverse": {
+        "top_2_avg": 57.4,
+        "best_dive_id": "305C",
+        "best_dive_avg": 57.4,
+        "grade": 7.2
+      },
+      "Twister": {
+        "top_2_avg": 43.75,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 43.75,
+        "grade": 5.5
+      },
+      "average_grade": 6.3
+    },
+    "overall_average_grade": 5.9
+  }
+}

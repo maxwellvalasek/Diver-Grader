@@ -1,0 +1,385 @@
+{
+  "name": "Gregory Asayan",
+  "gender": "M",
+  "age": "20",
+  "id": 75301,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 25.5,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 34.65,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 26.4,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 27.0,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 21.25,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 28.13,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.13
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 26.45,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 25.88,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.16
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 22.5,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 36.3,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.15,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 22.05,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 25.2,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 30.8,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 42.9,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.85
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 29.33,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.33
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.8,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 21.0,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 26.78,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.89
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.9,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 18.05,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.05
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 31.2,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 25.5,
+                "meet": "RIDE vs PACE"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.35,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.65,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 24.69,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.13,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 26.16,
+        "best_dive_id": "304C",
+        "best_dive_avg": 26.16,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 29.4,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 23.1,
+        "grade": 3.1
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.97,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.85,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 29.06,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.33,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 23.89,
+        "best_dive_id": "304C",
+        "best_dive_avg": 23.89,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 25.05,
+        "best_dive_id": "404C",
+        "best_dive_avg": 31.2,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 24.75,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 24.75,
+        "grade": 3.1
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.5
+  }
+}

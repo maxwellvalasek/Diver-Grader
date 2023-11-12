@@ -1,0 +1,359 @@
+{
+  "name": "David Ramirez",
+  "gender": "M",
+  "age": "17",
+  "id": 77627,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102A": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 28.8,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 26.4,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 31.2,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.8
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 39.1,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 41.4,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 46.0,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.17
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 33.15,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 30.6,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 26.35,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.03
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 34.5,
+                "meet": "CIF Central Section State Qualifier"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-03",
+                "score": 33.0,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 37.0,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-04",
+                "score": 30.6,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 26.35,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 30.6,
+                "meet": "CIF Central Section D1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-03",
+                "score": 26.4,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 31.2,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 34.65,
+                "meet": "CIF Central Section State Qualifier"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-04",
+                "score": 34.2,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          },
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 27.75,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 26.25,
+                "meet": "CIF Central Section D1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 27.2,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 26.4,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 31.2,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.27
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-04",
+                "score": 39.9,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 44.85,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 43.7,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 51.75,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 46.77
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 49.95,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 52.65,
+                "meet": "CIF Central Section D1 Championships"
+              },
+              {
+                "date": "2022-05-04",
+                "score": 59.4,
+                "meet": "CIF Central Section Diving Championship Div 1 and 2"
+              }
+            ],
+            "count": 3,
+            "average_score": 54.0
+          },
+          "5227D": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 52.8,
+                "meet": "CIF Central Section State Qualifier"
+              },
+              {
+                "date": "2023-05-03",
+                "score": 51.2,
+                "meet": "CIF Central Section D1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.49,
+        "best_dive_id": "104B",
+        "best_dive_avg": 42.17,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 34.83,
+        "best_dive_id": "204C",
+        "best_dive_avg": 35.0,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 32.62,
+        "best_dive_id": "304C",
+        "best_dive_avg": 34.65,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "401A",
+        "best_dive_avg": 34.2,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 53.2,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 54.0,
+        "grade": 7.1
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 5.0
+  }
+}

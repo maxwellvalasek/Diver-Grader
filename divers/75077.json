@@ -1,0 +1,111 @@
+{
+  "name": "Evelyn Schaele",
+  "gender": "F",
+  "age": "12",
+  "id": 75077,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 17.85,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 25.2,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 22.95,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 23.63,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.63
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 24.15,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.52,
+        "best_dive_id": "102C",
+        "best_dive_avg": 25.2,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 23.29,
+        "best_dive_id": "202C",
+        "best_dive_avg": 23.63,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 24.15,
+        "best_dive_id": "401C",
+        "best_dive_avg": 24.15,
+        "grade": 3.2
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

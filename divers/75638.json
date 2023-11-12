@@ -1,0 +1,293 @@
+{
+  "name": "Madilyn  Tuttle",
+  "gender": "F",
+  "age": "10",
+  "id": 75638,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 16.5,
+                "meet": "Holiday on the Heel Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 12.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 12.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 17.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 17.5,
+                "meet": "Holiday on the Heel Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 18.2,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 23.8,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 21.0,
+                "meet": "Holiday on the Heel Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 12.6,
+                "meet": "New River Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 18.2,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 15.4,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 16.5,
+                "meet": "Holiday on the Heel Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 19.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 16.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.0,
+                "meet": "New River Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 15.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 14.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 12.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 15.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.91,
+        "best_dive_id": "101A",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "average_grade": 2.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.88,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.25,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.83,
+        "best_dive_id": "200C",
+        "best_dive_avg": 14.0,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 2.1
+  }
+}

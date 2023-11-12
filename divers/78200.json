@@ -1,0 +1,97 @@
+{
+  "name": "Caitlyn Padgett",
+  "gender": "F",
+  "age": "16",
+  "id": 78200,
+  "events": {
+    "12 Meter": {
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 56.25,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 56.25
+          },
+          "204C": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 53.65,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 53.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 64.8,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 64.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": "DD Not Found",
+            "height": "12",
+            "performance": [
+              {
+                "date": "2022-08-06",
+                "score": 43.7,
+                "meet": "2022  USA High Dive Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "12 Meter": {
+      "Back": {
+        "top_2_avg": 54.95,
+        "best_dive_id": "202C",
+        "best_dive_avg": 56.25,
+        "grade": null
+      },
+      "Reverse": {
+        "top_2_avg": 64.8,
+        "best_dive_id": "302B",
+        "best_dive_avg": 64.8,
+        "grade": null
+      },
+      "Twister": {
+        "top_2_avg": 43.7,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 43.7,
+        "grade": null
+      }
+    },
+    "overall_average_grade": 0
+  }
+}

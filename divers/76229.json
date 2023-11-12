@@ -1,0 +1,108 @@
+{
+  "name": "Rohan Coonse",
+  "gender": "M",
+  "age": "10",
+  "id": 76229,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 16.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 15.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 14.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "400C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 15.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "Reverse": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "300C",
+        "best_dive_avg": 14.5,
+        "grade": 1.9
+      },
+      "Inward": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "400C",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

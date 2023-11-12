@@ -1,0 +1,170 @@
+{
+  "name": "Jaida Sambueso",
+  "gender": "F",
+  "age": "18",
+  "id": 77100,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 19.2,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 24.8,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 27.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 10.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 27.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 24.0,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 24.8,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 26.6,
+                "meet": "2022 CLOVIS WEST DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.8,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "202C",
+        "best_dive_avg": 27.0,
+        "grade": 2.5
+      },
+      "Reverse": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "301A",
+        "best_dive_avg": 27.0,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 24.4,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 26.6,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

@@ -1,0 +1,481 @@
+{
+  "name": "Jason Rickenbacher",
+  "gender": "M",
+  "age": "23",
+  "id": 75804,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 35.1,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 46.8,
+                "meet": "CUBC vs DART"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.95
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 46.8,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 42.0,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 34.5,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 41.4,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 40.25,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 31.05,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 23.1,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 22.05,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 29.4,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 21.0,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.89
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 43.2,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 46.8,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 43.2,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 34.1,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 36.4,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 44.1,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 51.8,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 39.2,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 42.88
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 37.95,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 36.23,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 42.55,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 36.8,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.38
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 37.2,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 45.0,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 44.4,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 37.2,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 28.05,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 33.6,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 42.0,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 16.8,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 35.1,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 36.45,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 35.1,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 21.6,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.06
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 25.2,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 42.53,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 43.05,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 37.8,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.14
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 28.35,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 38.48,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 41.85,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 31.05,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-24",
+                "score": 31.25,
+                "meet": "2022 Men Ivy League Championships"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 35.63,
+                "meet": "CUBC vs DART"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 40.0,
+                "meet": "Tate Ramsden Invitational (Tri)"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 38.75,
+                "meet": "PENN vs DART vs YALE"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.41
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 42.67,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.7
+      },
+      "Back": {
+        "top_2_avg": 36.8,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.8,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 23.89,
+        "best_dive_id": "303C",
+        "best_dive_avg": 23.89,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 43.53,
+        "best_dive_id": "403B",
+        "best_dive_avg": 44.4,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 38.38,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 38.38,
+        "grade": 5.1
+      },
+      "average_grade": 4.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.95,
+        "best_dive_id": "105B",
+        "best_dive_avg": 40.95,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 30.11,
+        "best_dive_id": "205C",
+        "best_dive_avg": 30.8,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 32.06,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.06,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 36.03,
+        "best_dive_id": "403B",
+        "best_dive_avg": 37.14,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 36.41,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 36.41,
+        "grade": 4.6
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.7
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Michael Gioffre",
+  "gender": "M",
+  "age": "20",
+  "id": 77474,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 14.4,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 22.4,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 26.4,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 20.25,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 26.0,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 19.2,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 22.4,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 16.8,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 23.2,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 19.55,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-27",
+                "score": 27.55,
+                "meet": "2022 TRAC Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.4,
+        "best_dive_id": "104C",
+        "best_dive_avg": 26.4,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 23.12,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.0,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.4,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 20.0,
+        "best_dive_id": "402C",
+        "best_dive_avg": 23.2,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 23.55,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 27.55,
+        "grade": 3.1
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

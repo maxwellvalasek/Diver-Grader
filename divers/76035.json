@@ -1,0 +1,209 @@
+{
+  "name": "Riley Barton",
+  "gender": "M",
+  "age": "18",
+  "id": 76035,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 17.4,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 16.8,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 23.2,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 26.25,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 17.0,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 22.4,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 21.6,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 19.6,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 23.2,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 27.9,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.9
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-21",
+                "score": 17.85,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.2,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 21.62,
+        "best_dive_id": "201C",
+        "best_dive_avg": 26.25,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 21.4,
+        "best_dive_id": "402C",
+        "best_dive_avg": 23.2,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 22.88,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 27.9,
+        "grade": 3.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

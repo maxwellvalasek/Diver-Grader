@@ -1,0 +1,272 @@
+{
+  "name": "Chance Chance",
+  "gender": "M",
+  "age": "19",
+  "id": 77296,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 14.0,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 13.3,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.65
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 17.25,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 23.25,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 5.1,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 10.2,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 7.65
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 16.15,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 24.65,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 7.2,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 16.0,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 9.6,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 14.4,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 13.3,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 14.7,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 7.2,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 17.6,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 11.05,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 16.15,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.6
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-19",
+                "score": 0.0,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 11.05,
+                "meet": "Husky Dive Invitational"
+              },
+              {
+                "date": "2022-04-19",
+                "score": 15.3,
+                "meet": "Palomares League Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.18
+          },
+          "5411B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-21",
+                "score": 4.25,
+                "meet": "Husky Dive Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 4.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.95,
+        "best_dive_id": "102B",
+        "best_dive_avg": 20.25,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 14.02,
+        "best_dive_id": "202A",
+        "best_dive_avg": 20.4,
+        "grade": 1.9
+      },
+      "Reverse": {
+        "top_2_avg": 11.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 12.0,
+        "grade": 1.6
+      },
+      "Inward": {
+        "top_2_avg": 13.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Twister": {
+        "top_2_avg": 13.39,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

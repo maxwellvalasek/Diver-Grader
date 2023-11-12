@@ -1,0 +1,225 @@
+{
+  "name": "Finn Stark",
+  "gender": "M",
+  "age": "12",
+  "id": 78593,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 17.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 13.5,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 17.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 18.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 23.1,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 14.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 14.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 16.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 16.5,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 18.4,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 16.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 16.0,
+                "meet": "2022 North Star Diving Club Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.55,
+        "best_dive_id": "101A",
+        "best_dive_avg": 23.1,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "average_grade": 2.3
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 17.45,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.4,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.2
+  }
+}

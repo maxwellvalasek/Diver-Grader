@@ -1,0 +1,134 @@
+{
+  "name": "James Gray",
+  "gender": "M",
+  "age": "21",
+  "id": 73959,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 30.55,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.55
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 50.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 22.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 18.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 34.8,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 36.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.48,
+        "best_dive_id": "105C",
+        "best_dive_avg": 50.4,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "403B",
+        "best_dive_avg": 34.8,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 36.4,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 36.4,
+        "grade": 4.9
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

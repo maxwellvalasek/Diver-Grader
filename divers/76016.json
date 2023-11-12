@@ -1,0 +1,263 @@
+{
+  "name": "Reece  Grace",
+  "gender": "F",
+  "age": "17",
+  "id": 76016,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 24.75,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 19.6,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 25.5,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 15.2,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 0.0,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 28.9,
+                "meet": "BIIF Regular Season Meet  5"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 28.9,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 21.0,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 16.0,
+                "meet": "BIIF Regular Season Meet  5"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 21.6,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 26.4,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 22.5,
+                "meet": "BIIF Regular Season Meet  5"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 24.0,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 20.0,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 21.85,
+                "meet": "BIIF Regular Season Meet  3"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.85
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 0.0,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-05",
+                "score": 26.45,
+                "meet": "BIIF Regular Season Meet  5"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.12,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 26.27,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.9,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 21.33,
+        "best_dive_id": "302C",
+        "best_dive_avg": 26.4,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 22.17,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.25,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 24.15,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 26.45,
+        "grade": 3.2
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

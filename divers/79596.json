@@ -1,0 +1,141 @@
+{
+  "name": "PITT WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79596,
+  "events": {
+    "Platform": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 62.1,
+                "meet": "PITT Instrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 62.1
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 44.85,
+                "meet": "PITT Instrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.85
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 50.4,
+                "meet": "PITT Instrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 52.65,
+                "meet": "PITT Instrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 49.5,
+                "meet": "PITT Instrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 62.1,
+        "best_dive_id": "105B",
+        "best_dive_avg": 62.1,
+        "grade": 7.3
+      },
+      "average_grade": 7.3
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 44.85,
+        "best_dive_id": "203B",
+        "best_dive_avg": 44.85,
+        "grade": 6.0
+      },
+      "Reverse": {
+        "top_2_avg": 50.4,
+        "best_dive_id": "303B",
+        "best_dive_avg": 50.4,
+        "grade": 6.7
+      },
+      "average_grade": 6.3
+    },
+    "3 Meter": {
+      "Inward": {
+        "top_2_avg": 52.65,
+        "best_dive_id": "405C",
+        "best_dive_avg": 52.65,
+        "grade": 6.6
+      },
+      "Twister": {
+        "top_2_avg": 49.5,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 49.5,
+        "grade": 6.2
+      },
+      "average_grade": 6.4
+    },
+    "overall_average_grade": 6.7
+  }
+}

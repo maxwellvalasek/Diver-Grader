@@ -1,0 +1,190 @@
+{
+  "name": "Joshua Inglis.",
+  "gender": "M",
+  "age": "22",
+  "id": 75082,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 49.4,
+                "meet": "2021 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.4
+          },
+          "107C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 29.25,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 47.15,
+                "meet": "2021 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 50.03,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.59
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 37.2,
+                "meet": "2021 University of Texas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 38.25,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 45.6,
+                "meet": "2021 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 50.4,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 28.6,
+                "meet": "2021 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 42.9,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.75
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 47.5,
+                "meet": "2021 University of Texas Diving Invitational"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 54.38,
+                "meet": "TAM vs TCU"
+              }
+            ],
+            "count": 2,
+            "average_score": 50.94
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.33,
+        "best_dive_id": "105B",
+        "best_dive_avg": 49.4,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 48.59,
+        "best_dive_id": "203B",
+        "best_dive_avg": 48.59,
+        "grade": 6.5
+      },
+      "Reverse": {
+        "top_2_avg": 37.73,
+        "best_dive_id": "305C",
+        "best_dive_avg": 38.25,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 48.0,
+        "best_dive_id": "403B",
+        "best_dive_avg": 48.0,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 43.34,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 50.94,
+        "grade": 5.8
+      },
+      "average_grade": 5.8
+    },
+    "overall_average_grade": 5.8
+  }
+}

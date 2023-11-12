@@ -1,0 +1,138 @@
+{
+  "name": "Elle Rodenbour",
+  "gender": "F",
+  "age": "11",
+  "id": 76761,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 14.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 0.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 13.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 14.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 16.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 0.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 18.9,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 14.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-10",
+                "score": 13.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 15.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.45,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.9
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

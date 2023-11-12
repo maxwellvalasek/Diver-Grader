@@ -1,0 +1,159 @@
+{
+  "name": "SIU WOMEN B TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 79780,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 31.68,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.68
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 40.32,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.32
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 35.88,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.88
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 44.52,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.52
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 32.76,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.76
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.12,
+                "meet": "2023 Missouri Valley Women Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.12
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.68,
+        "best_dive_id": "105C",
+        "best_dive_avg": 31.68,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 40.32,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.32,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 35.88,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 35.88,
+        "grade": 4.8
+      },
+      "average_grade": 4.8
+    },
+    "3 Meter": {
+      "Back": {
+        "top_2_avg": 44.52,
+        "best_dive_id": "205C",
+        "best_dive_avg": 44.52,
+        "grade": 5.6
+      },
+      "Reverse": {
+        "top_2_avg": 32.76,
+        "best_dive_id": "305C",
+        "best_dive_avg": 32.76,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 42.12,
+        "best_dive_id": "405C",
+        "best_dive_avg": 42.12,
+        "grade": 5.3
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 4.9
+  }
+}

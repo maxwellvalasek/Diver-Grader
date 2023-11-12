@@ -1,0 +1,706 @@
+{
+  "name": "Connor Gregg",
+  "gender": "M",
+  "age": "11",
+  "id": 72995,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 22.2,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 17.4,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 15.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 12.6,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.8
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 22.1,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 20.8,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.45
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 20.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 19.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 16.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 15.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-01",
+                "score": 17.0,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 16.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 14.5,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 14.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 23.1,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 21.0,
+                "meet": "The West Texas Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.05
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 21.6,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 32.4,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 27.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 18.6,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 14.0,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.72
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.2,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 20.3,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 19.6,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 21.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.77
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 17.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 17.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 16.5,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 13.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 17.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.42
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 16.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 16.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 13.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.17
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.05,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 19.55,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 23.4,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 18.9,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.15
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 0.0,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 18.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 21.0,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 22.5,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 8.1,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 14.4,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 15.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 17.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 11.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 17.5,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 13.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 12.0,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.5,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 19.0,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 19.0,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 18.5,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 14.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 16.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 13.0,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 15.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 15.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 17.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 16.06
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 14.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 16.5,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 13.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.67
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 19.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 16.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 17.0,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 12.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 16.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 16.2
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 23.1,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 23.8,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 19.5,
+                "meet": "1st Annual COM Aquatics Summer Spectacular District Champion"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 16.5,
+                "meet": "The Pioneer Natural Resources Black Gold Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 15.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 12.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 13.0,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 13.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 14.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 15.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 14.88
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 16.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 14.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-10-01",
+                "score": 17.0,
+                "meet": "The West Texas Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 17.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.53,
+        "best_dive_id": "101C",
+        "best_dive_avg": 22.72,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 22.48,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 23.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.5,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 11.25,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 11.25,
+        "grade": 1.5
+      },
+      "average_grade": 2.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 18.27,
+        "best_dive_id": "101C",
+        "best_dive_avg": 23.45,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 15.34,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.25,
+        "grade": 1.9
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.4
+  }
+}

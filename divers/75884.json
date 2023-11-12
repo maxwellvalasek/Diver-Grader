@@ -1,0 +1,121 @@
+{
+  "name": "Josephine Strauss",
+  "gender": "F",
+  "age": "18",
+  "id": 75884,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 0.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 24.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 28.05,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 0.0,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-14",
+                "score": 18.75,
+                "meet": "2022 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.0,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "301B",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Inward": {
+        "top_2_avg": 18.75,
+        "best_dive_id": "401B",
+        "best_dive_avg": 18.75,
+        "grade": 2.5
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

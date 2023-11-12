@@ -1,0 +1,804 @@
+{
+  "name": "Ember Stennett",
+  "gender": "F",
+  "age": "18",
+  "id": 76787,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 22.95,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 38.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 41.4,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 42.55,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 41.4,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 43.7,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 37.95,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 41.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 21.45,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 36.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 46.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 34.8,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 45.6,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 39.6,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 34.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 37.46
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 25.6,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 34.4,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 20.8,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 25.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.5
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 36.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 36.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 27.6,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 20.7,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 36.8,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 27.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 32.53
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 26.35,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 35.7,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.03
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 21.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 21.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 37.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 33.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.5,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 15.75,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 32.55,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.24
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 24.75,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 33.75,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 23.63,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.38
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 28.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 37.4,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 36.3,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 35.2,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 45.1,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 28.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 37.95,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 35.28
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 31.05,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 37.95,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 25.88,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.07
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 36.3,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 33.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 38.5,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 35.2,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 38.5,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.3
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 29.4,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 25.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.3
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 8.8,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.8
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 40.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 45.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 33.6,
+                "meet": "UMBC vs NAVY vs OHIO"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 24.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 39.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 26.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 40.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 40.6,
+                "meet": "UMBC vs NAVY vs OHIO"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.93
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 26.1,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.1
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 19.55,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 38.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 5.0,
+                "meet": "UMBC vs NAVY vs OHIO"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.33
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 38.85,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 37.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 33.6,
+                "meet": "UMBC vs NAVY vs OHIO"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.75
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 29.45,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 30.45,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.45
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 47.5,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 50.0,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 43.75,
+                "meet": "UMBC vs NAVY vs OHIO"
+              }
+            ],
+            "count": 3,
+            "average_score": 47.08
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 36.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 34.8,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 39.6,
+                "meet": "Loyola University Maryland vs Towson University, University of Maryland, Baltimore County"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 30.0,
+                "meet": "UMBC vs NAVY vs OHIO"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.1,
+        "best_dive_id": "104B",
+        "best_dive_avg": 41.4,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 30.34,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.53,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 30.47,
+        "best_dive_id": "301B",
+        "best_dive_avg": 31.03,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 34.37,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.28,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 35.31,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 36.3,
+        "grade": 4.7
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.56,
+        "best_dive_id": "105B",
+        "best_dive_avg": 36.0,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 36.85,
+        "best_dive_id": "203B",
+        "best_dive_avg": 39.6,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 23.27,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.1,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 34.92,
+        "best_dive_id": "403B",
+        "best_dive_avg": 36.75,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 44.31,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 47.08,
+        "grade": 5.5
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.4
+  }
+}

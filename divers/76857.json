@@ -1,0 +1,586 @@
+{
+  "name": "Khloe Anderson",
+  "gender": "F",
+  "age": "17",
+  "id": 76857,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 23.5,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 16.0,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 24.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 30.4,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 20.0,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 29.75,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 17.1,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 26.1,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 22.95,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 16.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 30.4,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 23.75,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 22.05,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.05
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 33.0,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 33.0,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 10.0,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 28.05,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 23.8,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 29.75,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 29.7,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 18.7,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 28.6,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.67
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 20.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 22.4,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 24.8,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.67
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 27.2,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 28.05,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 28.05,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 17.6,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 22.4,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 27.2,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 21.6,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 22.4,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.87
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 21.75,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 21.75,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 23.25,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 22.0,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 28.6,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 20.9,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 32.2,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 34.5,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.35
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-19",
+                "score": 6.6,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-23",
+                "score": 34.5,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 19.95,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2022-03-19",
+                "score": 24.15,
+                "meet": "MHDC VS EVDC DUAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.6,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 28.38,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.75,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 22.05,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.95,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 23.65,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.07,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 29.35,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 33.0,
+        "grade": 3.7
+      },
+      "average_grade": 3.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.44,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 25.22,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.77,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 22.14,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 23.04,
+        "best_dive_id": "403C",
+        "best_dive_avg": 23.83,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 33.73,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 34.5,
+        "grade": 4.5
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.4
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Max  Spurk",
+  "gender": "M",
+  "age": "18",
+  "id": 74163,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 30.6,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 27.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 28.7,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.7
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 35.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 29.45,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.6,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 31.95,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.2,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 29.45,
+        "grade": 3.9
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

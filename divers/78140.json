@@ -1,0 +1,98 @@
+{
+  "name": "Everett Weedman",
+  "gender": "M",
+  "age": "13",
+  "id": 78140,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 18.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 26.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 23.8,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 27.2,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.2,
+        "best_dive_id": "103C",
+        "best_dive_avg": 26.4,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

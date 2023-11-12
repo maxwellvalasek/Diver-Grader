@@ -1,0 +1,192 @@
+{
+  "name": "Dasha Fallon",
+  "gender": "F",
+  "age": "16",
+  "id": 78294,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 19.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 19.0,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 18.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 17.5,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 22.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 18.0,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.0
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 21.45,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-10",
+                "score": 16.8,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 21.0,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 21.5,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 22.1,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2022-09-10",
+                "score": 14.45,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.27
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 25.5,
+                "meet": "2022 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-09-10",
+                "score": 26.6,
+                "meet": "Los Alamitos Divers Back to School Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.48,
+        "best_dive_id": "101B",
+        "best_dive_avg": 21.45,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 19.76,
+        "best_dive_id": "200C",
+        "best_dive_avg": 21.25,
+        "grade": 2.6
+      },
+      "Inward": {
+        "top_2_avg": 26.05,
+        "best_dive_id": "401C",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}
