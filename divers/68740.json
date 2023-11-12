@@ -1,0 +1,939 @@
+{
+  "name": "Isiah Hilton",
+  "gender": "M",
+  "age": "19",
+  "id": 68740,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 24.65,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 29.33,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 27.2,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 39.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.04
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 20.0,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 19.55,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.9,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 40.3,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 33.15,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 44.85,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 33.15,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 36.4,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 37.42
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-18",
+                "score": 40.8,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 32.4,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 25.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 16.0,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 20.7,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 34.5,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 27.6,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 37.95,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.19
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 24.0,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 36.0,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 27.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 32.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 34.0,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 29.75,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 24.65,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 34.65,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 35.7,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 26.78,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.08,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 26.78,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 33.6,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 32.55,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 33.6,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 9,
+            "average_score": 32.03
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 47.25,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.5,
+                "meet": "BAMA vs MIZ"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 20.25,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 22.5,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.38
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 50.4,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 46.8,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 39.6,
+                "meet": "BAMA vs MIZ"
+              }
+            ],
+            "count": 3,
+            "average_score": 45.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 47.85,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 31.35,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 37.4,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 28.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 30.8,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 28.6,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 26.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 21.85,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 24.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 23.1,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.65
+          },
+          "5142B": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 12.15,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.15
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 36.23,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 34.65,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 26.78,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.08,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 20.48,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 27.3,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 30.45,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 7,
+            "average_score": 29.85
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 30.0,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 22.4,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 18.4,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 32.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.7
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.6,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 31.2,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 37.8,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 37.8,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 39.6,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 37.2,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 33.6,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 8,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 28.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 27.08,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 36.1,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 19.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 28.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.67
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 44.1,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 28.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 25.2,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 50.4,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.92
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 19.95,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 25.5,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 32.0,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 26.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 33.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.12
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 23.1,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 40.6,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 35.7,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 25.2,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.15
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 40.95,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 32.55,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 29.93,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 26.78,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.55
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 28.5,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 29.45,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 29.45,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.13
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 16.2,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 47.25,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 34.43,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 34.43,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 28.35,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 48.6,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.88
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 25.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 27.0,
+                "meet": "BAMA vs UWF"
+              },
+              {
+                "date": "2023-11-04",
+                "score": 32.0,
+                "meet": "FSU vs LSU vs BAMA"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 27.0,
+                "meet": "BAMA vs MIZ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 24.0,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.5,
+                "meet": "AUB vs BAMA"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 12.0,
+                "meet": "BAMA vs TEX vs OSU"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 20.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 32.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 8,
+            "average_score": 24.94
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.24,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.42,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 30.42,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.6,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 33.37,
+        "best_dive_id": "305C",
+        "best_dive_avg": 39.38,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 37.93,
+        "best_dive_id": "403B",
+        "best_dive_avg": 45.6,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 28.6,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.85,
+        "grade": 3.8
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.57,
+        "best_dive_id": "105B",
+        "best_dive_avg": 36.0,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 35.3,
+        "best_dive_id": "205C",
+        "best_dive_avg": 36.92,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 30.13,
+        "best_dive_id": "305C",
+        "best_dive_avg": 31.15,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 33.95,
+        "best_dive_id": "405C",
+        "best_dive_avg": 34.88,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 24.97,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 4.2
+  }
+}

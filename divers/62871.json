@@ -1,0 +1,248 @@
+{
+  "name": "Barrett  Feagin",
+  "gender": "M",
+  "age": "18",
+  "id": 62871,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 13.2,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 24.65,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 16.0,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 17.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 8.5,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 25.5,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 20.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 24.65,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 24.0,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 21.0,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 15.2,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 27.5,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 15.3,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 12.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.12,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 22.75,
+        "best_dive_id": "202C",
+        "best_dive_avg": 25.5,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 24.32,
+        "best_dive_id": "302B",
+        "best_dive_avg": 24.65,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 24.25,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 13.7,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 15.3,
+        "grade": 1.8
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

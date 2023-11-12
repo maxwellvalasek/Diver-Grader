@@ -1,0 +1,88 @@
+{
+  "name": "Marisa Morsi",
+  "gender": "F",
+  "age": "13",
+  "id": 69281,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 17.5,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 24.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 17.5,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 33.15,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.75,
+        "best_dive_id": "101C",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 25.32,
+        "best_dive_id": "201A",
+        "best_dive_avg": 33.15,
+        "grade": 3.4
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

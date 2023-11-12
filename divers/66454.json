@@ -1,0 +1,677 @@
+{
+  "name": "Trinity Goertz",
+  "gender": "F",
+  "age": "22",
+  "id": 66454,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 25.35,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.35
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 30.6,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 28.05,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 26.35,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 0.0,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 26.35,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.27
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 31.9,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 31.35,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 18.7,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 13.2,
+                "meet": "Atlantic 10 Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.79
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 32.3,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 30.6,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 32.3,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 23.8,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 24.65,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.73
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 27.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 34.2,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 29.7,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 34.2,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 31.5,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 25.2,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.96
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 25.6,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 28.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 23.25,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.88
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 38.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 26.4,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 27.5,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 19.8,
+                "meet": "Atlantic 10 Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 28.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 23.75,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.12
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 31.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 31.5,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2021-04-15",
+                "score": 19.95,
+                "meet": "2021 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 26.25,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 24.15,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.67
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 27.75,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 23.25,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 27.2,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 28.8,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 24.0,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 20.8,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 24.0,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 24.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 33.25,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 32.78,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 28.5,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 28.5,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 28.5,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 27.55,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.85
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 27.2,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 30.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 25.5,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 30.0,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 31.0,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 30.0,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 27.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.92
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 28.05,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 25.2,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 25.2,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 18.2,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.87
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 35.15,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 28.5,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 28.5,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 26.6,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 26.6,
+                "meet": "Atlantic 10 Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.07
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 38.4,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 24.15,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 31.5,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 28.35,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 19.95,
+                "meet": "Atlantic 10 Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.99
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 36.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 31.5,
+                "meet": "MCU vs STLU"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 26.0,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 28.0,
+                "meet": "TYR Invitational @ Northwestern U"
+              },
+              {
+                "date": "2019-11-02",
+                "score": 15.0,
+                "meet": "Atlantic 10 Classic"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 15.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.1,
+        "best_dive_id": "101B",
+        "best_dive_avg": 25.35,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 28.44,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.73,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 30.07,
+        "best_dive_id": "301A",
+        "best_dive_avg": 30.96,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 27.33,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.05,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 26.51,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 26.67,
+        "grade": 3.5
+      },
+      "average_grade": 3.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.98,
+        "best_dive_id": "101B",
+        "best_dive_avg": 25.5,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 29.47,
+        "best_dive_id": "201A",
+        "best_dive_avg": 29.85,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "301A",
+        "best_dive_avg": 28.92,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 30.62,
+        "best_dive_id": "404C",
+        "best_dive_avg": 38.4,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 25.55,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 25.99,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.6
+  }
+}

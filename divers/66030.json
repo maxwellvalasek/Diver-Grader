@@ -1,0 +1,267 @@
+{
+  "name": "Mary  Stockschlaeder",
+  "gender": "F",
+  "age": "18",
+  "id": 66030,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 21.6,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 16.8,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.8
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 22.95,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 29.7,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 27.5,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 30.6,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 18.7,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 22.1,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.8
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 22.5,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 22.95,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.8,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2022-02-09",
+                "score": 19.2,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 21.6,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.87
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.25,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 21.6,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 8.1,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.1
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 22.95,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.07,
+        "best_dive_id": "104C",
+        "best_dive_avg": 28.6,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 23.58,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 22.14,
+        "best_dive_id": "301B",
+        "best_dive_avg": 22.95,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.08,
+        "best_dive_id": "401B",
+        "best_dive_avg": 26.25,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 15.52,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 22.95,
+        "grade": 2.1
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

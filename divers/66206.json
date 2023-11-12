@@ -1,0 +1,200 @@
+{
+  "name": "Asher Lanthier",
+  "gender": "M",
+  "age": "14",
+  "id": 66206,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 21.6,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 19.2,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 22.8,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 16.8,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.1
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-08-04",
+                "score": 20.25,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 26.4,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 14.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 9.9,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 33.15,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2022-07-31",
+                "score": 26.35,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 19.55,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 20.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.86
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 20.3,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2021-08-01",
+                "score": 18.9,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 16.15,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 13.3,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.35,
+        "best_dive_id": "103C",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 24.86,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.86,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 19.6,
+        "best_dive_id": "401C",
+        "best_dive_avg": 19.6,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 14.72,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 16.15,
+        "grade": 2.0
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Elizabeth Mckelvey",
+  "gender": "F",
+  "age": "15",
+  "id": 69276,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 23.25,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 33.15,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 33.15,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 21.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.2,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 33.15,
+        "best_dive_id": "202A",
+        "best_dive_avg": 33.15,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

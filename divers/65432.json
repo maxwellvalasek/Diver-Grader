@@ -1,0 +1,1260 @@
+{
+  "name": "Sarah Lopez",
+  "gender": "F",
+  "age": "16",
+  "id": 65432,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 19.0,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 15.5,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 23.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 18.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 14.5,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 14.0,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 19.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 16.0,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 19.0,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 18.5,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.25
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 26.6,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 28.0,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 25.9,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 23.1,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.9
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 19.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 29.25,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 18.75,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 19.5,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 18.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 16.5,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 17.5,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 15.5,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 29.75,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 22.95,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 18.7,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 25.5,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.23
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 31.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.3,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 24.7,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 17.55,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 24.05,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 21.45,
+                "meet": "2021 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.94
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 19.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 19.0,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 16.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2020-03-08",
+                "score": 19.0,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 18.5,
+                "meet": "2020 Raincross Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 18.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-17",
+                "score": 18.5,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-18",
+                "score": 21.6,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 19.8,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 24.0,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 19.8,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 21.6,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 20.4,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 17.4,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 21.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 21.6,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 21.6,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 21.0,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 19.8,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2020-03-08",
+                "score": 13.8,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 16.8,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-11-17",
+                "score": 18.0,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 19.88
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-08",
+                "score": 23.1,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 23.8,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-11-17",
+                "score": 19.6,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.17
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.35,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 33.15,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 21.25,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 27.2,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 28.05,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 22.95,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 20.4,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.62
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-18",
+                "score": 26.4,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 24.8,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 24.8,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 20.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.8,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 27.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 24.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.14
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 17.6,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 24.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 18.7,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.6,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 19.8,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 20.9,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 19.8,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 21.37
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 18.0,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 17.5,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.5,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 20.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2020-03-08",
+                "score": 20.5,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 20.0,
+                "meet": "2020 Raincross Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 19.25
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-17",
+                "score": 16.0,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-08",
+                "score": 24.65,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 18.7,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-11-17",
+                "score": 20.4,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.25
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 19.5,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 30.75,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 27.75,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 23.25,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 24.75,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 19.5,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.0,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 19.5,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 24.75,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 17.25,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 23.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 21.75,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 25.5,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 24.75,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 23.25,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 24.75,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 15.75,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 22.5,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 23.25,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 17.25,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.08
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-18",
+                "score": 17.85,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.0,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 27.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 28.8,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 24.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 20.8,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 12.8,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 25.6,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 23.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 20.8,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 28.8,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 23.2,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.8,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 26.4,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 24.49
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.4,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 27.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 29.6,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 24.8,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 28.8,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 20.8,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.0,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 27.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 24.0,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 28.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 24.8,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 27.2,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 27.2,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 27.2,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 14,
+            "average_score": 26.23
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 22.5,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 27.0,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 30.0,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 25.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 24.75,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 24.75,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 24.75,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.61
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-18",
+                "score": 25.2,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 22.4,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 21.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 25.2,
+                "meet": "2021 Chris Vonk Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 25.9,
+                "meet": "Coast Divers Fall Invite"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 22.4,
+                "meet": "2021 Crown Valley Divers Fall Invitational"
+              },
+              {
+                "date": "2021-06-18",
+                "score": 21.7,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2020-03-08",
+                "score": 22.4,
+                "meet": "2020 Ron O\\'Brien Novice Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 18.2,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-11-17",
+                "score": 19.6,
+                "meet": "Mission Viejo Nadadores Novice Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 22.4
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.8,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 29.6,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 27.2,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 24.8,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 27.2,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 25.6,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 23.2,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 24.8,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 21.6,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 26.4,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 25.52
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 32.3,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 33.25,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 32.3,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 29.45,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 30.4,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 30.4,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 28.5,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 3.8,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 21.85,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 19.0,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 26.12
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.35,
+                "meet": "2023  Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2023-04-18",
+                "score": 28.9,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 23.8,
+                "meet": "14th Annual Santa Margarita Catholic High School Invitationa"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 25.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 21.25,
+                "meet": "2023 Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 22.1,
+                "meet": "CDC Invitational"
+              },
+              {
+                "date": "2022-04-18",
+                "score": 19.55,
+                "meet": "CVAA League Diving Championship Meet"
+              },
+              {
+                "date": "2022-03-25",
+                "score": 15.3,
+                "meet": "2022 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-03-18",
+                "score": 16.15,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.82,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.9,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 20.62,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.23,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 27.9,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.9,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 21.94,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.94,
+        "grade": 2.7
+      },
+      "average_grade": 2.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.38,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.62,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 22.62,
+        "best_dive_id": "201C",
+        "best_dive_avg": 23.1,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.39,
+        "best_dive_id": "302C",
+        "best_dive_avg": 26.23,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 25.56,
+        "best_dive_id": "401B",
+        "best_dive_avg": 25.61,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 24.22,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.12,
+        "grade": 3.2
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.1
+  }
+}

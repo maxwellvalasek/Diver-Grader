@@ -1,0 +1,144 @@
+{
+  "name": "Damien Davis",
+  "gender": "M",
+  "age": "17",
+  "id": 69330,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 25.3,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 19.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 24.65,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 24.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 37.95,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 37.8,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.3,
+        "best_dive_id": "104C",
+        "best_dive_avg": 25.3,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 19.0,
+        "best_dive_id": "204C",
+        "best_dive_avg": 19.0,
+        "grade": 2.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.65,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.65,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 37.88,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 37.95,
+        "grade": 5.0
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

@@ -1,0 +1,199 @@
+{
+  "name": "Lyla O'briant ",
+  "gender": "F",
+  "age": "13",
+  "id": 69446,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 19.2,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 19.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 12.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 16.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 13.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 18.6,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 17.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 17.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 17.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-05",
+                "score": 17.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.0,
+        "best_dive_id": "100B",
+        "best_dive_avg": 12.0,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.5,
+        "grade": 2.2
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.0
+  }
+}

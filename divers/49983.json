@@ -1,0 +1,945 @@
+{
+  "name": "Rafael Almeida",
+  "gender": "M",
+  "age": "19",
+  "id": 49983,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-27",
+                "score": 46.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 38.25,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 35.7,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 33.15,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.7
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 36.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 46.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 43.47,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 35.65,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.71
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 50.7,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 45.6,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 31.2,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 30.75,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 34.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 40.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 25.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 26.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 29.75,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 34.85,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.3
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-27",
+                "score": 34.08,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.08
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 39.9,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 41.58,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 39.9,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.46
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 40.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 33.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 31.5,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 43.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 45.6,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.48
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 51.6,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 48.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 51.6,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 50.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 44.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 48.4,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 26.4,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.6
+          },
+          "5335D": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 43.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 36.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 36.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 31.2,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.67
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 50.4,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 37.2,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.8
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 60.45,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 55.8,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.12
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 31.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 37.8,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 33.3,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.2
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 54.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 56.7,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 55.35
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 28.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 38.4,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 39.9,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.6
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 32.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 45.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-27",
+                "score": 21.7,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 43.05,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 45.6,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 45.15,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 47.25,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.26
+          },
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 40.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.5
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 36.45,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 44.1,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2016-10-28",
+                "score": 47.25,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 31.5,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.95
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 66.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 65.7,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 65.85
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 33.15,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 33.15,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 35.2,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.83
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-11-27",
+                "score": 31.2,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          },
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 37.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 61.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 61.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 33.15,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 31.45,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.3
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 57.4,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 57.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 54.0,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 44.4,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 42.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 46.8
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 46.5,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 46.2,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 42.9,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.55
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 38.0,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          },
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-10-07",
+                "score": 59.2,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 59.2
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-10-28",
+                "score": 30.6,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2015-11-27",
+                "score": 39.1,
+                "meet": "Campeonato Brasileiro Grupos C e D de Saltos Ornamentais"
+              },
+              {
+                "date": "2021-10-07",
+                "score": 38.95,
+                "meet": "2021 UANA Pan American Junior Diving Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.22
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 48.75,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.7,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 37.1,
+        "best_dive_id": "201B",
+        "best_dive_avg": 38.4,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 40.47,
+        "best_dive_id": "305C",
+        "best_dive_avg": 40.5,
+        "grade": 5.4
+      },
+      "Inward": {
+        "top_2_avg": 43.59,
+        "best_dive_id": "403B",
+        "best_dive_avg": 50.4,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 40.58,
+        "best_dive_id": "5335D",
+        "best_dive_avg": 43.5,
+        "grade": 5.4
+      },
+      "average_grade": 5.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 50.96,
+        "best_dive_id": "107B",
+        "best_dive_avg": 58.12,
+        "grade": 6.4
+      },
+      "Back": {
+        "top_2_avg": 42.66,
+        "best_dive_id": "205B",
+        "best_dive_avg": 55.35,
+        "grade": 5.3
+      },
+      "Reverse": {
+        "top_2_avg": 37.95,
+        "best_dive_id": "305B",
+        "best_dive_avg": 45.0,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 44.31,
+        "best_dive_id": "403B",
+        "best_dive_avg": 45.26,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 50.91,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 65.85,
+        "grade": 6.4
+      },
+      "average_grade": 5.7
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 34.75,
+        "best_dive_id": "107B",
+        "best_dive_avg": 37.5,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 61.5,
+        "best_dive_id": "205C",
+        "best_dive_avg": 61.5,
+        "grade": 7.2
+      },
+      "Reverse": {
+        "top_2_avg": 40.67,
+        "best_dive_id": "305C",
+        "best_dive_avg": 57.4,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 46.72,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.8,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 49.43,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 59.2,
+        "grade": 5.8
+      },
+      "Armstand": {
+        "top_2_avg": 36.22,
+        "best_dive_id": "612B",
+        "best_dive_avg": 36.22,
+        "grade": 4.3
+      },
+      "average_grade": 5.3
+    },
+    "overall_average_grade": 5.5
+  }
+}

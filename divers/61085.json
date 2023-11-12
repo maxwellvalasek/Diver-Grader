@@ -1,0 +1,764 @@
+{
+  "name": "Michael Slaughter",
+  "gender": "M",
+  "age": "21",
+  "id": 61085,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 31.45,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 25.5,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 26.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 42.9,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.45
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 33.6,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 38.4,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 24.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 18.4,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 28.75,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 21.85,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 13.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.47
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 33.0,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 27.2,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 21.25,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 43.2,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 42.0,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 22.05,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 18.9,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.48
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 22.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 27.0,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 39.6,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 40.8,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 37.4,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 38.5,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 30.8,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 37.4,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.1,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 37.4,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.93
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 39.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 28.6,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.8
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 37.95,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 33.35,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.65
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 27.3,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.65,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.98
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 28.8,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 26.4,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 21.6,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.6
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 43.2,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 44.4,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.2,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 32.4,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.8
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 42.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 30.8,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 30.6,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 28.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 29.7,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.7
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 22.0,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 40.6,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 26.6,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 37.8,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 23.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 36.1,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 32.3,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 25.65,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.35
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 34.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 33.0,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 35.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 26.6,
+                "meet": "2021 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 35.7,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.65,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 31.5,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.95
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 40.8,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 40.5,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 36.45,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 47.25,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.48
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 30.45,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 32.55,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 36.75,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.25
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 30.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 37.5,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 40.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 35.0,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.62
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-05",
+                "score": 39.6,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2021-04-05",
+                "score": 36.0,
+                "meet": "2021 Horizon League Diving Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 42.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 38.4,
+                "meet": "2018 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.16
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.23,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.0,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 25.4,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 33.41,
+        "best_dive_id": "303B",
+        "best_dive_avg": 42.6,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 39.08,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.2,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 35.17,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 35.65,
+        "grade": 4.7
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.33,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.8,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 31.13,
+        "best_dive_id": "205C",
+        "best_dive_avg": 32.2,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 31.68,
+        "best_dive_id": "303C",
+        "best_dive_avg": 32.0,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 38.94,
+        "best_dive_id": "404C",
+        "best_dive_avg": 40.8,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 37.03,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 38.16,
+        "grade": 4.6
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.4
+  }
+}

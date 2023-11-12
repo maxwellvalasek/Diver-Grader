@@ -1,0 +1,958 @@
+{
+  "name": "Anna Hong",
+  "gender": "F",
+  "age": "14",
+  "id": 66611,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-27",
+                "score": 16.0,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-27",
+                "score": 17.5,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 24.3,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2020-02-16",
+                "score": 22.1,
+                "meet": "Valentines Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.2
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 30.6,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 27.9,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 27.9,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 18.6,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 20.4,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.08
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 27.75,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 24.75,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 23.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 22.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 23.2,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.8,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 23.4,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 23.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 29.7,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.3,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 19.5,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 23.25,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 29.25,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-22",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 22.5,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.75,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 24.3,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 26.1,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 29.7,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2020-02-16",
+                "score": 26.4,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.2,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.78
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 19.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 19.2,
+                "meet": "2021 USA Diving Zone A Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 27.9,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 29.7,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 31.5,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2020-02-16",
+                "score": 21.75,
+                "meet": "Valentines Diving Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.57
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 27.0,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 24.5,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 21.7,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.4
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 21.6,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 22.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.67
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 27.0,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 24.3,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 20.7,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 18.0,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 19.0,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 14.0,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 21.0,
+                "meet": "Valentines Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 18.5,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 18.5,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 17.5,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.17
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 18.5,
+                "meet": "Valentines Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 18.9,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.1,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 24.7,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 30.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 27.55,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 31.35,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 26.6,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 23.1,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.71
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 24.8,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.6
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 22.5,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 26.25,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 20.25,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.62
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 20.5,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 16.5,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 15.5,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 32.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 21.85,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 31.35,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 28.5,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 24.7,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.63
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-17",
+                "score": 25.2,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 23.4,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 24.3,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.62
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 20.8,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 23.2,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 22.5,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 25.2,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 26.6,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 31.35,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 28.5,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 28.5,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.11
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 22.1,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 22.95,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.52
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 21.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 22.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 23.75,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 36.1,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 27.55,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 35.15,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.66
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.55,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 33.25,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 28.5,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 32.3,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 25.65,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 30.4,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.61
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-16",
+                "score": 21.0,
+                "meet": "Valentines Diving Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 16.5,
+                "meet": "2019 Upstate Diving Holiday Invitational"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 17.5,
+                "meet": "Wings Diving Club Annual Halloween Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.33
+          },
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-06-17",
+                "score": 24.7,
+                "meet": "2022 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 25.65,
+                "meet": "2022 USA Diving Junior Region 5 Championships"
+              },
+              {
+                "date": "2021-07-01",
+                "score": 14.25,
+                "meet": "2021 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 17.1,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.66
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 28.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.41,
+        "best_dive_id": "102B",
+        "best_dive_avg": 26.25,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 24.69,
+        "best_dive_id": "201B",
+        "best_dive_avg": 25.2,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 24.89,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.78,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 26.38,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.57,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 22.5,
+        "grade": 3.0
+      },
+      "average_grade": 3.3
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.69,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.71,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 26.03,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.63,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 25.96,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.11,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 28.64,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.61,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 21.88,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.0,
+        "grade": 2.7
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.3
+  }
+}

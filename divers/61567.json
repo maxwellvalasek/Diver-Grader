@@ -1,0 +1,437 @@
+{
+  "name": "Natalie Van Hoesen",
+  "gender": "F",
+  "age": "18",
+  "id": 61567,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 16.0,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 12.0,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 15.5,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 15.5,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 17.6,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 13.6,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 14.0,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 15.0,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 18.85,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 15.6,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.23
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 12.5,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 9.0,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 10.75
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 19.0,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 15.0,
+                "meet": "Kansas Diving September Invite"
+              },
+              {
+                "date": "2018-05-19",
+                "score": 17.0,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-19",
+                "score": 16.8,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 16.2,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 12.6,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.4
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-19",
+                "score": 21.0,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 26.4,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 20.8,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 33.0,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-19",
+                "score": 15.5,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 25.5,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 17.85,
+                "meet": "Kansas Diving September Invite"
+              },
+              {
+                "date": "2018-05-19",
+                "score": 22.1,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.82
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 21.75,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 19.5,
+                "meet": "Kansas Diving September Invite"
+              },
+              {
+                "date": "2018-05-19",
+                "score": 22.5,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 22.4,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 18.2,
+                "meet": "Kansas Diving September Invite"
+              },
+              {
+                "date": "2018-05-19",
+                "score": 18.2,
+                "meet": "12th Annual Tigertown Challenge"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 30.8,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-10",
+                "score": 21.25,
+                "meet": "Kansas Diving November Invite"
+              },
+              {
+                "date": "2018-09-22",
+                "score": 25.5,
+                "meet": "Kansas Diving September Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.38
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 30.4,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.55,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.6,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "Inward": {
+        "top_2_avg": 17.23,
+        "best_dive_id": "401C",
+        "best_dive_avg": 17.23,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 10.75,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 10.75,
+        "grade": 1.3
+      },
+      "average_grade": 1.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.73,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.0,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 21.54,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.82,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.8,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 25.72,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 30.4,
+        "grade": 3.4
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 2.5
+  }
+}

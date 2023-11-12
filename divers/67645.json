@@ -1,0 +1,910 @@
+{
+  "name": "Carter Reed",
+  "gender": "M",
+  "age": "19",
+  "id": 67645,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 17.5,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 16.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 26.4,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 21.6,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 25.6,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 24.8,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.6
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 30.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 30.8,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 16.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-26",
+                "score": 20.7,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 20.4,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.95,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.67
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 28.5,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 19.95,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 24.7,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-26",
+                "score": 25.65,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.65
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 16.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 15.3,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 19.8,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.1
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 18.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 27.3,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.15
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-26",
+                "score": 33.6,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 25.2,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 34.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 34.2,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.2
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 39.15,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 9.45,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 32.55,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.88
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 26.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 33.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 31.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 24.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.5
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 15.5,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 27.2,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 28.05,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.65,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 32.3,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 28.9,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 24.65,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.62
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 20.7,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 26.45,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 34.5,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 19.55,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.3
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.6,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 22.8,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 27.6,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 28.8,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 32.4,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 28.8,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.08
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 24.8,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 23.2,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 22.4,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.32
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 21.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 27.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 27.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 27.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 28.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 24.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 28.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.83
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 25.5,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 20.4,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 25.5,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 22.95,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.59
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 27.2,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.4,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 36.75,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 26.25,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 27.3,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 26.25,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 21.0,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.51
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 23.25,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 27.75,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 23.25,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 24.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 26.25,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 19.5,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 37.4,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 30.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 41.8,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 44.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 38.5,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 36.3,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 38.13
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 23.75,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 22.95,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 23.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 31.05,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 34.5,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 28.75,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 20.7,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 31.05,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.18
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 24.15,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 26.25,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 22.05,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 30.45,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 21.0,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.78
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.27,
+        "best_dive_id": "105B",
+        "best_dive_avg": 33.0,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 23.3,
+        "best_dive_id": "203C",
+        "best_dive_avg": 24.38,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 22.55,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.65,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.2,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 28.63,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 28.88,
+        "grade": 3.6
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.17,
+        "best_dive_id": "104C",
+        "best_dive_avg": 28.6,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 25.69,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.83,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 26.74,
+        "best_dive_id": "303C",
+        "best_dive_avg": 27.51,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 31.07,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.13,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 26.63,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 28.18,
+        "grade": 3.6
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.6
+  }
+}

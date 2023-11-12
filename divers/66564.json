@@ -1,0 +1,239 @@
+{
+  "name": "Carrie Mayer",
+  "gender": "F",
+  "age": "21",
+  "id": 66564,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 29.75,
+                "meet": "WYO vs CSU vs MESA"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 36.3,
+                "meet": "AFA vs MESA vs UNC"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 21.6,
+                "meet": "WYO vs CSU vs MESA"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 31.2,
+                "meet": "2019 BHS/CHS High School"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 25.5,
+                "meet": "AFA vs MESA vs UNC"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 29.33,
+                "meet": "AFA vs MESA vs UNC"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 28.05,
+                "meet": "WYO vs CSU vs MESA"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 27.2,
+                "meet": "2019 BHS/CHS High School"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.19
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 32.3,
+                "meet": "2019 BHS/CHS High School"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 34.5,
+                "meet": "2019 BHS/CHS High School"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 41.25,
+                "meet": "AFA vs MESA vs UNC"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 35.2,
+                "meet": "WYO vs CSU vs MESA"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 39.6,
+                "meet": "2019 BHS/CHS High School"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.68
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 41.25,
+                "meet": "AFA vs MESA vs UNC"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 28.6,
+                "meet": "WYO vs CSU vs MESA"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.92
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 23.4,
+                "meet": "AFA vs MESA vs UNC"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-05",
+                "score": 33.6,
+                "meet": "WYO vs CSU vs MESA"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 33.02,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.3,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 26.1,
+        "best_dive_id": "201B",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 29.22,
+        "best_dive_id": "302B",
+        "best_dive_avg": 32.3,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 37.63,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.68,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 34.48,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 34.92,
+        "grade": 4.6
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

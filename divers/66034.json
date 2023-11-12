@@ -1,0 +1,180 @@
+{
+  "name": "Brady Graham",
+  "gender": "M",
+  "age": "17",
+  "id": 66034,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 15.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 15.6,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.3
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 28.6,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 0.0,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 27.2,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 17.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 23.2,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 20.8,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 19.73,
+        "best_dive_id": "104C",
+        "best_dive_avg": 28.6,
+        "grade": 2.6
+      },
+      "Back": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "201A",
+        "best_dive_avg": 27.2,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "402C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

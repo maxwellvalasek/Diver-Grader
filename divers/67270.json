@@ -1,0 +1,850 @@
+{
+  "name": "Jaxson Mcquaid",
+  "gender": "M",
+  "age": "17",
+  "id": 67270,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 17.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 16.5,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 19.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 17.5,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 15.0,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 25.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 25.9,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.55
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 26.4,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 27.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 24.75,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.88
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 38.4,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 13.5,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 22.95,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 22.95,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 27.5,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 15.0,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 17.1,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 22.95,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 14.0,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 21.7,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 16.9,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 22.1,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 29.4,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 29.4,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 25.0,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 30.6,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 25.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 28.05,
+                "meet": "2021 Marlins Diving Club Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 26.35,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 27.2,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.54
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-15",
+                "score": 30.6,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 27.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 29.7,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 28.6,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 28.8,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 32.4,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 21.6,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 23.2,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.75,
+                "meet": "2021 Marlins Diving Club Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 21.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 22.5,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 27.0,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.55
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 18.75,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 21.75,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 24.0,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.5
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 25.3,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 24.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 18.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 24.0,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 21.6,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.0,
+                "meet": "2021 Marlins Diving Club Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 21.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 16.8,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 19.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 21.6,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 25.2,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 30.45,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 26.25,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 23.1,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 27.75,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 24.0,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 24.75,
+                "meet": "2021 Marlins Diving Club Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 21.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 22.5,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 27.0,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-15",
+                "score": 23.2,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 40.8,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 38.5,
+                "meet": "Whirlwind Winter Weekend 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 33.6,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 22.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 23.75,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 22.5,
+                "meet": "2019 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.02
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 31.9,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 34.1,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 25.3,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.43
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 18.7,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 17.0,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.85
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 29.4,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 24.15,
+                "meet": "Whirlwind Winter Weekend 2022"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 25.2,
+                "meet": "2021 Marlins Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.4,
+        "best_dive_id": "105B",
+        "best_dive_avg": 38.4,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 24.47,
+        "best_dive_id": "203B",
+        "best_dive_avg": 27.5,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 20.02,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.95,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 25.55,
+        "best_dive_id": "403B",
+        "best_dive_avg": 29.4,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 29.4,
+        "grade": 3.4
+      },
+      "average_grade": 3.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.1,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.6,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 23.84,
+        "best_dive_id": "203B",
+        "best_dive_avg": 25.3,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.3,
+        "best_dive_id": "303C",
+        "best_dive_avg": 26.6,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 39.65,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.8,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 28.34,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 30.43,
+        "grade": 3.8
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.6
+  }
+}

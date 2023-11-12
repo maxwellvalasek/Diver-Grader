@@ -1,0 +1,691 @@
+{
+  "name": "Hannah Babcock",
+  "gender": "F",
+  "age": "20",
+  "id": 60262,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 30.6,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 28.9,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 30.6,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.03
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 39.68,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 41.4,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 26.45,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.84
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-09",
+                "score": 40.7,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.7
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 25.2,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 31.2,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 14.4,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 21.6,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.4
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 20.0,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 34.5,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 33.0,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 21.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 25.0,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 34.0,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 25.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 26.35,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.62
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-09",
+                "score": 24.0,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 19.95,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 40.95,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 37.8,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 19.95,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.66
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 33.0,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 21.7,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 27.3,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-09",
+                "score": 27.2,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 37.4,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 34.65,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 39.6,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.79
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 37.95,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 36.3,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 22.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 23.1,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.84
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 40.25,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 39.68,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 40.25,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2018-02-09",
+                "score": 40.25,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.99
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 36.45,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 40.5,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.48
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-09",
+                "score": 31.5,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 27.2,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 25.2,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 45.0,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.8,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 29.7,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 22.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.1
+          },
+          "202B": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 25.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 12.1,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 24.7,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 32.78,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.35,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.61
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 19.55,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 28.5,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 37.2,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 41.4,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 36.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 37.8,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 32.55,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.17
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 26.25,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 34.0,
+                "meet": "2019 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 44.4,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 41.4,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.06,
+        "best_dive_id": "104C",
+        "best_dive_avg": 40.7,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 25.09,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.7,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 29.21,
+        "best_dive_id": "303C",
+        "best_dive_avg": 29.66,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 34.43,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.79,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 38.84,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 38.99,
+        "grade": 5.2
+      },
+      "average_grade": 4.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.05,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.0,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "201B",
+        "best_dive_avg": 26.1,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 27.09,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.61,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 35.78,
+        "best_dive_id": "404C",
+        "best_dive_avg": 38.2,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 39.03,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.9,
+        "grade": 4.9
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.2
+  }
+}

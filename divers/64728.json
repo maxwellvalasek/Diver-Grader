@@ -1,0 +1,763 @@
+{
+  "name": "Maxim Djits",
+  "gender": "M",
+  "age": "15",
+  "id": 64728,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 18.75,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 13.5,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 18.9,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 18.9,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 23.1,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.3
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 20.25,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 22.5,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 24.75,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 30.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 28.05,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 28.05,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.9
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 34.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 28.5,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 17.55,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 28.35,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-12",
+                "score": 19.13,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.13
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 8.4,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 18.9,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.65
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 21.45,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 0.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 18.53,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.27
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 12.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 19.5,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 25.5,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-09",
+                "score": 14.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 20.7,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 26.1,
+                "meet": "2019 GA Diving Winter Classic"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 15.6,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 14.0,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 16.1,
+                "meet": "2019 GA Diving Winter Classic"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 16.8,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.63
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 23.2,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 21.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 25.2,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 29.7,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.93
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 31.9,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 33.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 33.0,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 31.35,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.31
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-09",
+                "score": 12.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 20.25,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 16.88,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 19.13,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 35.1,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 21.6,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 20.7,
+                "meet": "2019 GA Diving Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.28
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 20.25,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 33.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 30.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 31.5,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 24.0,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 19.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 28.8,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 32.4,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 22.5,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.9,
+                "meet": "2019 GA Diving Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 24.0,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 16.0,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 28.8,
+                "meet": "2019 GA Diving Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 18.75,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 19.13,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 16.88,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 25.65,
+                "meet": "2021 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 18.9,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 5,
+            "average_score": 19.86
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 9.1,
+                "meet": "2019 GA Diving Winter Classic"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 13.3,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 20.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 22.8,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 18.0,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.27
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 24.7,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 24.23,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 24.23,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 0.0,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.29
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 21.6,
+                "meet": "2021 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 0.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-11",
+                "score": 23.63,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 20.48,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.4,
+        "best_dive_id": "103C",
+        "best_dive_avg": 22.5,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 29.88,
+        "best_dive_id": "203C",
+        "best_dive_avg": 31.35,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.95,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 16.25,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.45,
+        "grade": 2.0
+      },
+      "Twister": {
+        "top_2_avg": 19.2,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 22.5,
+        "grade": 2.4
+      },
+      "average_grade": 2.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.62,
+        "best_dive_id": "104C",
+        "best_dive_avg": 32.31,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 25.22,
+        "best_dive_id": "203C",
+        "best_dive_avg": 29.62,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 24.58,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.4,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 20.01,
+        "best_dive_id": "402C",
+        "best_dive_avg": 20.27,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 21.9,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 22.05,
+        "grade": 2.9
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.0
+  }
+}

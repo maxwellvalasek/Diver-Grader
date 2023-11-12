@@ -1,0 +1,234 @@
+{
+  "name": "Isa Koop",
+  "gender": "F",
+  "age": "15",
+  "id": 68760,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 33.15,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 39.6,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 33.6,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 32.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 28.9,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 31.5,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 41.8,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 31.05,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 35.7,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 43.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.0
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 40.8,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.38,
+        "best_dive_id": "104C",
+        "best_dive_avg": 39.6,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 32.8,
+        "best_dive_id": "201B",
+        "best_dive_avg": 33.6,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "301B",
+        "best_dive_avg": 28.9,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 36.65,
+        "best_dive_id": "403C",
+        "best_dive_avg": 41.8,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 33.38,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.7,
+        "grade": 4.5
+      },
+      "average_grade": 4.5
+    },
+    "Platform": {
+      "Back": {
+        "top_2_avg": 43.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 43.0,
+        "grade": 5.1
+      },
+      "Armstand": {
+        "top_2_avg": 40.8,
+        "best_dive_id": "614B",
+        "best_dive_avg": 40.8,
+        "grade": 4.8
+      },
+      "average_grade": 4.9
+    },
+    "overall_average_grade": 4.7
+  }
+}

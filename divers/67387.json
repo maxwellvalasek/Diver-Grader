@@ -1,0 +1,164 @@
+{
+  "name": "Caitlyn Keenan",
+  "gender": "F",
+  "age": "16",
+  "id": 67387,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 19.2,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 20.4,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 23.2,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 21.6,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 21.0,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 22.5,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 21.6,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 23.2,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 21.7,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 24.5,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-07",
+                "score": 20.0,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 20.8,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.1,
+        "best_dive_id": "103C",
+        "best_dive_avg": 22.4,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 21.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 21.75,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 21.75,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.1,
+        "grade": 2.9
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

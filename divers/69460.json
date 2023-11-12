@@ -1,0 +1,245 @@
+{
+  "name": "Kasen Goin",
+  "gender": "M",
+  "age": "11",
+  "id": 69460,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 14.4,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 17.4,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.9
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 18.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 15.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 14.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 14.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 13.5,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 10.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 15.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 10.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.75
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 15.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 12.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 14.5,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 13.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 14.5,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 14.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 15.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 11.5,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.25
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-24",
+                "score": 12.0,
+                "meet": "The Black Gold Invitational"
+              },
+              {
+                "date": "2021-03-05",
+                "score": 15.0,
+                "meet": "March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.38,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.5,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 12.38,
+        "best_dive_id": "200C",
+        "best_dive_avg": 12.75,
+        "grade": 1.7
+      },
+      "average_grade": 1.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 13.38,
+        "best_dive_id": "200C",
+        "best_dive_avg": 13.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.8
+  }
+}

@@ -1,0 +1,881 @@
+{
+  "name": "Meghan Stanley",
+  "gender": "F",
+  "age": "20",
+  "id": 64951,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 18.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 19.0,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 22.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 21.5,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.12
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 12.0,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 17.5,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 18.0,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 16.5,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 0.0,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 32.8,
+                "meet": "Rebel Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 22.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 24.0,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 17.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 17.5,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 19.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.05,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 30.6,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 34.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 29.7,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 29.7,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 27.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.4,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.67
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 22.4,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 24.7,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 27.55,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 24.7,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 12.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 31.0,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 26.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.0,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.0
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 15.5,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 28.05,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 30.6,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 26.35,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 28.05,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 28.9,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.39
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 21.6,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 23.1,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 0.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 23.1,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 29.7,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 25.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.9,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 25.3,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 22.63
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 21.75,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 25.5,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 25.5,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 20.25,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 22.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.25,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.12
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.05,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 23.8,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 25.5,
+                "meet": "Rebel Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.78
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 20.25,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 22.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 0.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.0
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 25.3,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 28.8,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 20.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 24.0,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 23.2,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 19.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.4,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.27
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 24.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 22.4,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 23.2,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 21.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 21.6,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 20.8,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 14.7,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 27.75,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 24.75,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 23.25,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 25.5,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 24.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.75,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.12
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 24.0,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 30.8,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 28.6,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 24.2,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 24.2,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 28.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.68
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 16.15,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 39.1,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 40.25,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 33.35,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 36.8,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 41.4,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.18
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 40.5,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 40.5,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 33.75,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 35.1,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 41.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 36.9
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 25.2,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.02,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.8,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 24.44,
+        "best_dive_id": "201C",
+        "best_dive_avg": 30.88,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 27.67,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.67,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 24.84,
+        "best_dive_id": "403C",
+        "best_dive_avg": 25.65,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 24.7,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 27.0,
+        "grade": 3.1
+      },
+      "average_grade": 3.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.03,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.39,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 25.66,
+        "best_dive_id": "202A",
+        "best_dive_avg": 25.78,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 22.33,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.68,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 37.48,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 38.18,
+        "grade": 5.0
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.4
+  }
+}

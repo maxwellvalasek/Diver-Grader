@@ -25,7 +25,7 @@ def main():
     parser = argparse.ArgumentParser(description='Check Dive Statistics for a range of numbers.')
     parser.add_argument('start_number', type=int, help='Starting number of the range')
     parser.add_argument('end_number', type=int, help='Ending number of the range')
-    parser.add_argument('--threads', type=int, default=8, help='Number of threads to use')
+    parser.add_argument('--threads', type=int, default=6, help='Number of threads to use')
     args = parser.parse_args()
 
     max_threads = args.threads

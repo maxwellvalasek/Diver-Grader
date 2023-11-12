@@ -1,0 +1,121 @@
+{
+  "name": "Tucker Adams",
+  "gender": "F",
+  "age": "12",
+  "id": 61815,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 19.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 17.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.35
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 21.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 19.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 23.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 23.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "101A",
+        "best_dive_avg": 26.35,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 22.74,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.23,
+        "grade": 3.0
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

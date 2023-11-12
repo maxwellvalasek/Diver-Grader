@@ -1,0 +1,219 @@
+{
+  "name": "Evan Garrido",
+  "gender": "M",
+  "age": "12",
+  "id": 63108,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-02",
+                "score": 19.5,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-02",
+                "score": 15.0,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 16.8,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 19.8,
+                "meet": "West Chester Diving Fall Classic 2019"
+              },
+              {
+                "date": "2019-06-01",
+                "score": 16.2,
+                "meet": "Centennial  Diving Summer Invite"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 16.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2018-11-17",
+                "score": 13.2,
+                "meet": "West Chester Diving Fall Classic 2018"
+              }
+            ],
+            "count": 5,
+            "average_score": 16.56
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 18.9,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 19.6,
+                "meet": "West Chester Diving Fall Classic 2019"
+              },
+              {
+                "date": "2019-06-01",
+                "score": 19.6,
+                "meet": "Centennial  Diving Summer Invite"
+              },
+              {
+                "date": "2018-11-17",
+                "score": 16.8,
+                "meet": "West Chester Diving Fall Classic 2018"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.73
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 15.0,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 16.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2018-11-17",
+                "score": 15.5,
+                "meet": "West Chester Diving Fall Classic 2018"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.67
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-02",
+                "score": 22.1,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2018-11-17",
+                "score": 20.4,
+                "meet": "West Chester Diving Fall Classic 2018"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 20.25,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 19.5,
+                "meet": "West Chester Diving Fall Classic 2019"
+              },
+              {
+                "date": "2019-06-01",
+                "score": 20.25,
+                "meet": "Centennial  Diving Summer Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 14.7,
+                "meet": "West Chester Diving Fall Classic 2019"
+              },
+              {
+                "date": "2019-06-01",
+                "score": 21.7,
+                "meet": "Centennial  Diving Summer Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.52,
+        "best_dive_id": "102C",
+        "best_dive_avg": 18.73,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 20.5,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.25,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

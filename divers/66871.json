@@ -1,0 +1,761 @@
+{
+  "name": "Adeline Woods",
+  "gender": "F",
+  "age": "19",
+  "id": 66871,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-01",
+                "score": 16.8,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 23.25,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 18.75,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-01",
+                "score": 24.0,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 34.0,
+                "meet": "Last Chance Dive Meet"
+              },
+              {
+                "date": "2021-12-29",
+                "score": 29.75,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 29.75,
+                "meet": "Central Holiday Invite Dive"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.17
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-06",
+                "score": 27.2,
+                "meet": "NF Invitational Dive Meet"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 24.8,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 32.8,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 26.4,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 28.0,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.84
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 39.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 33.0,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-12-29",
+                "score": 39.6,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 40.7,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 42.9,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 31.9,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 38.5,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2021-01-15",
+                "score": 30.8,
+                "meet": "North/West/Central Tri Dive"
+              },
+              {
+                "date": "2020-11-23",
+                "score": 30.8,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 41.8,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              },
+              {
+                "date": "2020-11-06",
+                "score": 27.5,
+                "meet": "NF Invitational Dive Meet"
+              }
+            ],
+            "count": 11,
+            "average_score": 36.1
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 27.6,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 20.8,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-27",
+                "score": 40.8,
+                "meet": "Last Chance Dive Meet"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 28.8,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.13
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-29",
+                "score": 27.0,
+                "meet": "Cambridge December Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-15",
+                "score": 32.3,
+                "meet": "North/West/Central Tri Dive"
+              },
+              {
+                "date": "2020-11-23",
+                "score": 34.0,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 28.9,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              },
+              {
+                "date": "2020-11-06",
+                "score": 31.45,
+                "meet": "NF Invitational Dive Meet"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 28.9,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 31.45,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 29.75,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 29.75,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 25.5,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-01",
+                "score": 24.65,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 29.66
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 39.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 8.0,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 38.0,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 30.0,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 24.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 32.0,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2021-01-15",
+                "score": 29.0,
+                "meet": "North/West/Central Tri Dive"
+              }
+            ],
+            "count": 7,
+            "average_score": 28.57
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 21.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-27",
+                "score": 0.0,
+                "meet": "Last Chance Dive Meet"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 26.4,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-12-29",
+                "score": 31.2,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 23.2,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 26.4,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 28.0,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2021-01-15",
+                "score": 23.2,
+                "meet": "North/West/Central Tri Dive"
+              },
+              {
+                "date": "2020-11-23",
+                "score": 22.4,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 28.0,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              },
+              {
+                "date": "2020-11-06",
+                "score": 0.0,
+                "meet": "NF Invitational Dive Meet"
+              }
+            ],
+            "count": 11,
+            "average_score": 20.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-27",
+                "score": 33.75,
+                "meet": "Last Chance Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 25.9,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 23.8,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 27.3,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 21.0,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 21.7,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-01",
+                "score": 24.5,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.03
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-06",
+                "score": 19.2,
+                "meet": "NF Invitational Dive Meet"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 19.2,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 28.8,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 28.8,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 23.2,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.84
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 50.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 49.5,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-12-29",
+                "score": 33.0,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 41.8,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 39.6,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              },
+              {
+                "date": "2021-02-02",
+                "score": 39.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 45.1,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2021-01-15",
+                "score": 31.9,
+                "meet": "North/West/Central Tri Dive"
+              },
+              {
+                "date": "2020-11-23",
+                "score": 38.5,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 31.9,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              }
+            ],
+            "count": 10,
+            "average_score": 40.15
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 33.25,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 35.1,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 38.7,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 27.55,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 31.5,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 17.1,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 29.7,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 31.35,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-01",
+                "score": 26.6,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 30.09
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-03",
+                "score": 40.7,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 42.9,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.8
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 22.5,
+                "meet": "North Fulton/Forsyth Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-03",
+                "score": 37.95,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-01-27",
+                "score": 41.4,
+                "meet": "Last Chance Dive Meet"
+              },
+              {
+                "date": "2022-01-21",
+                "score": 36.8,
+                "meet": "51th Annual METRO Atlanta Swimming and Diving Invitational"
+              },
+              {
+                "date": "2021-12-29",
+                "score": 40.25,
+                "meet": "Cambridge December Dive"
+              },
+              {
+                "date": "2021-12-03",
+                "score": 42.55,
+                "meet": "Central Holiday Invite Dive"
+              },
+              {
+                "date": "2020-11-06",
+                "score": 34.5,
+                "meet": "NF Invitational Dive Meet"
+              },
+              {
+                "date": "2020-01-12",
+                "score": 27.6,
+                "meet": "Georgia All Star Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 41.4,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 35.65,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 41.4,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-22",
+                "score": 37.95,
+                "meet": "Cambridge HS Dive Meet"
+              },
+              {
+                "date": "2019-11-01",
+                "score": 41.4,
+                "meet": "12th Annual Kickoff Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 38.24
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 36.45,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 49.95,
+                "meet": "Cambridge January Dive Meet"
+              },
+              {
+                "date": "2021-01-15",
+                "score": 44.55,
+                "meet": "North/West/Central Tri Dive"
+              },
+              {
+                "date": "2020-11-23",
+                "score": 28.35,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-11-20",
+                "score": 40.5,
+                "meet": "Cambridge Dual Nov Swim and Dive"
+              }
+            ],
+            "count": 5,
+            "average_score": 39.96
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.04,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.1,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 29.77,
+        "best_dive_id": "201B",
+        "best_dive_avg": 30.13,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 20.95,
+        "best_dive_id": "302C",
+        "best_dive_avg": 20.95,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 39.57,
+        "best_dive_id": "403C",
+        "best_dive_avg": 40.15,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 40.49,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 41.8,
+        "grade": 5.4
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.4
+  }
+}

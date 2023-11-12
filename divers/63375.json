@@ -1,0 +1,200 @@
+{
+  "name": "Allison Ary",
+  "gender": "F",
+  "age": "17",
+  "id": 63375,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-01",
+                "score": 15.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-05",
+                "score": 24.0,
+                "meet": "John Smith Memorial Meet"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 27.2,
+                "meet": "Liberty Diving Invite"
+              },
+              {
+                "date": "2018-12-01",
+                "score": 0.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.07
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-01",
+                "score": 28.05,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-05",
+                "score": 18.0,
+                "meet": "John Smith Memorial Meet"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 24.0,
+                "meet": "Liberty Diving Invite"
+              },
+              {
+                "date": "2018-12-01",
+                "score": 23.25,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-05",
+                "score": 20.8,
+                "meet": "John Smith Memorial Meet"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 21.6,
+                "meet": "Liberty Diving Invite"
+              },
+              {
+                "date": "2018-12-01",
+                "score": 24.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-05",
+                "score": 0.0,
+                "meet": "John Smith Memorial Meet"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 20.0,
+                "meet": "Liberty Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-05",
+                "score": 23.1,
+                "meet": "John Smith Memorial Meet"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 27.3,
+                "meet": "Liberty Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-09",
+                "score": 20.0,
+                "meet": "Liberty Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.55,
+        "best_dive_id": "103C",
+        "best_dive_avg": 17.07,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 23.32,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.05,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 17.44,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 23.47,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

@@ -1,0 +1,221 @@
+{
+  "name": "Justin Salomon",
+  "gender": "M",
+  "age": "14",
+  "id": 65866,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 15.75,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 16.5,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 18.0,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 17.25,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 16.5,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 16.5,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 12.0,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 14.25,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 14.7,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 15.3,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 14.7,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 12.0,
+                "meet": "2022 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.88,
+        "best_dive_id": "100A",
+        "best_dive_avg": 17.25,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "101C",
+        "best_dive_avg": 15.3,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 12.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 12.0,
+        "grade": 1.6
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.9
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "name": "Paul Yang",
+  "gender": "M",
+  "age": "16",
+  "id": 68767,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 35.2,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 0.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 37.8,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 51.8,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 34.2,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 46.2,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 35.1,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 43.05,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.05
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 12.0,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-03-25",
+                "score": 51.15,
+                "meet": "2022 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 17.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 35.2,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 44.8,
+        "best_dive_id": "205C",
+        "best_dive_avg": 51.8,
+        "grade": 5.6
+      },
+      "Reverse": {
+        "top_2_avg": 34.2,
+        "best_dive_id": "301B",
+        "best_dive_avg": 34.2,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 40.65,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.2,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 27.52,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 43.05,
+        "grade": 3.4
+      },
+      "average_grade": 4.1
+    },
+    "Platform": {
+      "Inward": {
+        "top_2_avg": 51.15,
+        "best_dive_id": "405C",
+        "best_dive_avg": 51.15,
+        "grade": 6.0
+      },
+      "average_grade": 6.0
+    },
+    "overall_average_grade": 5.1
+  }
+}

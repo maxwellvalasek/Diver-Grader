@@ -1,0 +1,871 @@
+{
+  "name": "Matthew Duncan",
+  "gender": "M",
+  "age": "20",
+  "id": 65403,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 28.05,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 29.75,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 32.3,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 28.05,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.54
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 16.5,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 36.0,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.6,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 26.4,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 28.8,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 25.6,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 20.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 18.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 23.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 32.2,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 37.95,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.05
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 33.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 18.7,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 24.8,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 32.0,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 31.2,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.33
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 24.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 22.05,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 40.95,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 28.35,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.45
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 26.25,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 27.75,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 24.75,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 27.75,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.62
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 33.6,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 31.9,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 39.6,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 27.5,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 24.7,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 23.1,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 34.1,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 25.3,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.5
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 19.55,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 40.25,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 43.7,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.98
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 37.8,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 36.75,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.27
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 32.5,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 29.6,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 26.4,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 26.4,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 20.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.6
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 38.4,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 31.2,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.2
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 36.3,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 22.4,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 32.4,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 34.2,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 22.5,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.7
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 22.95,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 22.8,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 16.8,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 32.2,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 40.6,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.87
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 22.8,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 29.7,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 31.5,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.0,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.4
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 25.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 31.0,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 19.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 42.0,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 25.2,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 35.7,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 40.95,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.33
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 24.7,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 31.35,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.02
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 16.8,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 36.45,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 37.8,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 39.15,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 37.8,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 30.45,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 35.7,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.65
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 36.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 36.0,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 33.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 25.2,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 36.0,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 43.2,
+                "meet": "Tads Twisters and HB Divers Las Vegas Christmas Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.02,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.54,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 31.54,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.0,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 29.89,
+        "best_dive_id": "303C",
+        "best_dive_avg": 30.45,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 33.15,
+        "best_dive_id": "403B",
+        "best_dive_avg": 33.6,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 39.62,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 41.98,
+        "grade": 5.3
+      },
+      "average_grade": 4.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 35.48,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.3,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 29.78,
+        "best_dive_id": "205C",
+        "best_dive_avg": 29.87,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 32.55,
+        "best_dive_id": "305C",
+        "best_dive_avg": 42.0,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 38.01,
+        "best_dive_id": "403B",
+        "best_dive_avg": 38.33,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 34.9,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.0,
+        "grade": 4.4
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

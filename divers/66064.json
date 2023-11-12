@@ -1,0 +1,183 @@
+{
+  "name": "Vincent McHale",
+  "gender": "M",
+  "age": "17",
+  "id": 66064,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 31.85,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 24.05,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.95
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 37.4,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.4
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 44.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 28.9,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 18.7,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 32.25,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 33.0,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 36.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5123D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 26.25,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 40.7,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.9,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 34.7,
+        "best_dive_id": "404C",
+        "best_dive_avg": 36.4,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 33.48,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 40.7,
+        "grade": 4.5
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.4
+  }
+}

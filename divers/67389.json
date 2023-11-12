@@ -1,0 +1,541 @@
+{
+  "name": "Nick Roddy",
+  "gender": "M",
+  "age": "19",
+  "id": 67389,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 28.05,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 37.7,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 42.9,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 45.5,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.03
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 28.9,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 41.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 36.3,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.3,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2019-11-23",
+                "score": 26.4,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 23.2,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 34.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 33.35,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 35.65,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 26.25,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 43.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 39.6,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.8,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 36.3,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 36.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.4,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 32.5,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.1
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 19.95,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-23",
+                "score": 34.5,
+                "meet": "West Chester Diving Fall Classic 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 37.5,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.75,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 45.0,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.08
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 26.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 42.0,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 28.05,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 30.6,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.33
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 30.6,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 22.5,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.55
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 32.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 35.7,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 35.7,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.7
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.15,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.15
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 30.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 27.5,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.25,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.25
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 34.8,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 39.6,
+                "meet": "2022 Magnus Cup Invitational  (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.2
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 42.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.54,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.03,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 35.1,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.4,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 34.6,
+        "best_dive_id": "303B",
+        "best_dive_avg": 34.8,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 41.48,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.2,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 38.59,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.08,
+        "grade": 5.1
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.2,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.2,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 32.75,
+        "best_dive_id": "203A",
+        "best_dive_avg": 39.6,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.43,
+        "best_dive_id": "303B",
+        "best_dive_avg": 32.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 36.85,
+        "best_dive_id": "405C",
+        "best_dive_avg": 39.15,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 38.8,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 42.0,
+        "grade": 4.9
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.7
+  }
+}

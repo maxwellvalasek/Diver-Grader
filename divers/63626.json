@@ -1,0 +1,806 @@
+{
+  "name": "Isabella Poindexter",
+  "gender": "F",
+  "age": "16",
+  "id": 63626,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 16.0,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-29",
+                "score": 12.5,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-18",
+                "score": 12.75,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 15.5,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 17.5,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 14.63,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.63
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 21.7,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 23.1,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 20.3,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.7
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 25.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-18",
+                "score": 21.38,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 21.75,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.56
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-29",
+                "score": 15.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 26.78,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 18.7,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 21.68,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 20.4,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.89
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 22.95,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 21.6,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 29.7,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.75
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 21.68,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.68
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 15.75,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 19.5,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 22.43,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 22.1,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.34
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 27.08,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.08
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 17.33,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.33
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 15.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-15",
+                "score": 13.5,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 18.2,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 28.35,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 20.7,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.42
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-15",
+                "score": 16.8,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 20.4,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 21.68,
+                "meet": "2020 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.04
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 24.0,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 27.6,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.6,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 16.8,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 23.1,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 18.15,
+                "meet": "2020 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-15",
+                "score": 15.0,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 20.25,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 27.0,
+                "meet": "2020 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 15.75,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 24.3,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.8,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 12.75,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 19.97
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 17.85,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 18.75,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 23.63,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.0,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.13
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 20.4,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 24.0,
+                "meet": "2020 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 19.2,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 25.65,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 20.7,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.99
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-08",
+                "score": 24.0,
+                "meet": "2020 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 19.2,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 23.63,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 25.88,
+                "meet": "2020 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 21.0,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 32.4,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 25.2,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 23.1,
+                "meet": "2018 GA Diving Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.42
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 24.0,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 20.8,
+                "meet": "Patriot Diving Wintervite"
+              },
+              {
+                "date": "2019-07-18",
+                "score": 27.6,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.4,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.7
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-08",
+                "score": 24.75,
+                "meet": "2020 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-18",
+                "score": 27.0,
+                "meet": "2019 Schroeder Mid-Summer Meet"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 8.1,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.55
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 22.8,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-11-08",
+                "score": 25.65,
+                "meet": "2020 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 13.3,
+                "meet": "Patriot Diving Wintervite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.58
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-08",
+                "score": 22.95,
+                "meet": "2020 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 0.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.57,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.2,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 20.51,
+        "best_dive_id": "201C",
+        "best_dive_avg": 21.89,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 23.98,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.75,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.77,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.08,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 16.16,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 17.33,
+        "grade": 2.0
+      },
+      "average_grade": 2.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.89,
+        "best_dive_id": "101B",
+        "best_dive_avg": 22.42,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 20.02,
+        "best_dive_id": "202C",
+        "best_dive_avg": 20.13,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 21.88,
+        "best_dive_id": "301C",
+        "best_dive_avg": 21.99,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.42,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 21.17,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 22.95,
+        "grade": 2.8
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.8
+  }
+}

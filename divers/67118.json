@@ -1,0 +1,809 @@
+{
+  "name": "Maddi Cardinale",
+  "gender": "F",
+  "age": "16",
+  "id": 67118,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 20.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 19.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 17.5,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.67
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 27.75,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 27.0,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.38
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 25.2,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 23.1,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 24.5,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.27
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 26.4,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 27.0,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 18.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 23.25,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 21.0,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.31
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 17.0,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 32.3,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 30.6,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 24.65,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 27.2,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.69
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 26.4,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 30.6,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 27.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 25.2,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.6
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 26.35,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 20.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 22.75,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 23.4,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.32
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.2,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 32.3,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 31.35,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 25.65,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 25.65,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 31.0,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 18.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 6.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.25
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 19.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 21.45,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 23.4,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.45
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 22.8,
+                "meet": "2020 AAU DMD Holiday Classic"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 20.4,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 19.2,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 32.8,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 30.4,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 25.6,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 29.6,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 29.6,
+                "meet": "2020 AAU DMD Holiday Classic"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 28.8,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 30.4,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 29.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 35.2,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 23.1,
+                "meet": "Mansfield Summer Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 16.0,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.75
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 24.0,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 26.25,
+                "meet": "2020 AAU DMD Holiday Classic"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 25.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 11.25,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 19.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 18.0,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 24.75,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.75
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 24.0,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 30.0,
+                "meet": "Mansfield Summer Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 23.2,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 24.8,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 22.4,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 24.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.73
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 22.5,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-11",
+                "score": 28.5,
+                "meet": "GC DIVER Novice And Future Champion Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 25.2,
+                "meet": "2020 AAU DMD Holiday Classic"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 19.6,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 25.9,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.57
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-01",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 25.6,
+                "meet": "2020 AAU DMD Holiday Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 24.8,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 35.2,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 33.0,
+                "meet": "Mansfield Summer Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 27.55,
+                "meet": "2020 AAU DMD Holiday Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 24.65,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 29.75,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 22.95,
+                "meet": "2021 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.78
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 25.2,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.05,
+        "best_dive_id": "101B",
+        "best_dive_avg": 27.38,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 28.23,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.69,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 27.29,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.6,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 27.01,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.83,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 31.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 31.0,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.5,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.6,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 23.14,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.0,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 23.84,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 29.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.1,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 26.22,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.55,
+        "grade": 3.5
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "name": "Adelina Szczepanski",
+  "gender": "F",
+  "age": "12",
+  "id": 61804,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 17.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 18.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 13.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 35.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.9
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 24.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 17.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 18.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 16.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 15.3,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.38
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 22.95,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.74,
+        "best_dive_id": "101A",
+        "best_dive_avg": 28.9,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 22.52,
+        "best_dive_id": "202A",
+        "best_dive_avg": 22.95,
+        "grade": 3.0
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

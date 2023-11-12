@@ -1,0 +1,88 @@
+{
+  "name": "Landree Schofield",
+  "gender": "F",
+  "age": "11",
+  "id": 69221,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 14.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 18.2,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 14.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 32.3,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 23.15,
+        "best_dive_id": "201A",
+        "best_dive_avg": 32.3,
+        "grade": 3.1
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Faith House",
+  "gender": "F",
+  "age": "19",
+  "id": 67157,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 32.3,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 41.4,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 33.0,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 28.8,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 27.5,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 23.8,
+                "meet": "TRI-COUNTY DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.85,
+        "best_dive_id": "104B",
+        "best_dive_avg": 41.4,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.0,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 27.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

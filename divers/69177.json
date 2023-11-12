@@ -1,0 +1,92 @@
+{
+  "name": "Jonathan Smith",
+  "gender": "M",
+  "age": "12",
+  "id": 69177,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-11",
+                "score": 16.5,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-11",
+                "score": 17.25,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-11",
+                "score": 25.2,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-11",
+                "score": 17.25,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.23,
+        "best_dive_id": "101A",
+        "best_dive_avg": 25.2,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 17.25,
+        "best_dive_id": "200C",
+        "best_dive_avg": 17.25,
+        "grade": 2.3
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

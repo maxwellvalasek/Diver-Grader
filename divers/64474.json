@@ -1,0 +1,993 @@
+{
+  "name": "Gillian Burrows",
+  "gender": "F",
+  "age": "17",
+  "id": 64474,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 17.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 14.5,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 17.5,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 30.4,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 27.3,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.85
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 25.6,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 26.25,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 18.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 29.45,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 34.2,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 29.45,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 24.7,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 29.45,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 29.4,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 21.85,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.85
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 18.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 16.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 22.8,
+                "meet": "2nd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 19.8,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.4,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.0,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 32.0,
+                "meet": "2nd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.6,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 30.4,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.2,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 23.2,
+                "meet": "2nd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 15.2,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 27.3,
+                "meet": "2nd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 21.0,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 26.6,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.97
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 40.7,
+                "meet": "2nd Annual \\\"Gift of Life\\\" Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.4,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.05
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 20.25,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 27.75,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 19.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.0,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 19.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 19.0,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.88
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 22.8,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 16.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 20.4,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 29.75,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 31.45,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 24.65,
+                "meet": "2020 Raincross Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.62
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-07",
+                "score": 32.4,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.9,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 28.8,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 22.4,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.88
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 34.1,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 30.8,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 35.2,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 16.5,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 39.6,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 42.9,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 34.1,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 30.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 19.0,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 18.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 15.5,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.75
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 28.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 24.8,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 27.9,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.38
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 22.5,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 21.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 27.0,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 0.0,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 22.95,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 19.55,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 27.9,
+                "meet": "2019 Chris Vonk Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.4
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 18.9,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 24.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 26.25,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 23.25,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 33.3,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.5,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.05
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 24.0,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 28.0,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 23.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 28.0,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 33.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 34.1,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 34.1,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 44.0,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.5,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.54
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-08",
+                "score": 28.5,
+                "meet": "2020 Raincross Invite"
+              },
+              {
+                "date": "2019-12-07",
+                "score": 24.3,
+                "meet": "2019 Chris Vonk Invitational"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 24.7,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 33.25,
+                "meet": "2019 Rose Bowl Diving Invitational"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 32.3,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-23",
+                "score": 27.55,
+                "meet": "2019 Raincross Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 28.23
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 35.2,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 33.0,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 6.6,
+                "meet": "2019 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.93
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 34.65,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-05-14",
+                "score": 35.7,
+                "meet": "2021 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 37.8,
+                "meet": "2020 Raincross Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.98,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.85,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 23.73,
+        "best_dive_id": "201B",
+        "best_dive_avg": 29.45,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 34.2,
+        "best_dive_id": "301B",
+        "best_dive_avg": 34.2,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 27.86,
+        "best_dive_id": "401B",
+        "best_dive_avg": 29.45,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 25.62,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 29.4,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 23.65,
+        "best_dive_id": "103C",
+        "best_dive_avg": 27.8,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 19.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 19.2,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 30.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.05,
+        "grade": 3.6
+      },
+      "Armstand": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "612C",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "average_grade": 2.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.81,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.0,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.38,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 23.3,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.4,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 29.91,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.54,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 30.58,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 36.05,
+        "grade": 4.1
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.4
+  }
+}

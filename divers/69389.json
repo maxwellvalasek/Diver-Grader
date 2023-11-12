@@ -1,0 +1,898 @@
+{
+  "name": "Emily Sakamoto ",
+  "gender": "F",
+  "age": "17",
+  "id": 69389,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 17.0,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 22.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 13.5,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 15.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 17.5,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 18.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 21.7,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 18.9,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.3
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 25.5,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 44.0,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 44.0,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 12.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 28.05,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 27.55,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 24.3,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 20.0,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 25.35,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 21.45,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 25.35,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.05
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 36.1,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 43.7,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 39.9,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 36.0,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 17.5,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 27.6,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 26.4,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 16.8,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 27.2,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 28.8,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 29.6,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 37.6,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 23.2,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 33.6,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 31.2,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 28.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 29.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-26",
+                "score": 30.8,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 35.2,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 43.2,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 25.2,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 33.6,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 46.8,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 32.4,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.24
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 21.25,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 24.75,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 21.0,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-22",
+                "score": 15.3,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 34.0,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.65
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-06",
+                "score": 27.0,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 24.0,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 28.0,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 0.0,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 38.0,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 16.0,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 26.0,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 34.0,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 23.71
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-05",
+                "score": 15.0,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 27.0,
+                "meet": "2022 DAL League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 25.5,
+                "meet": "2022 DAL League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 34.4,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 28.0,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 26.4,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 18.4,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 31.2,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.68
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-26",
+                "score": 30.4,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 23.2,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-16",
+                "score": 30.45,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 44.1,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 25.2,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 25.9,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 25.2,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 22.4,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 31.5,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 23.1,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 30.1,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 23.1,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 21.0,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.29
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 28.8,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 47.3,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 44.0,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 44.0,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 44.0,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 35.2,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 42.9,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 30.8,
+                "meet": "Delta Valley Diving Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 41.17
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 27.55,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 10.45,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 28.5,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              },
+              {
+                "date": "2021-11-06",
+                "score": 34.2,
+                "meet": "Delta Valley Diving Invite"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 34.2,
+                "meet": "California Diving Academy Fall Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.98
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 44.0,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 36.3,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2022-05-05",
+                "score": 26.4,
+                "meet": "CIF North Coast Section Diving Championships 2022"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 38.5,
+                "meet": "2022 DAL League Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 25.3,
+                "meet": "2022 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2022-03-26",
+                "score": 29.7,
+                "meet": "DAL-1 High School NCS Diving Qualifier"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.37
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-15",
+                "score": 44.1,
+                "meet": "California Diving Academy Fall Invite"
+              },
+              {
+                "date": "2022-07-16",
+                "score": 34.65,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.38
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.83,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.0,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 27.8,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.05,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 22.15,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.3,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 30.39,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.9,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 37.95,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 39.9,
+        "grade": 4.7
+      },
+      "average_grade": 3.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.31,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.24,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 25.43,
+        "best_dive_id": "202C",
+        "best_dive_avg": 27.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 29.77,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.25,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 39.62,
+        "best_dive_id": "403C",
+        "best_dive_avg": 41.17,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 34.87,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 39.38,
+        "grade": 4.6
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.2
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "name": "Jaslin Bonner",
+  "gender": "F",
+  "age": "14",
+  "id": 65641,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-18",
+                "score": 19.0,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-18",
+                "score": 19.5,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.75,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 22.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 19.6,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 19.6,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.6
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 21.6,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.2,
+                "meet": "2021 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 26.4,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.73
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-05-18",
+                "score": 33.25,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.25
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 19.55,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 19.55,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 19.8,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 26.1,
+                "meet": "2021 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 28.8,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.9
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 22.1,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 24.65,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 17.5,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 24.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 17.55,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 16.9,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.23
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 24.7,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 10.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.85,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.4,
+                "meet": "2021 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 15.6,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.28
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-18",
+                "score": 21.0,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 30.6,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 26.35,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 19.2,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 17.25,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 18.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.62
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 20.25,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 27.0,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 18.4,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 24.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 23.2,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 27.2,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 19.2,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.0,
+                "meet": "2021 Conroe Diving Club Invitational"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 17.6,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 24.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 23.25,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 20.3,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2019-05-18",
+                "score": 23.1,
+                "meet": "2019 San Antonio Divers Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 21.85,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-10-09",
+                "score": 28.5,
+                "meet": "2021 Conroe Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.18
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 18.6,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 25.5,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 20.8,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 24.8,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 25.9,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 21.0,
+                "meet": "2nd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.49,
+        "best_dive_id": "103B",
+        "best_dive_avg": 23.73,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 24.12,
+        "best_dive_id": "201A",
+        "best_dive_avg": 33.25,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 24.29,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.9,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.23,
+        "best_dive_id": "403C",
+        "best_dive_avg": 24.7,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 16.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.99,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.48,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 20.62,
+        "best_dive_id": "202C",
+        "best_dive_avg": 23.62,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 22.51,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.2,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.66,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.62,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 25.18,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 25.18,
+        "grade": 3.4
+      },
+      "average_grade": 3.1
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 22.05,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.9,
+        "grade": 3.0
+      },
+      "Armstand": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "612C",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.9
+  }
+}

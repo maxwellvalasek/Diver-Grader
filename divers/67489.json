@@ -1,0 +1,277 @@
+{
+  "name": "Angela Stephan",
+  "gender": "F",
+  "age": "18",
+  "id": 67489,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 15.0,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 22.5,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 18.0,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 12.8,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 14.4,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 18.7,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 18.75,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 20.25,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 13.5,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 20.8,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 22.4,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 20.8,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.33
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 22.4,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 17.6,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 20.0,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 27.0,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 20.3,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 17.5,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 15.2,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 23.8,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 17.0,
+                "meet": "The Betty Hudson Memorial"
+              },
+              {
+                "date": "2020-01-22",
+                "score": 12.75,
+                "meet": "Girls Gwinnett County Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.85
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 13.5,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "102B",
+        "best_dive_avg": 20.25,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 17.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 18.7,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 20.66,
+        "best_dive_id": "301C",
+        "best_dive_avg": 21.33,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.0,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 16.76,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.85,
+        "grade": 2.2
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

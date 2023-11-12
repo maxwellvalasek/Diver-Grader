@@ -1,0 +1,220 @@
+{
+  "name": "Cooper Wolfe",
+  "gender": "M",
+  "age": "13",
+  "id": 65756,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 19.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 20.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 27.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.05
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 24.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 21.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 27.3,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-23",
+                "score": 22.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 26.35,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 30.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.47
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 22.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 17.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.52
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 28.05,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2022-06-25",
+                "score": 21.25,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2021-06-19",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.93
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.9,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 27.28,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.47,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 21.52,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.52,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 24.93,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 24.93,
+        "grade": 3.3
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

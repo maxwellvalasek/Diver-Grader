@@ -1,0 +1,283 @@
+{
+  "name": "Brendan Habert",
+  "gender": "M",
+  "age": "19",
+  "id": 69282,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 23.25,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 27.2,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 32.3,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 40.95,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.95
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 32.3,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 45.6,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 24.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 30.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 24.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 37.95,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 30.75,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 34.8,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 24.7,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 27.6,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.23,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "201C",
+        "best_dive_avg": 32.3,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 40.95,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.95,
+        "grade": 5.1
+      },
+      "average_grade": 4.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.95,
+        "best_dive_id": "105C",
+        "best_dive_avg": 45.6,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.0,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 30.98,
+        "best_dive_id": "304C",
+        "best_dive_avg": 37.95,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 32.77,
+        "best_dive_id": "403B",
+        "best_dive_avg": 34.8,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 26.15,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 27.6,
+        "grade": 3.5
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.1
+  }
+}

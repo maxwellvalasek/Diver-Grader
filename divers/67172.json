@@ -1,0 +1,566 @@
+{
+  "name": "Saya Ream",
+  "gender": "F",
+  "age": "14",
+  "id": 67172,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 17.0,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 13.5,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 16.0,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 20.3,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 18.85,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.85
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 25.35,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.35
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 30.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 29.7,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 33.3,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 29.7,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.5,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 28.9,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.9,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.21
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 28.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 21.6,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 16.0,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.87
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 22.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 30.8,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 29.7,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.23
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 31.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 27.2,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 31.2,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.87
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 31.5,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 22.5,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 33.3,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 29.7,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 28.8,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.16
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 22.5,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 20.25,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 27.2,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 25.5,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.35
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 29.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 30.6,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.6,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 22.4,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 19.2,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 22.4,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.97
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.8,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 25.6,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 29.25,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 27.0,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 28.5,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 30.75,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.88
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 28.8,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 26.1,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 29.7,
+                "meet": "2020 Whirlwind"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 27.0,
+                "meet": "2nd Annual Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 22.4,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 17.6,
+                "meet": "Blue Diving Turkey Twister"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 23.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2020-02-07",
+                "score": 17.6,
+                "meet": "2020 Whirlwind"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 23.8,
+                "meet": "2021 West Chester Diving Invitational"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 18.7,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.25
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 24.3,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.65,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.15
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 10.35,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 18.15,
+        "best_dive_id": "101C",
+        "best_dive_avg": 20.3,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 18.85,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.85,
+        "grade": 2.4
+      },
+      "average_grade": 2.3
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.33,
+        "best_dive_id": "101C",
+        "best_dive_avg": 31.2,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 29.43,
+        "best_dive_id": "201B",
+        "best_dive_avg": 29.87,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 26.77,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 28.39,
+        "best_dive_id": "401B",
+        "best_dive_avg": 28.88,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 24.19,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.15,
+        "grade": 3.2
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.0
+  }
+}

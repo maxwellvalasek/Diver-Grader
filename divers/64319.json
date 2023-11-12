@@ -1,0 +1,843 @@
+{
+  "name": "Zachary Vogel",
+  "gender": "M",
+  "age": "25",
+  "id": 64319,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 39.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 36.4,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 31.2,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 36.4,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 33.15,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 37.05,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 39.0,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 42.9,
+                "meet": "Bryant University vs Boston College"
+              }
+            ],
+            "count": 8,
+            "average_score": 36.89
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-13",
+                "score": 37.2,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 24.0,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 36.8,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 40.25,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 32.2,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 27.6,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 39.68,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 41.4,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 27.6,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 34.5,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 27.6,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 29.9,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 33.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 30.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 32.4,
+                "meet": "2021 North East Conference Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-12",
+                "score": 15.75,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 13.65,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 36.23,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 26.78,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 12.6,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 37.8,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 18.9,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 15.75,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 22.18
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 48.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 28.8,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 36.0,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 43.2,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 45.0,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 48.6,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 46.8,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 43.2,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 39.6,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 36.0,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 41.52
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 41.85,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 48.6,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 40.5,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 33.75,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 34.43,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 42.53,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 42.53,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 44.55,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 32.4,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 41.85,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 40.3
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 48.75,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 45.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 41.25,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 33.75,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 45.0,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 50.63,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 43.13,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 46.88,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.75,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 38.75,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 42.19
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-12",
+                "score": 37.2,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 37.2,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 41.4,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 43.2,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 43.2,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 37.8,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.8,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 37.2,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 38.25
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 25.2,
+                "meet": "2021 North East Conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 39.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 39.0,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 30.0,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 31.5,
+                "meet": "Marist College vs Bryant U"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.88
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-24",
+                "score": 46.2,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 54.6,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 29.4,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 37.8,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 21.0,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-16",
+                "score": 34.5,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 36.23,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 31.05,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 36.8,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.64
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 16.8,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 30.8,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 28.0,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 44.1,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 50.4,
+                "meet": "Bryant University vs Iona College"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.02
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 44.55,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 36.45,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 44.55,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 52.65,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 50.63,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 46.58,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 36.45,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.35,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 36.45,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 41.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 40.5,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 27.0,
+                "meet": "Bryant University vs Iona College"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.75
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-16",
+                "score": 46.8,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 0.0,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 36.0,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.8,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.9
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 42.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 37.8,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 42.0,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 44.1,
+                "meet": "Marist College vs Bryant U"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 39.9,
+                "meet": "Bryant University vs Iona College"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 48.3,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2019-10-10",
+                "score": 46.2,
+                "meet": "Bryant University vs Boston College"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 37.8,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.0,
+                "meet": "2019 MAAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 40.68
+          },
+          "5243B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-12",
+                "score": 32.55,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-02-12",
+                "score": 44.95,
+                "meet": "2020 MAAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 48.83,
+                "meet": "Marist College vs Bryant U"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.11
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.63,
+        "best_dive_id": "105B",
+        "best_dive_avg": 36.89,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 33.75,
+        "best_dive_id": "203B",
+        "best_dive_avg": 33.75,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 23.98,
+        "best_dive_id": "303B",
+        "best_dive_avg": 31.2,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 41.52,
+        "best_dive_id": "403B",
+        "best_dive_avg": 41.52,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 41.24,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.19,
+        "grade": 5.5
+      },
+      "average_grade": 4.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 36.8,
+        "best_dive_id": "105B",
+        "best_dive_avg": 38.25,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 36.5,
+        "best_dive_id": "205C",
+        "best_dive_avg": 37.8,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 34.3,
+        "best_dive_id": "303B",
+        "best_dive_avg": 34.64,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 41.85,
+        "best_dive_id": "405C",
+        "best_dive_avg": 41.85,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 41.04,
+        "best_dive_id": "5243B",
+        "best_dive_avg": 42.11,
+        "grade": 5.1
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.7
+  }
+}

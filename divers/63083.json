@@ -1,0 +1,689 @@
+{
+  "name": "Grace Sanders",
+  "gender": "F",
+  "age": "23",
+  "id": 63083,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-24",
+                "score": 25.5,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 25.5,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 25.5,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 35.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 37.95,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 30.8,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 34.65,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 31.35,
+                "meet": "La Salle University vs. Fordham"
+              }
+            ],
+            "count": 5,
+            "average_score": 33.99
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 25.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 25.2,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 31.2,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-01-19",
+                "score": 28.05,
+                "meet": "La Salle University vs. Fordham"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-16",
+                "score": 16.5,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 30.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 31.5,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 9.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 28.5,
+                "meet": "Marist College vs Fordham University"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-16",
+                "score": 20.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-06",
+                "score": 19.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 24.0,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 28.8,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 21.6,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 7.35,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 36.23,
+                "meet": "GTWU vs FORD"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.79
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 27.5,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 41.25,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 35.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 31.35,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 31.35,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 23.1,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 31.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-16",
+                "score": 21.25,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-06",
+                "score": 24.7,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 25.65,
+                "meet": "La Salle University vs. Fordham"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.17
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 29.7,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 23.1,
+                "meet": "GTWU vs FORD"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-24",
+                "score": 21.6,
+                "meet": "Marist College vs Fordham University"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-01-19",
+                "score": 26.4,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 23.2,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 38.5,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 42.9,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 29.7,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 37.95,
+                "meet": "Marist College vs Fordham University"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.26
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-06",
+                "score": 26.1,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 31.05,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 22.95,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 24.3,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.1
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 27.5,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 36.3,
+                "meet": "GTWU vs FORD"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-11-16",
+                "score": 18.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-06",
+                "score": 22.95,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 22.95,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 22.95,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 23.8,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.16
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 12.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 30.0,
+                "meet": "GTWU vs FORD"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-01-19",
+                "score": 23.1,
+                "meet": "La Salle University vs. Fordham"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 28.5,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 35.63,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 24.7,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 31.35,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 32.78,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 19.95,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.82
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 32.4,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 39.6,
+                "meet": "GTWU vs FORD"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 42.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 41.4,
+                "meet": "Marist College vs Fordham University"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-19",
+                "score": 28.35,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2021-11-07",
+                "score": 34.65,
+                "meet": "GTWU vs FORD"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-06",
+                "score": 29.45,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2019-10-24",
+                "score": 19.95,
+                "meet": "Marist College vs Fordham University"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 0.0,
+                "meet": "La Salle University vs. Fordham"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 22.8,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.44,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.99,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 25.41,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.05,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 22.86,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 31.62,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.62,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 25.79,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 26.4,
+        "grade": 3.4
+      },
+      "average_grade": 3.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.11,
+        "best_dive_id": "105C",
+        "best_dive_avg": 37.26,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 28.03,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.9,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 22.44,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.16,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 32.83,
+        "best_dive_id": "404C",
+        "best_dive_avg": 38.85,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 22.53,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 31.5,
+        "grade": 2.8
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.6
+  }
+}

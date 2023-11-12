@@ -1,0 +1,213 @@
+{
+  "name": "Anderson Grant",
+  "gender": "M",
+  "age": "11",
+  "id": 69315,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 12.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 12.0,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 15.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 18.0,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 17.5,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 21.5,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 19.0,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 11.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 21.5,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 14.5,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-10",
+                "score": 17.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 20.0,
+                "meet": "Woodlands Diving Skills Challenge 2021"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.75,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.75,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "100B",
+        "best_dive_avg": 17.5,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "200B",
+        "best_dive_avg": 18.5,
+        "grade": 2.5
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.2
+  }
+}

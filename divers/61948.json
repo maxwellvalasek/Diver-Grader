@@ -1,0 +1,230 @@
+{
+  "name": "James Studnicka",
+  "gender": "M",
+  "age": "13",
+  "id": 61948,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 19.5,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              },
+              {
+                "date": "2019-07-13",
+                "score": 13.5,
+                "meet": "2019 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2018-07-21",
+                "score": 14.5,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.83
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-13",
+                "score": 14.0,
+                "meet": "2019 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2018-07-21",
+                "score": 9.0,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 13.5,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              },
+              {
+                "date": "2019-07-13",
+                "score": 13.0,
+                "meet": "2019 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2018-07-21",
+                "score": 16.0,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.17
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-13",
+                "score": 12.5,
+                "meet": "2019 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-21",
+                "score": 15.0,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 15.0,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              },
+              {
+                "date": "2019-07-13",
+                "score": 11.5,
+                "meet": "2019 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 16.5,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              },
+              {
+                "date": "2019-07-13",
+                "score": 14.5,
+                "meet": "2019 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2018-07-21",
+                "score": 17.0,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 26.78,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.78
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-14",
+                "score": 22.05,
+                "meet": "2021 North Star Diving Club Fall Invitational 2"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-21",
+                "score": 15.0,
+                "meet": "2018 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.38,
+        "best_dive_id": "101C",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 18.7,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.78,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 22.05,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.05,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

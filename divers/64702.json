@@ -1,0 +1,599 @@
+{
+  "name": "Owen Weymouth",
+  "gender": "M",
+  "age": "24",
+  "id": 64702,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 40.0,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.0
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 54.6,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 52.0,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 53.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 43.13,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2022-07-13",
+                "score": 43.7,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 44.85,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.89
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 39.6,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 31.5,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 43.0,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 52.8,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.8
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 30.23,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 52.7,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.47
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 42.9,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.9
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 40.95,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 54.6,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 47.78
+          },
+          "5136D": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 44.95,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.95
+          },
+          "5152B": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 38.4,
+                "meet": "2022 Minnesota Diving Association Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 53.48,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 46.5,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 48.05,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 49.34
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 49.5,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 45.0,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 46.5,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 47.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 40.5,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 49.5,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 46.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 56.25,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 65.25,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 52.5,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 58.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 51.75,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 63.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 57.38
+          },
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-13",
+                "score": 56.1,
+                "meet": "2022 Minnesota Diving Association Championship"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 56.1,
+                "meet": "2021 Schroeder April Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 32.3,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 48.17
+          },
+          "5337D": {
+            "dd": 3.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 40.25,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.25
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 36.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 45.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 40.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 39.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5237D": {
+            "dd": 3.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 47.85,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.85
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6142D": {
+            "dd": 3.1,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2021-04-16",
+                "score": 66.65,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 66.65
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 48.87,
+        "best_dive_id": "105B",
+        "best_dive_avg": 53.3,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 43.89,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.89,
+        "grade": 5.9
+      },
+      "Reverse": {
+        "top_2_avg": 35.55,
+        "best_dive_id": "303B",
+        "best_dive_avg": 39.6,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 47.9,
+        "best_dive_id": "403B",
+        "best_dive_avg": 52.8,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 46.84,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 47.78,
+        "grade": 6.2
+      },
+      "average_grade": 5.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 49.34,
+        "best_dive_id": "107B",
+        "best_dive_avg": 49.34,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 47.0,
+        "best_dive_id": "205B",
+        "best_dive_avg": 47.0,
+        "grade": 5.9
+      },
+      "Reverse": {
+        "top_2_avg": 45.4,
+        "best_dive_id": "305C",
+        "best_dive_avg": 46.2,
+        "grade": 5.7
+      },
+      "Inward": {
+        "top_2_avg": 58.0,
+        "best_dive_id": "405B",
+        "best_dive_avg": 58.0,
+        "grade": 7.2
+      },
+      "Twister": {
+        "top_2_avg": 51.85,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 57.38,
+        "grade": 6.5
+      },
+      "average_grade": 6.3
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 36.0,
+        "best_dive_id": "107B",
+        "best_dive_avg": 36.0,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 45.0,
+        "best_dive_id": "205C",
+        "best_dive_avg": 45.0,
+        "grade": 5.3
+      },
+      "Reverse": {
+        "top_2_avg": 40.6,
+        "best_dive_id": "305C",
+        "best_dive_avg": 40.6,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "405B",
+        "best_dive_avg": 39.2,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 47.85,
+        "best_dive_id": "5237D",
+        "best_dive_avg": 47.85,
+        "grade": 5.6
+      },
+      "Armstand": {
+        "top_2_avg": 66.65,
+        "best_dive_id": "6142D",
+        "best_dive_avg": 66.65,
+        "grade": 7.8
+      },
+      "average_grade": 5.4
+    },
+    "overall_average_grade": 5.9
+  }
+}

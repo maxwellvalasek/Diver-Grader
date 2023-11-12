@@ -1,0 +1,367 @@
+{
+  "name": "Leah Drake",
+  "gender": "F",
+  "age": "19",
+  "id": 67734,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 22.75,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.75
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 22.2,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 21.0,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 20.4,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 29.75,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 24.0,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 21.6,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 20.0,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.87
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 23.1,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 26.4,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-31",
+                "score": 28.5,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 27.75,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.12
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-31",
+                "score": 24.0,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 35.0,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 28.0,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 27.2,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 24.8,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.67
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 24.8,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 19.2,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 26.25,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 27.75,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-31",
+                "score": 26.6,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 19.6,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 19.2,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 23.2,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 26.4,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 0.0,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 20.9,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 19.95,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.8,
+                "meet": "Carolina Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.91
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-31",
+                "score": 19.8,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 19.55,
+                "meet": "2022 NCHSAA WEST 4A Diving Regional"
+              },
+              {
+                "date": "2020-01-31",
+                "score": 17.85,
+                "meet": "2020 NCHSAA Western Regional Diving 3A"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.43,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.75,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 30.41,
+        "best_dive_id": "203C",
+        "best_dive_avg": 35.0,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.67,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 25.05,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.0,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 19.07,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 19.8,
+        "grade": 2.5
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

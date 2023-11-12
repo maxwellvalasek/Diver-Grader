@@ -1,0 +1,279 @@
+{
+  "name": "Isabel Doran",
+  "gender": "F",
+  "age": "13",
+  "id": 69027,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 18.0,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 16.5,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 23.8,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 17.0,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 18.0,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 24.6,
+                "meet": "2021 Halloween Classic"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2020-10-31",
+                "score": 24.6,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.6
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 15.75,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 25.9,
+                "meet": "2021 Halloween Classic"
+              },
+              {
+                "date": "2020-10-31",
+                "score": 25.9,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 32.3,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 27.9,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 27.0,
+                "meet": "2021 Halloween Classic"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 21.75,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 24.5,
+                "meet": "2021 Halloween Classic"
+              },
+              {
+                "date": "2021-05-29",
+                "score": 29.7,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-29",
+                "score": 11.05,
+                "meet": "2021 USA Diving Junior Region 1 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.15,
+        "best_dive_id": "101C",
+        "best_dive_avg": 23.8,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "average_grade": 2.3
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.52,
+        "best_dive_id": "102C",
+        "best_dive_avg": 25.9,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 30.1,
+        "best_dive_id": "201A",
+        "best_dive_avg": 32.3,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 27.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 27.1,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 11.05,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 11.05,
+        "grade": 1.5
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 2.7
+  }
+}

@@ -1,0 +1,2271 @@
+{
+  "name": "Alana Marquis",
+  "gender": "F",
+  "age": "15",
+  "id": 63530,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 16.5,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 20.5,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 12.5,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 15.5,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 18.0,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 19.0,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 23.2,
+                "meet": "2023 USA Diving Zone F Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 21.0,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 16.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 22.4,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 25.6,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 15.5,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 17.5,
+                "meet": "Mesa Aquatics Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 15.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 18.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 16.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 18.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.1
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 14.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 14.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 14.5,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 21.5,
+                "meet": "Mesa Aquatics Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 17.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 18.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 20.5,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 18.9
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 22.75,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 19.5,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 24.05,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 29.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 25.35,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.7,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 26.0,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 20.15,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 22.1,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 27.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 26.1,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 24.3,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 22.5,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 27.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 23.4,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 24.32
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 27.2,
+                "meet": "Mesa Aquatics Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 28.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 25.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 21.25,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 20.4,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.48
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 23.1,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 24.5,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 29.4,
+                "meet": "Mesa Aquatics Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 22.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 23.1,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 12.6,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 15.4,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 21.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 31.45,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 23.8,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 32.3,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 28.05,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 27.2,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 28.05,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 20.4,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 24.65,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 20.4,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 24.65,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 17.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 25.27
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 27.2,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 32.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 24.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 19.8,
+                "meet": "2023 USA Diving Zone F Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 17.0,
+                "meet": "Mesa Aquatics Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 26.35,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 25.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.8,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 23.8,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.86
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 30.4,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 17.6,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 27.2,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 32.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 28.8,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 21.6,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 23.2,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 20.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 18.4,
+                "meet": "28th Annual Cactus Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 24.48
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 21.6,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 29.7,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 22.5,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 30.6,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 27.9,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 29.7,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 26.35,
+                "meet": "Mesa Aquatics Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.91
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 22.5,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 21.75,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 21.75,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 23.25,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 24.75,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 21.75,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.62
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-31",
+                "score": 0.0,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 13.6,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 22.1,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.2,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 27.2,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 33.15,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 27.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.6,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.86
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 28.8,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 20.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 20.8,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 20.7,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 24.3,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 23.4,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 27.9,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 35.1,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 28.8,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 25.62
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.8,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 30.4,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 20.0,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 26.4,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 27.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 27.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.2,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 24.8,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 22.4,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 24.0,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 21.6,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 26.4,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 26.4,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 26.4,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 23.2,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 16,
+            "average_score": 24.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 27.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 34.2,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.8,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 34.2,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 28.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 32.4,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.6,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 30.86
+          },
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 24.0,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 22.5,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 25.2,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 24.3,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 30.6,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 28.8,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 27.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 26.1,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.26
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-03",
+                "score": 28.0,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 24.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              },
+              {
+                "date": "2022-04-01",
+                "score": 28.8,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 28.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 19.2,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.76
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 26.4,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 33.0,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 31.9,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 41.8,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 29.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 40.7,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 19.8,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 12.1,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 27.5,
+                "meet": "Arizona State Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 29.21
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5201A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 18.0,
+                "meet": "Mesa Aquatics Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 13.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 11.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 9.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 12.5,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 12.8
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-01",
+                "score": 25.2,
+                "meet": "28th Annual Cactus Invitational"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 0.0,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 20.7,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 22.5,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 23.4,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 21.6,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 19.29
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 21.25,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 28.05,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 22.95,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 17.85,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 30.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 28.9,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2022-04-23",
+                "score": 23.8,
+                "meet": "2022 USA Diving Junior Region 11 Championship"
+              }
+            ],
+            "count": 7,
+            "average_score": 24.77
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 23.4,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 24.3,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 27.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 27.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 17.1,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 23.55
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 16.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 13.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 18.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 15.5,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 17.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 15.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 18.5,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 18.0,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 18.5,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 15.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 11.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 14.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 15.4
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 16.5,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 20.0,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 15.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 19.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 17.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 17.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 19.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.83
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 27.75,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 27.75,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 30.75,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 27.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.75,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 26.25,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 21.85,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 21.85,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 18.05,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 26.6,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 23.8,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 13,
+            "average_score": 24.84
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 30.6,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 28.8,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.0,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 28.8,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 31.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 23.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 22.4,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 25.6,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 21.6,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 26.4,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.0,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 25.67
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 14.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 15.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.83
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 17.1,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 31.5,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 27.0,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 31.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 36.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 32.4,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 27.0,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 28.69
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 25.65,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 19.95,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 22.8,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 25.65,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 26.35,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 22.1,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 23.75
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 31.2,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 20.8,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 28.0,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 26.4,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.4,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 27.2,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.29
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.7,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 33.25,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.6,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 25.65,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.55
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 34.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 28.8,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 29.7,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 24.3,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 16.15,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 27.55,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 25.65,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 30.4,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 26.35,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 9,
+            "average_score": 27.01
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 22.1,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 30.6,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.65,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 26.35,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 31.45,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 29.75,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.35,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 28.05,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 25.5,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 22.95,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.65,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 26.63
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 22.4,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 31.5,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 23.1,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 22.4,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 25.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 26.6,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 21.7,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 22.4,
+                "meet": "2022 Arizona Association State Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 24.5
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-02",
+                "score": 28.5,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 29.45,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 26.6,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 29.45,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 23.8,
+                "meet": "2020 EVDC Winter Classic"
+              },
+              {
+                "date": "2020-10-02",
+                "score": 25.5,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.22
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 30.45,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 43.05,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 32.55,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 28.35,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 40.95,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 27.3,
+                "meet": "AAU Arizona District Diving"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.78
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 25.65,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 25.65,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 23.75,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 27.55,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 20.9,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 23.75,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.54
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 10.0,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          },
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.0,
+                "meet": "2023 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2023-06-02",
+                "score": 41.0,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.0,
+                "meet": "2023 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 37.0,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-25",
+                "score": 28.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 31.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 22.0,
+                "meet": "2022 EVDC Winter Classic"
+              },
+              {
+                "date": "2022-06-03",
+                "score": 32.0,
+                "meet": "2022 Arizona Association State Championships"
+              },
+              {
+                "date": "2021-07-02",
+                "score": 21.85,
+                "meet": "2021 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2021-06-04",
+                "score": 0.0,
+                "meet": "Arizona State Championships"
+              },
+              {
+                "date": "2021-05-01",
+                "score": 23.75,
+                "meet": "2021 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 14.25,
+                "meet": "The LAST Annual COVID Quarantine Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 25.07
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 15.5,
+                "meet": "2020 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "101B",
+        "best_dive_avg": 18.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "201B",
+        "best_dive_avg": 23.2,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 2.6
+      },
+      "Inward": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 15.5,
+        "grade": 1.8
+      },
+      "average_grade": 2.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.85,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.0,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 26.16,
+        "best_dive_id": "201C",
+        "best_dive_avg": 26.91,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 25.73,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.86,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 29.93,
+        "best_dive_id": "401A",
+        "best_dive_avg": 30.86,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 24.21,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 24.77,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.05,
+        "best_dive_id": "101C",
+        "best_dive_avg": 30.6,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 27.57,
+        "best_dive_id": "201B",
+        "best_dive_avg": 28.69,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.18,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.55,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 30.5,
+        "best_dive_id": "403B",
+        "best_dive_avg": 33.78,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 24.33,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 25.07,
+        "grade": 3.0
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.1
+  }
+}

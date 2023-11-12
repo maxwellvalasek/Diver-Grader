@@ -1,0 +1,539 @@
+{
+  "name": "Lucy Ordway",
+  "gender": "F",
+  "age": "20",
+  "id": 69080,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 25.5,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 29.75,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 33.6,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 22.5,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 29.9,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 34.5,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 22.4,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 24.8,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 26.25,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 18.9,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.57
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 24.75,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 24.75,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 40.8,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 43.2,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 26.4,
+                "meet": "2021 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 35.65,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 36.8,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.22
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-22",
+                "score": 32.55,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 24.8,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 28.0,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 25.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 39.6,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 34.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 27.2,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 28.05,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.48
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 36.0,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 30.6,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 29.7,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 29.7,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 29.7,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.7
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 7.0,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 22.0,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 25.5,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.17
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 26.25,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 35.7,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 25.2,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.05
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 44.55,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 32.4,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 28.35,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 29.4,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 33.6,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 29.93,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.98
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-06-24",
+                "score": 31.0,
+                "meet": "2021 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2021-05-22",
+                "score": 31.0,
+                "meet": "2021 USA Diving Junior Region 6 Championships"
+              },
+              {
+                "date": "2021-04-16",
+                "score": 30.0,
+                "meet": "2021 Schroeder April Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.67
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.41,
+        "best_dive_id": "105C",
+        "best_dive_avg": 31.2,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 27.73,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.2,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 23.09,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.6,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 33.38,
+        "best_dive_id": "403B",
+        "best_dive_avg": 42.0,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 35.0,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 36.22,
+        "grade": 4.7
+      },
+      "average_grade": 4.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 31.9,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.8,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 31.44,
+        "best_dive_id": "203A",
+        "best_dive_avg": 35.4,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 23.94,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.7,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 32.08,
+        "best_dive_id": "405C",
+        "best_dive_avg": 35.1,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 30.82,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 30.98,
+        "grade": 3.9
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.9
+  }
+}

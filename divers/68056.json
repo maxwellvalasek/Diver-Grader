@@ -1,0 +1,134 @@
+{
+  "name": "Sarah Hanna",
+  "gender": "F",
+  "age": "19",
+  "id": 68056,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 25.9,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 30.6,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 27.0,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 27.75,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.75
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 32.8,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-04",
+                "score": 0.0,
+                "meet": "Clody Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.25,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.6,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "202C",
+        "best_dive_avg": 27.0,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 30.27,
+        "best_dive_id": "402C",
+        "best_dive_avg": 32.8,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

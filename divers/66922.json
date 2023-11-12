@@ -1,0 +1,475 @@
+{
+  "name": "Lance Deane",
+  "gender": "M",
+  "age": "18",
+  "id": 66922,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-06",
+                "score": 30.6,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 29.75,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 37.4,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.58
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 37.95,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 29.9,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.92
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 34.1,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 40.7,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.4
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 44.4,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 50.4,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 22.8,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 37.2,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 42.0,
+                "meet": "Gwinnett Invite Diving Meet"
+              }
+            ],
+            "count": 5,
+            "average_score": 39.36
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 24.0,
+                "meet": "Gwinnett Invite Diving Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 39.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 37.95,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 36.8,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 33.35,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 32.2,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 26.45,
+                "meet": "Boys Gwinnett County Championship"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.31
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 30.0,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 22.0,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-06",
+                "score": 32.3,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 36.55,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 34.85,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 30.6,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 26.35,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 5,
+            "average_score": 32.13
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-25",
+                "score": 30.4,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 32.8,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 30.4,
+                "meet": "Gwinnett Invite Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 23.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 30.45,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 31.5,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 25.2,
+                "meet": "Gwinnett Invite Diving Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 24.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 46.2,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 50.6,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 35.2,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 34.1,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 45.1,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 39.6,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 37.4,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 7,
+            "average_score": 41.17
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 37.95,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-02-06",
+                "score": 44.85,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 47.15,
+                "meet": "Boys Gwinnett County Championship"
+              },
+              {
+                "date": "2020-01-25",
+                "score": 47.15,
+                "meet": "Boys Gwinnett County Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 44.28
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 36.3,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 38.5,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2019-12-14",
+                "score": 30.8,
+                "meet": "Gwinnett Invite Diving Meet"
+              },
+              {
+                "date": "2019-12-06",
+                "score": 33.0,
+                "meet": "The Betty Hudson Memorial"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.65
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-14",
+                "score": 42.55,
+                "meet": "Gwinnett Invite Diving Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-02",
+                "score": 45.9,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.9
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-20",
+                "score": 37.5,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              },
+              {
+                "date": "2021-01-20",
+                "score": 48.75,
+                "meet": "Gwinnett County Boys and Girls Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.12
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.8,
+        "best_dive_id": "105C",
+        "best_dive_avg": 39.36,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 32.23,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.31,
+        "grade": 4.3
+      },
+      "Reverse": {
+        "top_2_avg": 31.78,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.13,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 39.17,
+        "best_dive_id": "403C",
+        "best_dive_avg": 41.17,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 44.6,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 45.9,
+        "grade": 5.9
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 5.0
+  }
+}

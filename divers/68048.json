@@ -1,0 +1,182 @@
+{
+  "name": "Christian Matthews",
+  "gender": "M",
+  "age": "26",
+  "id": 68048,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-01",
+                "score": 22.1,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 33.0,
+                "meet": "2020 Horizon League Diving Championships"
+              },
+              {
+                "date": "2020-02-01",
+                "score": 27.5,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.25
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 27.6,
+                "meet": "2020 Horizon League Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 26.35,
+                "meet": "2020 Horizon League Diving Championships"
+              },
+              {
+                "date": "2020-02-01",
+                "score": 27.2,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 27.6,
+                "meet": "2020 Horizon League Diving Championships"
+              },
+              {
+                "date": "2020-02-01",
+                "score": 29.9,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 30.8,
+                "meet": "2020 Horizon League Diving Championships"
+              },
+              {
+                "date": "2020-02-01",
+                "score": 35.2,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-19",
+                "score": 21.0,
+                "meet": "2020 Horizon League Diving Championships"
+              },
+              {
+                "date": "2020-02-01",
+                "score": 24.15,
+                "meet": "Denison U vs Ohio Wesleyan U"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.57
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.37,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.25,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 26.77,
+        "best_dive_id": "202A",
+        "best_dive_avg": 26.77,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 28.75,
+        "best_dive_id": "304C",
+        "best_dive_avg": 28.75,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.0,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 22.57,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 22.57,
+        "grade": 3.0
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "name": "Joe Mccook",
+  "gender": "M",
+  "age": "19",
+  "id": 66395,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 28.9,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 35.2,
+                "meet": "2021 Boys Como Invitational"
+              },
+              {
+                "date": "2019-09-28",
+                "score": 31.9,
+                "meet": "2019 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-09-28",
+                "score": 24.75,
+                "meet": "2019 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 32.0,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 27.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 31.5,
+                "meet": "2021 Boys Como Invitational"
+              },
+              {
+                "date": "2019-09-28",
+                "score": 25.2,
+                "meet": "2019 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 27.2,
+                "meet": "2021 Boys Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 30.8,
+                "meet": "2021 Boys Como Invitational"
+              },
+              {
+                "date": "2019-09-28",
+                "score": 25.3,
+                "meet": "2019 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-25",
+                "score": 32.3,
+                "meet": "2021 Boys Como Invitational"
+              },
+              {
+                "date": "2019-09-28",
+                "score": 27.55,
+                "meet": "2019 Boys Como Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.92
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.0,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.55,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 28.38,
+        "best_dive_id": "204C",
+        "best_dive_avg": 32.0,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 27.97,
+        "best_dive_id": "304C",
+        "best_dive_avg": 28.35,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 27.77,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 29.92,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 29.92,
+        "grade": 4.0
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

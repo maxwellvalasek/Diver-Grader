@@ -1,0 +1,308 @@
+{
+  "name": "Dayna Oakley",
+  "gender": "F",
+  "age": "16",
+  "id": 64533,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 21.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 19.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.5,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 21.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.12
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 15.5,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 16.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 22.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 21.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 21.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 23.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 18.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 18.0,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 36.55,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 31.45,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.95,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 28.9,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.96
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-02",
+                "score": 22.4,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 27.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 22.4,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.4,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-02",
+                "score": 20.4,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 20.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 22.95,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.95,
+                "meet": "2019 Cactus Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 29.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 30.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 0.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 20.4,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.19
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-07",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-05-10",
+                "score": 17.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 14.0,
+                "meet": "2019 Cactus Invitational"
+              },
+              {
+                "date": "2019-03-02",
+                "score": 13.5,
+                "meet": "MAC Future Champions Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.41,
+        "best_dive_id": "101C",
+        "best_dive_avg": 29.96,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "202A",
+        "best_dive_avg": 22.1,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 20.19,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.19,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.75,
+        "grade": 2.1
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

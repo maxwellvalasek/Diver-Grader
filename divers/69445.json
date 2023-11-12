@@ -1,0 +1,479 @@
+{
+  "name": "Elizabeth Bened",
+  "gender": "F",
+  "age": "21",
+  "id": 69445,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 31.45,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 26.35,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 33.0,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 41.25,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.7,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 23.1,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.76
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 31.2,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 24.75,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 21.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 26.78,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.78
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-26",
+                "score": 0.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 20.9,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 14.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 17.6,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 21.6,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 18.0,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 16.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 19.2,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 18.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 21.0,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 33.0,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 31.35,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 23.1,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 24.2,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.91
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 17.25,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 19.55,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.4
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 37.95,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 22.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-02-26",
+                "score": 28.6,
+                "meet": "2021 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.52
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 36.23,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.23
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 37.8,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              },
+              {
+                "date": "2021-10-30",
+                "score": 34.65,
+                "meet": "FSU vs UWF vs UNF vs Florida Southern College"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.22
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 33.0,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 29.33,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 21.68,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.68
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 34.65,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 33.08,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.08
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 33.0,
+                "meet": "FSU vs UWF vs Florida Southern College"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.81,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.76,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 28.99,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.2,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 17.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 18.7,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 25.11,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.91,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 36.22,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 36.23,
+        "grade": 4.8
+      },
+      "average_grade": 3.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.0,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 29.33,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.33,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.68,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 34.65,
+        "best_dive_id": "403B",
+        "best_dive_avg": 34.65,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 33.04,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 33.08,
+        "grade": 4.1
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.7
+  }
+}

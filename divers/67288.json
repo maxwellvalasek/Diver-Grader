@@ -1,0 +1,865 @@
+{
+  "name": "Brooke Ferguson",
+  "gender": "F",
+  "age": "14",
+  "id": 67288,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 19.2,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 14.4,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 26.65,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 15.6,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.12
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 16.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 16.8,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 15.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 18.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 18.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.4,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 14.4,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 17.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 21.6,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 23.2,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 24.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 18.4,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.6,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.12
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 14.0,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 22.1,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 22.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 26.25,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 20.25,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 24.75,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.25,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.2
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 9.75,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 20.8,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 24.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 23.2,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 24.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 19.2,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 20.8,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 16.8,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 23.1,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 9.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 20.3,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 21.0,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 18.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 24.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 22.4,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 22.4,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 21.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 19.55,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 24.7,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 16.15,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 25.65,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 21.85,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.09
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 18.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 18.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.67
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 21.6,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 17.0,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 19.2,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 13.8,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.67
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-22",
+                "score": 17.55,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 18.85,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 16.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 16.5,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 13.5,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 15.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.5,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 13.5,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.33
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 34.2,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 29.45,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 23.75,
+                "meet": "Pump Jack Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 18.2,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 17.5,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.62
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 20.8,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 24.75,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 18.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 22.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 15.5,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 18.0,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 15.5,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-09",
+                "score": 17.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-22",
+                "score": 14.0,
+                "meet": "16th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 27.9,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.9
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-20",
+                "score": 15.3,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 18.05,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.05
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-24",
+                "score": 29.7,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 19.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 21.6,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.65
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 25.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 16.25,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 19.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-11-20",
+                "score": 17.55,
+                "meet": "Pump Jack Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.77
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 19.0,
+                "meet": "The Diamondback Energy Pumpjack Classic"
+              },
+              {
+                "date": "2022-06-24",
+                "score": 24.7,
+                "meet": "Sue Beseda Memorial Saltwater Invitational"
+              },
+              {
+                "date": "2022-04-09",
+                "score": 22.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 22.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.32
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.52,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.12,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 22.18,
+        "best_dive_id": "201C",
+        "best_dive_avg": 22.2,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 22.13,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 20.16,
+        "best_dive_id": "402C",
+        "best_dive_avg": 22.6,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 21.58,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 22.09,
+        "grade": 2.9
+      },
+      "average_grade": 2.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.54,
+        "best_dive_id": "101C",
+        "best_dive_avg": 24.62,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 20.47,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.9,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 25.62,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.65,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 20.37,
+        "best_dive_id": "403C",
+        "best_dive_avg": 22.32,
+        "grade": 2.5
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "name": "Harper Edwards",
+  "gender": "F",
+  "age": "11",
+  "id": 69211,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 14.5,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 14.0,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 13.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 16.5,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 18.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 15.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 18.0,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 16.5,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 17.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.17
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 18.0,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 15.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 15.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 13.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 19.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 20.0,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 16.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 15.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-12-11",
+                "score": 21.7,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 22.4,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.05
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 15.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 23.1,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 19.5,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 19.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-12-19",
+                "score": 14.0,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 25.5,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2020-12-19",
+                "score": 25.5,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.84,
+        "best_dive_id": "100C",
+        "best_dive_avg": 17.17,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 15.38,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 1.9
+      },
+      "average_grade": 2.0
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.1,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 22.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 3.0
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 2.5
+  }
+}

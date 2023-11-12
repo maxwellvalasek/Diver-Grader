@@ -1,0 +1,1003 @@
+{
+  "name": "Dominic Tobin",
+  "gender": "M",
+  "age": "21",
+  "id": 62840,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-04",
+                "score": 28.05,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 41.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 46.8,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 49.4,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 46.8,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 41.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 42.9,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 40.3,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 44.85,
+                "meet": "SHU vs UMBC"
+              }
+            ],
+            "count": 8,
+            "average_score": 44.28
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 23.4,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 45.0,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 41.4,
+                "meet": "NAVY vs UMBC"
+              },
+              {
+                "date": "2018-11-04",
+                "score": 39.6,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 37.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 36.0,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 43.0,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.5,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 36.0,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 29.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 34.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 41.0,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 33.0,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 36.0,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 31.5,
+                "meet": "NAVY vs UMBC"
+              },
+              {
+                "date": "2018-11-04",
+                "score": 23.0,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 12,
+            "average_score": 34.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 40.95,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 28.35,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 35.7,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 31.5,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 38.85,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 44.1,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 36.23,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 29.93,
+                "meet": "NAVY vs UMBC"
+              },
+              {
+                "date": "2018-11-04",
+                "score": 15.75,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 33.48
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 0.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 29.25,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 52.5,
+                "meet": "Bison Invite @Bucknell"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 42.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 41.4,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 44.4,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 43.2,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 43.2,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 43.2,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 44.4,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 39.6,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 43.2,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 46.8,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 37.8,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 11,
+            "average_score": 42.65
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-04",
+                "score": 27.5,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-11-04",
+                "score": 14.25,
+                "meet": "2018 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-10",
+                "score": 41.4,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 36.8,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 40.25,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 34.5,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 37.95,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 32.78,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 6,
+            "average_score": 37.28
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 42.9,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 36.3,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 41.8,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 34.65,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 41.8,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 39.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 41.8,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 41.25,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 39.6,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 33.0,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 11,
+            "average_score": 39.3
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 44.2,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 39.0,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 41.6,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 9.75,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 21.45,
+                "meet": "UDEL vs UMBC"
+              }
+            ],
+            "count": 5,
+            "average_score": 31.2
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-23",
+                "score": 33.6,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 44.4,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 46.8,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 44.4,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 45.0,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 36.0,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 36.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 42.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 34.8,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 46.8,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 50.4,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 32.4,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 11,
+            "average_score": 41.73
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 46.2,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 48.3,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 50.4,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.3,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 46.2,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 0.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 42.0,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-10",
+                "score": 34.2,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 44.18,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.19
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 23.8,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 25.2,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 44.8,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 33.6,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 39.9,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 25.2,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 29.4,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 28.0,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 52.5,
+                "meet": "SHU vs UMBC"
+              }
+            ],
+            "count": 9,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-22",
+                "score": 25.5,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 36.0,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 34.5,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 37.8,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 16.8,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 14.0,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 56.7,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 33.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 33.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 54.6,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 37.8,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 39.9,
+                "meet": "TU vs UMBC"
+              }
+            ],
+            "count": 10,
+            "average_score": 32.48
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-29",
+                "score": 30.45,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 44.1,
+                "meet": "TU vs UMBC"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.27
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-23",
+                "score": 31.35,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 48.6,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 42.53,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 56.7,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 42.53,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 34.43,
+                "meet": "UDEL vs UMBC"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 58.05,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 45.9,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 48.6,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 54.68,
+                "meet": "SHU vs UMBC"
+              }
+            ],
+            "count": 9,
+            "average_score": 48.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-10",
+                "score": 28.35,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-02-10",
+                "score": 30.45,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 35.7,
+                "meet": "Navy Invite (quad)"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 42.53,
+                "meet": "SHU vs UMBC"
+              },
+              {
+                "date": "2021-11-10",
+                "score": 42.53,
+                "meet": "TU vs UMBC"
+              },
+              {
+                "date": "2021-10-23",
+                "score": 39.38,
+                "meet": "NAVY vs UMBC"
+              }
+            ],
+            "count": 6,
+            "average_score": 36.49
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 27.5,
+                "meet": "America East Conference Swimmimg and Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 43.13,
+                "meet": "UMBC vs TU"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 46.25,
+                "meet": "Bison Invite @Bucknell"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 43.13,
+                "meet": "UMBC vs GMU"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 30.0,
+                "meet": "UDEL vs UMBC"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 41.97,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.28,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 34.25,
+        "best_dive_id": "203C",
+        "best_dive_avg": 34.25,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 31.92,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.48,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 41.39,
+        "best_dive_id": "403B",
+        "best_dive_avg": 42.65,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 38.59,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 39.3,
+        "grade": 5.1
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.97,
+        "best_dive_id": "105B",
+        "best_dive_avg": 41.73,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 34.62,
+        "best_dive_id": "203C",
+        "best_dive_avg": 39.19,
+        "grade": 4.3
+      },
+      "Reverse": {
+        "top_2_avg": 32.37,
+        "best_dive_id": "305C",
+        "best_dive_avg": 32.48,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 46.05,
+        "best_dive_id": "405C",
+        "best_dive_avg": 48.0,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 37.18,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 38.0,
+        "grade": 4.6
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.9
+  }
+}

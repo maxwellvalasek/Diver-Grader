@@ -1,0 +1,937 @@
+{
+  "name": "Gino Alfano",
+  "gender": "M",
+  "age": "22",
+  "id": 66458,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.35,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 36.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 20.7,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 25.3,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 11.5,
+                "meet": "Mizzou Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.57
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 34.1,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 24.75,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 31.35,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 26.4,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.15
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 34.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 42.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 22.8,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 30.0,
+                "meet": "Mizzou Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.75,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 36.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 22.5,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 22.5,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 32.0,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 24.0,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 12.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.62
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-19",
+                "score": 11.55,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 24.75,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 23.1,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 14.4,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 28.35,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 25.2,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 9.45,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 14.18,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 26.25,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 31.5,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 17.85,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 7,
+            "average_score": 21.83
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 27.0,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 40.7,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 38.5,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 33.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 21.45,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 29.7,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 35.2,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 23.1,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 26.4,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 8,
+            "average_score": 31.01
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 33.35,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 37.95,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 18.4,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.9
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-18",
+                "score": 28.6,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 35.7,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 31.5,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 22.05,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 22.05,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 27.3,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 22.05,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.78
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 12.8,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.8
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 40.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 44.4,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 32.4,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 34.8,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 26.4,
+                "meet": "Mizzou Diving Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.76
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-11-18",
+                "score": 37.4,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 28.05,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 29.7,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 29.7,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.21
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 15.3,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 31.9,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 34.1,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 29.7,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.4,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 26.4,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 29.7,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 37.4,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 37.4,
+                "meet": "Mizzou Diving Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 31.62
+          },
+          "204B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-04",
+                "score": 27.6,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 14.0,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 12.6,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 22.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 12.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 21.0,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 22.5,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 27.0,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 24.0,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 17.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.39
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 22.4,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 35.7,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 36.75,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 22.05,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.5
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-11-19",
+                "score": 22.8,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 19.95,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 32.3,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 23.75,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 25.65,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.89
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 40.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 34.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.4,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 23.4,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 21.6,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 43.2,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 31.2,
+                "meet": "Mizzou Diving Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.63
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 17.55,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 29.4,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.25,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2020-01-18",
+                "score": 27.3,
+                "meet": "U of Arkansas, Fayetteville vs Drury U vs Oklahoma Baptist U"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.65
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 32.5,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 38.75,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 23.75,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.67
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-11-19",
+                "score": 28.5,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2020-11-19",
+                "score": 24.0,
+                "meet": "SMU vs DU"
+              },
+              {
+                "date": "2019-11-20",
+                "score": 27.0,
+                "meet": "Mizzou Diving Invitational"
+              },
+              {
+                "date": "2019-10-04",
+                "score": 13.0,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.12
+          },
+          "5331D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-04",
+                "score": 15.75,
+                "meet": "Show-Me Showdown @ Mizzou"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.77,
+        "best_dive_id": "105C",
+        "best_dive_avg": 32.4,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 24.03,
+        "best_dive_id": "203C",
+        "best_dive_avg": 25.62,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 22.22,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.6,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 30.56,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.01,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 29.57,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 29.9,
+        "grade": 3.9
+      },
+      "average_grade": 3.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.74,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.76,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 31.17,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.62,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 21.41,
+        "best_dive_id": "303C",
+        "best_dive_avg": 22.39,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 31.59,
+        "best_dive_id": "404C",
+        "best_dive_avg": 31.63,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 29.66,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 31.67,
+        "grade": 3.7
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

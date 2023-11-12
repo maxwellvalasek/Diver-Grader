@@ -1,0 +1,166 @@
+{
+  "name": "Asha Stewart",
+  "gender": "F",
+  "age": "15",
+  "id": 65958,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-07-11",
+                "score": 16.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2019-07-14",
+                "score": 12.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 18.2,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2021-07-11",
+                "score": 16.1,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2019-07-14",
+                "score": 16.1,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 12.75,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2021-07-11",
+                "score": 17.25,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-14",
+                "score": 8.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          },
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 11.4,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.4
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 0.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 18.85,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2021-07-11",
+                "score": 18.85,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.08,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.8,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 9.7,
+        "best_dive_id": "201A",
+        "best_dive_avg": 11.4,
+        "grade": 1.2
+      },
+      "Inward": {
+        "top_2_avg": 18.85,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.85,
+        "grade": 2.4
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

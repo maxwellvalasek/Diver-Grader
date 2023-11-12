@@ -1,0 +1,2378 @@
+{
+  "name": "Matthew Aigner",
+  "gender": "M",
+  "age": "19",
+  "id": 64836,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 21.6,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 24.7,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 34.85,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 26.4,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.62
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 37.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 38.4,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.8
+          },
+          "107C": {
+            "dd": 2.7,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 48.6,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 33.75,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 48.6,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 31.05,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 58.73,
+                "meet": "TAM vs LSU"
+              }
+            ],
+            "count": 5,
+            "average_score": 44.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 28.75,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.75
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 38.25,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 31.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 37.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 30.0,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.0,
+                "meet": "TAM vs LSU"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.35,
+                "meet": "TAM vs GT"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 40.6,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 58.8,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 40.6,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 60.9,
+                "meet": "TAM vs LSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 50.23
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-11-16",
+                "score": 28.5,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "403B": {
+            "dd": 2.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 35.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.0
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 58.13,
+                "meet": "TAM vs GT"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.13
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 32.55,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 50.63,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 38.75,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 48.75,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 43.75,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.47
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 40.85,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.85
+          },
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 31.2,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 45.6,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 33.6,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 52.2,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 24.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.32
+          },
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 57.6,
+                "meet": "TAM vs GT"
+              }
+            ],
+            "count": 1,
+            "average_score": 57.6
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 17.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 18.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 32.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 33.6,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 21.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 32.8,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 30.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 17.6,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 33.6,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 32.0,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 29.6,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.2,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 28.24
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-22",
+                "score": 40.8,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 33.6,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 40.8,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 45.6,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 42.0,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 38.4,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 40.11
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 46.5,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 67.43,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 32.55,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 32.55,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 35.65,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.94
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 54.6,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 44.1,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 52.5,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 46.2,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 50.4,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 39.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 49.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 36.4,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 36.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 45.42
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 16.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 35.1,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 35.1,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 32.4,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 33.3,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 30.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 38.7,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 33.3,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 30.6,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 32.9
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 42.75,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 65.25,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 39.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 55.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 45.0,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 51.75,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 54.0,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 51.75,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 40.5,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 43.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 49.5,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 42.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 48.38
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 49.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 35.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 40.6,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 37.8,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 37.8,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 30.8,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 38.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 35.15,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.35,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 39.9,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 30.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 17.1,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 23.75,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 20.9,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 23.75,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 28.92
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 51.75,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.75,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 52.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 46.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 42.75,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 47.25,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 51.75,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 33.75,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 48.0,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 33.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 39.0,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 45.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 43.75
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-12-04",
+                "score": 46.2,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 36.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 50.4,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 42.0,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 28.0,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 40.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 38.85,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 39.9,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 40.95,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 39.9,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.65,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 40.95,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 36.75,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 40.95,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 37.8,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 31.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 38.22
+          },
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 65.25,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 69.75,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 48.0,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 52.5
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 40.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 40.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 48.6,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.45,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 52.65,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 62.78,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 35.1,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 55.35,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 44.55,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 33.75,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 41.85,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 36.45,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 36.45,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 35.1,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 39.15,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 42.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 42.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 37.8,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 22.05,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 38.85,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 37.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 40.95,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 35.7,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 32.55,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 30.45,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 35.35
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 65.25,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 51.75,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 64.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 66.0,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 63.0,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 54.0,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 65.25,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 49.5,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 27.0,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 34.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 37.5,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 49.5,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 42.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 22.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 48.45
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 34.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-08",
+                "score": 42.0,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 42.0,
+                "meet": "The Pump Jack Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.0
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 54.6,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.6,
+                "meet": "TAM vs UIW"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.1
+          },
+          "5335D": {
+            "dd": 2.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 43.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 55.1,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 56.55,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 45.68,
+                "meet": "TAM vs LSU"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 50.03,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 56.55,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 42.05,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 43.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 49.12
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 19.55,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 36.55,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 29.75,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 35.7,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.75,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 35.7,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 33.15,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 34.0,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 23.8,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 28.05,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 30.6
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 48.75,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 44.85,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 50.7,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 50.7,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 52.0,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 46.8,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 50.7,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 46.8,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 46.8,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 45.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 54.6,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 42.9,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 46.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 50.7,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 47.32
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-08",
+                "score": 39.6,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 40.8,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 21.6,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 36.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.5
+          },
+          "107C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 49.5,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 56.25,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 54.0,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 18.0,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 39.0,
+                "meet": "Air Force Diving Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 43.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 24.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 28.8,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 21.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 31.2,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 20.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 30.4,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 24.0,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 27.2,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 11.2,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 20.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 39.68,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 43.13,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 46.58,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 37.95,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 40.25,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 41.4,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 50.03,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 36.23,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 35.65,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 34.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 40.25,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.05,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 35.65,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 34.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 40.25,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 37.95,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 34.5,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 37.95,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 18,
+            "average_score": 38.75
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 27.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 31.45,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 33.15,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 30.6,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 30.6,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 29.75,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 25.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 25.5,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 17.85,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 23.8,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.95,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 27.11
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-11",
+                "score": 28.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 30.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 27.6,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 25.2,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.9
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-08",
+                "score": 17.85,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 23.1,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 30.45,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.95,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.84
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 0.0,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 33.75,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 38.25,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 31.5,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 43.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 0.0,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 60.75,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 36.0,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 34.5,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 33.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 40.5,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 11,
+            "average_score": 31.98
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 31.5,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 30.0,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 27.75,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 30.0,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 27.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 24.75,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 29.25,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 24.75,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 16.5,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 21.75,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 26.32
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.6,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 42.0,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 39.6,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 46.8,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 39.6,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 42.0,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 46.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 48.0,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 46.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 39.6,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 30.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 25.2,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 32.4,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 40.8,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 15,
+            "average_score": 39.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-06",
+                "score": 33.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 41.85,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 37.2,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 62.78,
+                "meet": "TAM vs UIW"
+              }
+            ],
+            "count": 3,
+            "average_score": 47.28
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 40.7,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 45.1,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 19.8,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 39.6,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 38.5,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 41.8,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 39.6,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 37.4,
+                "meet": "The Pump Jack Classic"
+              },
+              {
+                "date": "2019-05-03",
+                "score": 33.0,
+                "meet": "2019 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 9,
+            "average_score": 37.28
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-30",
+                "score": 29.4,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2021-04-10",
+                "score": 30.45,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 31.5,
+                "meet": "16th Annual Dick Wilson FINA Invitational"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 27.3,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.66
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 50.63,
+                "meet": "TAM vs GT"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 52.5,
+                "meet": "TAM vs TENN"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 54.38,
+                "meet": "TAM vs UIW"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 41.25,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 54.38,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 43.13,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 42.5,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 38.75,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 48.75,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2021-04-30",
+                "score": 35.0,
+                "meet": "2021 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 46.13
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 40.3,
+                "meet": "2023 NCAA ZONE D CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 50.7,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 23.4,
+                "meet": "SMU vs TAM"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 52.65,
+                "meet": "TAM vs TCU"
+              },
+              {
+                "date": "2022-11-03",
+                "score": 21.45,
+                "meet": "TAM vs UK"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 33.8,
+                "meet": "TEX vs TAM vs IU"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 31.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-04-22",
+                "score": 49.4,
+                "meet": "2022 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2022-02-11",
+                "score": 31.2,
+                "meet": "18th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2021-12-04",
+                "score": 42.9,
+                "meet": "3rd ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 10,
+            "average_score": 37.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 42.34,
+        "best_dive_id": "107C",
+        "best_dive_avg": 44.15,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 33.67,
+        "best_dive_id": "205C",
+        "best_dive_avg": 34.65,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 45.85,
+        "best_dive_id": "305C",
+        "best_dive_avg": 50.23,
+        "grade": 5.4
+      },
+      "Inward": {
+        "top_2_avg": 46.56,
+        "best_dive_id": "405C",
+        "best_dive_avg": 58.13,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 42.89,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 45.47,
+        "grade": 5.0
+      },
+      "Armstand": {
+        "top_2_avg": 49.23,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 57.6,
+        "grade": 5.8
+      },
+      "average_grade": 5.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 44.53,
+        "best_dive_id": "107C",
+        "best_dive_avg": 45.42,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 45.09,
+        "best_dive_id": "205B",
+        "best_dive_avg": 48.38,
+        "grade": 5.6
+      },
+      "Reverse": {
+        "top_2_avg": 42.82,
+        "best_dive_id": "305B",
+        "best_dive_avg": 43.75,
+        "grade": 5.4
+      },
+      "Inward": {
+        "top_2_avg": 44.7,
+        "best_dive_id": "405B",
+        "best_dive_avg": 52.5,
+        "grade": 5.6
+      },
+      "Twister": {
+        "top_2_avg": 48.68,
+        "best_dive_id": "5335D",
+        "best_dive_avg": 49.12,
+        "grade": 6.1
+      },
+      "average_grade": 5.6
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 46.33,
+        "best_dive_id": "105B",
+        "best_dive_avg": 47.32,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 38.13,
+        "best_dive_id": "203B",
+        "best_dive_avg": 38.75,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 30.89,
+        "best_dive_id": "305C",
+        "best_dive_avg": 31.98,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 40.55,
+        "best_dive_id": "405C",
+        "best_dive_avg": 47.28,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 41.91,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 46.13,
+        "grade": 5.6
+      },
+      "average_grade": 5.3
+    },
+    "overall_average_grade": 5.3
+  }
+}

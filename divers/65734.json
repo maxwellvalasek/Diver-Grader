@@ -1,0 +1,673 @@
+{
+  "name": "Greg Meder ",
+  "gender": "M",
+  "age": "19",
+  "id": 65734,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 26.35,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 34.85,
+                "meet": "2021 LID Holiday Classic Invitational"
+              },
+              {
+                "date": "2019-06-15",
+                "score": 29.75,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.24
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-15",
+                "score": 37.95,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 53.3,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 37.7,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 42.9,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.63
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 31.2,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 19.2,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 34.4,
+                "meet": "2021 LID Holiday Classic Invitational"
+              },
+              {
+                "date": "2019-06-15",
+                "score": 22.4,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.8
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-15",
+                "score": 28.05,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 49.45,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 26.45,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 46.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.63
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.15,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 20.4,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 36.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              },
+              {
+                "date": "2019-06-15",
+                "score": 26.4,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-15",
+                "score": 27.2,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-21",
+                "score": 28.8,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 43.05,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.05
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 55.5,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 55.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 31.5,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 21.0,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 30.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              },
+              {
+                "date": "2019-06-15",
+                "score": 27.75,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.56
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 44.4,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 39.6,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 52.8,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 45.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-15",
+                "score": 38.5,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-21",
+                "score": 26.35,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-15",
+                "score": 32.3,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 39.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 48.4,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.0
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 48.1,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.1
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 43.7,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 47.5,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-05-21",
+                "score": 36.25,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.88
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-21",
+                "score": 0.0,
+                "meet": "2021 USA Diving Junior Region 2 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 30.4,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-01-23",
+                "score": 36.0,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 53.2,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 53.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.7,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 56.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 56.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 38.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.6,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 39.9,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 39.9,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.9
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 49.95,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 47.25,
+                "meet": "2021 LID Holiday Classic Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 44.1,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 52.8,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.8
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 56.0,
+                "meet": "2023 NCAA Division III Region 4 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 56.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 42.96,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.63,
+        "grade": 5.7
+      },
+      "Back": {
+        "top_2_avg": 37.49,
+        "best_dive_id": "203B",
+        "best_dive_avg": 40.63,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 49.27,
+        "best_dive_id": "305C",
+        "best_dive_avg": 55.5,
+        "grade": 6.6
+      },
+      "Inward": {
+        "top_2_avg": 43.83,
+        "best_dive_id": "403B",
+        "best_dive_avg": 45.6,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 45.37,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 48.1,
+        "grade": 6.0
+      },
+      "average_grade": 5.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 44.6,
+        "best_dive_id": "107C",
+        "best_dive_avg": 53.2,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 42.85,
+        "best_dive_id": "205C",
+        "best_dive_avg": 56.0,
+        "grade": 5.4
+      },
+      "Reverse": {
+        "top_2_avg": 35.8,
+        "best_dive_id": "301B",
+        "best_dive_avg": 38.0,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 44.25,
+        "best_dive_id": "405C",
+        "best_dive_avg": 48.6,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 54.4,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 56.0,
+        "grade": 6.8
+      },
+      "average_grade": 5.5
+    },
+    "overall_average_grade": 5.7
+  }
+}

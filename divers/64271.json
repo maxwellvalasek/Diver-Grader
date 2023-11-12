@@ -1,0 +1,296 @@
+{
+  "name": "Jesse Pearlman",
+  "gender": "M",
+  "age": "24",
+  "id": 64271,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 22.1,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 12.35,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.23
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 25.5,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 28.05,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 23.8,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 22.95,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.38
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 28.05,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-13",
+                "score": 22.5,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 22.5,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-13",
+                "score": 18.4,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 21.6,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 24.0,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 22.5,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 18.0,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 29.6,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 20.0,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 37.4,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2019-02-13",
+                "score": 27.5,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-13",
+                "score": 17.0,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 23.8,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-09",
+                "score": 14.45,
+                "meet": "2022 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "5411B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-13",
+                "score": 16.15,
+                "meet": "2019 NCAC SWIMMING AND DIVING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.77,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 24.94,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.05,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 22.7,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.8,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 28.62,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.45,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 23.8,
+        "grade": 2.7
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

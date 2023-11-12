@@ -1,0 +1,128 @@
+{
+  "name": "Caleb Sunday",
+  "gender": "M",
+  "age": "10",
+  "id": 60514,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 14.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 11.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 14.0,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 12.0,
+                "meet": "14th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-24",
+                "score": 15.5,
+                "meet": "14th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 14.0,
+                "meet": "DMD Summer Nov/FC competition"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-09",
+                "score": 15.5,
+                "meet": "DMD Summer Nov/FC competition"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 15.0,
+                "meet": "14th Annual Dick Wilson Memorial FC/Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.5,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 15.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.25,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

@@ -1,0 +1,620 @@
+{
+  "name": "Sean Rorke",
+  "gender": "M",
+  "age": "21",
+  "id": 60750,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 26.35,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 36.8,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 37.7,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 40.3,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.0
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 37.2,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 26.4,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 24.65,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 18.4,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 41.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 37.0,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 28.0,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 20.7,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 27.3,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 32.55,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 27.3,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 17.85,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 24.75,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 43.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 43.2,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 34.8,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 31.9,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 28.5,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 33.35,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.35
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 44.55,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 44.55,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 16.2,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.1
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 36.25,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 36.25,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 32.5,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-05-05",
+                "score": 25.6,
+                "meet": "2018 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 26.4,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 38.4,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 34.8,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 45.6,
+                "meet": "2018 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 30.0,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 20.4,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 21.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 42.0,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-08",
+                "score": 28.75,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.75
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 32.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 34.0,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 18.9,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 30.45,
+                "meet": "2018 Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-05-05",
+                "score": 36.1,
+                "meet": "2018 Cinco de Mayo Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.1
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 44.55,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 41.85,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 35.1,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 37.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 44.4,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 45.6,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 40.8,
+                "meet": "2018 Cinco de Mayo Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 42.0
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 33.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 36.4,
+                "meet": "RIDE vs PACE vs SACR vs BEN"
+              },
+              {
+                "date": "2022-03-08",
+                "score": 36.4,
+                "meet": "2022 NCAA Division II Mens and Womens Swimming and Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.47
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.27,
+        "best_dive_id": "105B",
+        "best_dive_avg": 39.0,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 32.66,
+        "best_dive_id": "203C",
+        "best_dive_avg": 35.33,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 25.14,
+        "best_dive_id": "303C",
+        "best_dive_avg": 26.25,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 38.27,
+        "best_dive_id": "403B",
+        "best_dive_avg": 40.4,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 35.05,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 35.1,
+        "grade": 4.7
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 34.34,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.68,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 27.8,
+        "best_dive_id": "205C",
+        "best_dive_avg": 31.5,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 31.58,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.0,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 39.4,
+        "best_dive_id": "405C",
+        "best_dive_avg": 40.5,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.0,
+        "grade": 4.9
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.4
+  }
+}

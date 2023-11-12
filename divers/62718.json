@@ -1,0 +1,253 @@
+{
+  "name": "Taylor Barber",
+  "gender": "F",
+  "age": "23",
+  "id": 62718,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-07",
+                "score": 28.9,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 21.68,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 30.6,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.06
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 28.75,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.75
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-07",
+                "score": 26.4,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 39.6,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 33.0,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 27.6,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-04-07",
+                "score": 26.0,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 25.5,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 16.5,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.67
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 31.5,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-04-07",
+                "score": 14.7,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 28.35,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 23.63,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.55
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 33.0,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-04-07",
+                "score": 0.0,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 36.3,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 26.4,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.92
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 24.2,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 33.35,
+                "meet": "BIG EAST Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-10-16",
+                "score": 32.78,
+                "meet": "Bryant University vs Providence College"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 24.15,
+                "meet": "Harvard and Providence College SCRIMMAGE"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.09
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.94,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.0,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 23.9,
+        "best_dive_id": "203B",
+        "best_dive_avg": 27.6,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.55,
+        "best_dive_id": "303C",
+        "best_dive_avg": 24.55,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 23.92,
+        "best_dive_id": "403C",
+        "best_dive_avg": 23.92,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 28.62,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 30.09,
+        "grade": 3.8
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "name": "Joshua Perkey",
+  "gender": "M",
+  "age": "20",
+  "id": 67413,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 18.9,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 19.6,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 16.8,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 15.4,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.68
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-03",
+                "score": 21.0,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 20.3,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 18.9,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.07
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-03",
+                "score": 28.05,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 12.75,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 23.8,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.53
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 21.25,
+                "meet": "Cambridge Swim and Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-20",
+                "score": 16.5,
+                "meet": "MJB Invitational Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 17.6,
+                "meet": "Cambridge Swim and Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-03",
+                "score": 16.1,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 16.8,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.45
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 18.4,
+                "meet": "Cambridge Swim and Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-01-03",
+                "score": 22.1,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-12-20",
+                "score": 11.05,
+                "meet": "MJB Invitational Meet"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 14.45,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.87
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 0.0,
+                "meet": "Cambridge Swim and Dive Meet"
+              },
+              {
+                "date": "2020-01-03",
+                "score": 21.85,
+                "meet": "Cambridge HS Dive Meet IV"
+              },
+              {
+                "date": "2019-11-25",
+                "score": 0.0,
+                "meet": "Cambridge HS Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 7.28
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-11-23",
+                "score": 20.4,
+                "meet": "Cambridge Swim and Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.7,
+        "best_dive_id": "102C",
+        "best_dive_avg": 20.07,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 21.46,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.53,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 17.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 17.6,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 17.1,
+        "best_dive_id": "402C",
+        "best_dive_avg": 18.4,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 20.4,
+        "grade": 2.3
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "name": "Ezra Wheeler",
+  "gender": "M",
+  "age": "11",
+  "id": 66134,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 18.2,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 12.35,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.27
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-07-24",
+                "score": 14.0,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 14.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              },
+              {
+                "date": "2019-07-24",
+                "score": 12.8,
+                "meet": "2019 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 9.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 15.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.85,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.27,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 12.07,
+        "best_dive_id": "201A",
+        "best_dive_avg": 13.6,
+        "grade": 1.6
+      },
+      "Inward": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "401C",
+        "best_dive_avg": 15.4,
+        "grade": 2.1
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

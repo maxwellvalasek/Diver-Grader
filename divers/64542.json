@@ -1,0 +1,921 @@
+{
+  "name": "Ruby Allen",
+  "gender": "F",
+  "age": "14",
+  "id": 64542,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 21.0,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 27.9,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 33.3,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 26.1,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 24.3,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 28.8,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 24.3,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 27.0,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 33.3,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 21.0,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 9,
+            "average_score": 27.33
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 20.4,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 31.45,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 26.35,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 22.1,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 17.85,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 26.35,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 22.95,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 22.1,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 23.69
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 27.2,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 27.2,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 30.6,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 27.9,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 24.3,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 30.6,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 15.75,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 31.5,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 21.6,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 27.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 26.16
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 22.95,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 27.75,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 24.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 17.25,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 26.25,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 18.0,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 18.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 15.75,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 7,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 27.9,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2020-02-29",
+                "score": 5.6,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 17.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 18.4,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 18.9,
+                "meet": "2019 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.68
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 14.4,
+                "meet": "2019 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 31.5,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 28.8,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 29.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 34.2,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 24.3,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 36.9,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 27.9,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 30.6,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 20.3,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 8,
+            "average_score": 29.09
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 22.1,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 18.7,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 26.35,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.38
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-04",
+                "score": 28.8,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 21.6,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 15.0,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 14.5,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 15.5,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 14.4,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 21.0,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "600A": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 0.0,
+                "meet": "Rocky Mountain Summer Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 31.35,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 29.45,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 32.3,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 19.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 28.5,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 28.5,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 28.5,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 28.23
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 26.4,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 18.4,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 31.2,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 16.8,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 18.4,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 24.8,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 22.4,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 22.63
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 29.45,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 34.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 27.55,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 29.45,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 26.6,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 0.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 24.54
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-30",
+                "score": 20.0,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 24.0,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 25.6,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 21.6,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 36.9,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 21.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 27.0,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 16.15,
+                "meet": "2019 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.41
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 36.1,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 26.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 38.95,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 26.6,
+                "meet": "2019 USA Diving Junior National Championships"
+              },
+              {
+                "date": "2019-06-22",
+                "score": 27.55,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 30.4,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 26.6,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 30.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-29",
+                "score": 34.2,
+                "meet": "Rare Air February Flip Fest"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 27.55,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-10-27",
+                "score": 33.25,
+                "meet": "Rare Air Fall Flip Fest"
+              },
+              {
+                "date": "2019-07-30",
+                "score": 24.7,
+                "meet": "2019 USA Diving Junior National Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-06-22",
+                "score": 25.0,
+                "meet": "Rocky Mountain Summer Series"
+              },
+              {
+                "date": "2019-06-14",
+                "score": 21.0,
+                "meet": "2019 USA Diving Zone E Championships"
+              },
+              {
+                "date": "2019-05-04",
+                "score": 19.0,
+                "meet": "2019 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.67
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.32,
+        "best_dive_id": "101C",
+        "best_dive_avg": 27.33,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 26.28,
+        "best_dive_id": "201A",
+        "best_dive_avg": 27.2,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 17.77,
+        "best_dive_id": "302C",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 29.36,
+        "best_dive_id": "401B",
+        "best_dive_avg": 31.5,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 23.98,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 28.8,
+        "grade": 3.2
+      },
+      "average_grade": 3.3
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 14.95,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.5,
+        "grade": 1.8
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "Armstand": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "600A",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 1.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.43,
+        "best_dive_id": "101C",
+        "best_dive_avg": 28.23,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 23.84,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.54,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.41,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.41,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 30.23,
+        "best_dive_id": "401C",
+        "best_dive_avg": 30.4,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 21.67,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.67,
+        "grade": 2.7
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 2.6
+  }
+}

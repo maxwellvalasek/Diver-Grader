@@ -1,0 +1,320 @@
+{
+  "name": "Julia Romano",
+  "gender": "F",
+  "age": "20",
+  "id": 59649,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 30.6,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 28.9,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2017-12-16",
+                "score": 32.3,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 28.6,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 30.8,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 35.2,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2017-12-16",
+                "score": 22.0,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 28.0,
+                "meet": "2022 Landmark Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-15",
+                "score": 29.25,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 28.0,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 16.0,
+                "meet": "2022 Landmark Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 26.4,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 32.0,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 24.8,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 23.2,
+                "meet": "2022 Landmark Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 27.0,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 32.25,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2017-12-16",
+                "score": 32.25,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 27.5,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 36.3,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 34.1,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2017-12-16",
+                "score": 31.9,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 26.4,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 35.2,
+                "meet": "2022 Landmark Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-15",
+                "score": 29.75,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 35.7,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2018-12-15",
+                "score": 36.75,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2017-12-16",
+                "score": 35.7,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.05
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-18",
+                "score": 23.1,
+                "meet": "2022 Landmark Conference Diving Championship"
+              },
+              {
+                "date": "2022-02-18",
+                "score": 20.9,
+                "meet": "2022 Landmark Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.77,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.6,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 28.62,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.25,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 26.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.2,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 31.61,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.45,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 33.95,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 36.05,
+        "grade": 4.5
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

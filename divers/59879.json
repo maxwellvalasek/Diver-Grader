@@ -1,0 +1,712 @@
+{
+  "name": "Jace Carlson",
+  "gender": "M",
+  "age": "22",
+  "id": 59879,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-22",
+                "score": 20.15,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 11.05,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 27.2,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 27.2,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 20.4,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.65,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.86
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-10",
+                "score": 27.2,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 26.4,
+                "meet": "EBALs Boys Varsity"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 24.2,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 30.8,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 38.5,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 35.2,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 38.5,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 35.2,
+                "meet": "San Ramon Valley High School Invitational"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 18.7,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.59
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 27.75,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 23.25,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 27.75,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 4.5,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 25.5,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 23.25,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-10",
+                "score": 19.55,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 25.5,
+                "meet": "EBALs Boys Varsity"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.52
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 29.0,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 27.0,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 24.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 21.0,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 34.0,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 25.0,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.67
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-23",
+                "score": 23.1,
+                "meet": "2019 EBAL Varsity Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 21.6,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 23.2,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 28.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 24.8,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 28.8,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 27.2,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-22",
+                "score": 24.0,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 21.6,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 22.4,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 25.6,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 25.2,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 22.05,
+                "meet": "2019 EBAL Varsity Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 26.25,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 27.75,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 27.0,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 27.0,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 20.25,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.65
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-23",
+                "score": 11.2,
+                "meet": "2019 EBAL Varsity Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 44.0,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 38.5,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 41.8,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 33.0,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 39.6,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 29.7,
+                "meet": "San Ramon Valley High School Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 37.77
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 29.4,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-03-22",
+                "score": 30.4,
+                "meet": "Mission Viejo High School Invitational"
+              },
+              {
+                "date": "2018-05-10",
+                "score": 27.55,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 33.25,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 25.65,
+                "meet": "San Ramon Valley High School Invitational"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 20.9,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.55
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 27.5,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 23.1,
+                "meet": "2019 EBAL Varsity Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.3
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-10",
+                "score": 22.1,
+                "meet": "CIF North Coast Section Diving Championships 2018"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 22.95,
+                "meet": "EBALs Boys Varsity"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 17.85,
+                "meet": "San Ramon Valley High School Invitational"
+              },
+              {
+                "date": "2018-03-24",
+                "score": 10.2,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.27
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-05-02",
+                "score": 29.4,
+                "meet": "CIF North Coast Section Diving Championships 2019"
+              },
+              {
+                "date": "2019-04-23",
+                "score": 27.3,
+                "meet": "2019 EBAL Varsity Championships"
+              },
+              {
+                "date": "2019-03-22",
+                "score": 25.2,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.3
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 21.75,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 25.6,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 17.0,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 17.1,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 13.5,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 18.7,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 22.4,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-24",
+                "score": 34.2,
+                "meet": "Mission Viejo High School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.53,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.59,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 26.16,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.67,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 25.11,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.6,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 36.57,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.77,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 27.46,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.55,
+        "grade": 3.7
+      },
+      "average_grade": 3.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.68,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.6,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 17.05,
+        "best_dive_id": "202A",
+        "best_dive_avg": 17.1,
+        "grade": 2.1
+      },
+      "Reverse": {
+        "top_2_avg": 16.1,
+        "best_dive_id": "302C",
+        "best_dive_avg": 18.7,
+        "grade": 2.0
+      },
+      "Inward": {
+        "top_2_avg": 28.3,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.2,
+        "grade": 3.5
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 3.3
+  }
+}

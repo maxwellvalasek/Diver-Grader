@@ -1,0 +1,241 @@
+{
+  "name": "Delaney Wright",
+  "gender": "F",
+  "age": "13",
+  "id": 69463,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 18.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 17.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 19.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 20.8,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 20.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5202D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 13.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 17.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 18.2,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 14.7,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 18.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 24.65,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-20",
+                "score": 21.6,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.15,
+        "best_dive_id": "101A",
+        "best_dive_avg": 20.8,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 20.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 20.0,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "5202D",
+        "best_dive_avg": 13.5,
+        "grade": 1.7
+      },
+      "average_grade": 2.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 21.57,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.5
+  }
+}
