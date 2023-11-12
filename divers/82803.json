@@ -1,0 +1,92 @@
+{
+  "name": "Kalani Blampey",
+  "gender": "F",
+  "age": "9",
+  "id": 82803,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 16.5,
+                "meet": "1st Annual Knight Diving Academy Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 18.0,
+                "meet": "1st Annual Knight Diving Academy Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 18.5,
+                "meet": "1st Annual Knight Diving Academy Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 17.0,
+                "meet": "1st Annual Knight Diving Academy Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 18.5,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "name": "Mckenna Porter",
+  "gender": "F",
+  "age": "18",
+  "id": 82544,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 32.3,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 33.15,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.72
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 26.45,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 32.2,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 27.2,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 26.4,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 28.35,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 36.0,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 37.4,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 37.95,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 37.95,
+                "meet": "Dover Area HS vs Susquehannock HS"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.95
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 33.6,
+                "meet": "2023 District 3 2A Girls and 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.72,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.72,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 29.33,
+        "best_dive_id": "203B",
+        "best_dive_avg": 29.33,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 27.32,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.35,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 36.7,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.4,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 36.5,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 37.95,
+        "grade": 4.9
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

@@ -1,0 +1,438 @@
+{
+  "name": "Emily Rucker",
+  "gender": "F",
+  "age": "18",
+  "id": 81335,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 20.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 16.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 25.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 26.4,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 18.4,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 27.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.1,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 35.1,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 34.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 23.8,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.15
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 28.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 28.05,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.9,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 30.8,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 31.9,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 22.4,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 28.9,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 20.0,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 22.95,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 27.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 21.6,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 24.0,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.25,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.12
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 17.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 30.8,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 26.6,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.55
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-23",
+                "score": 23.8,
+                "meet": "2023 The Carolina BIG DIVE JO"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.7,
+        "best_dive_id": "101B",
+        "best_dive_avg": 27.0,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 26.55,
+        "best_dive_id": "201B",
+        "best_dive_avg": 26.55,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 34.65,
+        "best_dive_id": "301C",
+        "best_dive_avg": 34.65,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 25.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.5,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.91,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.35,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.9,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 25.07,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.2,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 27.01,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.8,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 26.3,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 27.55,
+        "grade": 3.5
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.5
+  }
+}

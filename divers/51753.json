@@ -1,0 +1,188 @@
+{
+  "name": "Elliott Hester",
+  "gender": "M",
+  "age": "15",
+  "id": 51753,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-23",
+                "score": 17.0,
+                "meet": "Mustangs In The Sun Novice, FC and JO Invite"
+              },
+              {
+                "date": "2016-06-11",
+                "score": 15.0,
+                "meet": "Mansfield Diving Invitational"
+              },
+              {
+                "date": "2016-02-12",
+                "score": 17.0,
+                "meet": "12th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.33
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-23",
+                "score": 13.5,
+                "meet": "2016 GC DIVERS NEW YEARS INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-23",
+                "score": 16.5,
+                "meet": "Mustangs In The Sun Novice, FC and JO Invite"
+              },
+              {
+                "date": "2016-06-11",
+                "score": 13.0,
+                "meet": "Mansfield Diving Invitational"
+              },
+              {
+                "date": "2016-02-12",
+                "score": 13.5,
+                "meet": "12th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2016-01-23",
+                "score": 13.5,
+                "meet": "2016 GC DIVERS NEW YEARS INVITATIONAL"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.12
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-23",
+                "score": 15.0,
+                "meet": "Mustangs In The Sun Novice, FC and JO Invite"
+              },
+              {
+                "date": "2016-06-11",
+                "score": 15.0,
+                "meet": "Mansfield Diving Invitational"
+              },
+              {
+                "date": "2016-02-12",
+                "score": 16.5,
+                "meet": "12th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2016-01-23",
+                "score": 14.5,
+                "meet": "2016 GC DIVERS NEW YEARS INVITATIONAL"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-23",
+                "score": 19.2,
+                "meet": "Mustangs In The Sun Novice, FC and JO Invite"
+              },
+              {
+                "date": "2016-06-11",
+                "score": 15.0,
+                "meet": "Mansfield Diving Invitational"
+              },
+              {
+                "date": "2016-02-12",
+                "score": 16.2,
+                "meet": "12th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2016-01-23",
+                "score": 18.0,
+                "meet": "2016 GC DIVERS NEW YEARS INVITATIONAL"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-07-23",
+                "score": 15.0,
+                "meet": "Mustangs In The Sun Novice, FC and JO Invite"
+              },
+              {
+                "date": "2016-06-11",
+                "score": 15.0,
+                "meet": "Mansfield Diving Invitational"
+              },
+              {
+                "date": "2016-02-12",
+                "score": 13.5,
+                "meet": "12th Annual Dick Wilson Memorial Invitational"
+              },
+              {
+                "date": "2016-01-23",
+                "score": 16.0,
+                "meet": "2016 GC DIVERS NEW YEARS INVITATIONAL"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.88
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.18,
+        "best_dive_id": "101C",
+        "best_dive_avg": 17.1,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 14.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.88,
+        "grade": 2.0
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

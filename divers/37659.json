@@ -1,0 +1,5286 @@
+{
+  "name": "Isabelle Lombardi",
+  "gender": "F",
+  "age": "21",
+  "id": 37659,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 19.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 17.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 12.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-06-10",
+                "score": 18.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 24.05,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 18.85,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.58
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 31.45,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 31.45,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 28.05,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 31.45,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 29.75,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 28.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 34.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 30.6,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 40.8,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 32.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 36.0,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 20.0,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 25.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 17.6,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.07
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 31.5,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 24.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 30.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 26.25,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.12
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 39.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 47.15,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 28.75,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 28.75,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 35.65,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 26.45,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.31
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 33.15,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 29.75,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 28.9,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 28.9,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 31.45,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 24.65,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.47
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 30.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 22.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 28.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 27.2,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 26.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 25.6,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-17",
+                "score": 26.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 33.6,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 30.75,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 30.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 24.75,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 25.5,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 22.5,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 29.25,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 18.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.93
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 39.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 36.3,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 39.6,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 35.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 29.7,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 31.9,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 35.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 33.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 37.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 39.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 41.8,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 27.5,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 40.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 36.3,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 40.7,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.3
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 32.55,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 26.25,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 33.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 31.5,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.98
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 43.75,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 41.25,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.75,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 36.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 36.25,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 40.25
+          },
+          "5301A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 12.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 28.05,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 0.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 30.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 33.15,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 28.05,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 30.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 32.3,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.11
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 17.5,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 14.5,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 14.0,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-08-16",
+                "score": 18.85,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 15.6,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 23.4,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 19.5,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.34
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 16.2,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 33.15,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 33.15,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 33.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 31.45,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 34.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 34.85,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 30.6,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 35.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 32.3,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 34.85,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 27.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 28.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 31.45,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 34.0,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 30.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 27.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 30.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 30.6,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.05,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 26.35,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 27.2,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 28.05,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 28.05,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 15.3,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 24.65,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 25,
+            "average_score": 30.06
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-03-08",
+                "score": 24.0,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 11.5,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-06-29",
+                "score": 20.9,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 42.9,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 29.7,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 37.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 36.3,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 34.1,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 30.8,
+                "meet": "2014 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 33.16
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 50.7,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 45.5,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 39.0,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 48.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 54.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 53.3,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 46.8,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 42.9,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 50.7,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 41.6,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 45.5,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 47.15
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 39.6,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 31.2,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 34.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 40.8,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 40.8,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 43.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 45.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 39.6,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 38.4,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 27.6,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 40.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 39.6,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 39.6,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 44.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 28.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 33.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 30.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 27.6,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 56.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 40.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 40.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 40.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 44.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 36.0,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 37.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 38.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 28.8,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 27.6,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 30,
+            "average_score": 38.36
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 16.5,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 33.6,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 33.6,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 34.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 31.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 28.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 28.8,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.8,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 26.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 28.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 35.2,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 28.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 29.6,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 36.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 26.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 31.2,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 23.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 32.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 36.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 33.6,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 28.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 25.6,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 28.8,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 28.8,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 28.0,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 25,
+            "average_score": 30.3
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-12-12",
+                "score": 27.0,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 24.0,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 18.0,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 47.15,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 36.8,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 46.0,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 42.55,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 49.45,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 42.55,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 46.0,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 41.4,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 56.93,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 47.15,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 47.15,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 29.9,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 48.3,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 35.65,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 41.4,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 42.55,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 41.4,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 37.95,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 39.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 42.55,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 46.0,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 42.55,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 35.65,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 35.65,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 42.55,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 48.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.95,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 29.9,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 43.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 34.5,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 36.8,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 52.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 43.7,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 36.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 39.1,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 32.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 40.25,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 32.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 21.85,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 40,
+            "average_score": 41.01
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-04",
+                "score": 25.0,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 20.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 30.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 39.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 34.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 43.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 19.0,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 26.0,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 25.0,
+                "meet": "Sun Devil Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 28.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 21.25,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 32.3,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 34.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 28.9,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 33.15,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 28.05,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 24.65,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 22.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 28.9,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 35.7,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 34.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 28.05,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 25.5,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 31.45,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 28.9,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 22.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 26.35,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 31.45,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 31.45,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 32.3,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 26.35,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 17.85,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 21.25,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 23,
+            "average_score": 28.12
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 29.6,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 20.8,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 27.2,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 19.2,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.2
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 26.35,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-03-08",
+                "score": 24.0,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 42.0,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 37.2,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 44.4,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 50.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 50.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 44.4,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 42.0,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 50.4,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 46.8,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 25.2,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 28.8,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 25.2,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 48.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 31.2,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 46.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 33.6,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 34.8,
+                "meet": "ARIZ vs HAWA vs UW"
+              }
+            ],
+            "count": 18,
+            "average_score": 40.47
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-02-16",
+                "score": 35.7,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 44.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 37.8,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 37.8,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 42.0,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 39.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 34.65,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 35.7,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 40.95,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 10.5,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 36.75,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 32.55,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 39.9,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 35.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 25.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 26.25,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 44.1,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 28.35,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 37.8,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 33.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 27.3,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 22.05,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 39.9,
+                "meet": "EVDC VS SDD DUAL"
+              }
+            ],
+            "count": 23,
+            "average_score": 34.28
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 34.2,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 33.3,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 35.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 31.5,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.52
+          },
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-09",
+                "score": 30.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 30.75,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 28.5,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 32.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 27.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 30.75,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 30.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 30.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 31.5,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 30.0,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.75,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 29.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 31.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 34.5,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 27.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 27.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 27.75,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 26.25,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 24.75,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 24.0,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 17.25,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 29.25,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 24.75,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 23,
+            "average_score": 28.34
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 21.0,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-06-07",
+                "score": 26.4,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 45.6,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 42.0,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 44.4,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 48.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 33.6,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 39.6,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 45.6,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 54.0,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 48.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 44.4,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 44.4,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 44.4,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 42.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 37.2,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 45.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 39.6,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 49.2,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 37.2,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 33.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 49.2,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 43.2,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 49.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 32.4,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 34.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 42.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 40.8,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 48.0,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 57.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 43.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 46.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 40.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 48.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 39.6,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 40.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 44.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 43.2,
+                "meet": "Rebel Diving Invite Schedule"
+              }
+            ],
+            "count": 41,
+            "average_score": 43.73
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-06-29",
+                "score": 33.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 37.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 45.1,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 46.2,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 38.5,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 44.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 35.2,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 40.7,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 28.6,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 31.9,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 29.7,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 11,
+            "average_score": 37.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-11",
+                "score": 25.65,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 23.75,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 33.25,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-12-12",
+                "score": 0.0,
+                "meet": "2014 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 24.7,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 21.85,
+                "meet": "2013 Far Western Diving Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 21.53
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 39.6,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 41.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 40.7,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 39.6,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 35.2,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 40.7,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 38.5,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 42.9,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 41.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 37.4,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 39.6,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 29.7,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 39.6,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 36.3,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 39.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 33.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 41.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 34.1,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 38.5,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 46.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 36.3,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 39.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 41.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 36.3,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 33.0,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 28.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.6,
+                "meet": "Cactus Invitational"
+              }
+            ],
+            "count": 27,
+            "average_score": 37.81
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 44.2,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 46.8,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 41.6,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 48.1,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 50.7,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 46.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 48.1,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 42.9,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 50.7,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 29.9,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 44.2,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 44.91
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-03-10",
+                "score": 33.35,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 27.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 32.2,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.05
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-15",
+                "score": 44.1,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 38.85,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 40.95,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 39.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 37.8,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 34.65,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 44.1,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 30.45,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 35.7,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 40.95,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 35.7,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 36.75,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 36.75,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 33.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 23.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 32.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 39.9,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 17,
+            "average_score": 36.81
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 35.0,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 46.25,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 41.25,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 47.5,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 51.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 52.5,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 47.5,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 43.75,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 56.25,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.25,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.25,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 41.25,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 48.75,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 41.25,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 40.0,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 41.25,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 40.0,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 42.5,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 48.75,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 47.5,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 45.0,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 37.5,
+                "meet": "UNLV vs WYO vs HAWA"
+              }
+            ],
+            "count": 23,
+            "average_score": 44.95
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 15.0,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 20.5,
+                "meet": "Sun Devil Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 16.5,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 13.0,
+                "meet": "Sun Devil Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 13.0,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-08-16",
+                "score": 24.75,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 18.0,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 18.0,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 26.25,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 21.0,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.6
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 16.1,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 28.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 29.6,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 26.4,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 32.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.6,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 27.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 32.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 28.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 31.2,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 30.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 29.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 32.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 32.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 26.4,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 28.8,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 28.8,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 24.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 24.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 24.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 29.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 28.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 28.0,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 19.2,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 21.6,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 21.6,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 26.4,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 28.8,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 28,
+            "average_score": 27.69
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-03-08",
+                "score": 17.25,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 38.4,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 46.8,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 46.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 40.8,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 41.4,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 40.8,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 48.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 49.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 42.0,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 42.0,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 48.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 45.6,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 45.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 44.4,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 28.8,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 36.0,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 45.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 34.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 43.2,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 42.0,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 43.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 44.4,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 42.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 46.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 38.4,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 43.2,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 49.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 43.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 40.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 46.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 39.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 37.2,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 34.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 31.2,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 34.8,
+                "meet": "Rebel Diving Invite Schedule"
+              }
+            ],
+            "count": 39,
+            "average_score": 42.29
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-06-29",
+                "score": 40.7,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 36.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 41.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 38.5,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 30.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 33.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 25.3,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 0.0,
+                "meet": "EVDC VS SDD DUAL"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 19.5,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 35.1,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 37.8,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 34.2,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 37.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 35.1,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 37.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 36.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 22.5,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 33.3,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 38.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 33.3,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 21.6,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 34.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 27.9,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 31.5,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 32.4,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 29.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 32.4,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 33.3,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 31.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 28.8,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 24.3,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 21.6,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 28.8,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 26,
+            "average_score": 31.53
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 24.65,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 27.2,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 26.35,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 26.35,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.14
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 28.6,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 36.3,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 46.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 39.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 38.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 23.1,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 35.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 33.0,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 29.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 9,
+            "average_score": 34.47
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 56.0,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 36.4,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 35.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 33.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 47.6,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 33.6,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 54.6,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.4,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 28.0,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 43.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 39.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 46.2,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 35.0,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.6,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 47.6,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 33.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 37.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 33.6,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 53.2,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 30.8,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 25.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 39.2,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 28.0,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 19.6,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 40.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 44.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 49.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 33.6,
+                "meet": "2018 EVDC Winter Classic"
+              }
+            ],
+            "count": 28,
+            "average_score": 38.15
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 32.3,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 33.25,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 37.05,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 37.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 31.35,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 37.05,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 40.85,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 36.1,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 32.3,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 22.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 33.25,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 37.05,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 25.65,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 24.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 32.3,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 34.2,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.55,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 29.45,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 27.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 33.25,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 37.05,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 34.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 31.35,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 33.25,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 21.85,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 33.25,
+                "meet": "NorCal Association Championships"
+              }
+            ],
+            "count": 26,
+            "average_score": 32.15
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-12-09",
+                "score": 31.5,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 30.6,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 29.7,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 19.8,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.9
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-08-16",
+                "score": 28.9,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 25.5,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 15.3,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 22.95,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 25.5,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.63
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 12.0,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 29.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 29.0,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 48.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 30.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 31.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 37.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 35.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 24.0,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 39.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 10,
+            "average_score": 31.4
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 37.8,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 46.2,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 46.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 37.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 54.6,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 29.4,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 46.2,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 23.8,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 25.2,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 47.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 35.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 54.6,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 23.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 28.0,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 47.6,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 35.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 40.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 25.2,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 51.8,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 43.4,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 30.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 43.4,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 50.4,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 21.0,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 47.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 18.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 47.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 27,
+            "average_score": 38.47
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-11-15",
+                "score": 20.3,
+                "meet": "Sun Devil Invitational"
+              },
+              {
+                "date": "2013-08-16",
+                "score": 23.8,
+                "meet": "2013 Far Western Diving Championships"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 19.6,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 23.1,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-05-18",
+                "score": 28.7,
+                "meet": "NorCal Association Championships"
+              },
+              {
+                "date": "2013-03-08",
+                "score": 25.2,
+                "meet": "2013 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 23.45
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-08-25",
+                "score": 21.45,
+                "meet": "AVD Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 37.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 37.8,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 36.75,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 40.95,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 42.0,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 39.9,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 38.85,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 40.95,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 36.75,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 37.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 35.7,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 38.85,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 37.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 39.9,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 40.95,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 38.85,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 39.9,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 38.85,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 35.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 39.9,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 39.9,
+                "meet": "Cactus Invitational"
+              }
+            ],
+            "count": 22,
+            "average_score": 38.75
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-11",
+                "score": 37.05,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 33.25,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 37.05,
+                "meet": "EVDC VS SDD DUAL"
+              },
+              {
+                "date": "2014-11-15",
+                "score": 39.9,
+                "meet": "Sun Devil Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.81
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-06-29",
+                "score": 36.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 44.4,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 42.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 46.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 30.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 6,
+            "average_score": 38.6
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 36.45,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 40.5,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 49.95,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 44.55,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 41.85,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 44.55,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 50.63,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 48.6,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 44.55,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 44.55,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 40.5,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 33.75,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 41.85,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 44.55,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 39.15,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 37.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 47.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 40.5,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 55.35,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 35.1,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 40.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 39.15,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 44.55,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 33.75,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 51.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 47.25,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 48.6,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 48.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 35.1,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 51.3,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 51.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 47.25,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 44.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 47.25,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 48.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 43.2,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 48.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 35.1,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 41.85,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 33.75,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 40,
+            "average_score": 43.59
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-12-13",
+                "score": 37.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 36.75,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 35.7,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 42.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 34.65,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 40.95,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 40.95,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 35.7,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 40.95,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 38.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 43.05,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 27.3,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 37.8,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 36.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 34.65,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 27.3,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 35.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 26.25,
+                "meet": "2016 EVDC Winter Classic"
+              },
+              {
+                "date": "2016-11-19",
+                "score": 21.0,
+                "meet": "EVDC VS SDD DUAL"
+              }
+            ],
+            "count": 20,
+            "average_score": 35.54
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 47.5,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 45.0,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 47.5,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 51.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 52.5,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 43.75,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 46.88,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.25,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2022-03-07",
+                "score": 41.25,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 50.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 50.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 41.25,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 41.25,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 48.75,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 37.5,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 48.75,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 46.25,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 41.25,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 45.0,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 48.75,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 45.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-11-16",
+                "score": 45.0,
+                "meet": "Rebel Diving Invite"
+              },
+              {
+                "date": "2019-06-21",
+                "score": 43.75,
+                "meet": "2019 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2019-06-07",
+                "score": 45.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 46.25,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 46.25,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 46.25,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 37.5,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 46.25,
+                "meet": "2018 USA Diving Zone F Championships"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 42.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 33.75,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2018-05-18",
+                "score": 33.75,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 32,
+            "average_score": 44.75
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-28",
+                "score": 39.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 33.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 43.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 39.0,
+                "meet": "2017 EVDC Winter Classic"
+              },
+              {
+                "date": "2017-11-04",
+                "score": 37.0,
+                "meet": "Rebel Diving Invite Schedule"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 35.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 31.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-05-20",
+                "score": 28.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 37.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 33.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-11",
+                "score": 31.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2016-12-09",
+                "score": 33.0,
+                "meet": "2016 EVDC Winter Classic"
+              }
+            ],
+            "count": 12,
+            "average_score": 34.92
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 44.4,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 46.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-02-17",
+                "score": 48.0,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 46.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2022-01-28",
+                "score": 46.8,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 46.8,
+                "meet": "SMU Diving Invite"
+              },
+              {
+                "date": "2021-10-22",
+                "score": 39.6,
+                "meet": "ARIZ vs HAWA vs UW"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 43.2,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-16",
+                "score": 44.4,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2021-02-12",
+                "score": 36.0,
+                "meet": "USC vs UCLA vs HAWA vs UTAH"
+              },
+              {
+                "date": "2021-01-29",
+                "score": 44.4,
+                "meet": "UNLV vs HAWA"
+              },
+              {
+                "date": "2021-01-28",
+                "score": 40.8,
+                "meet": "UNLV vs WYO vs HAWA"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 31.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 26.4,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 37.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-03-10",
+                "score": 46.8,
+                "meet": "EVDC, SDD, CDS SPRING TRI"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 32.4,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 43.2,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 18,
+            "average_score": 41.4
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 46.2,
+                "meet": "CBU vs GCU vs DENV vs HAWA"
+              },
+              {
+                "date": "2023-03-06",
+                "score": 32.2,
+                "meet": "2023 NCAA ZONE E CHAMPIONSHIP"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 44.8,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 54.6,
+                "meet": "Mountain Pacific Sports Federation Diving Championships"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 50.4,
+                "meet": "UNLV vs HAWA vs WYO"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 40.6,
+                "meet": "2023 Bruin Diving Invitational (UCLA)"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 56.7,
+                "meet": "HAWA vs TCU vs TU"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.2,
+                "meet": "SMU Diving Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 46.46
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 32.18,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.4,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 31.83,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.31,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 29.59,
+        "best_dive_id": "303C",
+        "best_dive_avg": 29.93,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 32.27,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 38.49,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 40.25,
+        "grade": 4.5
+      },
+      "Armstand": {
+        "top_2_avg": 26.11,
+        "best_dive_id": "612B",
+        "best_dive_avg": 26.11,
+        "grade": 3.1
+      },
+      "average_grade": 3.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.72,
+        "best_dive_id": "105B",
+        "best_dive_avg": 47.15,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 36.89,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.01,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 37.0,
+        "best_dive_id": "303B",
+        "best_dive_avg": 40.47,
+        "grade": 4.9
+      },
+      "Inward": {
+        "top_2_avg": 42.37,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.73,
+        "grade": 5.6
+      },
+      "Twister": {
+        "top_2_avg": 44.94,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 44.95,
+        "grade": 6.0
+      },
+      "average_grade": 5.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.33,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.29,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 37.25,
+        "best_dive_id": "205C",
+        "best_dive_avg": 38.15,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 35.37,
+        "best_dive_id": "305C",
+        "best_dive_avg": 38.47,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 41.87,
+        "best_dive_id": "405C",
+        "best_dive_avg": 43.59,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 45.09,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 46.46,
+        "grade": 5.6
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 4.7
+  }
+}

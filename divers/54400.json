@@ -1,0 +1,753 @@
+{
+  "name": "Greta Mccrory",
+  "gender": "F",
+  "age": "15",
+  "id": 54400,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 13.5,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 14.5,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 18.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 18.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 30.6,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 24.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 24.8,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 18.7,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 18.7,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 14.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 19.5,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 24.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 25.6,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 31.5,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 27.0,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 10.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 18.4,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 21.6,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 18.9,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.63
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 20.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 16.0,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 27.2,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.07
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 21.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 24.0,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 32.4,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.8
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 28.0,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 16.5,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 24.2,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 21.85,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 27.55,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 24.3,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.57
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 14.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 13.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 21.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 16.0,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 24.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 21.75,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-05-07",
+                "score": 21.85,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.85
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 27.2,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 27.2,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 24.0,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.13
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 13.5,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-10-22",
+                "score": 16.5,
+                "meet": "Boise Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 22.95,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 32.3,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.92
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 27.0,
+                "meet": "Boise Diving Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 19.95,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 27.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 27.0,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 22.8,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.6
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 22.95,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 19.55,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 25.5,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.67
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 21.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 22.4,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 27.55,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.65
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 30.4,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              },
+              {
+                "date": "2022-02-26",
+                "score": 27.55,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 25.65,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.87
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-26",
+                "score": 30.6,
+                "meet": "Boise Diving Winter Invitational"
+              },
+              {
+                "date": "2021-05-07",
+                "score": 28.5,
+                "meet": "2021 USA Diving Junior Region 9 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.55
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-29",
+                "score": 17.0,
+                "meet": "2022 USA Diving Junior Region 9 Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "101C",
+        "best_dive_avg": 30.6,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 29.25,
+        "best_dive_id": "201C",
+        "best_dive_avg": 31.5,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 20.35,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.07,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "402C",
+        "best_dive_avg": 28.0,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 24.57,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 24.57,
+        "grade": 3.3
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.83,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.13,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 26.94,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 24.14,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.6,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 25.76,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.87,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 25.37,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 29.55,
+        "grade": 3.2
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.3
+  }
+}

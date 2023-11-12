@@ -1,0 +1,829 @@
+{
+  "name": "Caden Kavanagh",
+  "gender": "M",
+  "age": "19",
+  "id": 80723,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-28",
+                "score": 25.88,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 32.2,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 37.95,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 35.65,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 41.4,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 5,
+            "average_score": 34.62
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 31.2,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 40.3,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 19.5,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.33
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 33.6,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 33.6,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 30.0,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 38.4,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 43.2,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 36.0,
+                "meet": "Coyote Invite @USD"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 34.5,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 35.65,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 33.35,
+                "meet": "OMAHA vs AUGUSTANA"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 27.0,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 30.0,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 24.0,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 29.0,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 26.0,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 28.0,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 32.55,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 22.05,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 29.4,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 24.15,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 33.08,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 32.55,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 31.5,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 37.8,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 37.8,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 9,
+            "average_score": 31.21
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 40.8,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 37.2,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 31.2,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 38.4,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 37.8,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 39.6,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "Augustana Invite @MIDCO"
+              }
+            ],
+            "count": 8,
+            "average_score": 37.72
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-04",
+                "score": 38.5,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 42.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 40.6,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 40.6,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 42.0,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 33.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 39.6,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 36.3,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 38.5,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 39.6,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 33.0,
+                "meet": "Coyote Invite @USD"
+              }
+            ],
+            "count": 6,
+            "average_score": 36.67
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 24.7,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 26.0,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 19.5,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 43.2,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 46.8,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 43.2,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 44.4,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 37.8,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 38.4,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 39.6,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 43.2,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 36.0,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 9,
+            "average_score": 41.4
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 32.2,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 25.2,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 30.8,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 28.0,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.96
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 28.5,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 27.55,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 19.95,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.33
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 42.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 39.2,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 35.0,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 33.6,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 35.7,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 25.2,
+                "meet": "Coyote Invite @USD"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.12
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 37.8,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 35.0,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 19.6,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 23.8,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 25.2,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 29.4,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.6,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 42.0,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 9,
+            "average_score": 31.11
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 39.9,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 37.8,
+                "meet": "AUSF vs STCL vs USF"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.85
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 35.1,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 40.5,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 27.0,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 35.1,
+                "meet": "ST vs AUSF"
+              },
+              {
+                "date": "2023-09-28",
+                "score": 44.55,
+                "meet": "AUSF vs STCL vs USF"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 40.5,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.45,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.75,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 40.5,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 9,
+            "average_score": 37.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-28",
+                "score": 37.8,
+                "meet": "AUSF vs STCL vs USF"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 35.0,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 26.25,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-02-03",
+                "score": 27.5,
+                "meet": "Coyote Invite @USD"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 40.0,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 41.25,
+                "meet": "Augustana Invite @MIDCO"
+              },
+              {
+                "date": "2022-11-04",
+                "score": 33.75,
+                "meet": "Coyote Extravaganza @USD"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.96
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 36.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 39.6,
+                "meet": "SDSU vs AUSF"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 37.2,
+                "meet": "OMAHA vs AUGUSTANA"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 39.6,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.26,
+        "best_dive_id": "105C",
+        "best_dive_avg": 35.8,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 29.72,
+        "best_dive_id": "203B",
+        "best_dive_avg": 34.5,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 31.21,
+        "best_dive_id": "303C",
+        "best_dive_avg": 31.21,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 40.74,
+        "best_dive_id": "404C",
+        "best_dive_avg": 41.3,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 32.25,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 36.67,
+        "grade": 4.3
+      },
+      "average_grade": 4.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.31,
+        "best_dive_id": "105B",
+        "best_dive_avg": 41.4,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 31.86,
+        "best_dive_id": "205C",
+        "best_dive_avg": 35.12,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 31.11,
+        "best_dive_id": "305C",
+        "best_dive_avg": 31.11,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 37.38,
+        "best_dive_id": "403B",
+        "best_dive_avg": 38.85,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 38.04,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 38.1,
+        "grade": 4.8
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.5
+  }
+}

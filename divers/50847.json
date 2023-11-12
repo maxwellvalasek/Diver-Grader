@@ -1,0 +1,969 @@
+{
+  "name": "Anthony Haywood",
+  "gender": "M",
+  "age": "27",
+  "id": 50847,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 19.2,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 24.8,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 27.6,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 21.6,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 39.6,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 37.8,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 37.2,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 25.2,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 6,
+            "average_score": 31.5
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-24",
+                "score": 8.8,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 34.65,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 18.15,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 26.4,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 19.8,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 27.0,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.4
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 37.8,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 35.0,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 27.3,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 33.6,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 32.2,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 37.8,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 23.1,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 31.5,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 8,
+            "average_score": 32.29
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 13.3,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 18.05,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.68
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 25.2,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 39.2,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 50.4,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 44.1,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 22.4,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 35.7,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 27.3,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 0.0,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.54
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 32.55,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 33.6,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.08
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-01-16",
+                "score": 21.38,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 22.8,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.09
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 36.45,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 35.1,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 42.53,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 42.53,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 21.6,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 36.45,
+                "meet": "Buffalo vs.  Cleveland State"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.78
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 33.75,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 31.25,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 45.0,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 41.25,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 28.75,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 43.13,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 31.88,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 18.75,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 8,
+            "average_score": 34.22
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 24.0,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 0.0,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-24",
+                "score": 36.0,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 37.8,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 37.8,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 28.8,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.1
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 43.4,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 40.6,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 37.8,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 31.5,
+                "meet": "UIC vs CSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.33
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 35.65,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 23.0,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.32
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 36.0,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 28.8,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 30.6,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 37.8,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 33.6,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 28.8,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 28.8,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 7.2,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 8,
+            "average_score": 28.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-27",
+                "score": 43.13,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 29.33,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 20.7,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 25.88,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 29.33,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 34.5,
+                "meet": "CSU vs. UIC"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 20.7,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 8.05,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 8,
+            "average_score": 26.45
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 39.0,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 25.5,
+                "meet": "2017 Horizon League Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 17.0,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 13.6,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.3
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-06",
+                "score": 23.4,
+                "meet": "Buffalo vs.  Cleveland State"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-27",
+                "score": 15.75,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 31.5,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 35.7,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 36.23,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 25.2,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.88
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 28.5,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 46.5,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 29.25,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 27.0,
+                "meet": "UIC vs CSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.81
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 21.75,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 24.0,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-11-20",
+                "score": 32.4,
+                "meet": "Magnus Invite (CSU)"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 28.8,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 37.4,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 38.5,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 41.25,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 41.25,
+                "meet": "UIC vs CSU"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 39.6,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 29.7,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2016-01-16",
+                "score": 34.65,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 24.75,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 8,
+            "average_score": 35.89
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-16",
+                "score": 25.88,
+                "meet": "CSU vs. Wright State"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.88
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 35.2,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 37.4,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2016-02-24",
+                "score": 27.5,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 21.45,
+                "meet": "CSU vs. UIC"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.39
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-06",
+                "score": 25.35,
+                "meet": "Buffalo vs.  Cleveland State"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.35
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-16",
+                "score": 29.33,
+                "meet": "CSU vs. Wright State"
+              },
+              {
+                "date": "2016-01-15",
+                "score": 32.78,
+                "meet": "CSU vs. UIC"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 34.5,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.2
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-22",
+                "score": 45.9,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-02-22",
+                "score": 43.2,
+                "meet": "2017 Horizon League Diving Championships"
+              },
+              {
+                "date": "2017-01-27",
+                "score": 42.53,
+                "meet": "CSU vs. Oakland"
+              },
+              {
+                "date": "2017-01-14",
+                "score": 44.55,
+                "meet": "UIC vs CSU"
+              }
+            ],
+            "count": 4,
+            "average_score": 44.05
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-24",
+                "score": 28.75,
+                "meet": "2016 Horizon League Championships"
+              },
+              {
+                "date": "2016-02-06",
+                "score": 37.5,
+                "meet": "Buffalo vs.  Cleveland State"
+              },
+              {
+                "date": "2015-11-20",
+                "score": 0.0,
+                "meet": "Magnus Invite (CSU)"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.08
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.12,
+        "best_dive_id": "105B",
+        "best_dive_avg": 31.5,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 30.51,
+        "best_dive_id": "205C",
+        "best_dive_avg": 32.29,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 27.57,
+        "best_dive_id": "305C",
+        "best_dive_avg": 30.54,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 35.11,
+        "best_dive_id": "405C",
+        "best_dive_avg": 35.78,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 36.72,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 38.33,
+        "grade": 4.6
+      },
+      "average_grade": 4.0
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.02,
+        "best_dive_id": "104B",
+        "best_dive_avg": 29.32,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 27.61,
+        "best_dive_id": "205C",
+        "best_dive_avg": 32.25,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 30.63,
+        "best_dive_id": "305C",
+        "best_dive_avg": 32.81,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 34.83,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.89,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 38.97,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 44.05,
+        "grade": 5.2
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.1
+  }
+}

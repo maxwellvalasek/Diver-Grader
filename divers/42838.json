@@ -1,0 +1,511 @@
+{
+  "name": "Carly  Marsh",
+  "gender": "F",
+  "age": "21",
+  "id": 42838,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 20.4,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 25.2,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              },
+              {
+                "date": "2013-11-09",
+                "score": 21.7,
+                "meet": "15th  Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.45
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 31.88,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 34.0,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.94
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 26.4,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 34.65,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 34.1,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.72
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 28.05,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 23.2,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 21.6,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 26.25,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              },
+              {
+                "date": "2013-11-09",
+                "score": 22.5,
+                "meet": "15th  Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 31.05,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 25.5,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 25.5,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-09-24",
+                "score": 26.4,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 25.6,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 25.6,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-02-24",
+                "score": 31.5,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 39.6,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 37.95,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 22.0,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.18
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 30.6,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              },
+              {
+                "date": "2013-11-09",
+                "score": 27.0,
+                "meet": "15th  Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 28.5,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2021-09-24",
+                "score": 21.38,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 25.65,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.18
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-08",
+                "score": 30.6,
+                "meet": "Colorado Stars 1m Spring board Invitational"
+              },
+              {
+                "date": "2013-11-09",
+                "score": 24.65,
+                "meet": "15th  Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 29.93,
+                "meet": "BAMA vs DSU"
+              },
+              {
+                "date": "2019-02-24",
+                "score": 28.35,
+                "meet": "Rare Air February Flip Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.14
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 28.05,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 36.0,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 24.23,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.23
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 32.78,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.78
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 39.6,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 28.5,
+                "meet": "BAMA vs DSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.21,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.94,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 29.55,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.05,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 25.87,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.0,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 32.76,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.18,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 28.97,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.14,
+        "grade": 3.9
+      },
+      "average_grade": 4.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "105C",
+        "best_dive_avg": 28.05,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 36.0,
+        "best_dive_id": "203A",
+        "best_dive_avg": 36.0,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.23,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.23,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 36.19,
+        "best_dive_id": "404C",
+        "best_dive_avg": 39.6,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.5,
+        "grade": 3.6
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.9
+  }
+}

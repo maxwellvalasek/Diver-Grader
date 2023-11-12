@@ -1,0 +1,160 @@
+{
+  "name": "Ann Margaret Bynum",
+  "gender": "F",
+  "age": "13",
+  "id": 82224,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 14.4,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 16.1,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 20.4,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 21.75,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 18.9,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 16.0,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 20.4,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 15.3,
+                "meet": "KISL City Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.25,
+        "best_dive_id": "102C",
+        "best_dive_avg": 16.1,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 21.07,
+        "best_dive_id": "202C",
+        "best_dive_avg": 21.75,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 17.45,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.9,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 20.4,
+        "grade": 2.4
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "name": "Tess Jackman",
+  "gender": "F",
+  "age": "7",
+  "id": 83107,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 18.5,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 13.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 13.5,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 14.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 12.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 14.5,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 10.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 11.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.75,
+        "best_dive_id": "102C",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.5,
+        "best_dive_id": "100C",
+        "best_dive_avg": 14.5,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 10.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 10.0,
+        "grade": 1.2
+      },
+      "Twister": {
+        "top_2_avg": 11.0,
+        "best_dive_id": "5301A",
+        "best_dive_avg": 11.0,
+        "grade": 1.4
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.7
+  }
+}

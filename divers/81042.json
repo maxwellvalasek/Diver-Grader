@@ -1,0 +1,289 @@
+{
+  "name": "WVU MEN A TEAM",
+  "gender": "M",
+  "age": "2",
+  "id": 81042,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 52.65,
+                "meet": "WV State Games"
+              },
+              {
+                "date": "2023-02-22",
+                "score": 49.4,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 50.7,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 3,
+            "average_score": 50.92
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 48.3,
+                "meet": "WV State Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5335D": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 63.0,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 45.0,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 2,
+            "average_score": 54.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 51.8,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.2,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 2,
+            "average_score": 49.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 71.4,
+                "meet": "WV State Games"
+              },
+              {
+                "date": "2023-02-22",
+                "score": 44.8,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 2,
+            "average_score": 58.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 37.8,
+                "meet": "WV State Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 47.25,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.25
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 32.0,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 37.8,
+                "meet": "WV State Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 41.33,
+                "meet": "WV State Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.33
+          },
+          "614B": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 33.6,
+                "meet": "Big 12 Conference Swimming and Diving Championships 2023"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 46.8,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 50.92,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.92,
+        "grade": 6.8
+      },
+      "Back": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "203B",
+        "best_dive_avg": 48.3,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 54.0,
+        "best_dive_id": "5335D",
+        "best_dive_avg": 54.0,
+        "grade": 7.2
+      },
+      "average_grade": 6.8
+    },
+    "3 Meter": {
+      "Back": {
+        "top_2_avg": 49.0,
+        "best_dive_id": "205C",
+        "best_dive_avg": 49.0,
+        "grade": 6.1
+      },
+      "Reverse": {
+        "top_2_avg": 58.1,
+        "best_dive_id": "305C",
+        "best_dive_avg": 58.1,
+        "grade": 7.3
+      },
+      "Inward": {
+        "top_2_avg": 42.52,
+        "best_dive_id": "405C",
+        "best_dive_avg": 47.25,
+        "grade": 5.3
+      },
+      "average_grade": 6.2
+    },
+    "Platform": {
+      "Inward": {
+        "top_2_avg": 32.0,
+        "best_dive_id": "407C",
+        "best_dive_avg": 32.0,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 37.8,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 37.8,
+        "grade": 4.4
+      },
+      "Armstand": {
+        "top_2_avg": 40.58,
+        "best_dive_id": "612B",
+        "best_dive_avg": 41.33,
+        "grade": 4.8
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 5.8
+  }
+}

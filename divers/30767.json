@@ -1,0 +1,653 @@
+{
+  "name": "Patrick Schulze",
+  "gender": "M",
+  "age": "33",
+  "id": 30767,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 28.9,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 34.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.45
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 49.2,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 38.4,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 44.4,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 43.2,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 43.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 27.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 27.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 40.25,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 32.2,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 39.1,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 40.25,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 27.0,
+                "meet": "2012 WIAC Conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 34.8,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 38.4,
+                "meet": "2012 WIAC Conference Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-02-17",
+                "score": 34.65,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-02-17",
+                "score": 37.95,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 28.75,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 30.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 24.75,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.38
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 49.2,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 48.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 43.2,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 48.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 47.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 31.9,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 35.2,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 45.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 46.25,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 40.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 37.5,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 42.19
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 35.1,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 42.9,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 33.8,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 29.9,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.42
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 27.2,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 29.6,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.4
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 45.6,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 50.4,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 36.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 50.4,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 28.05,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 28.05,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.05
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 40.6,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 44.8,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 33.6,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 42.0,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 33.3,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 29.7,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 42.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 44.8,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 36.4,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 43.4,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 44.1,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 39.9,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.0
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 48.6,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 41.85,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 40.5,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 52.65,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 23.1,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 24.15,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 45.6,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 50.4,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 45.6,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 44.4,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 46.5
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-02-16",
+                "score": 45.0,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2012-02-16",
+                "score": 48.75,
+                "meet": "2012 WIAC Conference Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 26.25,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              },
+              {
+                "date": "2011-02-17",
+                "score": 43.75,
+                "meet": "2011 WIAC Conference Swimming and Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 40.94
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.68,
+        "best_dive_id": "105C",
+        "best_dive_avg": 43.8,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 34.3,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 35.95,
+        "best_dive_id": "303B",
+        "best_dive_avg": 36.6,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 40.53,
+        "best_dive_id": "403B",
+        "best_dive_avg": 47.1,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 38.8,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.19,
+        "grade": 5.2
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.87,
+        "best_dive_id": "105B",
+        "best_dive_avg": 45.6,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 36.18,
+        "best_dive_id": "205C",
+        "best_dive_avg": 40.25,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 38.27,
+        "best_dive_id": "305C",
+        "best_dive_avg": 41.65,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 44.6,
+        "best_dive_id": "405C",
+        "best_dive_avg": 45.9,
+        "grade": 5.6
+      },
+      "Twister": {
+        "top_2_avg": 43.72,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 46.5,
+        "grade": 5.5
+      },
+      "average_grade": 5.1
+    },
+    "overall_average_grade": 5.1
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "name": "Wenjing Huang",
+  "gender": "F",
+  "age": "10",
+  "id": 88218,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 11.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 11.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 11.0,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 1.6
+  }
+}

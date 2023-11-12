@@ -1,0 +1,111 @@
+{
+  "name": "Samuel Wolch ",
+  "gender": "M",
+  "age": "17",
+  "id": 82825,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 17.85,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 12.0,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 17.1,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.1
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 9.45,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 23.75,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.93,
+        "best_dive_id": "103B",
+        "best_dive_avg": 17.85,
+        "grade": 2.0
+      },
+      "Reverse": {
+        "top_2_avg": 13.28,
+        "best_dive_id": "301A",
+        "best_dive_avg": 17.1,
+        "grade": 1.8
+      },
+      "Twister": {
+        "top_2_avg": 23.75,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 23.75,
+        "grade": 3.2
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

@@ -1,0 +1,590 @@
+{
+  "name": "Cara Angelo",
+  "gender": "F",
+  "age": "24",
+  "id": 56741,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 20.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 19.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 26.4,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 26.4,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 31.2,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 30.4,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 18.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 31.35,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 0.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 21.6,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 18.0,
+                "meet": "2021 North East Conference Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 27.2,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 25.5,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 24.65,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.78
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 25.9,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 24.5,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 27.3,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 28.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.43
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 29.45,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 30.4,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 35.15,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 33.25,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.06
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 0.0,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 0.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 0.0
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 22.8,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 22.8,
+                "meet": "2021 North East Conference Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.8
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 30.6,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 28.9,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 34.85,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.45
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 33.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 29.7,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 38.5,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 30.8,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 28.9,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 23.2,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 24.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 26.0,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 32.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 31.45,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 29.6,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 28.8,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 29.6,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.33
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 28.0,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-26",
+                "score": 28.5,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 23.1,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 29.7,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2019-10-12",
+                "score": 33.0,
+                "meet": "Stony Brook University vs Wagner College"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 34.1,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.98
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-03-27",
+                "score": 23.75,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2021-03-27",
+                "score": 29.45,
+                "meet": "2021 North East Conference Championships"
+              },
+              {
+                "date": "2017-03-26",
+                "score": 34.2,
+                "meet": "ZAP Diving March Madness Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.13
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 28.75,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.75
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-12",
+                "score": 23.0,
+                "meet": "Stony Brook University vs Wagner College"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.68,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.6,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 23.65,
+        "best_dive_id": "201A",
+        "best_dive_avg": 31.35,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.78,
+        "best_dive_id": "302C",
+        "best_dive_avg": 25.78,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 29.25,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.06,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 11.4,
+        "best_dive_id": "5321D",
+        "best_dive_avg": 22.8,
+        "grade": 1.4
+      },
+      "average_grade": 2.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.34,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.0,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 27.72,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 29.86,
+        "best_dive_id": "301B",
+        "best_dive_avg": 31.45,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 29.68,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.98,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 29.04,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 29.13,
+        "grade": 3.9
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 3.4
+  }
+}

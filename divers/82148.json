@@ -1,0 +1,134 @@
+{
+  "name": "Abigail Coon",
+  "gender": "F",
+  "age": "20",
+  "id": 82148,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 29.75,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 35.2,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 27.2,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 30.6,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 30.0,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 35.15,
+                "meet": "Lambert vs Walton Dual Dive and Swim"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.48,
+        "best_dive_id": "104C",
+        "best_dive_avg": 35.2,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "202A",
+        "best_dive_avg": 30.6,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 30.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.0,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 35.15,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 35.15,
+        "grade": 4.7
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

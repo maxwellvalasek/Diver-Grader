@@ -1,0 +1,465 @@
+{
+  "name": "Aaron Hintz",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 12950,
+  "events": {
+    "Platform": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 33.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 35.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 28.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 37.1,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 27.3,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 39.95,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.95
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 54.6,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 31.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 43.7,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 35.7,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 39.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 63.6,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 63.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 35.1,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 52.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 43.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 60.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 60.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 42.3,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.3
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 39.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 52.25,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 58.8,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.8
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 79.65,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 79.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 46.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 54.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 34.1,
+        "best_dive_id": "103B",
+        "best_dive_avg": 35.2,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "301B",
+        "best_dive_avg": 28.5,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 37.1,
+        "best_dive_id": "401B",
+        "best_dive_avg": 37.1,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 27.3,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 27.3,
+        "grade": 3.2
+      },
+      "average_grade": 3.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 47.28,
+        "best_dive_id": "105B",
+        "best_dive_avg": 54.6,
+        "grade": 6.3
+      },
+      "Back": {
+        "top_2_avg": 37.45,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.7,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 35.7,
+        "best_dive_id": "301B",
+        "best_dive_avg": 35.7,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 51.3,
+        "best_dive_id": "403B",
+        "best_dive_avg": 63.6,
+        "grade": 6.8
+      },
+      "Twister": {
+        "top_2_avg": 43.8,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 52.5,
+        "grade": 5.8
+      },
+      "average_grade": 5.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 51.7,
+        "best_dive_id": "107C",
+        "best_dive_avg": 60.2,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 40.65,
+        "best_dive_id": "201B",
+        "best_dive_avg": 42.3,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 52.25,
+        "best_dive_id": "301B",
+        "best_dive_avg": 52.25,
+        "grade": 6.5
+      },
+      "Inward": {
+        "top_2_avg": 69.22,
+        "best_dive_id": "405C",
+        "best_dive_avg": 79.65,
+        "grade": 8.7
+      },
+      "Twister": {
+        "top_2_avg": 50.1,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 54.0,
+        "grade": 6.3
+      },
+      "average_grade": 6.6
+    },
+    "overall_average_grade": 5.4
+  }
+}

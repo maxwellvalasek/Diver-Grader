@@ -1,0 +1,212 @@
+{
+  "name": "Cora Keener",
+  "gender": "F",
+  "age": "17",
+  "id": 82798,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 29.75,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 31.45,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 28.05,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.75
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 33.0,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 31.9,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 26.4,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.43
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 27.2,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 32.0,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.6
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 17.0,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 28.05,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 22.95,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 32.3,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 38.5,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 39.6,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 35.2,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.77
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 24.15,
+                "meet": "2023 PIAA 3A Girls State Diving Championships"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 33.35,
+                "meet": "2023 District 3 3A Girls Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 31.05,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.52
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.09,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.43,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 25.4,
+        "best_dive_id": "202B",
+        "best_dive_avg": 29.6,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.77,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.77,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 37.77,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.77,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 29.52,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 29.52,
+        "grade": 3.9
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

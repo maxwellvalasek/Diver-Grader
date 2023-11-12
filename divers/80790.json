@@ -1,0 +1,355 @@
+{
+  "name": "Justin Miller",
+  "gender": "M",
+  "age": "18",
+  "id": 80790,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 20.4,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 25.6,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 21.6,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 31.9,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 21.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 18.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 29.0,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.0
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 31.9,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 24.0,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 20.8,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 33.6,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 22.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 18.9,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.65
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 24.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 22.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 28.5,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 29.7,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 32.55,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 29.25,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 30.8,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 27.55,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 34.2,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.37,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.9,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 30.45,
+        "best_dive_id": "204C",
+        "best_dive_avg": 31.9,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "303C",
+        "best_dive_avg": 33.6,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 21.88,
+        "best_dive_id": "403C",
+        "best_dive_avg": 23.1,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 31.12,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 32.55,
+        "grade": 4.1
+      },
+      "average_grade": 3.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.02,
+        "best_dive_id": "105C",
+        "best_dive_avg": 30.8,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 27.55,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.55,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 34.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 34.2,
+        "grade": 4.3
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

@@ -1,0 +1,709 @@
+{
+  "name": "Regina Menyhart",
+  "gender": "F",
+  "age": "19",
+  "id": 80247,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 33.15,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 34.5,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 40.25,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 29.33,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 36.23,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.2,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 27.6,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 7,
+            "average_score": 34.5
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 28.8,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 32.4,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 18.0,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 36.0,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 21.6,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.2,
+                "meet": "SHU vs LASU"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 24.15,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 31.05,
+                "meet": "PRIN vs LASU"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.6
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 21.0,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 36.0,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 29.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 36.0,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 22.5,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 28.35,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 26.25,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 37.8,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 37.8,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 22.05,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 23.63,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 17.33,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 31.2,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 44.4,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 41.4,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 43.2,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.4,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "SHU vs LASU"
+              }
+            ],
+            "count": 6,
+            "average_score": 39.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 39.6,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 22.95,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 25.5,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.5,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 21.68,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.91
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 31.5,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 32.55,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 28.35,
+                "meet": "PRIN vs LASU"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.8
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 12.8,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 29.6,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 14.4,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 31.2,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 28.8,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 28.8,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 20.4,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 7,
+            "average_score": 23.71
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 42.0,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.6,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 36.0,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 37.8,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.4,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.2,
+                "meet": "SHU vs LASU"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 28.05,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 30.6,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 34.1,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 26.4,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 16.5,
+                "meet": "PRIN vs LASU"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.67
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 25.65,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 35.15,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.8,
+                "meet": "SHU vs LASU"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.87
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 27.0,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 32.4,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.7
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 18.0,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.0,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 22.5,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 37.5,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 21.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 35.7,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 35.7,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 34.65,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 40.95,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.55,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.65,
+                "meet": "SHU vs LASU"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 34.65,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 7,
+            "average_score": 35.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 35.0,
+                "meet": "2023 A-10 Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.0,
+                "meet": "FORD vs LASU"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 24.0,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 34.5,
+                "meet": "RI vs LASU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 30.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 36.0,
+                "meet": "SHU vs LASU"
+              }
+            ],
+            "count": 6,
+            "average_score": 31.08
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 15.0,
+                "meet": "DREX vs LASU"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.33,
+        "best_dive_id": "104B",
+        "best_dive_avg": 34.5,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 28.53,
+        "best_dive_id": "203C",
+        "best_dive_avg": 28.9,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 27.6,
+        "best_dive_id": "303C",
+        "best_dive_avg": 27.6,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 39.09,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.6,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 26.86,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 30.8,
+        "grade": 3.6
+      },
+      "average_grade": 4.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 34.01,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.0,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 28.55,
+        "best_dive_id": "201C",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 25.77,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.7,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 35.55,
+        "best_dive_id": "403B",
+        "best_dive_avg": 35.55,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 28.78,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 31.08,
+        "grade": 3.6
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 4.0
+  }
+}

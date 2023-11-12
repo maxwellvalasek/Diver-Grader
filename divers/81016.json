@@ -1,0 +1,664 @@
+{
+  "name": "Avery Taylor",
+  "gender": "F",
+  "age": "18",
+  "id": 81016,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.43,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 35.7,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 25.5,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 27.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.18
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 31.05,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 32.78,
+                "meet": "LEHU vs WCUP"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.91
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 37.95,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 33.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.48
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 41.4,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 21.6,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 29.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 23.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.8
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.5,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 33.0,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 25.5,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 29.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 38.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.43,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.15,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 29.75,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 23.8,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.28
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 31.5,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 34.65,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.55,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 31.5,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.25,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 27.0,
+                "meet": "WCUP vs TCNJ"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 39.6,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 34.65,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 27.5,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 35.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.24
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 27.08,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.5,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 30.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.66
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 37.95,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.35,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 34.65,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 22.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.47
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 32.4,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 22.8,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.73
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 16.2,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 45.0,
+                "meet": "LEHU vs WCUP"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 34.65,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 31.9,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.27
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 24.3,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.75,
+                "meet": "WCUP vs SCSU vs SU"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.02
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.65,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.2,
+                "meet": "WCUP vs TCNJ"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 29.7,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.1,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.9
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.0,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 33.0,
+                "meet": "LEHU vs WCUP"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.5,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 44.1,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 39.38,
+                "meet": "LEHU vs WCUP"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.74
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 27.08,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 29.45,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.27
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 48.6,
+                "meet": "WCUP vs TCNJ"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 39.38,
+                "meet": "WCUP vs TCNJ"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 29.93,
+                "meet": "LEHU vs WCUP"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 42.53,
+                "meet": "WCUP vs SCSU vs SU"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.26
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.59,
+        "best_dive_id": "105C",
+        "best_dive_avg": 35.7,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 28.55,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.8,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 31.4,
+        "best_dive_id": "303C",
+        "best_dive_avg": 32.9,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 31.89,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.24,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 29.79,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 30.47,
+        "grade": 4.0
+      },
+      "average_grade": 4.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 31.94,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.27,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "203C",
+        "best_dive_avg": 34.2,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 28.2,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.5,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 44.03,
+        "best_dive_id": "404C",
+        "best_dive_avg": 48.6,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 34.26,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 34.26,
+        "grade": 4.3
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

@@ -1,0 +1,372 @@
+{
+  "name": "Michael Hilde",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 11465,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 35.04,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.04
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 64.68,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 64.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 37.26,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.26
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 35.1,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 41.04,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.04
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 54.0,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 42.84,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.84
+          },
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 41.4,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 44.1,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 58.5,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.5
+          },
+          "5335D": {
+            "dd": 2.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 48.72,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.72
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 49.92,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 54.6,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.26
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 52.2,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 38.7,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.45
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 54.9,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 45.0,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 49.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 70.68,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 55.8,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 63.24
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 49.92,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 53.82,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.87
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-08-09",
+                "score": 46.02,
+                "meet": "2005 US National Senior Diving Championships"
+              },
+              {
+                "date": "2005-08-09",
+                "score": 52.26,
+                "meet": "2005 US National Senior Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 49.14
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 49.86,
+        "best_dive_id": "107C",
+        "best_dive_avg": 64.68,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 36.18,
+        "best_dive_id": "201B",
+        "best_dive_avg": 37.26,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 47.52,
+        "best_dive_id": "305B",
+        "best_dive_avg": 54.0,
+        "grade": 5.9
+      },
+      "Inward": {
+        "top_2_avg": 42.12,
+        "best_dive_id": "403B",
+        "best_dive_avg": 42.84,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 53.61,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 58.5,
+        "grade": 6.7
+      },
+      "average_grade": 5.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 52.26,
+        "best_dive_id": "105B",
+        "best_dive_avg": 52.26,
+        "grade": 7.0
+      },
+      "Back": {
+        "top_2_avg": 45.45,
+        "best_dive_id": "205C",
+        "best_dive_avg": 45.45,
+        "grade": 6.1
+      },
+      "Reverse": {
+        "top_2_avg": 49.95,
+        "best_dive_id": "305C",
+        "best_dive_avg": 49.95,
+        "grade": 6.7
+      },
+      "Inward": {
+        "top_2_avg": 63.24,
+        "best_dive_id": "405C",
+        "best_dive_avg": 63.24,
+        "grade": 8.4
+      },
+      "Twister": {
+        "top_2_avg": 50.5,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 51.87,
+        "grade": 6.7
+      },
+      "average_grade": 7.0
+    },
+    "overall_average_grade": 6.4
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "name": "Rey Noble",
+  "gender": "M",
+  "age": "16",
+  "id": 82107,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 21.25,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 30.4,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 20.7,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 26.4,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 29.75,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 0.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 12.8,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 24.0,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 13.2,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 17.6,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 21.25,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-19",
+                "score": 28.9,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.07
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.4,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.4,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 14.88,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.75,
+        "grade": 2.0
+      },
+      "Reverse": {
+        "top_2_avg": 12.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 12.8,
+        "grade": 1.7
+      },
+      "Inward": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 25.07,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 25.07,
+        "grade": 3.3
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

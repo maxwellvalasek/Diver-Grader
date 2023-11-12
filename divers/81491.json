@@ -1,0 +1,128 @@
+{
+  "name": "Henry Luksik",
+  "gender": "M",
+  "age": "9",
+  "id": 81491,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 14.5,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 15.0,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 15.5,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 20.3,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.5,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 15.0,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.9,
+        "best_dive_id": "101A",
+        "best_dive_avg": 20.3,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

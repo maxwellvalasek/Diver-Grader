@@ -1,0 +1,209 @@
+{
+  "name": "Rydley Adam Strong",
+  "gender": "M",
+  "age": "16",
+  "id": 82765,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102A": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 15.2,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 16.8,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 13.2,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 14.4,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 14.4,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 16.15,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 17.85,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 16.1,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 21.6,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 15.3,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-16",
+                "score": 11.05,
+                "meet": "2023 WIAA Boys State Swimming and Diving Championships 1A/2A"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 16.8,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 14.4,
+        "grade": 1.9
+      },
+      "Reverse": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "302B",
+        "best_dive_avg": 17.85,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 18.85,
+        "best_dive_id": "402C",
+        "best_dive_avg": 21.6,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 13.18,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 15.3,
+        "grade": 1.8
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

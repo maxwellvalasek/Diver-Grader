@@ -1,0 +1,214 @@
+{
+  "name": "Ada Hartney",
+  "gender": "F",
+  "age": "13",
+  "id": 81594,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 19.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 25.6,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.1,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 28.8,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 19.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 27.2,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 22.4,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 28.0,
+                "meet": "K2 Diving Mock Meet"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 12.75,
+                "meet": "K2 Diving Mock Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.85,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.1,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 28.8,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 27.2,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 25.77,
+        "best_dive_id": "401C",
+        "best_dive_avg": 26.25,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 12.75,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 12.75,
+        "grade": 1.7
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

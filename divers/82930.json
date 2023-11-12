@@ -1,0 +1,105 @@
+{
+  "name": "Christopher Keller",
+  "gender": "M",
+  "age": "10",
+  "id": 82930,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 16.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 21.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 24.65,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.75,
+        "best_dive_id": "101A",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 21.07,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 2.8
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

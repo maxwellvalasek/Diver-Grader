@@ -1,0 +1,220 @@
+{
+  "name": "Aime Morales",
+  "gender": "F",
+  "age": "18",
+  "id": 81628,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.2,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 26.45,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 12.65,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.77
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.9,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 31.45,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.17
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 23.8,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 29.75,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 26.35,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 25.2,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 18.75,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 29.25,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 36.3,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 38.5,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 35.2,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.67
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 34.2,
+                "meet": "Georgia High School State Championship 6-7A"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 35.65,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 43.7,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2022-12-11",
+                "score": 40.25,
+                "meet": "Atlanta Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.87
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.77,
+        "best_dive_id": "104B",
+        "best_dive_avg": 23.77,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "201A",
+        "best_dive_avg": 30.17,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "301A",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 31.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.67,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 38.45,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 39.87,
+        "grade": 5.1
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

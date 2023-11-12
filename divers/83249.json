@@ -1,0 +1,128 @@
+{
+  "name": "Ramiro Gomez Jr",
+  "gender": "M",
+  "age": "11",
+  "id": 83249,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 11.5,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 11.5,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 14.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 13.2,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 15.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 14.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "100A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "Inward": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

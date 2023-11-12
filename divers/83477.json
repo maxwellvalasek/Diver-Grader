@@ -1,0 +1,231 @@
+{
+  "name": "Mark Rysin",
+  "gender": "M",
+  "age": "10",
+  "id": 83477,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 15.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 13.5,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 12.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 15.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 14.25,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 12.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 15.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 14.25,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 13.5,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 12.0,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 15.75,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 13.5,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 13.12,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.25,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.62,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 13.88,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.75,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 13.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

@@ -1,0 +1,212 @@
+{
+  "name": "Devin Lippman",
+  "gender": "F",
+  "age": "19",
+  "id": 80195,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 35.7,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 30.6,
+                "meet": "PROV vs Iona College I"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 41.25,
+                "meet": "PROV vs Iona College II"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 35.7,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.88,
+                "meet": "PROV vs Iona College II"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 31.88,
+                "meet": "PROV vs Iona College I"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.15
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 31.88,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.5,
+                "meet": "PROV vs Iona College I"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 24.23,
+                "meet": "PROV vs Iona College II"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 28.8,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.2,
+                "meet": "PROV vs Iona College II"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 27.6,
+                "meet": "PROV vs Iona College I"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 23.63,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.5,
+                "meet": "PROV vs Iona College I"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.5,
+                "meet": "PROV vs Iona College II"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.88
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-09",
+                "score": 28.5,
+                "meet": "RI vs PROV"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.65,
+                "meet": "PROV vs Iona College I"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 24.23,
+                "meet": "PROV vs Iona College II"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.13
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.85,
+        "best_dive_id": "104C",
+        "best_dive_avg": 41.25,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 33.15,
+        "best_dive_id": "201A",
+        "best_dive_avg": 33.15,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 22.88,
+        "best_dive_id": "401B",
+        "best_dive_avg": 22.88,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 26.13,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.13,
+        "grade": 3.5
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

@@ -1,0 +1,184 @@
+{
+  "name": "Ava Christy",
+  "gender": "F",
+  "age": "13",
+  "id": 81944,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 17.0,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 15.5,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 12.0,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.83
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 19.2,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 17.4,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 13.8,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 6.3,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 10.5,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 14.0,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 10.27
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 16.0,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 17.5,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 16.0,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 19.5,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 17.25,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 13.5,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-21",
+                "score": 21.0,
+                "meet": "2023 AAU Diving Central Association Championships"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 17.5,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 16.8,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.43
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.82,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.8,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.62,
+        "best_dive_id": "201C",
+        "best_dive_avg": 16.75,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 18.43,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.43,
+        "grade": 2.5
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

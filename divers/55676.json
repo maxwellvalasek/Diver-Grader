@@ -1,0 +1,574 @@
+{
+  "name": "Isabel Wilkins",
+  "gender": "F",
+  "age": "18",
+  "id": 55676,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 18.5,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 21.0,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 18.0,
+                "meet": "2017 Cinco de Mayo Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 22.4,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 32.9,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.65
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 27.6,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 19.0,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 20.5,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.75
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.05,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 39.1,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.58
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 29.7,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 24.15,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.5,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 0.0,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 26.4,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 22.2,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 26.4,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 24.0,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 28.8,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 29.6,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.47
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 36.3,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 39.6,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 45.1,
+                "meet": "CHCR vs BING vs BRNT"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.33
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.7,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 30.6,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 34.85,
+                "meet": "CHCR vs BING vs BRNT"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.72
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 27.75,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 21.0,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 30.75,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.5,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 18.0,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 32.0,
+                "meet": "CHCR vs BING vs BRNT"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.17
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 26.4,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 24.0,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 31.2,
+                "meet": "CHCR vs BING vs BRNT"
+              },
+              {
+                "date": "2017-05-06",
+                "score": 31.2,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 25.6,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 29.6,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 24.5,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 25.2,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 28.0,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 24.0,
+                "meet": "2017 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 16.8,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 31.2,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.0,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 42.9,
+                "meet": "CORU vs BING"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 41.8,
+                "meet": "CHCR vs BING vs BRNT"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.23
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-06",
+                "score": 14.45,
+                "meet": "2017 Cinco de Mayo Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 34.2,
+                "meet": "CHCR vs BING vs BRNT"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 0.0,
+                "meet": "2017 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2016-12-17",
+                "score": 35.15,
+                "meet": "2016 Long Island Divers Holiday Team Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.12
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 29.7,
+                "meet": "BING vs CAN"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 33.0,
+                "meet": "CORU vs BING"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.63,
+        "best_dive_id": "101C",
+        "best_dive_avg": 27.65,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 26.66,
+        "best_dive_id": "201C",
+        "best_dive_avg": 33.58,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 29.7,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.7,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 26.32,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.5,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 2.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 33.9,
+        "best_dive_id": "104C",
+        "best_dive_avg": 40.33,
+        "grade": 4.5
+      },
+      "Back": {
+        "top_2_avg": 30.45,
+        "best_dive_id": "201A",
+        "best_dive_avg": 33.72,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.0,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 32.56,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.23,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 26.41,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 31.35,
+        "grade": 3.5
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 3.4
+  }
+}

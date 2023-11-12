@@ -1,0 +1,174 @@
+{
+  "name": "Sean Henning",
+  "gender": "M",
+  "age": "15",
+  "id": 82797,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 28.0,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 29.6,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 28.6,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 0.0,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.0,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 9.0,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 24.8,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 23.2,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 17.6,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 17.6,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 31.35,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-16",
+                "score": 29.45,
+                "meet": "Dover Last Chance Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.55,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.8,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 13.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 13.0,
+        "grade": 1.7
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 17.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 17.6,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 30.4,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 30.4,
+        "grade": 4.1
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

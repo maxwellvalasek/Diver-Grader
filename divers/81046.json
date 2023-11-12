@@ -1,0 +1,164 @@
+{
+  "name": "WVU WOMEN B TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 81046,
+  "events": {
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 33.15,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 34.0,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 42.55,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 38.5,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 32.2,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 38.4,
+                "meet": "WVU Invitational @WVU"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 33.15,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.15,
+        "grade": 3.9
+      },
+      "Armstand": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "612B",
+        "best_dive_avg": 34.0,
+        "grade": 4.0
+      },
+      "average_grade": 3.9
+    },
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 42.55,
+        "best_dive_id": "203B",
+        "best_dive_avg": 42.55,
+        "grade": 5.7
+      },
+      "Inward": {
+        "top_2_avg": 38.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.5,
+        "grade": 5.1
+      },
+      "average_grade": 5.4
+    },
+    "3 Meter": {
+      "Reverse": {
+        "top_2_avg": 32.2,
+        "best_dive_id": "303B",
+        "best_dive_avg": 32.2,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 38.4,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 38.4,
+        "grade": 4.8
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.6
+  }
+}

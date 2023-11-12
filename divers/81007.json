@@ -1,0 +1,98 @@
+{
+  "name": "Arthur Fleischman",
+  "gender": "M",
+  "age": "7",
+  "id": 81007,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 20.3,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.5,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 12.6,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.25,
+        "best_dive_id": "102C",
+        "best_dive_avg": 20.3,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200D",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 12.6,
+        "best_dive_id": "401C",
+        "best_dive_avg": 12.6,
+        "grade": 1.7
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

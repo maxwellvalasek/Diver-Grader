@@ -1,0 +1,227 @@
+{
+  "name": "Lauren Rajauski",
+  "gender": "F",
+  "age": "26",
+  "id": 51475,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 16.8,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 20.0,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 21.45,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 20.4,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 20.25,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 18.0,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 15.0,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 20.4,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 23.1,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              },
+              {
+                "date": "2015-12-12",
+                "score": 24.5,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 20.8,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-12",
+                "score": 22.95,
+                "meet": "Blue Dolphin Diving Invitational 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-10-01",
+                "score": 12.83,
+                "meet": "Bucknell vs. University of Maryland  (UMBC)"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.83
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.73,
+        "best_dive_id": "104C",
+        "best_dive_avg": 21.45,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 20.32,
+        "best_dive_id": "201A",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.8,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 17.89,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 22.95,
+        "grade": 2.4
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

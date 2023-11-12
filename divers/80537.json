@@ -1,0 +1,249 @@
+{
+  "name": "Oscar Contreras",
+  "gender": "M",
+  "age": "17",
+  "id": 80537,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 17.5,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 14.0,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 14.5,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.33
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 20.8,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 18.2,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 27.2,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 19.2,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 13.6,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 22.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 15.0,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 17.0,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 14.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.33
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 23.25,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 21.75,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 20.8,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 26.4,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 29.7,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 4.75,
+                "meet": "2023 Conroe Diving Spring Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 4.75
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 29.7,
+                "meet": "2023 Conroe Diving Spring Classic"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 26.1,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 21.6,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 15.33,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.33,
+        "grade": 2.0
+      },
+      "Inward": {
+        "top_2_avg": 25.27,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.05,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 20.54,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 25.8,
+        "grade": 2.7
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

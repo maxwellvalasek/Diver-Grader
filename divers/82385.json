@@ -1,0 +1,303 @@
+{
+  "name": "Teagan Santoro",
+  "gender": "F",
+  "age": "13",
+  "id": 82385,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 30.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 29.25,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 30.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 31.2,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 28.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 36.3,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 35.7,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 28.8,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 41.8,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 27.2,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 34.2,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 32.4,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 31.35,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 31.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.6,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 29.62,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.0,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 31.2,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 32.4,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 35.7,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.7,
+        "grade": 4.8
+      },
+      "average_grade": 4.3
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 35.3,
+        "best_dive_id": "105C",
+        "best_dive_avg": 41.8,
+        "grade": 4.4
+      },
+      "Back": {
+        "top_2_avg": 30.7,
+        "best_dive_id": "203C",
+        "best_dive_avg": 34.2,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 32.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.4,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 31.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 31.0,
+        "grade": 3.9
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.1
+  }
+}

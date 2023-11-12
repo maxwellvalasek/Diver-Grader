@@ -1,0 +1,209 @@
+{
+  "name": "Torri  Zanella",
+  "gender": "F",
+  "age": "17",
+  "id": 82209,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 30.6,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 38.5,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 31.45,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 34.0,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 28.9,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 35.7,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 30.0,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 28.0,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 34.2,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 37.95,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 22.95,
+                "meet": "Beaver Bobcats Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.55,
+        "best_dive_id": "104C",
+        "best_dive_avg": 38.5,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 32.73,
+        "best_dive_id": "203C",
+        "best_dive_avg": 34.0,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "303C",
+        "best_dive_avg": 35.7,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 29.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 30.0,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 36.08,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 37.95,
+        "grade": 4.8
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.4
+  }
+}

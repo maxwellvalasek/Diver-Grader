@@ -1,0 +1,560 @@
+{
+  "name": "Sophia Gonzalez",
+  "gender": "F",
+  "age": "10",
+  "id": 80428,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 17.0,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 18.5,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 16.5,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 17.5,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 25.9,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 26.25,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 35.1,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 16.5,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 41.4,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 26.4,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 26.1,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 27.0,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 25.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 25.2,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 11.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 22.2,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 25.17
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 21.0,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 18.75,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 14.25,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 26.88,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 34.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 16.8,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 17.5,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.84
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 18.7,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 39.0,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 25.2,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.3,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 25.2,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 27.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 34.0,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.75,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 29.25,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 18.75,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 15.75,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 19.5,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.75,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 13.5,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 12.0,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 19.78
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 19.8,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 22.5,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 19.8,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.93
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 39.6,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 28.8,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 20.8,
+                "meet": "2023 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 14.4,
+                "meet": "2023 USA Diving Junior Region 1 Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 18.4,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 15.2,
+                "meet": "2023 YMCA Nationals Championships"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 16.8,
+                "meet": "2023 YMCA Nationals Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 28.2,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 16.1,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 32.9,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.73
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 41.4,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 30.6,
+                "meet": "2023 Halloween Classic Invite"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 22.1,
+                "meet": "The Kimball Cup AAU Diving"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.01,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.03
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 25.5,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.07,
+        "best_dive_id": "103C",
+        "best_dive_avg": 26.25,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 35.1,
+        "best_dive_id": "202A",
+        "best_dive_avg": 35.1,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "300C",
+        "best_dive_avg": 16.5,
+        "grade": 2.1
+      },
+      "average_grade": 3.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.76,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.17,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 28.34,
+        "best_dive_id": "202A",
+        "best_dive_avg": 34.0,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 21.61,
+        "best_dive_id": "302C",
+        "best_dive_avg": 22.0,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 25.73,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.73,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 29.12,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 30.03,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.3
+  }
+}

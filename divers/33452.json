@@ -1,0 +1,5527 @@
+{
+  "name": "Alyssa Jones",
+  "gender": "F",
+  "age": "23",
+  "id": 33452,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 20.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 29.75,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-02-01",
+                "score": 32.5,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 44.2,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 41.6,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.43
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 46.8,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 43.2,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.6,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 52.2,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 45.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 42.0,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 44.4,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 45.6,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 45.67
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-02-27",
+                "score": 20.7,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 25.3,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 30.6,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 32.3,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 34.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 35.7,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 30.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 28.9,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 31.45,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 27.2,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 27.2,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 30.88
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 29.25,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 45.6,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 34.8,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.6,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 46.8,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 45.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 44.4,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 45.6,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 43.2,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 46.8,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 44.4,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 46.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 44.51
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 16.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 43.05,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 39.9,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 44.1,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 44.1,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 42.0,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 43.05,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 43.05,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 38.85,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 39.9,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 35.7,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 40.95,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 12,
+            "average_score": 41.04
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 30.6,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 28.05,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 29.75,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 36.98,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 30.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 30.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 32.3,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 20.4,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 29.75,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 16.15,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 17.85,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 18.7,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 12,
+            "average_score": 26.81
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-07-23",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-07-28",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 19.5,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-07-23",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.83
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-10-10",
+                "score": 22.75,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 20.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 7.8,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 17.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 32.4,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 21.45,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              }
+            ],
+            "count": 6,
+            "average_score": 20.27
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-10-08",
+                "score": 19.8,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-07-28",
+                "score": 32.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 22.5,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 20.25,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2011-07-23",
+                "score": 20.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 34.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 31.45,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 31.45,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 33.15,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 32.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 35.7,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.3,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 35.7,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 33.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 31.45,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 36.55,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 34.85,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 27.2,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 38.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 22.1,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 32.3,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 31.45,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 36.55,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2014-10-10",
+                "score": 30.6,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 31.45,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 28.05,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 28.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 27.2,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 11.9,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 31.45,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 27.2,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 29.75,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 28.05,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 28.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 25.5,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 0.0,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              }
+            ],
+            "count": 31,
+            "average_score": 29.64
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-06-13",
+                "score": 33.0,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 30.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 27.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 30.8,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 27.5,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 19.8,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 20.9,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 31.9,
+                "meet": "2013 Spring Fling Invitation"
+              }
+            ],
+            "count": 8,
+            "average_score": 27.78
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 23.4,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 42.9,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 50.7,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 35.1,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 39.0,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 26.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 46.8,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 50.7,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 46.8,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 32.5,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 49.4,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 31.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 48.1,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 33.8,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 46.8,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 39.0,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 20.8,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 42.9,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 36.4,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 39.0,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 33.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 0.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 33.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 36.4,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 32.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 25,
+            "average_score": 36.71
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 43.2,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 51.6,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 28.8,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 30.6,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.2,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 46.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 38.4,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 48.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 43.2,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 39.6,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 49.2,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 32.4,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 43.2,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 42.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 44.4,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 32.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 45.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 33.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 42.0,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 19.2,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 36.0,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 39.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 16.8,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 26.4,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 30.0,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 0.0,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 26,
+            "average_score": 36.16
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-07-28",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 15.5,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-07-23",
+                "score": 21.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-12-08",
+                "score": 22.95,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 22.95,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 20.4,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.1
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 28.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 28.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 25.6,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 29.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 33.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 27.2,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 25.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 30.4,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 30.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 26.4,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 24.8,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 24.8,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 28.0,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 26.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 28.0,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 27.2,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 23.2,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 28.8,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2014-10-10",
+                "score": 21.6,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 19.2,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 28.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 23.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 20.0,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 28.8,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 29.6,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 28.0,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 26.4,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 21.6,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 21.6,
+                "meet": "2013 Spring Fling Invitation"
+              }
+            ],
+            "count": 30,
+            "average_score": 26.13
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-07",
+                "score": 24.65,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 28.9,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 22.1,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 21.25,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 28.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 27.2,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 27.2,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 33.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 25.5,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              }
+            ],
+            "count": 9,
+            "average_score": 26.44
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-28",
+                "score": 29.25,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 20.25,
+                "meet": "2011 Cactus Invitational"
+              },
+              {
+                "date": "2011-07-23",
+                "score": 15.0,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.5
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 34.5,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 35.65,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 43.7,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 41.4,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 37.95,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 43.13,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 41.4,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 41.4,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 27.6,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 48.3,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 47.15,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 44.85,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 37.95,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 32.2,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 23.0,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 32.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 47.15,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 39.1,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 41.4,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 35.65,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 39.1,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 39.1,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.95,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 37.95,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 37.95,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 36.23,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 36.8,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 40.25,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 33.35,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 41.4,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 24.15,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 41.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 32.2,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 40.25,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 48.3,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 31.05,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 40.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 41.4,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 40.25,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 42.55,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 17.25,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 13.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 24.15,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 29.9,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 31.05,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 45,
+            "average_score": 36.75
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-10-16",
+                "score": 35.0,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 37.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 23.0,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 27.0,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 29.0,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 33.0,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 30.67
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-01-07",
+                "score": 28.05,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 28.9,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 29.33,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 35.7,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 36.55,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 28.05,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 30.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 30.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 23.8,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 30.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 34.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 34.85,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 30.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 39.1,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 32.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 30.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 26.35,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 28.05,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 27.2,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 37.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 21.25,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 34.85,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 25.5,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 23.8,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2014-10-10",
+                "score": 29.75,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 22.95,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 30.6,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 27,
+            "average_score": 30.05
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-12",
+                "score": 22.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 24.0,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 15.2,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 24.0,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 24.8,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 21.6,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 20.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 28.0,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 19.2,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.13
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-10-10",
+                "score": 26.4,
+                "meet": "2014 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 31.2,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 30.0,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 36.0,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.6,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 21.6,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 46.8,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 46.8,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 38.4,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 34.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 25.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 43.2,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 30.0,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 32.4,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 32.4,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 20.4,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 36.0,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 33.6,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 30.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 44.4,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 39.6,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 40.8,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 31.2,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 24.0,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 28.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 37.8,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 28.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 27.6,
+                "meet": "Cactus Invitational"
+              }
+            ],
+            "count": 27,
+            "average_score": 33.98
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 36.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 25.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 26.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 29.4,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 27.3,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 19.95,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 29.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 11.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 16.8,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 23.1,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 24.57
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 30.75,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 26.25,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 30.75,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.75,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 30.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 28.5,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 27.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 37.5,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 32.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 29.25,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 27.75,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 22.5,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 22.5,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 24.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 21.75,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 28.5,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 31.5,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 22.5,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2014-10-10",
+                "score": 27.75,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 27.75,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 24.75,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 24.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 27.75,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 27.0,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 27.0,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 27.0,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 37.0,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 27.0,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 27.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 27.75,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 21.75,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              }
+            ],
+            "count": 31,
+            "average_score": 27.56
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-07-28",
+                "score": 25.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 16.8,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 22.4,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 16.8,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.47
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-11",
+                "score": 23.2,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 43.2,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 49.2,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 50.4,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 49.2,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 50.4,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 50.4,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 46.8,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 49.2,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 43.2,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 55.2,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 49.2,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 48.6,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 50.4,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 45.6,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 46.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 49.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 49.2,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 45.6,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 46.8,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 44.4,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 44.4,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 43.2,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 42.0,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 42.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 46.8,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 41.4,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 36.0,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 50.4,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 45.6,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 40.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 45.0,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 49.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 42.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 44.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 51.6,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 37.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 49.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 48.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 44.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 44.4,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 43.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 50.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 43.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 38.4,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 28.8,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 27.6,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 50.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 31.2,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 38.4,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 40.8,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 45.6,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 51,
+            "average_score": 44.88
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-10-10",
+                "score": 40.7,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 22.0,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 33.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 34.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 0.0,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 25.3,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 35.2,
+                "meet": "Las Vegas Winter Diving Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.19
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 49.0,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 42.0,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 43.4,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 49.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 50.4,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 46.2,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 42.0,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 44.8,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 37.8,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 53.2,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 43.4,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 48.3,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 50.4,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 42.0,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 43.4,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 35.0,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 49.0,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 40.6,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 42.0,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 49.0,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 47.6,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              }
+            ],
+            "count": 21,
+            "average_score": 45.17
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-06-13",
+                "score": 21.85,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 13.3,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 25.65,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 29.45,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 21.85,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 19.95,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 21.85,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 20.9,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-06-14",
+                "score": 16.15,
+                "meet": "2013 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 17.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 25.65,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 22.8,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 20.9,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 15.2,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 14,
+            "average_score": 20.9
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-12-08",
+                "score": 20.4,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-10-10",
+                "score": 25.3,
+                "meet": "2014 Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 24.15,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 32.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 35.65,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.33
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-03-07",
+                "score": 34.65,
+                "meet": "2022 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 37.8,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 40.95,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 44.1,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 38.85,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 45.68,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 39.38,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-12-18",
+                "score": 40.95,
+                "meet": "CBU Diving Invitational @ California Baptist"
+              },
+              {
+                "date": "2021-12-11",
+                "score": 42.53,
+                "meet": "GCU vs NAZU"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 38.85,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-19",
+                "score": 44.1,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2021-11-05",
+                "score": 40.95,
+                "meet": "NAZU vs UNM"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 35.7,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 40.95,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 43.05,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 44.1,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 38.85,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 36.75,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 33.6,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 39.9,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 42.53,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 45.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 38.85,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 45.15,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 38.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 36.75,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 39.9,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 42.0,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 38.85,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 43.05,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 36.75,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 44.1,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 26.25,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 44.1,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2015-07-11",
+                "score": 48.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2015-06-11",
+                "score": 18.9,
+                "meet": "2015 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2015-05-29",
+                "score": 39.9,
+                "meet": "2015 ADA Championships"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 39.9,
+                "meet": "2015 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 28.35,
+                "meet": "2015 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 41,
+            "average_score": 39.36
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 27.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 26.1,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 16.2,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 24.3,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 33.0,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-03-08",
+                "score": 37.4,
+                "meet": "2021 NCAA ZONE E CHAMPIONSHIPS"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 40.7,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 39.6,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 45.1,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 38.5,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 51.15,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 41.8,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 41.8,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 33.0,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 39.6,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 39.6,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 44.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 39.6,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 37.4,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 40.7,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 40.7,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 42.9,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 39.6,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 46.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 40.7,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 38.5,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 53.9,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 26.4,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 46.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 29.7,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 24.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 41.8,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              }
+            ],
+            "count": 28,
+            "average_score": 39.78
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 16.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 17.0,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 20.0,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 15.5,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 24.0,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 18.5,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 18.64
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-12-08",
+                "score": 18.0,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 22.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 15.0,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 18.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 15.0,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 17.5,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 20.0,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 17.92
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 21.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 19.0,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 17.5,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 20.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 18.0,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 15.5,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 19.0,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 18.64
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-06-13",
+                "score": 27.0,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 27.75,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 31.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 26.25,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 29.25,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 27.6,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 28.5,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 17.25,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 25.5,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              }
+            ],
+            "count": 9,
+            "average_score": 26.73
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 24.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 37.05,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 25.2,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 35.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 29.45,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 21.0,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.76
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 35.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 27.2,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 33.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 24.0,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 26.4,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 34.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 31.2,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 31.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 35.2,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 28.8,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 33.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 29.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 33.6,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 29.6,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 29.6,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 28.8,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 28.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 37.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 32.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 31.2,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 32.0,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 25.92,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 30.4,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 29.6,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 41.0,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 25,
+            "average_score": 31.2
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 43.2,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 43.2,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 46.8,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 43.2,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 30.6,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 46.8,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 46.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 50.4,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 52.8,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 40.8,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 45.0,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 46.8,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 42.0,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 43.2,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 52.8,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 37.8,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 36.0,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 49.2,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 40.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 44.4,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 46.8,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 46.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 43.2,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 38.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 32.4,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 43.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 50.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 42.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 33.6,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 51.6,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 48.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 50.4,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 51.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 44.4,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 42.0,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 43.2,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 36,
+            "average_score": 44.18
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-10-16",
+                "score": 22.0,
+                "meet": "2015 Cds Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-04",
+                "score": 47.6,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 50.4,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 37.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 46.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 36.4,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 32.2,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              }
+            ],
+            "count": 6,
+            "average_score": 41.77
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 20.0,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 24.5,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 23.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 13.5,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 15.0,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 22.5,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 19.71
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 32.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 31.5,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.3,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 23.4,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 26.1,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 37.8,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 27.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 42.3,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 32.4,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 32.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 34.2,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 34.2,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 31.5,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 28.8,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 30.6,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 27.9,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 30.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 27.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 27.0,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 28.8,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 35.1,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 24.3,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 29.7,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 21.6,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 24,
+            "average_score": 30.05
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-06-10",
+                "score": 10.2,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-10-26",
+                "score": 39.6,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 38.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 42.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 31.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 39.6,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 34.8,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 38.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 45.6,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 40.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 37.2,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 26.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 26.4,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 21.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 45.6,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 43.2,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 20.4,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 16,
+            "average_score": 35.7
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 29.4,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 23.8,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 29.4,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 46.2,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 48.3,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 42.0,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 46.2,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 37.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 43.4,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 26.6,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 46.2,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 28.0,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 23.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 35.7,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 36.4,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 43.4,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 36.4,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              }
+            ],
+            "count": 20,
+            "average_score": 36.82
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 32.3,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 32.3,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 31.35,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 35.63,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 31.35,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 34.2,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 31.35,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 32.78,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 34.2,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 34.2,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 35.15,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 33.25,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 23.75,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 32.3,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 27.55,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 38.95,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 32.3,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 36.1,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 38.0,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 28.5,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 31.35,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 31.35,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 28.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 30.4,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 34.2,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 36.1,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 21.85,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 31.35,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 25.65,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 29,
+            "average_score": 31.94
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-12",
+                "score": 30.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 13.5,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 32.4,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 24.3,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 27.0,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 31.5,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 15.3,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 28.8,
+                "meet": "2013 Spring Fling Invitation"
+              }
+            ],
+            "count": 8,
+            "average_score": 25.43
+          },
+          "302B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-05-21",
+                "score": 31.5,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-10-16",
+                "score": 23.8,
+                "meet": "2015 Cds Cactus Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 18.7,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 25.5,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 28.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 27.2,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 29.75,
+                "meet": "2014 Spring Fling Invitation"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.64
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 37.95,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 42.55,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 42.55,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 36.8,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 32.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 28.75,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 37.95,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 24.15,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 23.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 27.6,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 31.05,
+                "meet": "2016 Spring Fling Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 33.14
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-02-25",
+                "score": 35.0,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 50.4,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 42.0,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 22.4,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 29.4,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 25.2,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 36.4,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 42.0,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 54.6,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 39.9,
+                "meet": "New Mexico vs. Northern Arizona"
+              }
+            ],
+            "count": 11,
+            "average_score": 37.74
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-12",
+                "score": 24.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 23.1,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 28.7,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 27.6,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 27.3,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 33.0,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 20.3,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.36
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 26.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2013-02-16",
+                "score": 24.7,
+                "meet": "2013 Spring Fling Invitation"
+              },
+              {
+                "date": "2012-12-08",
+                "score": 23.4,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 22.1,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 16.9,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-12-10",
+                "score": 20.15,
+                "meet": "Las Vegas Winter Diving Invitational 2011"
+              }
+            ],
+            "count": 6,
+            "average_score": 22.21
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 40.95,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 40.95,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 42.53,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 39.38,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 35.7,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 44.1,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 39.9,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 38.85,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 36.75,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 40.95,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 36.75,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 40.95,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 39.9,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 39.38,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 39.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 38.85,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 38.85,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 37.8,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 38.85,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 37.8,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 42.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 35.7,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 40.95,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 39.9,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 46.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 37.8,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 31.5,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 38.85,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 33.6,
+                "meet": "2015 Cds Cactus Invitational"
+              }
+            ],
+            "count": 30,
+            "average_score": 39.11
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-06-13",
+                "score": 29.45,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 27.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 29.45,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 33.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 34.2,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 27.55,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 34.77,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 31.35,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 31.35,
+                "meet": "2013 Cactus Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 26.6,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 30.55
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-06-13",
+                "score": 32.4,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 38.4,
+                "meet": "Arizona Diving Association Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.4
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 44.55,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 58.05,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.9,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 52.65,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 58.73,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2021-10-16",
+                "score": 56.7,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 51.3,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 55.35,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 52.65,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 37.8,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 56.7,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 39.15,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 51.3,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 52.65,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 54.0,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 24.3,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 48.6,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 51.3,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 48.6,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 46.58,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 56.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 36.45,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 43.2,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 55.35,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 43.2,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 45.9,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 36.45,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.4,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 58.05,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 55.35,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 47.25,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 48.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 49.95,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 39.15,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 36.45,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 32.4,
+                "meet": "2015 Cds Cactus Invitational"
+              }
+            ],
+            "count": 37,
+            "average_score": 47.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-12-08",
+                "score": 18.0,
+                "meet": "Las Vegas Winter Diving Invitational 2012"
+              },
+              {
+                "date": "2012-07-28",
+                "score": 15.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2012-04-28",
+                "score": 17.5,
+                "meet": "2012 Spring Fling Invitation"
+              },
+              {
+                "date": "2011-10-08",
+                "score": 18.0,
+                "meet": "2011 Cactus Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.25
+          },
+          "5111A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-16",
+                "score": 26.0,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2014-06-13",
+                "score": 7.0,
+                "meet": "2014 USA Diving Summer Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 21.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-05-31",
+                "score": 30.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 35.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 21.0,
+                "meet": "2014 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2014-02-15",
+                "score": 33.0,
+                "meet": "2014 Spring Fling Invitation"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 28.0,
+                "meet": "Las Vegas Winter Diving Invitational"
+              },
+              {
+                "date": "2013-10-11",
+                "score": 21.0,
+                "meet": "2013 Cactus Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 24.67
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-23",
+                "score": 38.0,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-23",
+                "score": 39.0,
+                "meet": "2022 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 38.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-01-22",
+                "score": 43.5,
+                "meet": "NAZU vs NMSU vs NEV vs UNLV"
+              },
+              {
+                "date": "2022-01-07",
+                "score": 36.0,
+                "meet": "ARIZ vs NAZU"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 39.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 35.0,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 37.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 40.0,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 39.0,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 40.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 40.0,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 40.0,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 43.0,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 34.0,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 32.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 36.0,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 37.0,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2016-04-16",
+                "score": 29.0,
+                "meet": "2016 Spring Fling Invitational"
+              },
+              {
+                "date": "2015-10-16",
+                "score": 25.0,
+                "meet": "2015 Cds Cactus Invitational"
+              }
+            ],
+            "count": 20,
+            "average_score": 37.02
+          },
+          "5331D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-16",
+                "score": 34.65,
+                "meet": "NAZU Intrasquad Meet"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 37.8,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-25",
+                "score": 38.85,
+                "meet": "2021 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2021-02-05",
+                "score": 40.95,
+                "meet": "NAZU vs SDSU vs IDAH"
+              },
+              {
+                "date": "2021-01-30",
+                "score": 39.9,
+                "meet": "ARIZ vs NAZU vs NMSU"
+              },
+              {
+                "date": "2021-01-23",
+                "score": 42.53,
+                "meet": "NAZU vs GCU"
+              },
+              {
+                "date": "2020-12-04",
+                "score": 40.95,
+                "meet": "Northern Arizona Universiy Diving Invite"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 37.8,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-27",
+                "score": 39.9,
+                "meet": "2019 WAC  Mens and Womens Swimming and Diving Championships"
+              },
+              {
+                "date": "2019-02-01",
+                "score": 43.05,
+                "meet": "Northern Arizona Lumberjack Tri Meet"
+              },
+              {
+                "date": "2019-01-25",
+                "score": 40.95,
+                "meet": "Boise State vs. Northern Arizona"
+              },
+              {
+                "date": "2019-01-18",
+                "score": 34.65,
+                "meet": "Bruin Invite UCLA Diving Invitational"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 43.05,
+                "meet": "Northern Arizona vs. U. of Northern Colorado vs Kansas"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 34.65,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 37.8,
+                "meet": "Northern Arizona Lumberjack Diving Invite"
+              },
+              {
+                "date": "2018-10-26",
+                "score": 39.38,
+                "meet": "New Mexico vs. Northern Arizona"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 38.85,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 37.8,
+                "meet": "2018 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 37.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 42.0,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-06-29",
+                "score": 33.6,
+                "meet": "2017 USA Diving National Preliminary Zone F Championships"
+              },
+              {
+                "date": "2017-06-10",
+                "score": 35.7,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-04-29",
+                "score": 38.85,
+                "meet": "2017 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 37.8,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2017-02-18",
+                "score": 43.05,
+                "meet": "Arizona AAU Diving 1st State Qualifier for National"
+              },
+              {
+                "date": "2016-10-15",
+                "score": 34.65,
+                "meet": "Cactus Invitational"
+              },
+              {
+                "date": "2016-07-07",
+                "score": 28.35,
+                "meet": "2016 USA Diving National Zone F Meet"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 33.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2016-05-21",
+                "score": 32.55,
+                "meet": "Arizona Diving Association Championships"
+              },
+              {
+                "date": "2016-05-07",
+                "score": 17.85,
+                "meet": "2016 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 30,
+            "average_score": 37.31
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 43.97,
+        "best_dive_id": "105C",
+        "best_dive_avg": 45.67,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 23.0,
+        "best_dive_id": "203B",
+        "best_dive_avg": 23.0,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 30.88,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.88,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 43.24,
+        "best_dive_id": "403B",
+        "best_dive_avg": 44.51,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 39.15,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 41.04,
+        "grade": 4.6
+      },
+      "Armstand": {
+        "top_2_avg": 26.81,
+        "best_dive_id": "612B",
+        "best_dive_avg": 26.81,
+        "grade": 3.2
+      },
+      "average_grade": 4.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.43,
+        "best_dive_id": "105B",
+        "best_dive_avg": 36.71,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 36.03,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.75,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 32.02,
+        "best_dive_id": "303B",
+        "best_dive_avg": 33.98,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 44.96,
+        "best_dive_id": "404C",
+        "best_dive_avg": 45.17,
+        "grade": 6.0
+      },
+      "Twister": {
+        "top_2_avg": 39.53,
+        "best_dive_id": "5331D",
+        "best_dive_avg": 39.78,
+        "grade": 5.3
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.84,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.18,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 36.32,
+        "best_dive_id": "205C",
+        "best_dive_avg": 36.82,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 35.44,
+        "best_dive_id": "305C",
+        "best_dive_avg": 37.74,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 43.51,
+        "best_dive_id": "405C",
+        "best_dive_avg": 47.07,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 37.19,
+        "best_dive_id": "5331D",
+        "best_dive_avg": 37.31,
+        "grade": 4.6
+      },
+      "average_grade": 4.9
+    },
+    "overall_average_grade": 4.7
+  }
+}

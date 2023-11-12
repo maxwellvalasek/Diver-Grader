@@ -1,0 +1,185 @@
+{
+  "name": "Renee Peralta H",
+  "gender": "F",
+  "age": "7",
+  "id": 80466,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 16.5,
+                "meet": "2023 California Games"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 14.25,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.38
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 17.25,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 23.0,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 19.0,
+                "meet": "2023 California Games"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 12.0,
+                "meet": "Coast Divers Halloween Invite 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 14.0,
+                "meet": "2023 California Games"
+              },
+              {
+                "date": "2023-06-09",
+                "score": 14.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 15.5,
+                "meet": "2023 California Games"
+              },
+              {
+                "date": "2023-06-09",
+                "score": 18.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 17.0,
+                "meet": "2023 California Games"
+              },
+              {
+                "date": "2023-06-09",
+                "score": 16.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.12,
+        "best_dive_id": "100C",
+        "best_dive_avg": 23.0,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 16.75,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.75,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.2
+  }
+}

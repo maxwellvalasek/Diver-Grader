@@ -1,0 +1,315 @@
+{
+  "name": "Paige Mefford",
+  "gender": "F",
+  "age": "11",
+  "id": 80884,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 14.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 14.0,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.83
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 17.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 13.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 12.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 18.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 13.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 17.0,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.17
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 15.4,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 17.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.45
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 16.8,
+                "meet": "New River Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 16.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 15.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 14.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 20.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 19.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 17.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 19.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 16.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 17.0,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 15.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.83
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 15.5,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 13.5,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 16.0,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-07",
+                "score": 16.0,
+                "meet": "New River Invitational"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 15.0,
+                "meet": "2023 The Carolina BIG DIVE Novice-Intermediate Invite"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 15.5,
+                "meet": "2022 Carolina Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.57,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 18.25,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 15.25,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.1
+  }
+}

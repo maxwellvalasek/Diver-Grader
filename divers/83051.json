@@ -1,0 +1,481 @@
+{
+  "name": "Griffin Etchart",
+  "gender": "M",
+  "age": "14",
+  "id": 83051,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 16.0,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 17.5,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-31",
+                "score": 18.6,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 16.2,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-31",
+                "score": 12.6,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 24.0,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 25.6,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 13.2,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 18.5,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 21.75,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 18.0,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 29.25,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 18.75,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 22.5,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 20.0,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 15.2,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-31",
+                "score": 19.2,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 23.1,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 25.9,
+                "meet": "29th Annual Cactus Invitational"
+              },
+              {
+                "date": "2023-03-04",
+                "score": 21.0,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.33
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 28.0,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 17.6,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 23.75,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          },
+          "5201A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-04",
+                "score": 19.0,
+                "meet": "2023 MAC Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 22.95,
+                "meet": "2023 Arizona Association State Championships"
+              },
+              {
+                "date": "2023-03-31",
+                "score": 20.4,
+                "meet": "29th Annual Cactus Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.67
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 18.0,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 19.5,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 21.0,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 23.25,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 18.0,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 27.55,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 18.0,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-02",
+                "score": 24.3,
+                "meet": "2023 Arizona Association State Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.37,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.8,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 22.05,
+        "best_dive_id": "201C",
+        "best_dive_avg": 23.0,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 18.13,
+        "best_dive_id": "302C",
+        "best_dive_avg": 19.2,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 23.12,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.33,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 22.36,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 23.75,
+        "grade": 3.0
+      },
+      "average_grade": 2.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.12,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.25,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 27.55,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.55,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 21.15,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 24.3,
+        "grade": 2.6
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

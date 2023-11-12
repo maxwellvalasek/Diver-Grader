@@ -1,0 +1,144 @@
+{
+  "name": "Jeffrey Brown",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 29652,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 28.8,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 26.4,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 25.3,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 24.2,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 33.0,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-13",
+                "score": 31.5,
+                "meet": "Calvin College vs. Hope college"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "105C",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "204C",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 25.3,
+        "best_dive_id": "304C",
+        "best_dive_avg": 25.3,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 24.2,
+        "best_dive_id": "403C",
+        "best_dive_avg": 24.2,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 32.25,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 33.0,
+        "grade": 4.3
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

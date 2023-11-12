@@ -1,0 +1,79 @@
+{
+  "name": "Juliet Nuttall",
+  "gender": "F",
+  "age": "9",
+  "id": 80593,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 13.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 16.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 16.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

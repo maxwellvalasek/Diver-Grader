@@ -1,0 +1,114 @@
+{
+  "name": "Libby Wappes",
+  "gender": "F",
+  "age": "15",
+  "id": 81606,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 12.0,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 9.0,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 11.25,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 14.4,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 11.25,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.25
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 12.75,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.2,
+        "best_dive_id": "101C",
+        "best_dive_avg": 14.4,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 12.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 12.75,
+        "grade": 1.6
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

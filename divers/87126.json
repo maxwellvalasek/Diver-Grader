@@ -1,0 +1,141 @@
+{
+  "name": "Olivia Garrett",
+  "gender": "F",
+  "age": "13",
+  "id": 87126,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 16.5,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 16.0,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 15.6,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 21.0,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 16.0,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 18.75,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 18.2,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "102C",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 17.38,
+        "best_dive_id": "202C",
+        "best_dive_avg": 18.75,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

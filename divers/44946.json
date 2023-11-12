@@ -1,0 +1,480 @@
+{
+  "name": "Macy Murray",
+  "gender": "F",
+  "age": "17",
+  "id": 44946,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-04-11",
+                "score": 19.0,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-06-14",
+                "score": 19.5,
+                "meet": "Lone Star Diving Invitational"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 18.0,
+                "meet": "2014 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.83
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 10.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-30",
+                "score": 14.5,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 11.5,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 21.0,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 15.5,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              },
+              {
+                "date": "2014-06-14",
+                "score": 19.5,
+                "meet": "Lone Star Diving Invitational"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 16.5,
+                "meet": "2014 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.42
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 15.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-30",
+                "score": 15.0,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 17.0,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2014-10-11",
+                "score": 14.0,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 13.5,
+                "meet": "2014 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.88
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-12",
+                "score": 14.0,
+                "meet": "2014 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 18.0,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 18.5,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 14.5,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 15.0,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 16.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-30",
+                "score": 16.0,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 17.0,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 17.0,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 15.0,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              },
+              {
+                "date": "2014-06-14",
+                "score": 19.5,
+                "meet": "Lone Star Diving Invitational"
+              },
+              {
+                "date": "2014-04-12",
+                "score": 13.0,
+                "meet": "2014 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.25
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-01-30",
+                "score": 18.5,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 18.0,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2014-10-11",
+                "score": 16.5,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.67
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-04-11",
+                "score": 17.5,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 13.5,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 15.0,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 15.5,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 16.5,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 13.0,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 14.7
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 14.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 17.5,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 16.5,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 15.5,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.88
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 12.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 14.5,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 15.0,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 14.5,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 13.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 12.5,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 12.5,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              },
+              {
+                "date": "2015-04-11",
+                "score": 15.0,
+                "meet": "2015 Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2014-10-11",
+                "score": 13.5,
+                "meet": "2014 Conroe Diving Club Fall Classic Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 13.3
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-09",
+                "score": 14.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2016-01-30",
+                "score": 15.0,
+                "meet": "WDA Challenge of Skills 2016"
+              },
+              {
+                "date": "2015-05-02",
+                "score": 17.0,
+                "meet": "2015 Conroe Diving Club \\\"Cinco de Mayo Invitational\\\""
+              }
+            ],
+            "count": 3,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.41,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.42,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 16.72,
+        "best_dive_id": "200C",
+        "best_dive_avg": 17.67,
+        "grade": 2.2
+      },
+      "average_grade": 2.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.22,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.88,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.12,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.5,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 2.0
+  }
+}

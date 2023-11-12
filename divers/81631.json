@@ -1,0 +1,275 @@
+{
+  "name": "Cade Dagostino",
+  "gender": "M",
+  "age": "18",
+  "id": 81631,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 11.05,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.5,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.27
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 35.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 33.0,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 15.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 16.5,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 18.75,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 30.0,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 21.6,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.8,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 23.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.4,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 27.0,
+                "meet": "AAU Arizona District Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 25.2,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 39.6,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.2,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 25.2,
+                "meet": "AAU Arizona District Diving"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 31.5,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.35
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-11",
+                "score": 14.45,
+                "meet": "AAU Arizona District Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.7,
+                "meet": "2022 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.19,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.1,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 24.25,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.0,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 30.27,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.9,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 27.13,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 28.35,
+        "grade": 3.6
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

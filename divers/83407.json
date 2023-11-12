@@ -1,0 +1,421 @@
+{
+  "name": "Matt Alvarado",
+  "gender": "M",
+  "age": "29",
+  "id": 83407,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 33.6,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 33.6,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 28.8,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 51.6,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 46.8,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 50.4,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 49.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 35.1,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 28.8,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 31.5,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 38.0,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 31.5,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 31.5,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 34.2,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 38.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 41.8,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 35.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 37.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 38.0,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.67
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 32.5,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 36.4,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 39.0,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.97
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-15",
+                "score": 32.8,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 31.2,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 43.7,
+                "meet": "CCCAA State Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 22.1,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 29.6,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 28.8,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 37.4,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 36.3,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 44.0,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.23
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 0.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 43.2,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 49.95,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.05
+          },
+          "5325D": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 28.0,
+                "meet": "CCCAA State Diving Championships"
+              },
+              {
+                "date": "2023-04-15",
+                "score": 42.0,
+                "meet": "CCCAA Nor-Cal Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 35.0,
+                "meet": "Big 8 Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.8,
+        "best_dive_id": "105B",
+        "best_dive_avg": 49.6,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.8,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 33.67,
+        "best_dive_id": "301B",
+        "best_dive_avg": 38.0,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 38.0,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.0,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 36.67,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 36.67,
+        "grade": 4.6
+      },
+      "average_grade": 4.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.97,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.97,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 35.9,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.7,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 26.83,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.2,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 39.23,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.23,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 33.02,
+        "best_dive_id": "5325D",
+        "best_dive_avg": 35.0,
+        "grade": 4.4
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.5
+  }
+}

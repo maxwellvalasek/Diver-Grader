@@ -1,0 +1,616 @@
+{
+  "name": "Madeline  Mccarthy",
+  "gender": "F",
+  "age": "23",
+  "id": 40625,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 18.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 16.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 16.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 26.25,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 31.8,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 27.0,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 28.5,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 20.25,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.76
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 26.4,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 42.6,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 25.6,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 21.6,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 27.2,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 24.65,
+                "meet": "2015 CRD Holiday Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 34.8,
+                "meet": "2015 CRD Holiday Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 32.4,
+                "meet": "2015 CRD Holiday Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 24.48,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.48
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 22.4,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 28.56,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 23.1,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 23.8,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 21.0,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 5,
+            "average_score": 23.77
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 28.5,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 37.05,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 22.8,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.45
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 19.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 25.35,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.43
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 24.75,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 30.6,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 28.9,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 26.35,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 29.75,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.9
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 28.8,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 31.9,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 30.8,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 28.9,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 25.5,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 24.0,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 21.75,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 18.75,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.5
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 23.8,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 32.0,
+                "meet": "2015 CRD Holiday Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 31.2,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 29.6,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.4
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 23.2,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 24.75,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 25.5,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 27.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 22.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.94
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-04-27",
+                "score": 25.2,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 25.6,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 21.6,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 24.8,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 33.25,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2013-04-27",
+                "score": 27.55,
+                "meet": "2013 Blue Dolphin Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-20",
+                "score": 24.65,
+                "meet": "2015 CRD Holiday Invitational"
+              },
+              {
+                "date": "2015-03-14",
+                "score": 21.25,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 27.72,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.68,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 29.72,
+        "best_dive_id": "203A",
+        "best_dive_avg": 34.8,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 28.44,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.4,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.45,
+        "grade": 3.2
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.72,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.35,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 30.45,
+        "best_dive_id": "203C",
+        "best_dive_avg": 32.0,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 30.4,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 24.99,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 26.67,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 30.4,
+        "grade": 3.6
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.6
+  }
+}

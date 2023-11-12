@@ -1,0 +1,111 @@
+{
+  "name": "Ella Parke",
+  "gender": "F",
+  "age": "16",
+  "id": 82236,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 22.5,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 15.3,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 16.15,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 0.85,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.85
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 14.25,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.9,
+        "best_dive_id": "102B",
+        "best_dive_avg": 22.5,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 16.15,
+        "best_dive_id": "201A",
+        "best_dive_avg": 16.15,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 7.55,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 14.25,
+        "grade": 1.0
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

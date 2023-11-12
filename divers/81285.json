@@ -1,0 +1,681 @@
+{
+  "name": "Christopher Bubb",
+  "gender": "M",
+  "age": "17",
+  "id": 81285,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 26.35,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 29.6,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 25.6,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.6
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 48.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 31.2,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 37.2,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.8
+          },
+          "107C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 31.5,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 26.25,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 21.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.33
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 22.5,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 22.4,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 25.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 40.95,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 31.5,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.23
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 37.5,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 35.2,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 34.1,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 33.0,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.1
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 51.8,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 35.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.4
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 58.9,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5227D": {
+            "dd": 3.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 14.4,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.65,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 35.7,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.4,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.25
+          },
+          "5251C": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 43.2,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 47.25,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 44.55,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 45.0
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 21.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 24.75,
+                "meet": "DMD Local Spring Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 36.3,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.6,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.45
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 42.0,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 47.6,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 40.6,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 29.75,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 28.9,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 22.95,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.2
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 26.6,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 25.65,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.12
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 42.0,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 31.5,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 24.3,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 23.4,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.4
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 31.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 33.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 0.0,
+                "meet": "DMD Local Club Series"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 32.3,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 28.5,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.5,
+                "meet": "19th Annual Dick Wilson Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.77
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 35.1,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 35.1,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 44.55,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 31.0,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 32.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 30.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.0
+          },
+          "5251C": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 36.25,
+                "meet": "DMD Local Club Series"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 40.0,
+                "meet": "DMD Local Spring Meet"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 30.0,
+                "meet": "2023 USA Diving Junior Region 4 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.42
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.97,
+        "best_dive_id": "105C",
+        "best_dive_avg": 38.8,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 23.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.38,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 36.65,
+        "best_dive_id": "305C",
+        "best_dive_avg": 37.5,
+        "grade": 4.9
+      },
+      "Inward": {
+        "top_2_avg": 48.57,
+        "best_dive_id": "405C",
+        "best_dive_avg": 58.9,
+        "grade": 6.5
+      },
+      "Twister": {
+        "top_2_avg": 39.12,
+        "best_dive_id": "5251C",
+        "best_dive_avg": 45.0,
+        "grade": 5.2
+      },
+      "average_grade": 4.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.02,
+        "best_dive_id": "107C",
+        "best_dive_avg": 43.4,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 30.9,
+        "best_dive_id": "205C",
+        "best_dive_avg": 42.0,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 28.64,
+        "best_dive_id": "303C",
+        "best_dive_avg": 32.0,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 34.01,
+        "best_dive_id": "405C",
+        "best_dive_avg": 38.25,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 33.21,
+        "best_dive_id": "5251C",
+        "best_dive_avg": 35.42,
+        "grade": 4.2
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.5
+  }
+}

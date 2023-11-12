@@ -1,0 +1,209 @@
+{
+  "name": "Justice  Jones",
+  "gender": "M",
+  "age": "15",
+  "id": 82237,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 16.1,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 16.1,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 12.0,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 14.45,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.45
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 14.25,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 11.2,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 17.6,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 11.9,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 13.6,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 9.0,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 0.0,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.1,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.1,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.35,
+        "best_dive_id": "201A",
+        "best_dive_avg": 14.45,
+        "grade": 1.9
+      },
+      "Reverse": {
+        "top_2_avg": 14.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 17.6,
+        "grade": 1.9
+      },
+      "Inward": {
+        "top_2_avg": 12.75,
+        "best_dive_id": "402C",
+        "best_dive_avg": 13.6,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 4.5,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 9.0,
+        "grade": 0.6
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

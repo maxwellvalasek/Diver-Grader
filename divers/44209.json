@@ -1,0 +1,768 @@
+{
+  "name": "Maria Sanchez",
+  "gender": "F",
+  "age": "18",
+  "id": 44209,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 24.0,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 31.2,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 20.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2014-07-03",
+                "score": 27.2,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.13
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 43.2,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 26.4,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 32.4,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 33.3,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 29.7,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 25.5,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 29.45,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 17.1,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.27
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 18.9,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 16.1,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 33.6,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 31.5,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.55
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 31.05,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 38.0,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 30.6,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2014-07-03",
+                "score": 15.3,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 29.9,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-02-13",
+                "score": 20.9,
+                "meet": "Campeonato Nacional de Invierno Infantil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 25.5,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 19.2,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 30.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2014-07-03",
+                "score": 33.0,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              },
+              {
+                "date": "2014-02-13",
+                "score": 14.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2014"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.67
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 0.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2014-02-13",
+                "score": 25.5,
+                "meet": "Campeonato Nacional de Invierno Infantil 2014"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-03",
+                "score": 22.5,
+                "meet": "Campeonato Nacional de Verano Infantil y Juvenil 2014"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 33.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 28.05,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 26.35,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 25.5,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 32.5,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.5
+          },
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 30.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 63.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 63.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 67.5,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 4,
+            "average_score": 55.88
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 30.4,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 51.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 47.4,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.93
+          },
+          "207C": {
+            "dd": 3.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 51.15,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 29.7,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.42
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 45.6,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 48.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.8
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 24.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 21.75,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-02-27",
+                "score": 37.2,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 36.0,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.6
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 32.55,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          },
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 68.8,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 60.48,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 71.04,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 33.6,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 4,
+            "average_score": 58.48
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 68.8,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 56.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 65.28,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 75.84,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 4,
+            "average_score": 66.48
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2015-05-01",
+                "score": 25.5,
+                "meet": "Olimpiada Nacional Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 27.2,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              },
+              {
+                "date": "2015-02-27",
+                "score": 22.95,
+                "meet": "Campeonato Nacional de Invierno Infantil 2015"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.22
+          },
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-04-11",
+                "score": 56.0,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              },
+              {
+                "date": "2019-04-11",
+                "score": 62.4,
+                "meet": "2019 USA FINA Diving Grand Prix"
+              }
+            ],
+            "count": 2,
+            "average_score": 59.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.06,
+        "best_dive_id": "105B",
+        "best_dive_avg": 34.0,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 29.5,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.5,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 21.81,
+        "best_dive_id": "301B",
+        "best_dive_avg": 23.27,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 32.05,
+        "best_dive_id": "403B",
+        "best_dive_avg": 32.55,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 38.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 38.0,
+        "grade": 4.8
+      },
+      "average_grade": 3.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.27,
+        "best_dive_id": "104B",
+        "best_dive_avg": 29.9,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 25.63,
+        "best_dive_id": "203C",
+        "best_dive_avg": 25.67,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 12.75,
+        "best_dive_id": "301B",
+        "best_dive_avg": 12.75,
+        "grade": 1.7
+      },
+      "Inward": {
+        "top_2_avg": 27.75,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.0,
+        "grade": 3.7
+      },
+      "average_grade": 3.0
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 51.2,
+        "best_dive_id": "107B",
+        "best_dive_avg": 55.88,
+        "grade": 6.0
+      },
+      "Back": {
+        "top_2_avg": 41.93,
+        "best_dive_id": "201B",
+        "best_dive_avg": 42.93,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "301B",
+        "best_dive_avg": 46.8,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 51.19,
+        "best_dive_id": "407C",
+        "best_dive_avg": 58.48,
+        "grade": 6.0
+      },
+      "Twister": {
+        "top_2_avg": 66.48,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 66.48,
+        "grade": 7.8
+      },
+      "Armstand": {
+        "top_2_avg": 38.81,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 59.2,
+        "grade": 4.6
+      },
+      "average_grade": 5.7
+    },
+    "overall_average_grade": 4.2
+  }
+}

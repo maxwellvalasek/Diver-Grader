@@ -1,0 +1,128 @@
+{
+  "name": "Ashlyn Minehart ",
+  "gender": "F",
+  "age": "14",
+  "id": 81314,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 14.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 22.8,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 23.25,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 20.0,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 17.85,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 16.8,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.02,
+        "best_dive_id": "102B",
+        "best_dive_avg": 23.25,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 16.8,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

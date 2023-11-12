@@ -1,0 +1,174 @@
+{
+  "name": "Sophia Gorman",
+  "gender": "F",
+  "age": "15",
+  "id": 82353,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 23.8,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 23.8,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 23.8,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 22.1,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 19.2,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 23.2,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 22.4,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 19.2,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 22.5,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 24.75,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 25.65,
+                "meet": "2023 District XI Diving Championships"
+              },
+              {
+                "date": "2023-02-11",
+                "score": 21.85,
+                "meet": "East Penn Conference Meet 2"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "103B",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "202A",
+        "best_dive_avg": 22.95,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 21.2,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 23.62,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.62,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 23.75,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 23.75,
+        "grade": 3.2
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

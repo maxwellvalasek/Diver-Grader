@@ -1,0 +1,218 @@
+{
+  "name": "Bryden Hattie",
+  "gender": "M",
+  "age": "22",
+  "id": 57252,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 44.95,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 42.0,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 37.5,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 42.0,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 58.5,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.5
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-04",
+                "score": 53.75,
+                "meet": "Puerto Rico FINA Diving Grand Prix 2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 53.75
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.0,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 81.0,
+                "meet": "UT Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 81.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 91.2,
+                "meet": "UT Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 91.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 76.8,
+                "meet": "UT Intrasquad Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 76.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 44.95,
+        "best_dive_id": "107B",
+        "best_dive_avg": 44.95,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 42.0,
+        "best_dive_id": "205B",
+        "best_dive_avg": 42.0,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 37.5,
+        "best_dive_id": "305B",
+        "best_dive_avg": 37.5,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 42.0,
+        "best_dive_id": "405B",
+        "best_dive_avg": 42.0,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 56.12,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 58.5,
+        "grade": 7.0
+      },
+      "average_grade": 5.6
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 81.0,
+        "best_dive_id": "107B",
+        "best_dive_avg": 81.0,
+        "grade": 9.5
+      },
+      "Inward": {
+        "top_2_avg": 91.2,
+        "best_dive_id": "407C",
+        "best_dive_avg": 91.2,
+        "grade": 10.7
+      },
+      "Twister": {
+        "top_2_avg": 76.8,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 76.8,
+        "grade": 9.0
+      },
+      "average_grade": 9.8
+    },
+    "overall_average_grade": 7.7
+  }
+}

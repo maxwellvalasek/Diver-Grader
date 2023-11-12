@@ -1,0 +1,157 @@
+{
+  "name": "Joseph Rabe",
+  "gender": "M",
+  "age": "23",
+  "id": 51464,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 17.4,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.4
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 18.75,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 19.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 19.55,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 16.8,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 18.2,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-05",
+                "score": 15.3,
+                "meet": "Alexandria Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.98,
+        "best_dive_id": "103C",
+        "best_dive_avg": 19.2,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 19.55,
+        "best_dive_id": "201A",
+        "best_dive_avg": 19.55,
+        "grade": 2.6
+      },
+      "Reverse": {
+        "top_2_avg": 16.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.2,
+        "grade": 2.4
+      },
+      "Twister": {
+        "top_2_avg": 15.3,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 15.3,
+        "grade": 2.0
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

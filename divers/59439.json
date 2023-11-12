@@ -1,0 +1,696 @@
+{
+  "name": "Claire Rodrigues",
+  "gender": "F",
+  "age": "15",
+  "id": 59439,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-02",
+                "score": 15.0,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 18.5,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 15.5,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 22.0,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.75
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-14",
+                "score": 19.0,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 16.5,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 3.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 3.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-12-02",
+                "score": 21.0,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 22.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-02",
+                "score": 16.8,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 15.4,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 27.3,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.83
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 24.0,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-02",
+                "score": 20.25,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 21.75,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 25.5,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 14.0,
+                "meet": "Holiday on the Hill Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 20.5,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-02",
+                "score": 26.35,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 18.7,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 28.9,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 11.0,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "400C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 12.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 19.6,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-02",
+                "score": 20.15,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 20.15,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 22.75,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.02
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 11.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 13.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 19.8,
+                "meet": "Holiday on the Hill Invitational"
+              },
+              {
+                "date": "2018-06-29",
+                "score": 12.6,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-06-02",
+                "score": 19.2,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 13.8,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 16.8,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 17.4,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 25.2,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 7,
+            "average_score": 17.83
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 24.65,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 18.4,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-06-02",
+                "score": 24.8,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 20.0,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 20.8,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 24.0,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 17.5,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-02",
+                "score": 24.65,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 17.25,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-06-02",
+                "score": 27.75,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 17.25,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 23.25,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 20.25,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.15
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 17.25,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-06-02",
+                "score": 22.5,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 16.5,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 18.75,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 27.75,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 13.0,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 16.8,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 16.8,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 21.6,
+                "meet": "The Ultimate Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 18.0,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-29",
+                "score": 16.8,
+                "meet": "2018 USA Diving Zone A Championships"
+              },
+              {
+                "date": "2018-06-02",
+                "score": 21.7,
+                "meet": "North Carolina Diving 4th Annual Olympic Day"
+              },
+              {
+                "date": "2018-04-28",
+                "score": 21.0,
+                "meet": "2018 USA Diving Junior Region 2 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 21.7,
+                "meet": "The Ultimate Invitational"
+              },
+              {
+                "date": "2018-03-08",
+                "score": 18.2,
+                "meet": "2018 The Carolina BIG DIVE AAU Invitational"
+              },
+              {
+                "date": "2017-12-02",
+                "score": 24.5,
+                "meet": "3rd  Holiday On The Hill Diving Invitational  2017"
+              }
+            ],
+            "count": 6,
+            "average_score": 20.65
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 20.8,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 26.6,
+                "meet": "Holiday on the Hill Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.0,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 21.69,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.65,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 11.0,
+        "best_dive_id": "300C",
+        "best_dive_avg": 11.0,
+        "grade": 1.4
+      },
+      "Inward": {
+        "top_2_avg": 20.66,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.02,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 11.5,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 11.5,
+        "grade": 1.4
+      },
+      "average_grade": 2.2
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.11,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 21.73,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.65,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 17.05,
+        "best_dive_id": "301C",
+        "best_dive_avg": 18.4,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 20.67,
+        "best_dive_id": "402C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 26.6,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.5
+  }
+}

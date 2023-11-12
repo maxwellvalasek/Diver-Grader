@@ -1,0 +1,220 @@
+{
+  "name": "Natalia Avendano",
+  "gender": "F",
+  "age": "11",
+  "id": 80999,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 19.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 17.5,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 15.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.17
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 18.9,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 27.3,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 18.9,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 25.2,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.57
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 21.7,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 21.7,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 28.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 16.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 16.5,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 18.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 24.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 24.75,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 24.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 25.2,
+                "meet": "CDC Novice Invitational"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 22.4,
+                "meet": "2022 Chris Vonk Invitational"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 25.2,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.32
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 0.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 20.81,
+        "best_dive_id": "202C",
+        "best_dive_avg": 24.38,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 24.32,
+        "best_dive_id": "401C",
+        "best_dive_avg": 24.32,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

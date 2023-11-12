@@ -1,0 +1,813 @@
+{
+  "name": "Zoe Johnson",
+  "gender": "F",
+  "age": "Age not found",
+  "id": 40122,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 33.15,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 38.25,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 31.45,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 29.75,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.15
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 39.6,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 37.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 41.8,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 44.0,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 44.0,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 41.36
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 36.0,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 39.6,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 43.2,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 31.2,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 32.4,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.48
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 28.8,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 37.6,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 27.2,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 27.2,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.2
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 31.05,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 41.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 43.7,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 27.6,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 36.8,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.11
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 31.45,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 35.7,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 32.3,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 34.0,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.36
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 37.8,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 38.85,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 45.15,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 37.8,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 26.25,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 37.17
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 26.25,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 33.0,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 30.0,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 28.5,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.44
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 41.8,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 49.5,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 48.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 42.9,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 29.7,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.46
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 35.2,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 48.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 36.3,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 38.5,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 39.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 41.4,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 43.7,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 44.85,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 35.65,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 29.9,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 39.1
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 28.8,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 36.0,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 30.4,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 28.0,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.8
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 31.2,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 39.6,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 39.6,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 36.0,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 28.8,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.04
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 28.8,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 38.7,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 33.3,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 30.6,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.85
+          },
+          "204B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 25.3,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 42.55,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 48.3,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 36.8,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 26.45,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.88
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 39.9,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 37.05,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 37.05,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 33.25,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.81
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-28",
+                "score": 30.0,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 30.0,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 0.0,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 22.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 22.4,
+                "meet": "Liberal Arts Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-10",
+                "score": 30.1,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 16.8,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 25.2,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.03
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 38.85,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 42.0,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 32.55,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 35.7,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 34.65,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.75
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 43.2,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 48.0,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 43.2,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 46.8,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 38.4,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 43.92
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 32.4,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 36.75,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 44.1,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 32.55,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 29.4,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.7
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-02-26",
+                "score": 38.4,
+                "meet": "2016 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 44.4,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2016-02-10",
+                "score": 51.6,
+                "meet": "Liberal Arts Championships"
+              },
+              {
+                "date": "2014-02-28",
+                "score": 40.8,
+                "meet": "2014 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2013-03-01",
+                "score": 36.0,
+                "meet": "2013 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.24
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.92,
+        "best_dive_id": "104C",
+        "best_dive_avg": 41.36,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 33.48,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.11,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 35.48,
+        "best_dive_id": "303C",
+        "best_dive_avg": 37.17,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 36.67,
+        "best_dive_id": "403C",
+        "best_dive_avg": 42.46,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 39.32,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 39.6,
+        "grade": 5.2
+      },
+      "average_grade": 4.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.16,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.04,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 34.53,
+        "best_dive_id": "204B",
+        "best_dive_avg": 35.88,
+        "grade": 4.3
+      },
+      "Reverse": {
+        "top_2_avg": 34.54,
+        "best_dive_id": "301B",
+        "best_dive_avg": 36.81,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 40.34,
+        "best_dive_id": "404C",
+        "best_dive_avg": 43.92,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 39.33,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.24,
+        "grade": 4.9
+      },
+      "average_grade": 4.5
+    },
+    "overall_average_grade": 4.7
+  }
+}

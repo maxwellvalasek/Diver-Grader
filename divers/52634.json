@@ -1,0 +1,744 @@
+{
+  "name": "Kai Renshaw",
+  "gender": "M",
+  "age": "22",
+  "id": 52634,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 34.85,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 33.15,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 22.1,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.03
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 52.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 58.5,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 48.1,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 44.2,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 50.7
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-17",
+                "score": 34.8,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 31.2,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 31.2,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 29.6,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.67
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 43.7,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 42.55,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 31.05,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 27.6,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.23
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-17",
+                "score": 28.0,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 31.45,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 37.4,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 25.5,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.45
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 40.95,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 30.45,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 35.7,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 37.8,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 15.75,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 32.13
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 30.75,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 32.25,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 27.75,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.25
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 50.4,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.6,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 48.0,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 30.0,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 43.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-17",
+                "score": 34.1,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 39.6,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 45.1,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.35
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 36.4,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-04-17",
+                "score": 28.9,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 37.8,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 47.25,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 37.8,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.95
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 37.5,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-02-04",
+                "score": 45.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 40.0,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.83
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 33.6,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 34.4,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 16.8,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.27
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 44.4,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 43.2,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 36.0,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.2
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 29.4,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 32.2,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 37.8,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 40.5,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 21.6,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.3
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-18",
+                "score": 39.6,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 46.2,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 29.4,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 36.1,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 38.95,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 33.25,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.1
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-18",
+                "score": 42.55,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 35.0,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-03-18",
+                "score": 32.9,
+                "meet": "ZAP Diving St Paddys Invitational"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 28.0,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.45
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 42.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 34.65,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2016-04-17",
+                "score": 32.55,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.4
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 47.25,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 41.85,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 40.5,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-28",
+                "score": 36.75,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 35.7,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.23
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-04-17",
+                "score": 33.0,
+                "meet": "2016 CRD Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 42.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-02-28",
+                "score": 37.8,
+                "meet": "2020 NCAA Division III Region 3 Diving Championships"
+              },
+              {
+                "date": "2018-03-18",
+                "score": 49.0,
+                "meet": "ZAP Diving St Paddys Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.93
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 47.52,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.7,
+        "grade": 6.3
+      },
+      "Back": {
+        "top_2_avg": 33.85,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.23,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 31.88,
+        "best_dive_id": "303C",
+        "best_dive_avg": 32.13,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 41.62,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.5,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 41.51,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 42.35,
+        "grade": 5.5
+      },
+      "average_grade": 5.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.04,
+        "best_dive_id": "105B",
+        "best_dive_avg": 41.2,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 38.4,
+        "best_dive_id": "203B",
+        "best_dive_avg": 39.6,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 37.71,
+        "best_dive_id": "303B",
+        "best_dive_avg": 42.55,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 39.8,
+        "best_dive_id": "405C",
+        "best_dive_avg": 43.2,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 40.25,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 42.93,
+        "grade": 5.0
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 5.0
+  }
+}

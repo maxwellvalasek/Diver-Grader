@@ -1,0 +1,156 @@
+{
+  "name": "Hannah Foote",
+  "gender": "F",
+  "age": "10",
+  "id": 81232,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 14.0,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 13.5,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 15.5,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 10.5,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 11.5,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 12.0,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.75
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 16.8,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 15.75,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.27
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 12.0,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 12.75,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.38
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 10.0,
+                "meet": "2023 North Star Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 12.0,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 11.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.01,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.27,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 11.69,
+        "best_dive_id": "200A",
+        "best_dive_avg": 12.38,
+        "grade": 1.6
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

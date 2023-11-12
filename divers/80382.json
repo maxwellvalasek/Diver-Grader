@@ -1,0 +1,134 @@
+{
+  "name": "Elena Clarke ",
+  "gender": "F",
+  "age": "18",
+  "id": 80382,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 25.5,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 24.65,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 5.95,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.95
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 17.0,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 0.0,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 0.0,
+                "meet": "15th Annual North Forsyth Kickoff Invitational Swim and Dive"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.07,
+        "best_dive_id": "102B",
+        "best_dive_avg": 25.5,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 11.47,
+        "best_dive_id": "202A",
+        "best_dive_avg": 17.0,
+        "grade": 1.5
+      },
+      "Inward": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Twister": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "average_grade": 1.2
+    },
+    "overall_average_grade": 1.2
+  }
+}

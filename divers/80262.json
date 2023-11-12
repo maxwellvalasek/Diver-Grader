@@ -1,0 +1,199 @@
+{
+  "name": "Teagan Wanish",
+  "gender": "F",
+  "age": "10",
+  "id": 80262,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 16.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 15.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 15.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 14.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-22",
+                "score": 14.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "average_grade": 1.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

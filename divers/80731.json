@@ -1,0 +1,261 @@
+{
+  "name": "Willow Terry",
+  "gender": "F",
+  "age": "17",
+  "id": 80731,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 21.5,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 16.5,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 15.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 16.8,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 16.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 18.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 16.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 17.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 21.75,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 13.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 19.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 21.25,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 15.9,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.8,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "Inward": {
+        "top_2_avg": 18.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.2,
+        "grade": 2.3
+      },
+      "average_grade": 2.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.9,
+        "best_dive_id": "103C",
+        "best_dive_avg": 17.6,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 21.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 21.75,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "Inward": {
+        "top_2_avg": 19.6,
+        "best_dive_id": "401C",
+        "best_dive_avg": 19.6,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 21.25,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 21.25,
+        "grade": 2.8
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.3
+  }
+}

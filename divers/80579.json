@@ -1,0 +1,170 @@
+{
+  "name": "Brooklynn Hextall",
+  "gender": "F",
+  "age": "19",
+  "id": 80579,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 21.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 40.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 28.9,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 32.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 36.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 48.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 31.35,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "104B",
+        "best_dive_avg": 40.25,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 30.45,
+        "best_dive_id": "204C",
+        "best_dive_avg": 32.0,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 36.0,
+        "best_dive_id": "301A",
+        "best_dive_avg": 36.0,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 48.0,
+        "best_dive_id": "403B",
+        "best_dive_avg": 48.0,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 36.38,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 41.4,
+        "grade": 4.8
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.8
+  }
+}

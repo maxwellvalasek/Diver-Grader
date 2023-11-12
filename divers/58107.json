@@ -1,0 +1,1726 @@
+{
+  "name": "Larissa Gosslau",
+  "gender": "F",
+  "age": "20",
+  "id": 58107,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-04-07",
+                "score": 19.8,
+                "meet": "2018 Windy City Spring Invite"
+              },
+              {
+                "date": "2017-11-05",
+                "score": 22.8,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 15.6,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-05",
+                "score": 22.4,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 18.9,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.65
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 31.45,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 29.75,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 22.95,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 30.6,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 28.05,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 29.75,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 25.5,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 26.35,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 26.35,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 28.05,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 24.65,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 25.5,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 12,
+            "average_score": 27.41
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-04",
+                "score": 24.0,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.0,
+                "meet": "2018 Windy City Spring Invite"
+              },
+              {
+                "date": "2017-11-05",
+                "score": 27.2,
+                "meet": "2017 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.07
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 33.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 26.4,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 35.2,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 34.65,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 31.35,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 20.9,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 33.0,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 29.7,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 33.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 30.8,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 33.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 31.9,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 33.0,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 13,
+            "average_score": 31.22
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-05",
+                "score": 26.35,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 20.4,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.38
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 32.8,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 30.4,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 22.8,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 31.2,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 23.2,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.08
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 24.0,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 21.75,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 24.75,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 19.5,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 21.75,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 21.75,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 21.75,
+                "meet": "2019 Schroeder Winter Invite"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 27.0,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 19.5,
+                "meet": "2018 Windy City Spring Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 22.42
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-04",
+                "score": 20.25,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 20.25,
+                "meet": "2018 Windy City Spring Invite"
+              },
+              {
+                "date": "2017-11-05",
+                "score": 21.75,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 22.5,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.19
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 35.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 36.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 34.0,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 33.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 39.0,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 34.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 27.0,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 30.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 27.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 22.0,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 15.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 26.0,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 26.0,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 13,
+            "average_score": 29.54
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 31.45,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 32.3,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 28.05,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 30.6,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 34.43,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 22.95,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.96
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 26.4,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 23.2,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 20.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 21.6,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 24.8,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 24.0,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 27.2,
+                "meet": "2019 Schroeder Winter Invite"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 24.0,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 17.6,
+                "meet": "2018 Windy City Spring Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 23.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 25.6,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 21.6,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.6
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 18.9,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 33.6,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 11.03,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 26.78,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 9.45,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 23.1,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 21.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 8.4,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 23.1,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 27.3,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 25.2,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 20.71
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 30.75,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 28.5,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 31.5,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 31.5,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 32.63,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 25.5,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 27.75,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 24.75,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 26.25,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.25,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 27.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 30.0,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 24.75,
+                "meet": "2019 Schroeder Winter Invite"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 17.25,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 26.25,
+                "meet": "2018 Windy City Spring Invite"
+              }
+            ],
+            "count": 15,
+            "average_score": 27.18
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-05",
+                "score": 22.4,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 23.1,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.75
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-04-07",
+                "score": 18.4,
+                "meet": "2018 Windy City Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 36.3,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 14.3,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 28.6,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 28.05,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 14.85,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 11.0,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 31.9,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 26.4,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 29.7,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 28.6,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 33.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 37.4,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 28.6,
+                "meet": "2019 Schroeder Winter Invite"
+              },
+              {
+                "date": "2018-05-04",
+                "score": 37.4,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              }
+            ],
+            "count": 14,
+            "average_score": 27.58
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-04",
+                "score": 17.0,
+                "meet": "2018 USA Diving Junior Region 8 Championships"
+              },
+              {
+                "date": "2017-11-05",
+                "score": 11.9,
+                "meet": "2017 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2017-07-15",
+                "score": 19.55,
+                "meet": "2017 Windy City Summer Splash"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.15
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 23.75,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 22.8,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 33.25,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 30.4,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 19.95,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 32.3,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 23.75,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 26.6
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 24.15,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 32.2,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 17.25,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 29.33,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 24.15,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.42
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 22.1,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 20.4,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 21.25,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 27.2,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 21.25,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 28.9,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 19.55,
+                "meet": "2019 Schroeder Winter Invite"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 17.85,
+                "meet": "2018 Windy City Spring Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 22.31
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 44.85,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 40.25,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 44.85,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 37.95,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-02-12",
+                "score": 37.95,
+                "meet": "2022 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2021-05-28",
+                "score": 32.2,
+                "meet": "2021 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 39.67
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-01-19",
+                "score": 22.4,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 26.4,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 28.8,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 30.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 26.4,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 28.8,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 24.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 29.6,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.2,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 24.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 26.8
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-01-19",
+                "score": 19.5,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 39.6,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 26.4,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 39.6,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 36.3,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 28.6,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 29.7,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 35.2,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 36.3,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 28.6,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 37.4,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 27.5,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 33.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 33.3,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 36.0,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 32.4,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.9
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-03-07",
+                "score": 21.25,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 21.25,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 24.65,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 27.2,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 29.75,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 25.5,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 25.5,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.01
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 37.4,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 26.4,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 38.5,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 29.7,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 27.5,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 39.6,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 38.5,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 29.7,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 30.8,
+                "meet": "2019 Windy City Spring Invite"
+              }
+            ],
+            "count": 9,
+            "average_score": 33.12
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-03-09",
+                "score": 25.65,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 17.1,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 35.15,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 29.45,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 29.93,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.51
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-07-12",
+                "score": 19.8,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 24.3,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 30.6,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 23.4,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 26.1,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.84
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 35.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 34.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 29.0,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 28.5,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 34.0,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 24.0,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 18.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 30.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 36.0,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 0.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 29.0,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 27.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 30.8,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 23.8,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 25.9,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 25.2,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 21.7,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.48
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 35.15,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 34.2,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 34.2,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 34.2,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-03-07",
+                "score": 33.25,
+                "meet": "2020 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2020-02-08",
+                "score": 35.15,
+                "meet": "2020 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 33.25,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 34.2,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 33.25,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 34.2,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 37.05,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 32.3,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 12,
+            "average_score": 34.2
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 18.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 31.2,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 18.0,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 19.2,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 32.4,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 37.2,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-02",
+                "score": 21.0,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 14.18,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 14.7,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 15.75,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 23.1,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 26.25,
+                "meet": "Chicago Dive Club Spring Invitational"
+              },
+              {
+                "date": "2019-02-09",
+                "score": 21.0,
+                "meet": "2019 GA Diving USD Winter Diving Invite"
+              },
+              {
+                "date": "2019-01-19",
+                "score": 24.15,
+                "meet": "2019 Schroeder Winter Invite"
+              }
+            ],
+            "count": 8,
+            "average_score": 20.02
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 33.0,
+                "meet": "Boston Winter Open @BU"
+              },
+              {
+                "date": "2022-04-30",
+                "score": 29.0,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2022-04-02",
+                "score": 22.0,
+                "meet": "2022 Evanston Diving Club Spring Invitational"
+              },
+              {
+                "date": "2022-03-11",
+                "score": 22.5,
+                "meet": "2022 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2019-07-12",
+                "score": 2.0,
+                "meet": "2019 USA Diving Rising Stars Championships @ BUFFALO"
+              },
+              {
+                "date": "2019-06-29",
+                "score": 19.0,
+                "meet": "2019 Illinois/Wisconsin Association Championships"
+              },
+              {
+                "date": "2019-04-06",
+                "score": 24.0,
+                "meet": "2019 Windy City Spring Invite"
+              },
+              {
+                "date": "2019-03-09",
+                "score": 21.0,
+                "meet": "Chicago Dive Club Spring Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 21.56
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-04-30",
+                "score": 21.6,
+                "meet": "2022 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.39,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.22,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 29.13,
+        "best_dive_id": "203C",
+        "best_dive_avg": 29.54,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 28.37,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.96,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 27.37,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.58,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 32.63,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 39.67,
+        "grade": 4.4
+      },
+      "average_grade": 3.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.32,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.2,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 33.31,
+        "best_dive_id": "201B",
+        "best_dive_avg": 33.9,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.01,
+        "best_dive_id": "301B",
+        "best_dive_avg": 31.51,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 31.47,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.2,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 21.56,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 21.6,
+        "grade": 2.7
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.8
+  }
+}

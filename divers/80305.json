@@ -1,0 +1,592 @@
+{
+  "name": "Michaela Sander",
+  "gender": "F",
+  "age": "21",
+  "id": 80305,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 26.78,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 34.43,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 28.05,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 28.9,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 21.25,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.88
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.95,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 39.6,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.3,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 33.0,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.71
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 25.6,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.8,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 28.8,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.4
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.05,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 36.23,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.05,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.78
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 30.6,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 30.6,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 37.4,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 22.95,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.31
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 14.7,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 32.63,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 24.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 30.0,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 27.0,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.41
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 36.3,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.3,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.35,
+                "meet": "UCHI vs HOPC vs UWEC"
+              },
+              {
+                "date": "2022-10-14",
+                "score": 25.65,
+                "meet": "The Fletch College Invite @OU"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.0
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 24.2,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 34.65,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 34.65,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 37.8,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.77
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 28.8,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 25.6,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 36.3,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 39.6,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.0,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 34.2,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 42.9,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 42.9,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 40.7,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.17
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 32.78,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 34.2,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 30.4,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.46
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 19.0,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 23.1,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.05,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 37.05,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 33.25,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.78
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 18.9,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 22.05,
+                "meet": "UCHI vs HOPC vs UWEC"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.48
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 36.0,
+                "meet": "KALC vs HOPC vs DEPA vs UCHI"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 34.5,
+                "meet": "KALC vs HOPC vs OC"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.71,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 31.59,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.78,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 22.71,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.31,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 31.04,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 26.26,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 26.77,
+        "grade": 3.5
+      },
+      "average_grade": 3.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.98,
+        "best_dive_id": "105C",
+        "best_dive_avg": 38.5,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 37.54,
+        "best_dive_id": "203B",
+        "best_dive_avg": 42.17,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 29.09,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.46,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 36.73,
+        "best_dive_id": "404C",
+        "best_dive_avg": 39.6,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 22.29,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 23.5,
+        "grade": 2.8
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 3.9
+  }
+}

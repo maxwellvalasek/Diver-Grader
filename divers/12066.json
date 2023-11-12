@@ -1,0 +1,585 @@
+{
+  "name": "Marc Cahalane",
+  "gender": "M",
+  "age": "51",
+  "id": 12066,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 50.0,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 39.95,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.95
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 40.8,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 57.6,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 49.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 41.6,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.6
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 39.0,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2017-05-05",
+                "score": 52.2,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.6
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 45.0,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 40.8,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 36.0,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 39.0,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.5
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 49.2,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 64.8,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 57.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 51.7,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2017-05-05",
+                "score": 52.8,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.25
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 50.6,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.6
+          },
+          "5311D": {
+            "dd": "DD Not Found",
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 43.35,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.35
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 38.4,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 47.0,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.7
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 61.2,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2017-05-05",
+                "score": 61.92,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 51.6,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 58.24
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 35.1,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.1
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 39.95,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.95
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 42.75,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 44.1,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 36.4,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.4
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 56.7,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2017-05-05",
+                "score": 52.92,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2006-11-18",
+                "score": 51.45,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 53.69
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 52.5,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          },
+          "5141B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 39.1,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.1
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 68.4,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 68.4
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-11-18",
+                "score": 52.5,
+                "meet": "2006 8th Annual Sagebrush Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 45.0,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2017-05-05",
+                "score": 40.8,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 32.0,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 31.5,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-05-05",
+                "score": 25.5,
+                "meet": "2017 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 49.47,
+        "best_dive_id": "101A",
+        "best_dive_avg": 50.0,
+        "grade": 6.6
+      },
+      "Back": {
+        "top_2_avg": 45.4,
+        "best_dive_id": "201C",
+        "best_dive_avg": 45.6,
+        "grade": 6.1
+      },
+      "Reverse": {
+        "top_2_avg": 40.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 40.8,
+        "grade": 5.4
+      },
+      "Inward": {
+        "top_2_avg": 47.25,
+        "best_dive_id": "403B",
+        "best_dive_avg": 57.0,
+        "grade": 6.3
+      },
+      "Twister": {
+        "top_2_avg": 51.7,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 52.25,
+        "grade": 6.9
+      },
+      "average_grade": 6.3
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 52.02,
+        "best_dive_id": "105B",
+        "best_dive_avg": 58.24,
+        "grade": 6.5
+      },
+      "Back": {
+        "top_2_avg": 41.35,
+        "best_dive_id": "203C",
+        "best_dive_avg": 42.75,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 44.1,
+        "best_dive_id": "301C",
+        "best_dive_avg": 44.1,
+        "grade": 5.5
+      },
+      "Inward": {
+        "top_2_avg": 49.37,
+        "best_dive_id": "403B",
+        "best_dive_avg": 53.69,
+        "grade": 6.2
+      },
+      "Twister": {
+        "top_2_avg": 60.45,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 68.4,
+        "grade": 7.6
+      },
+      "average_grade": 6.2
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 42.9,
+        "best_dive_id": "103B",
+        "best_dive_avg": 42.9,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 32.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.0,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "401B",
+        "best_dive_avg": 31.5,
+        "grade": 3.7
+      },
+      "Armstand": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "612B",
+        "best_dive_avg": 25.5,
+        "grade": 3.0
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 5.4
+  }
+}

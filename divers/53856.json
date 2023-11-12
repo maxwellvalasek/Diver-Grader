@@ -1,0 +1,221 @@
+{
+  "name": "Tyler Jackson",
+  "gender": "M",
+  "age": "21",
+  "id": 53856,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-08-07",
+                "score": 10.5,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 13.8,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 14.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 16.8,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 10.4,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2016-08-07",
+                "score": 12.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.07
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 21.25,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 17.85,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2016-08-07",
+                "score": 10.2,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.43
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-08-04",
+                "score": 13.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-08-07",
+                "score": 15.75,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-08-07",
+                "score": 15.75,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 16.1,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 14.7,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.4
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 21.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-08-01",
+                "score": 19.55,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 15.3,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.43
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.48,
+        "best_dive_id": "101C",
+        "best_dive_avg": 14.1,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 16.26,
+        "best_dive_id": "201A",
+        "best_dive_avg": 16.43,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 18.68,
+        "best_dive_id": "402C",
+        "best_dive_avg": 21.6,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 17.43,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.43,
+        "grade": 2.3
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

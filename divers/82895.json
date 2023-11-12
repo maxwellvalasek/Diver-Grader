@@ -1,0 +1,382 @@
+{
+  "name": "Charlotte Bozinovski",
+  "gender": "F",
+  "age": "17",
+  "id": 82895,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 22.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 17.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 18.85,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 22.1,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.48
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 22.8,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.8
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 30.6,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 37.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 35.7,
+                "meet": "Sunset League Preview"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 34.85,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.64
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 28.6,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 36.3,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 36.3,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.73
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 23.0,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 20.5,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 18.75,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 31.5,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.12
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 25.0,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 26.0,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 32.0,
+                "meet": "Sunset League Preview"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 25.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 32.0,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 24.0,
+                "meet": "Sunset League Preview"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 32.8,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 17.6,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 28.8,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 24.75,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 30.75,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 20.3,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 20.9,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 37.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 31.9,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 20.9,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 35.15,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.02
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 24.15,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 30.45,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 31.5,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.25,
+        "best_dive_id": "103B",
+        "best_dive_avg": 34.64,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 26.37,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.0,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 27.04,
+        "best_dive_id": "301C",
+        "best_dive_avg": 29.6,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 29.14,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.07,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 28.43,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.7,
+        "grade": 3.8
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

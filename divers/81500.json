@@ -1,0 +1,144 @@
+{
+  "name": "Hayden Schreiber",
+  "gender": "F",
+  "age": "17",
+  "id": 81500,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 36.0,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 34.0,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 23.2,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 28.8,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 38.0,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 42.55,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 36.0,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 34.0,
+        "best_dive_id": "202A",
+        "best_dive_avg": 34.0,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.2,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "402C",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 40.27,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 42.55,
+        "grade": 5.4
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

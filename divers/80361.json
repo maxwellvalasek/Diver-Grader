@@ -1,0 +1,404 @@
+{
+  "name": "Piper Boseman",
+  "gender": "F",
+  "age": "8",
+  "id": 80361,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 15.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 16.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 18.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-03",
+                "score": 15.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 18.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-06-10",
+                "score": 14.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 13.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.17
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 17.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 17.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 17.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 18.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 5,
+            "average_score": 16.9
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 16.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 15.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 15.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.62
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 15.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 13.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 11.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 15.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.33
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 16.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 15.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-03",
+                "score": 19.0,
+                "meet": "4th  ANNUAL HOUSTON HOLIDAY HOEDOWN"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.83
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 16.5,
+                "meet": "Mansfield Summer Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 16.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 18.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 13.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.88
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 15.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 12.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 10.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.33
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 13.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 13.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 13.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 14.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 16.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.0
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 14.5,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 9.5,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 14.0,
+                "meet": "GC DIVERS Local club series"
+              },
+              {
+                "date": "2022-12-17",
+                "score": 15.0,
+                "meet": "Mansfield Diving Local Meet Series"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 13.5,
+                "meet": "Mansfield Diving Local Meet Series"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 13.0,
+                "meet": "GC DIVERS Local club series"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.33,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.9,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 16.29,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.83,
+        "grade": 2.2
+      },
+      "average_grade": 2.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 15.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 13.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 2.0
+  }
+}

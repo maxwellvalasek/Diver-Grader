@@ -1,0 +1,144 @@
+{
+  "name": "Lee Raihle",
+  "gender": "M",
+  "age": "66",
+  "id": 13662,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 44.4,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 37.95,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 34.65,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 44.8,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.8
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 43.4,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-07-10",
+                "score": 31.2,
+                "meet": "Schroeder Summer Senior Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 44.4,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.9
+      },
+      "Back": {
+        "top_2_avg": 37.95,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 34.65,
+        "best_dive_id": "303C",
+        "best_dive_avg": 34.65,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 44.1,
+        "best_dive_id": "404C",
+        "best_dive_avg": 44.8,
+        "grade": 5.9
+      },
+      "Twister": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 31.2,
+        "grade": 4.2
+      },
+      "average_grade": 5.1
+    },
+    "overall_average_grade": 5.1
+  }
+}

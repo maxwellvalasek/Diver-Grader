@@ -1,0 +1,433 @@
+{
+  "name": "Andrew Buck",
+  "gender": "M",
+  "age": "24",
+  "id": 42729,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-11",
+                "score": 20.0,
+                "meet": "Winter Blast Diving Meet"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 17.0,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 19.0,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 17.0,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 17.5,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 18.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 24.0,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 22.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 27.0,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.88
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 21.0,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 24.75,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 27.0,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 25.5,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 19.5,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.19
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 28.5,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 33.25,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 23.75,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 15.2,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.18
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 23.8,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 24.5,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 21.7,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 21.7,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.93
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-03-02",
+                "score": 20.8,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 20.8,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 11.4,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 17.4,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 21.7,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 28.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 27.2,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 28.8,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 24.0,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 22.1,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 26.35,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 27.2,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 26.35,
+                "meet": "Winter Blast Diving Meet"
+              },
+              {
+                "date": "2013-10-26",
+                "score": 28.05,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.01
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-02-07",
+                "score": 18.75,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 24.75,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 24.75,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 24.0,
+                "meet": "2014 Whirlwind Winter Weekend"
+              },
+              {
+                "date": "2014-01-11",
+                "score": 22.5,
+                "meet": "Winter Blast Diving Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.75
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 19.2,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2014-03-02",
+                "score": 28.8,
+                "meet": "Champions Challenge Diving Meet"
+              },
+              {
+                "date": "2014-02-07",
+                "score": 20.8,
+                "meet": "2014 Whirlwind Winter Weekend"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.93
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.54,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.19,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 25.18,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.18,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 22.93,
+        "best_dive_id": "401B",
+        "best_dive_avg": 22.93,
+        "grade": 2.9
+      },
+      "average_grade": 3.0
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.94,
+        "best_dive_id": "103C",
+        "best_dive_avg": 27.0,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 24.79,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.01,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 23.34,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.75,
+        "grade": 3.1
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.1
+  }
+}

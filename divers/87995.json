@@ -1,0 +1,354 @@
+{
+  "name": "Ian Dien",
+  "gender": "M",
+  "age": "16",
+  "id": 87995,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.0,
+                "meet": "Los Alamitos Divers Fall Invite"
+              },
+              {
+                "date": "2023-04-19",
+                "score": 21.6,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 19.2,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 31.45,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 23.8,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 16.5,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 22.0,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 39.6,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 26.35,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 28.05,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 21.0,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 26.35,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 29.75,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.05
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 38.0,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.8,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.6,
+                "meet": "Los Alamitos Divers Fall Invite"
+              },
+              {
+                "date": "2023-04-19",
+                "score": 27.2,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 17.6,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 0.0,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 12.6,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 6.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.4,
+                "meet": "Los Alamitos Divers Fall Invite"
+              },
+              {
+                "date": "2023-04-19",
+                "score": 28.0,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 27.3,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.23
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 41.8,
+                "meet": "Los Alamitos Divers Fall Invite"
+              },
+              {
+                "date": "2023-04-19",
+                "score": 44.0,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 19.8,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.5,
+                "meet": "Los Alamitos Divers Fall Invite"
+              },
+              {
+                "date": "2023-04-19",
+                "score": 31.35,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 33.25,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.03
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-19",
+                "score": 27.2,
+                "meet": "Sunset League Championship"
+              },
+              {
+                "date": "2023-03-30",
+                "score": 27.2,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 41.25,
+                "meet": "Los Alamitos Divers Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.61,
+        "best_dive_id": "105C",
+        "best_dive_avg": 39.6,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 31.37,
+        "best_dive_id": "203C",
+        "best_dive_avg": 38.0,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.8,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 31.72,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.2,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 33.59,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 41.25,
+        "grade": 4.5
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.1
+  }
+}

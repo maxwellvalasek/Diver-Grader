@@ -1,0 +1,829 @@
+{
+  "name": "Nathalie Barnes",
+  "gender": "F",
+  "age": "20",
+  "id": 80406,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-12",
+                "score": 25.5,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.5,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.5
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 37.8,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 28.8,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 31.2,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.2,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 34.8,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 34.2,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 28.8,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.54
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 33.0,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 27.0,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 28.0,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.0,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 30.0,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 22.5,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 23.0,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 27.0,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.0,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 9,
+            "average_score": 26.28
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 26.78,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 25.5,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 23.8,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 26.78,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 25.5,
+                "meet": "NAVY vs ND vs PRIN"
+              }
+            ],
+            "count": 5,
+            "average_score": 25.67
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 22.8,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 22.4,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 25.2,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 24.0,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.35,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 29.7,
+                "meet": "PRIN vs USMA"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.02
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 33.0,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 34.65,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 34.1,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 33.0,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 36.3,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 37.95,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 31.9,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 33.0,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 34.1,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 9,
+            "average_score": 34.22
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 27.5,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 23.1,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 23.1,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 24.75,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 23.1,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 23.1,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 9.9,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 7,
+            "average_score": 22.08
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 29.93,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 26.78,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 29.4,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 31.5,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 31.5,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 28.35,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 26.25,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 25.2,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 15.75,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 9,
+            "average_score": 27.18
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 39.6,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 23.4,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 40.8,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 0.0,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 42.0,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 39.6,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 44.4,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 37.8,
+                "meet": "RUTG vs PRIN"
+              }
+            ],
+            "count": 8,
+            "average_score": 33.45
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 25.3,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 22.95,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 27.0,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 24.3,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 24.3,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 23.4,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.39
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 19.0,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 28.5,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 30.4,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 28.5,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.5,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 24.23,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.65,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 24.7,
+                "meet": "NAVY vs ND vs PRIN"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.77
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 28.35,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 21.6,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 24.3,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 23.4,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.41
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 17.0,
+                "meet": "HARV vs YALE vs PRIN"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 31.5,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.5,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 31.5,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 34.65,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 32.55,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 33.08,
+                "meet": "PRIN vs LASU"
+              }
+            ],
+            "count": 6,
+            "average_score": 32.46
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 32.3,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 28.5,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 30.4,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 27.3,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.2,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 29.4,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 26.78,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 33.6,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 23.63,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 25.2,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 7,
+            "average_score": 27.3
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 27.0,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.5,
+                "meet": "PRIN vs USMA"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 24.0,
+                "meet": "HARV vs YALE vs PRIN"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 34.5,
+                "meet": "CUBC vs PRIN"
+              },
+              {
+                "date": "2023-01-13",
+                "score": 31.0,
+                "meet": "NAVY vs ND vs PRIN"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 31.5,
+                "meet": "PRIN vs LASU"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 35.0,
+                "meet": "2022 Big Al Invitational @ Princeton"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 27.0,
+                "meet": "RUTG vs PRIN"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 21.0,
+                "meet": "PRIN vs BROW vs DART"
+              }
+            ],
+            "count": 9,
+            "average_score": 29.17
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 21.6,
+                "meet": "PRIN Women vs RUTG Women"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 34.2,
+                "meet": "PRIN vs USMA"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.2,
+        "best_dive_id": "105C",
+        "best_dive_avg": 31.54,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 26.28,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.28,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.75,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.67,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 33.27,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.22,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 24.95,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 27.18,
+        "grade": 3.3
+      },
+      "average_grade": 3.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.54,
+        "best_dive_id": "105B",
+        "best_dive_avg": 33.45,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 25.37,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.6,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 25.09,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.77,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 31.77,
+        "best_dive_id": "403B",
+        "best_dive_avg": 32.46,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 28.94,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.17,
+        "grade": 3.6
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.7
+  }
+}

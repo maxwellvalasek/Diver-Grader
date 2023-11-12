@@ -1,0 +1,184 @@
+{
+  "name": "Misha Jain",
+  "gender": "F",
+  "age": "14",
+  "id": 82872,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 19.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 18.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 17.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 17.5,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 15.5,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 18.2,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 19.6,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 18.0,
+                "meet": "2023 Ron OBrien Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 17.5,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 15.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 20.7,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.7,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.9,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 17.75,
+        "best_dive_id": "200C",
+        "best_dive_avg": 17.75,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "300A",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 20.7,
+        "grade": 2.4
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

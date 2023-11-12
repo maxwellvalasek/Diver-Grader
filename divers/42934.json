@@ -1,0 +1,298 @@
+{
+  "name": "Katie Mcpartland",
+  "gender": "F",
+  "age": "17",
+  "id": 42934,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 17.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 19.0,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 14.5,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 13.5,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 13.5,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 15.0,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-12-14",
+                "score": 14.0,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 14.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 15.4,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 18.2,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 15.0,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-12-14",
+                "score": 16.0,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 20.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 16.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 14.0,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 13.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 15.0,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-14",
+                "score": 11.0,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 16.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 15.5,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 15.5,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "400A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-11-23",
+                "score": 12.0,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "400C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 13.0,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.2,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 18.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.25,
+        "grade": 2.4
+      },
+      "average_grade": 2.3
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.17,
+        "best_dive_id": "100B",
+        "best_dive_avg": 15.0,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "Inward": {
+        "top_2_avg": 12.5,
+        "best_dive_id": "400C",
+        "best_dive_avg": 13.0,
+        "grade": 1.6
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 2.0
+  }
+}

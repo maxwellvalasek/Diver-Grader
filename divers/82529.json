@@ -1,0 +1,174 @@
+{
+  "name": "Bryce Hammell",
+  "gender": "M",
+  "age": "16",
+  "id": 82529,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 41.4,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 37.95,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.67
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 32.4,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 38.4,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 11.0,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 35.0,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 24.0,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 25.6,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 25.3,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 37.4,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 31.45,
+                "meet": "2023 District 3 3A Boys Diving Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 22.95,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.53,
+        "best_dive_id": "104B",
+        "best_dive_avg": 39.67,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 23.0,
+        "best_dive_id": "204C",
+        "best_dive_avg": 23.0,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

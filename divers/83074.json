@@ -1,0 +1,391 @@
+{
+  "name": "Leanne Walter",
+  "gender": "F",
+  "age": "18",
+  "id": 83074,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 21.6,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 20.8,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 27.9,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 26.1,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 30.4,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 23.75,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.07
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 23.8,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 23.8,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 37.8,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 33.6,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 32.55,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 29.4,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.97
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 32.2,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 29.9,
+                "meet": "COLG vs LEMC vs MASS"
+              },
+              {
+                "date": "2023-03-15",
+                "score": 23.0,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.37
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 28.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 24.0,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 35.65,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-03-15",
+                "score": 32.2,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.92
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 31.5,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 20.4,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 25.5,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 30.6,
+                "meet": "COLG vs LEMC vs MASS"
+              },
+              {
+                "date": "2023-03-15",
+                "score": 30.6,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 34.8,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 34.1,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 35.2,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 36.8,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 32.2,
+                "meet": "COLG vs LEMC vs MASS"
+              },
+              {
+                "date": "2023-03-15",
+                "score": 29.9,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.97
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.2,
+        "best_dive_id": "103B",
+        "best_dive_avg": 21.2,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.07,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.07,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "403B",
+        "best_dive_avg": 35.7,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 30.97,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 30.97,
+        "grade": 3.9
+      },
+      "average_grade": 3.4
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.37,
+        "best_dive_id": "104B",
+        "best_dive_avg": 28.37,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 29.96,
+        "best_dive_id": "203B",
+        "best_dive_avg": 33.92,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.8,
+        "best_dive_id": "301A",
+        "best_dive_avg": 31.5,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 34.7,
+        "best_dive_id": "403B",
+        "best_dive_avg": 34.8,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 32.97,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 32.97,
+        "grade": 4.4
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 3.7
+  }
+}

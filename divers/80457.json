@@ -1,0 +1,128 @@
+{
+  "name": "Chloe Cheung",
+  "gender": "F",
+  "age": "13",
+  "id": 80457,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 18.5,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 23.1,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 23.8,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 28.9,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 25.5,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 21.0,
+                "meet": "Saint Andrews Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.45,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

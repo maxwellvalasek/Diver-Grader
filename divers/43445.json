@@ -1,0 +1,649 @@
+{
+  "name": "Erik Temple",
+  "gender": "M",
+  "age": "24",
+  "id": 43445,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 30.6,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2017-01-08",
+                "score": 29.75,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2015-12-19",
+                "score": 26.35,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2013-12-21",
+                "score": 17.85,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.14
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 40.7,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2015-12-19",
+                "score": 40.7,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2014-12-20",
+                "score": 41.8,
+                "meet": "Kinney Natatorium HS Invitational"
+              },
+              {
+                "date": "2013-12-21",
+                "score": 27.5,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.67
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 42.9,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.9
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 28.8,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 33.15,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2015-12-19",
+                "score": 28.05,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2014-12-20",
+                "score": 30.6,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-12-21",
+                "score": 14.25,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 32.78,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.78
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 28.0,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2017-01-08",
+                "score": 28.0,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 24.8,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2014-12-20",
+                "score": 17.6,
+                "meet": "Kinney Natatorium HS Invitational"
+              },
+              {
+                "date": "2013-12-21",
+                "score": 24.0,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.13
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 37.8,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 27.3,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2017-01-08",
+                "score": 31.5,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 29.25,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 32.0,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 45.0,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 31.9,
+                "meet": "Bucknell Invitational"
+              },
+              {
+                "date": "2017-01-08",
+                "score": 35.2,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2015-12-19",
+                "score": 44.0,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2014-12-20",
+                "score": 30.8,
+                "meet": "Kinney Natatorium HS Invitational"
+              },
+              {
+                "date": "2013-12-21",
+                "score": 12.1,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.8
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 54.6,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-01-08",
+                "score": 31.35,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              },
+              {
+                "date": "2014-12-20",
+                "score": 30.4,
+                "meet": "Kinney Natatorium HS Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.88
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 14.3,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.3
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-12-19",
+                "score": 35.15,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.15
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 42.53,
+                "meet": "Bucknell University vs Binghamton University"
+              },
+              {
+                "date": "2017-01-08",
+                "score": 33.6,
+                "meet": "Kinney Natatorium Open HS Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.06
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 49.2,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              },
+              {
+                "date": "2019-10-26",
+                "score": 39.6,
+                "meet": "Bucknell University vs Binghamton University"
+              },
+              {
+                "date": "2017-11-17",
+                "score": 38.4,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.4
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 33.6,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              },
+              {
+                "date": "2019-10-26",
+                "score": 39.9,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 33.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 43.4,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              },
+              {
+                "date": "2019-10-26",
+                "score": 44.1,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 32.3,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 24.3,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-10-26",
+                "score": 36.23,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.23
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 34.65,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 54.0,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              },
+              {
+                "date": "2019-10-26",
+                "score": 48.6,
+                "meet": "Bucknell University vs Binghamton University"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 18.9,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-01-04",
+                "score": 33.0,
+                "meet": "FIU Sprint Invite @ Florida International University"
+              },
+              {
+                "date": "2019-10-26",
+                "score": 36.0,
+                "meet": "Bucknell University vs Binghamton University"
+              },
+              {
+                "date": "2017-11-17",
+                "score": 35.0,
+                "meet": "Bucknell Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.67
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 38.72,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.9,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 31.15,
+        "best_dive_id": "203B",
+        "best_dive_avg": 32.78,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 32.2,
+        "best_dive_id": "303B",
+        "best_dive_avg": 37.8,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 49.8,
+        "best_dive_id": "404C",
+        "best_dive_avg": 54.6,
+        "grade": 6.6
+      },
+      "Twister": {
+        "top_2_avg": 37.09,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 38.06,
+        "grade": 4.9
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.14,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.4,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 40.17,
+        "best_dive_id": "205C",
+        "best_dive_avg": 43.75,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 34.27,
+        "best_dive_id": "303B",
+        "best_dive_avg": 36.23,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 45.75,
+        "best_dive_id": "405C",
+        "best_dive_avg": 51.3,
+        "grade": 5.7
+      },
+      "Twister": {
+        "top_2_avg": 30.73,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 34.67,
+        "grade": 3.8
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.9
+  }
+}

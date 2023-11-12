@@ -1,0 +1,234 @@
+{
+  "name": "Tess Walker",
+  "gender": "F",
+  "age": "17",
+  "id": 80897,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 34.85,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.6,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 33.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 30.6,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 44.85,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.85
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 33.15,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 35.7,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 36.0,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 32.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.12
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 46.2,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 40.7,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.45
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 37.05,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 33.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.15
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 47.15,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 43.7,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 45.42
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.82,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.3,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 37.73,
+        "best_dive_id": "203B",
+        "best_dive_avg": 44.85,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 34.42,
+        "best_dive_id": "303C",
+        "best_dive_avg": 35.7,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 38.78,
+        "best_dive_id": "403C",
+        "best_dive_avg": 43.45,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 44.08,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 45.42,
+        "grade": 5.9
+      },
+      "average_grade": 5.1
+    },
+    "overall_average_grade": 5.1
+  }
+}

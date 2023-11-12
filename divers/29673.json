@@ -1,0 +1,277 @@
+{
+  "name": "Jake Brehmer",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 29673,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 28.9,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 50.7,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 35.65,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 31.5,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 46.8,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 47.3,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.3
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 49.2,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.2
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 37.8,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 39.2,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 37.8,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 49.95,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 15.75,
+                "meet": "House of Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.8,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.7,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 35.65,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.65,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "303C",
+        "best_dive_avg": 31.5,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 46.8,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.8,
+        "grade": 6.2
+      },
+      "Twister": {
+        "top_2_avg": 47.3,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 47.3,
+        "grade": 6.3
+      },
+      "average_grade": 5.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.5,
+        "best_dive_id": "105B",
+        "best_dive_avg": 49.2,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "205C",
+        "best_dive_avg": 39.2,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 37.8,
+        "best_dive_id": "305C",
+        "best_dive_avg": 37.8,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 49.95,
+        "best_dive_id": "405C",
+        "best_dive_avg": 49.95,
+        "grade": 6.2
+      },
+      "Twister": {
+        "top_2_avg": 15.75,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 15.75,
+        "grade": 2.0
+      },
+      "average_grade": 4.7
+    },
+    "overall_average_grade": 5.0
+  }
+}

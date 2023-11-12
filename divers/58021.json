@@ -1,0 +1,235 @@
+{
+  "name": "Elliott Nye",
+  "gender": "F",
+  "age": "16",
+  "id": 58021,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-06-24",
+                "score": 15.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 25.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 22.1,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 27.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.93
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 32.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 25.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 28.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 30.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 27.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 28.9,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-06-23",
+                "score": 20.8,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 31.45,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2018-06-23",
+                "score": 31.45,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 25.2,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.46
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 20.4,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2017-06-24",
+                "score": 13.6,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-06-19",
+                "score": 29.75,
+                "meet": "Greater Atlanta Diving League Championships"
+              },
+              {
+                "date": "2019-06-23",
+                "score": 24.65,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.66,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.4,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 28.62,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.62,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 29.46,
+        "best_dive_id": "401C",
+        "best_dive_avg": 29.46,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 27.2,
+        "grade": 2.9
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

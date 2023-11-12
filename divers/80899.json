@@ -1,0 +1,111 @@
+{
+  "name": "Mackenzie Oster",
+  "gender": "F",
+  "age": "16",
+  "id": 80899,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 39.6,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 33.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 38.5,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 33.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.6,
+        "best_dive_id": "104C",
+        "best_dive_avg": 39.6,
+        "grade": 5.3
+      },
+      "Inward": {
+        "top_2_avg": 35.75,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.5,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 37.2,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 41.4,
+        "grade": 5.0
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 5.0
+  }
+}

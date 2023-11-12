@@ -1,0 +1,961 @@
+{
+  "name": "Tatum Holm",
+  "gender": "F",
+  "age": "21",
+  "id": 59383,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 20.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 13.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 20.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 18.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 17.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 21.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.12
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 20.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 15.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 15.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 16.0,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 30.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 21.75,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.88
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 31.2,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 29.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 34.4,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.73
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 24.75,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-15",
+                "score": 36.3,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 31.5,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-15",
+                "score": 29.75,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 25.5,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 30.4,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-02-15",
+                "score": 29.7,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-06-15",
+                "score": 27.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 25.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 28.7,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 25.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 29.4,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 22.1,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 32.3,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 35.15,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 30.4,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 32.62
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 19.5,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 17.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 19.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 20.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 14.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 17.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 22.1,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 30.6,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 27.2,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 28.05,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 28.9,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 30.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 34.85,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 29.75,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 29.99
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 25.3,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 33.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 27.5,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 33.0,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 31.9,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 35.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 39.6,
+                "meet": "2018 AAU Arizona District Meet"
+              }
+            ],
+            "count": 7,
+            "average_score": 32.21
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 16.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 26.4,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 25.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.4,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.8
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-07",
+                "score": 18.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 22.5,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 23.25,
+                "meet": "2018 AAU Arizona District Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.25
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-02-15",
+                "score": 26.35,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 23.8,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.08
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 21.75,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 18.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 21.0,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 22.5,
+                "meet": "2018 AAU Arizona District Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.81
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 28.0,
+                "meet": "2020 Cactus Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 18.7,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 22.95,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.95,
+                "meet": "2019 EVDC Winter Classic"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.53
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-07",
+                "score": 22.4,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 23.2,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 24.0,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 23.2,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 24.8,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 25.6,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 19.2,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 23.2,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 24.8,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 26.4,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 24.0,
+                "meet": "2018 AAU Arizona District Meet"
+              }
+            ],
+            "count": 7,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 27.0,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 24.75,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 27.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 21.75,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 26.25,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 27.75,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 24.0,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-12-07",
+                "score": 24.0,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 25.6,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 27.2,
+                "meet": "2018 AAU Arizona District Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 28.6,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 33.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 33.0,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-12-08",
+                "score": 13.5,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 15.2,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 23.75,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 22.8,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 26.6,
+                "meet": "2019 USA Diving Junior Region 11 Championships"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 18.05,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 27.55,
+                "meet": "Diving in the Pines Invite"
+              },
+              {
+                "date": "2018-02-17",
+                "score": 22.8,
+                "meet": "2018 AAU Arizona District Meet"
+              },
+              {
+                "date": "2017-12-08",
+                "score": 20.9,
+                "meet": "2017 EVDC Winter Classic"
+              }
+            ],
+            "count": 8,
+            "average_score": 22.21
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-02",
+                "score": 20.4,
+                "meet": "2020 Cactus Invitational"
+              },
+              {
+                "date": "2020-02-15",
+                "score": 23.8,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              },
+              {
+                "date": "2019-12-13",
+                "score": 25.5,
+                "meet": "2019 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-12-07",
+                "score": 19.55,
+                "meet": "2018 EVDC Winter Classic"
+              },
+              {
+                "date": "2018-06-15",
+                "score": 23.8,
+                "meet": "Diving in the Pines Invite"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.61
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 32.87,
+        "best_dive_id": "105C",
+        "best_dive_avg": 36.3,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 28.91,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.5,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 30.05,
+        "best_dive_id": "301B",
+        "best_dive_avg": 30.4,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 30.19,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.62,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 19.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 19.0,
+        "grade": 2.4
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.1,
+        "best_dive_id": "104C",
+        "best_dive_avg": 32.21,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 26.05,
+        "best_dive_id": "203C",
+        "best_dive_avg": 28.0,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 23.71,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 28.73,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.07,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 22.36,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 22.61,
+        "grade": 3.0
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

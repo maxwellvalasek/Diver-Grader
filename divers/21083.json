@@ -1,0 +1,921 @@
+{
+  "name": "Anthony Crowder",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 21083,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103A": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 41.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.0
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 41.65,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.65
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 49.4,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 59.8,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 54.6,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 50.7,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 4,
+            "average_score": 53.62
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 36.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 41.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 40.8,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 24.3,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 33.35,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 32.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 46.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 37.95,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.38
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2009-07-17",
+                "score": 37.5,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 36.55,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 36.0,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 40.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 45.0,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 0.0,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 39.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 38.4,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.7
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 49.2,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 62.4,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 48.0,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 46.8,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 4,
+            "average_score": 51.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 32.49,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.49
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 70.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 70.2
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 40.0,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 56.25,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 43.75,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              }
+            ],
+            "count": 3,
+            "average_score": 46.67
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 46.8,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 37.7,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 44.2,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 3,
+            "average_score": 42.9
+          },
+          "5335D": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2009-07-17",
+                "score": 51.0,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.0
+          },
+          "5411A": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 31.35,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 38.4,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 37.2,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.8
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 44.8,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 71.4,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 35.0,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 53.76,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 26.6,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 5,
+            "average_score": 46.31
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 37.8,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 51.0,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 42.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 37.5,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 41.4,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 40.5,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 5,
+            "average_score": 42.48
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 34.2,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 44.65,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 40.8,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.88
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2010-07-09",
+                "score": 24.0,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 36.0,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.0
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 33.6,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 52.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.5
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 49.95,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 66.15,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 43.2,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 49.41,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 35.1,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 5,
+            "average_score": 48.76
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 51.45,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.45
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 51.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 45.9,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              }
+            ],
+            "count": 2,
+            "average_score": 48.45
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 51.8,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 67.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 44.8,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 50.4,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 4,
+            "average_score": 53.55
+          },
+          "5335D": {
+            "dd": 2.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 52.2,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              },
+              {
+                "date": "2010-07-09",
+                "score": 50.75,
+                "meet": "2010 USA Diving National Preliminaries Zone A"
+              },
+              {
+                "date": "2009-07-17",
+                "score": 52.2,
+                "meet": "2009 USA Diving National Preliminary Zone B"
+              }
+            ],
+            "count": 3,
+            "average_score": 51.72
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 38.25,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.25
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 56.4,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2012-04-20",
+                "score": 54.0,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-01-18",
+                "score": 40.95,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 50.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 46.2,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 37.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 24.7,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 34.5,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              },
+              {
+                "date": "2014-01-18",
+                "score": 30.1,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.3
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2012-04-20",
+                "score": 46.2,
+                "meet": "2012 SPRING MASTERS NATIONAL CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 42.0,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2014-01-18",
+                "score": 39.9,
+                "meet": "2014 Schroeder Winter USA Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 51.23,
+        "best_dive_id": "105B",
+        "best_dive_avg": 53.62,
+        "grade": 6.8
+      },
+      "Back": {
+        "top_2_avg": 39.27,
+        "best_dive_id": "201C",
+        "best_dive_avg": 40.8,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 31.61,
+        "best_dive_id": "301B",
+        "best_dive_avg": 36.55,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 47.3,
+        "best_dive_id": "403B",
+        "best_dive_avg": 51.6,
+        "grade": 6.3
+      },
+      "Twister": {
+        "top_2_avg": 60.6,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 70.2,
+        "grade": 8.1
+      },
+      "average_grade": 6.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.88,
+        "best_dive_id": "107C",
+        "best_dive_avg": 46.31,
+        "grade": 5.5
+      },
+      "Back": {
+        "top_2_avg": 41.7,
+        "best_dive_id": "205B",
+        "best_dive_avg": 42.48,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 38.31,
+        "best_dive_id": "301B",
+        "best_dive_avg": 39.88,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 49.38,
+        "best_dive_id": "403B",
+        "best_dive_avg": 52.5,
+        "grade": 6.2
+      },
+      "Twister": {
+        "top_2_avg": 52.77,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 53.55,
+        "grade": 6.6
+      },
+      "average_grade": 5.7
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 47.4,
+        "best_dive_id": "105C",
+        "best_dive_avg": 50.45,
+        "grade": 5.6
+      },
+      "Back": {
+        "top_2_avg": 41.85,
+        "best_dive_id": "203B",
+        "best_dive_avg": 46.2,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 24.7,
+        "best_dive_id": "301B",
+        "best_dive_avg": 24.7,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 36.93,
+        "best_dive_id": "403C",
+        "best_dive_avg": 46.2,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 42.0,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.0,
+        "grade": 4.9
+      },
+      "Armstand": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "612B",
+        "best_dive_avg": 39.9,
+        "grade": 4.7
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 5.4
+  }
+}

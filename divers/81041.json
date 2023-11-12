@@ -1,0 +1,209 @@
+{
+  "name": "Megan Shay",
+  "gender": "F",
+  "age": "20",
+  "id": 81041,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 22.5,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 21.25,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 17.6,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 26.4,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 22.1,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 22.1,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 23.2,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 23.25,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 24.0,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 21.85,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.85
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 21.25,
+                "meet": "Wabash Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.88,
+        "best_dive_id": "102B",
+        "best_dive_avg": 22.5,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 24.25,
+        "best_dive_id": "201B",
+        "best_dive_avg": 26.4,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 22.65,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.2,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 23.62,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 21.55,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 21.85,
+        "grade": 2.9
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

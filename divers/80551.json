@@ -1,0 +1,144 @@
+{
+  "name": "Evan Nelson",
+  "gender": "M",
+  "age": "10",
+  "id": 80551,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 25.0,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 17.0,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 15.5,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 21.5,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 23.0,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 29.4,
+                "meet": "2022 Halloween Classic Team Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 16.2,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 28.9,
+                "meet": "The Kimball Cup AAU Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.2,
+        "best_dive_id": "101A",
+        "best_dive_avg": 29.4,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.9
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "name": "Katherine  Melchiors ",
+  "gender": "F",
+  "age": "16",
+  "id": 80506,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 23.8,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 16.1,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 19.6,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.83
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.0,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 26.4,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 21.6,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 26.35,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 28.05,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.45,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 23.8,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.77
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 25.6,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.2,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 24.5,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 29.4,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 14.0,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.63
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 11.05,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.05
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 18.7,
+                "meet": "Lanier v Lambert Rodeo Meet Swim and Dive"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.92,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.0,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 27.41,
+        "best_dive_id": "202A",
+        "best_dive_avg": 27.77,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 22.63,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.63,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 9.92,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 11.05,
+        "grade": 1.3
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

@@ -1,0 +1,457 @@
+{
+  "name": "Bryan Dunmire",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 10832,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 31.45,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 31.45,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.45
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 41.6,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 44.2,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 29.6,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 32.8,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.2
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 35.65,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 40.25,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 28.05,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 32.3,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.17
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 28.35,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 34.65,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 30.0,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 28.5,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.25
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 36.0,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 46.8,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 44.0,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.0
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 36.4,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 45.5,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.95
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-03-25",
+                "score": 43.75,
+                "meet": "2006 Spring Region 10 Championships"
+              },
+              {
+                "date": "2005-06-24",
+                "score": 48.75,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 27.2,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 20.4,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 40.6,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 38.7,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.7
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 40.6,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 40.85,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.85
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 24.65,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 38.85,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.85
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 44.55,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 35.7,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2005-06-24",
+                "score": 40.0,
+                "meet": "2005 Summer Region 10 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.17,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.9,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 34.58,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 30.84,
+        "best_dive_id": "303C",
+        "best_dive_avg": 31.5,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 35.33,
+        "best_dive_id": "403B",
+        "best_dive_avg": 41.4,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 45.5,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 46.25,
+        "grade": 6.1
+      },
+      "average_grade": 4.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.9,
+        "best_dive_id": "107C",
+        "best_dive_avg": 40.6,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 39.65,
+        "best_dive_id": "205C",
+        "best_dive_avg": 40.6,
+        "grade": 5.0
+      },
+      "Reverse": {
+        "top_2_avg": 32.75,
+        "best_dive_id": "301B",
+        "best_dive_avg": 40.85,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 41.7,
+        "best_dive_id": "405C",
+        "best_dive_avg": 44.55,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 37.85,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 40.0,
+        "grade": 4.7
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.8
+  }
+}

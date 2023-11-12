@@ -1,0 +1,220 @@
+{
+  "name": "Wildes King",
+  "gender": "M",
+  "age": "18",
+  "id": 81421,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 9.6,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 16.1,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 15.4,
+                "meet": "West Winter Dive Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 21.6,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 20.8,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 14.4,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.93
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-06",
+                "score": 18.7,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 14.45,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.57
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 18.7,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 23.8,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 18.7,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 18.4,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 24.0,
+                "meet": "West Winter Dive Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 10.5,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 14.7,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 15.3,
+                "meet": "2023 Forsyth County Swim and Dive Championship"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 17.85,
+                "meet": "West Winter Dive Classic"
+              },
+              {
+                "date": "2022-12-02",
+                "score": 16.15,
+                "meet": "Central Holiday Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.43
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.66,
+        "best_dive_id": "103C",
+        "best_dive_avg": 18.93,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 18.87,
+        "best_dive_id": "202A",
+        "best_dive_avg": 20.4,
+        "grade": 2.5
+      },
+      "Reverse": {
+        "top_2_avg": 21.2,
+        "best_dive_id": "302C",
+        "best_dive_avg": 21.2,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 12.6,
+        "best_dive_id": "401C",
+        "best_dive_avg": 12.6,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 16.43,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 16.43,
+        "grade": 2.2
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

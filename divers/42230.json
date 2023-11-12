@@ -1,0 +1,177 @@
+{
+  "name": "Thomas  Balding",
+  "gender": "M",
+  "age": "17",
+  "id": 42230,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-09-28",
+                "score": 19.0,
+                "meet": "Saint Andrew Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-09-28",
+                "score": 17.5,
+                "meet": "Saint Andrew Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 17.4,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-09-28",
+                "score": 24.5,
+                "meet": "Saint Andrew Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 24.0,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 22.1,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 18.75,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 20.3,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 19.55,
+                "meet": "Plantation Back to School Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.55
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.25,
+        "best_dive_id": "102C",
+        "best_dive_avg": 24.5,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 20.43,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.1,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.3,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 19.55,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 19.55,
+        "grade": 2.6
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.8
+  }
+}

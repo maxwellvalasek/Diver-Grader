@@ -1,0 +1,209 @@
+{
+  "name": "Joel Gil",
+  "gender": "M",
+  "age": "18",
+  "id": 88241,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 22.2,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 0.0,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 28.0,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 23.25,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 6.75,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 21.6,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 27.2,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 18.2,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 22.4,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 17.0,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-30",
+                "score": 28.05,
+                "meet": "Sunset League Preview"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.1,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.0,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "201C",
+        "best_dive_avg": 23.25,
+        "grade": 2.0
+      },
+      "Reverse": {
+        "top_2_avg": 24.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.2,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "402C",
+        "best_dive_avg": 22.4,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 22.52,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 28.05,
+        "grade": 3.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

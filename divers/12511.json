@@ -1,0 +1,134 @@
+{
+  "name": "Douglas Schwandt",
+  "gender": "M",
+  "age": "68",
+  "id": 12511,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 26.4,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 34.2,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 36.55,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 42.0,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 23.75,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.75
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2006-08-13",
+                "score": 25.2,
+                "meet": "XI FINA World Masters Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.4,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 34.2,
+        "best_dive_id": "201B",
+        "best_dive_avg": 34.2,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 39.27,
+        "best_dive_id": "403B",
+        "best_dive_avg": 42.0,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 24.48,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 25.2,
+        "grade": 3.1
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

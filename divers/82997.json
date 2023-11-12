@@ -1,0 +1,121 @@
+{
+  "name": "Jonathon Anno",
+  "gender": "M",
+  "age": "18",
+  "id": 82997,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 50.4,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.75,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 45.6,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 39.6,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.75,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 50.4,
+        "best_dive_id": "105C",
+        "best_dive_avg": 50.4,
+        "grade": 6.7
+      },
+      "Reverse": {
+        "top_2_avg": 37.67,
+        "best_dive_id": "303B",
+        "best_dive_avg": 45.6,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 39.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.6,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 33.75,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 33.75,
+        "grade": 4.5
+      },
+      "average_grade": 5.4
+    },
+    "overall_average_grade": 5.4
+  }
+}

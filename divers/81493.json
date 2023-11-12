@@ -1,0 +1,348 @@
+{
+  "name": "Lilly Ladzinske",
+  "gender": "F",
+  "age": "15",
+  "id": 81493,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-09",
+                "score": 23.25,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 17.85,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 28.05,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 22.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.9,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 30.8,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 41.8,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.62
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 25.5,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 34.0,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 25.5,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 34.85,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.96
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 12.0,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 16.0,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 21.0,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 33.0,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-09",
+                "score": 5.1,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.1
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 7.2,
+                "meet": "Dekalb County Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 22.4,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 20.8,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 29.6,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 21.6,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 23.25,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 25.5,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.38
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 24.8,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 27.2,
+                "meet": "Chamblee/Lakeside Invitational"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 27.2,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 14.3,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 24.2,
+                "meet": "Dekalb County Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 22.8,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-09",
+                "score": 15.2,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.0
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 17.1,
+                "meet": "Georgia High School State Championship 6-7A"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 34.2,
+                "meet": "Dekalb County Dive Meet"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 28.5,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.6
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-09",
+                "score": 23.0,
+                "meet": "Chamblee/Lakeside Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.95,
+        "best_dive_id": "104C",
+        "best_dive_avg": 31.62,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 25.23,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.96,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 20.32,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.6,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 25.59,
+        "best_dive_id": "402C",
+        "best_dive_avg": 26.4,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 25.7,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 26.6,
+        "grade": 3.4
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

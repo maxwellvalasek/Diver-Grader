@@ -1,0 +1,329 @@
+{
+  "name": "Elsie Schaubeck",
+  "gender": "F",
+  "age": "22",
+  "id": 41327,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 15.5,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 18.5,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 22.4,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 8.0,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 12.5,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 16.0,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-29",
+                "score": 22.8,
+                "meet": "2014 Long Island Divers Mini Holiday Team Meet"
+              },
+              {
+                "date": "2013-05-25",
+                "score": 25.2,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-05-25",
+                "score": 21.0,
+                "meet": "2013 EMPIRE STATE MEMORIAL DIVE INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 24.0,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-11-29",
+                "score": 25.6,
+                "meet": "2014 Long Island Divers Mini Holiday Team Meet"
+              },
+              {
+                "date": "2014-05-03",
+                "score": 24.8,
+                "meet": "2014 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 19.2,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-29",
+                "score": 29.25,
+                "meet": "2014 Long Island Divers Mini Holiday Team Meet"
+              },
+              {
+                "date": "2014-05-03",
+                "score": 26.25,
+                "meet": "2014 Cinco de Mayo Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 23.2,
+                "meet": "2015 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 18.4,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-05-03",
+                "score": 15.0,
+                "meet": "2014 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 26.25,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.62
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 27.3,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-11-29",
+                "score": 29.4,
+                "meet": "2014 Long Island Divers Mini Holiday Team Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.35
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-03-14",
+                "score": 19.2,
+                "meet": "2015 The Kimball Cup"
+              },
+              {
+                "date": "2014-05-03",
+                "score": 20.8,
+                "meet": "2014 Cinco de Mayo Invitational"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 26.4,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.13
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.45,
+        "best_dive_id": "101C",
+        "best_dive_avg": 22.4,
+        "grade": 2.6
+      },
+      "Back": {
+        "top_2_avg": 8.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 8.0,
+        "grade": 1.0
+      },
+      "average_grade": 1.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.6,
+        "best_dive_id": "101C",
+        "best_dive_avg": 24.0,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 27.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 27.75,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.2,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 24.62,
+        "best_dive_id": "401C",
+        "best_dive_avg": 28.35,
+        "grade": 3.3
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 2.5
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "name": "Emerson Peters",
+  "gender": "F",
+  "age": "9",
+  "id": 80676,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 23.0,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 18.0,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.83
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 16.0,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.0,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 18.0,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 18.0,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 21.0,
+                "meet": "Delta Valley Diving Fall Invite"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 20.4,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 17.4,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 23.1,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 21.0,
+                "meet": "Dive Lab Invitational 2023"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 17.5,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 28.9,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 21.75,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 16.8,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Delta Valley Diving Fall Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 13.0,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "5201A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 14.0,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.48,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.1,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 25.32,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 16.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 17.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 17.5,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "5201A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

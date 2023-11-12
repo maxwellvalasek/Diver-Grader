@@ -1,0 +1,147 @@
+{
+  "name": "Elizabeth Longly",
+  "gender": "F",
+  "age": "12",
+  "id": 88166,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 16.5,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 18.6,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 34.1,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 22.1,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 20.25,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 20.3,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-26",
+                "score": 29.45,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.1,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 21.18,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.1,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.3,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 29.45,
+        "grade": 3.9
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

@@ -1,0 +1,642 @@
+{
+  "name": "Michelle McLeod",
+  "gender": "F",
+  "age": "18",
+  "id": 54651,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-11-05",
+                "score": 35.2,
+                "meet": "2016 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 48.6,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 46.8,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 52.2,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 43.2,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 47.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-11-05",
+                "score": 24.75,
+                "meet": "2016 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 48.3,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 47.15,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 44.85,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 44.85,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 46.29
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-11-05",
+                "score": 24.0,
+                "meet": "2016 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 48.6,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 46.8,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 50.4,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 43.2,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 47.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-11-05",
+                "score": 27.75,
+                "meet": "2016 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 52.2,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 48.0,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 46.8,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 50.4,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 49.35
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-11-05",
+                "score": 27.5,
+                "meet": "2016 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 46.2,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 47.3,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 42.9,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 42.9,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 44.83
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 42.53,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 39.9,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 42.53,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 39.38,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.09
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 52.2,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 51.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 50.4,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 48.6,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 50.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 35.7,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 54.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 46.2,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 29.4,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.48
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 48.3,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 36.4,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 54.6,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 46.2,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 46.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 42.53,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 44.1,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 45.68,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 44.1,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 44.1
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 50.63,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 47.25,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 54.68,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 46.58,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 49.78
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 43.2,
+                "meet": "TU vs HU"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 46.8,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 46.8,
+                "meet": "TEX vs HU"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 48.6,
+                "meet": "HU Instrasquad Meet"
+              }
+            ],
+            "count": 4,
+            "average_score": 46.35
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 49.2,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 50.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 40.95,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 2.8,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 54.6,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-10-13",
+                "score": 51.25,
+                "meet": "HU vs IDAH vs DENV vs UNT"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 45.2,
+        "best_dive_id": "105C",
+        "best_dive_avg": 47.7,
+        "grade": 6.0
+      },
+      "Back": {
+        "top_2_avg": 41.98,
+        "best_dive_id": "203B",
+        "best_dive_avg": 46.29,
+        "grade": 5.6
+      },
+      "Reverse": {
+        "top_2_avg": 47.25,
+        "best_dive_id": "303B",
+        "best_dive_avg": 47.25,
+        "grade": 6.3
+      },
+      "Inward": {
+        "top_2_avg": 45.03,
+        "best_dive_id": "403B",
+        "best_dive_avg": 49.35,
+        "grade": 6.0
+      },
+      "Twister": {
+        "top_2_avg": 42.96,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 44.83,
+        "grade": 5.7
+      },
+      "average_grade": 5.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 50.7,
+        "best_dive_id": "105B",
+        "best_dive_avg": 50.7,
+        "grade": 6.3
+      },
+      "Back": {
+        "top_2_avg": 41.48,
+        "best_dive_id": "205C",
+        "best_dive_avg": 41.48,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 46.38,
+        "best_dive_id": "305C",
+        "best_dive_avg": 46.38,
+        "grade": 5.8
+      },
+      "Inward": {
+        "top_2_avg": 46.94,
+        "best_dive_id": "405C",
+        "best_dive_avg": 49.78,
+        "grade": 5.9
+      },
+      "Twister": {
+        "top_2_avg": 46.35,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 46.35,
+        "grade": 5.8
+      },
+      "average_grade": 5.8
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 49.2,
+        "best_dive_id": "105C",
+        "best_dive_avg": 49.2,
+        "grade": 5.8
+      },
+      "Back": {
+        "top_2_avg": 50.6,
+        "best_dive_id": "203B",
+        "best_dive_avg": 50.6,
+        "grade": 6.0
+      },
+      "Reverse": {
+        "top_2_avg": 40.95,
+        "best_dive_id": "303C",
+        "best_dive_avg": 40.95,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 54.6,
+        "best_dive_id": "405B",
+        "best_dive_avg": 54.6,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 51.25,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 51.25,
+        "grade": 6.0
+      },
+      "average_grade": 5.8
+    },
+    "overall_average_grade": 5.8
+  }
+}

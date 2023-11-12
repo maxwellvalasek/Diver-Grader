@@ -1,0 +1,407 @@
+{
+  "name": "Cailyn Bell",
+  "gender": "F",
+  "age": "17",
+  "id": 82810,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 13.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 19.2,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 27.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 29.45,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 21.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 15.2,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 31.5,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 24.65,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 23.8,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 36.8,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 16.8,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 21.6,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 14.4,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 30.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 24.0,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 26.35,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 25.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.93
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 25.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 23.25,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 19.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.38
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 20.9,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 14.3,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 32.2,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 39.1,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.65
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 31.9,
+                "meet": "2023 Redbird Diving Spring Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 28.35,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 19.2,
+        "best_dive_id": "103B",
+        "best_dive_avg": 19.2,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.0,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.45,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 18.1,
+        "best_dive_id": "401B",
+        "best_dive_avg": 21.0,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 31.5,
+        "grade": 3.9
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.42,
+        "best_dive_id": "104B",
+        "best_dive_avg": 36.8,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.0,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.79,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.93,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 19.49,
+        "best_dive_id": "401B",
+        "best_dive_avg": 21.38,
+        "grade": 2.6
+      },
+      "Twister": {
+        "top_2_avg": 34.4,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 35.65,
+        "grade": 4.6
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.3
+  }
+}

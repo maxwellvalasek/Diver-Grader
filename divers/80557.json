@@ -1,0 +1,157 @@
+{
+  "name": "Olivia Ice",
+  "gender": "F",
+  "age": "17",
+  "id": 80557,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 24.38,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.38
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 36.3,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 31.2,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 30.6,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 22.95,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 27.0,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 25.65,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.65
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.34,
+        "best_dive_id": "104C",
+        "best_dive_avg": 36.3,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 30.9,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.2,
+        "grade": 4.1
+      },
+      "Reverse": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "301B",
+        "best_dive_avg": 22.95,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.0,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 25.65,
+        "grade": 3.4
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.6
+  }
+}

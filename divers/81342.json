@@ -1,0 +1,277 @@
+{
+  "name": "Abigayl Conard",
+  "gender": "F",
+  "age": "18",
+  "id": 81342,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 27.2,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 26.4,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 30.0,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 18.9,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 23.25,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 29.4,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 24.8,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 22.1,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 22.5,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 22.4,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 27.55,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-01",
+                "score": 30.0,
+                "meet": "Miami Invitational  @Miami Ohio"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.8,
+        "best_dive_id": "103B",
+        "best_dive_avg": 27.2,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 30.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 30.0,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 18.9,
+        "best_dive_id": "303C",
+        "best_dive_avg": 18.9,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.25,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 29.4,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.4,
+        "grade": 3.9
+      },
+      "average_grade": 3.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.8,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "201C",
+        "best_dive_avg": 22.1,
+        "grade": 2.8
+      },
+      "Reverse": {
+        "top_2_avg": 22.5,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.5,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 24.98,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.55,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 30.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 30.0,
+        "grade": 3.8
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.3
+  }
+}

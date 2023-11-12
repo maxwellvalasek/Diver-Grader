@@ -1,0 +1,141 @@
+{
+  "name": "Dan Kovar",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 53068,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-14",
+                "score": 30.8,
+                "meet": "2018 California Games"
+              },
+              {
+                "date": "2018-07-14",
+                "score": 30.0,
+                "meet": "2018 California Games"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.4
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-14",
+                "score": 21.25,
+                "meet": "2018 California Games"
+              },
+              {
+                "date": "2018-07-14",
+                "score": 28.05,
+                "meet": "2018 California Games"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-14",
+                "score": 30.6,
+                "meet": "2018 California Games"
+              },
+              {
+                "date": "2018-07-14",
+                "score": 32.0,
+                "meet": "2018 California Games"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-14",
+                "score": 31.5,
+                "meet": "2018 California Games"
+              },
+              {
+                "date": "2018-07-14",
+                "score": 31.5,
+                "meet": "2018 California Games"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-07-14",
+                "score": 27.0,
+                "meet": "2018 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.52,
+        "best_dive_id": "101A",
+        "best_dive_avg": 30.4,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 31.3,
+        "best_dive_id": "201A",
+        "best_dive_avg": 31.3,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "301A",
+        "best_dive_avg": 31.5,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 27.0,
+        "grade": 3.6
+      },
+      "average_grade": 3.9
+    },
+    "overall_average_grade": 3.9
+  }
+}

@@ -1,0 +1,529 @@
+{
+  "name": "Sean Piacente",
+  "gender": "M",
+  "age": "29",
+  "id": 56343,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 33.15,
+                "meet": "Rowan University vs. West Chester University"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 39.1,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.12
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 52.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 53.3,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.65
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 33.6,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 27.0,
+                "meet": "Rowan University vs. West Chester University"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 47.15,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 36.8,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.97
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 35.7,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 31.2,
+                "meet": "Rowan University vs. West Chester University"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 39.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 45.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 32.25,
+                "meet": "Rowan University vs. West Chester University"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 33.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.62
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 52.8,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 54.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 53.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 45.1,
+                "meet": "Rowan University vs. West Chester University"
+              }
+            ],
+            "count": 1,
+            "average_score": 45.1
+          },
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 49.6,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 55.8,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 52.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-11",
+                "score": 22.95,
+                "meet": "Rowan University vs. West Chester University"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 48.4,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.4
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 58.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 54.6,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 56.55
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 35.2,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.2
+          },
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 69.75,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 60.45,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 65.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 38.7,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.7
+          },
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 52.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 70.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 61.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 38.95,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.95
+          },
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 37.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 66.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 51.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 51.45,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.45
+          },
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 58.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 70.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 64.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 47.25,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.25
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 64.5,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 72.0,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 68.25
+          },
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-02-17",
+                "score": 62.9,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              },
+              {
+                "date": "2017-02-17",
+                "score": 56.1,
+                "meet": "2017 Metropolitan Conference Diving Championship"
+              }
+            ],
+            "count": 2,
+            "average_score": 59.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 44.38,
+        "best_dive_id": "105B",
+        "best_dive_avg": 52.65,
+        "grade": 5.9
+      },
+      "Back": {
+        "top_2_avg": 39.18,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.97,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "305C",
+        "best_dive_avg": 42.0,
+        "grade": 5.3
+      },
+      "Inward": {
+        "top_2_avg": 53.05,
+        "best_dive_id": "403B",
+        "best_dive_avg": 53.4,
+        "grade": 7.1
+      },
+      "Twister": {
+        "top_2_avg": 53.83,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 56.55,
+        "grade": 7.2
+      },
+      "average_grade": 6.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 55.13,
+        "best_dive_id": "107B",
+        "best_dive_avg": 65.1,
+        "grade": 6.9
+      },
+      "Back": {
+        "top_2_avg": 53.9,
+        "best_dive_id": "205B",
+        "best_dive_avg": 61.5,
+        "grade": 6.7
+      },
+      "Reverse": {
+        "top_2_avg": 47.48,
+        "best_dive_id": "305B",
+        "best_dive_avg": 51.75,
+        "grade": 5.9
+      },
+      "Inward": {
+        "top_2_avg": 60.15,
+        "best_dive_id": "405B",
+        "best_dive_avg": 64.5,
+        "grade": 7.5
+      },
+      "Twister": {
+        "top_2_avg": 63.88,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 68.25,
+        "grade": 8.0
+      },
+      "average_grade": 7.0
+    },
+    "overall_average_grade": 6.6
+  }
+}

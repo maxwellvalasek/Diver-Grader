@@ -1,0 +1,141 @@
+{
+  "name": "Liam Roberts",
+  "gender": "M",
+  "age": "13",
+  "id": 82662,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 15.5,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 11.5,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 13.8,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 18.2,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 15.3,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.3
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 13.5,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5102A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 12.5,
+                "meet": "Dive Lab Invitational 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "102C",
+        "best_dive_avg": 18.2,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.4,
+        "best_dive_id": "201A",
+        "best_dive_avg": 15.3,
+        "grade": 1.9
+      },
+      "Twister": {
+        "top_2_avg": 12.5,
+        "best_dive_id": "5102A",
+        "best_dive_avg": 12.5,
+        "grade": 1.7
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

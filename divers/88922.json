@@ -1,0 +1,144 @@
+{
+  "name": "Valerie Wilder",
+  "gender": "F",
+  "age": "19",
+  "id": 88922,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 24.0,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 25.5,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 13.6,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.4,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 26.6,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.1,
+                "meet": "CCCAA So-Cal Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "202A",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "301C",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "Inward": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 24.35,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.6,
+        "grade": 3.2
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

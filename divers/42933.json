@@ -1,0 +1,137 @@
+{
+  "name": "Zofia Mcpartland",
+  "gender": "F",
+  "age": "15",
+  "id": 42933,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-04-05",
+                "score": 14.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 13.0,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 14.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 3,
+            "average_score": 13.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 13.5,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 14.5,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 13.5,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 16.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 16.8,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 14.7,
+                "meet": "2014 The Kimball Cup"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2014-11-22",
+                "score": 14.5,
+                "meet": "32nd Annual Lords of the Boards Autumn Classic"
+              },
+              {
+                "date": "2014-04-05",
+                "score": 16.0,
+                "meet": "2014 The Kimball Cup"
+              },
+              {
+                "date": "2013-12-14",
+                "score": 12.5,
+                "meet": "The Blue Dolphin Diving Invitational 2013"
+              },
+              {
+                "date": "2013-11-23",
+                "score": 12.5,
+                "meet": "31st Annual Lords of the Boards Autumn Classic 2013"
+              }
+            ],
+            "count": 4,
+            "average_score": 13.88
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.92,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.75,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 13.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 13.88,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

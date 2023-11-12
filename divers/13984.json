@@ -1,0 +1,196 @@
+{
+  "name": "Dorien (bobbi) Fielding",
+  "gender": "F",
+  "age": "Age not found",
+  "id": 13984,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 28.05,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 47.15,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 47.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 34.85,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 37.0,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 37.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 38.7,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 38.7
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 25.2,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 28.8,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 37.2,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 44.0,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 44.0
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 23.0,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 37.6,
+        "best_dive_id": "104B",
+        "best_dive_avg": 47.15,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 35.92,
+        "best_dive_id": "203C",
+        "best_dive_avg": 37.0,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 31.95,
+        "best_dive_id": "301A",
+        "best_dive_avg": 38.7,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "403B",
+        "best_dive_avg": 37.2,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 33.5,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 44.0,
+        "grade": 4.5
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.6
+  }
+}

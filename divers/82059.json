@@ -1,0 +1,121 @@
+{
+  "name": "Addison Irace",
+  "gender": "F",
+  "age": "17",
+  "id": 82059,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 28.9,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 30.8,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 28.9,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 38.5,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 33.25,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.85,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.8,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.9,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 38.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 38.5,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 33.25,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 33.25,
+        "grade": 4.4
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "name": "David Mickle",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 12068,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 31.5,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 36.0,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 36.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 36.55,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 20.0,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 28.8,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 39.6,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 26.4,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 29.7,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 29.7
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2006-08-05",
+                "score": 34.5,
+                "meet": "Kaiser Permanente Summer Masters National Diving Champ."
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 33.75,
+        "best_dive_id": "103C",
+        "best_dive_avg": 36.0,
+        "grade": 4.5
+      },
+      "Back": {
+        "top_2_avg": 28.27,
+        "best_dive_id": "201A",
+        "best_dive_avg": 36.55,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "301A",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "401A",
+        "best_dive_avg": 39.6,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 32.1,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 34.5,
+        "grade": 4.3
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

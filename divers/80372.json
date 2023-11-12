@@ -1,0 +1,209 @@
+{
+  "name": "Sarina Steele",
+  "gender": "F",
+  "age": "18",
+  "id": 80372,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 24.5,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 24.8,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 14.3,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 22.95,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 25.6,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 25.6,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 29.6,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 21.0,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 30.4,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 27.2,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "5421D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 18.05,
+                "meet": "FHSAA District 5"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.65,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 24.27,
+        "best_dive_id": "202B",
+        "best_dive_avg": 25.6,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 27.6,
+        "best_dive_id": "302C",
+        "best_dive_avg": 29.6,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 25.7,
+        "best_dive_id": "402C",
+        "best_dive_avg": 30.4,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 22.62,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 27.2,
+        "grade": 3.0
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

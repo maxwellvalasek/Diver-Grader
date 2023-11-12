@@ -1,0 +1,412 @@
+{
+  "name": "Eleanora Vavilov",
+  "gender": "F",
+  "age": "12",
+  "id": 80619,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 12.0,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 18.0,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 16.5,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.9,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 23.1,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 17.5,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.9,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 22.1,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 19.0,
+                "meet": "2022 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 17.5,
+                "meet": "2022 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 17.5,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.8,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 21.6,
+                "meet": "2022 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.7
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 22.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 23.25,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 27.3,
+                "meet": "2022 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 25.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 28.0,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.05,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 20.4,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.23
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 21.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              },
+              {
+                "date": "2023-04-14",
+                "score": 23.8,
+                "meet": "2023 Badgerland Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 23.8,
+                "meet": "2022 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.87
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.1,
+                "meet": "2023 Badgerland Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 19.83,
+        "best_dive_id": "101C",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 17.75,
+        "best_dive_id": "200C",
+        "best_dive_avg": 18.0,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 19.5,
+        "best_dive_id": "401C",
+        "best_dive_avg": 19.5,
+        "grade": 2.4
+      },
+      "average_grade": 2.4
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.65,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.0,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 24.23,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.23,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 22.87,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.87,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 22.1,
+        "grade": 2.9
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 2.8
+  }
+}

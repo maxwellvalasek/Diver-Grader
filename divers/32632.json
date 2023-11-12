@@ -1,0 +1,2965 @@
+{
+  "name": "Sydney Dutton",
+  "gender": "F",
+  "age": "23",
+  "id": 32632,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-13",
+                "score": 18.0,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 21.0,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-03-02",
+                "score": 20.5,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 18.0,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 19.0,
+                "meet": "2012 MVND Southern California Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.17
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-13",
+                "score": 15.5,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 16.5,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 13.5,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.17
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-03-02",
+                "score": 18.5,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 18.0,
+                "meet": "2012 MVND Southern California Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 31.5,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 24.0,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 21.0,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 24.0,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 25.88,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 24.0,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 27.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 25.5,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 26.25,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 20.25,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 16.5,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 11,
+            "average_score": 24.17
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-03-02",
+                "score": 18.9,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 23.1,
+                "meet": "2012 MVND Southern California Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 28.0,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 24.0,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 25.2,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 19.2,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 14.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 19.2,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 27.6,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 24.0,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 22.4,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 32.8,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 26.4,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 18.4,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 24.8,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 19.2,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 25.6,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 20.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 16.0,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 21.6,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 18,
+            "average_score": 22.71
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-13",
+                "score": 23.25,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 18.75,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 16.5,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-13",
+                "score": 18.0,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 23.0,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 15.0,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 17.0,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 15.0,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 17.6
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 32.4,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 21.6,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 31.5,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 23.4,
+                "meet": "Terrier Invitational at (Boston University)"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.23
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 27.2,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 24.65,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 28.05,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 31.88,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 21.25,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 19.55,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 29.33,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 33.15,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 25.5,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 30.6,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 25.5,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 23.8,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 17.85,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 22.95,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 23.8,
+                "meet": "2012 MVND Southern California Invitational"
+              }
+            ],
+            "count": 15,
+            "average_score": 25.67
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 39.9,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 25.65,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 33.25,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 29.45,
+                "meet": "Terrier Invitational at (Boston University)"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.06
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 31.5,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 29.7,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 31.05,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 28.35,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.1,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 27.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 27.0,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 29.7,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 24.3,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 27.0,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 24.3,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 29.7,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 27.0,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 27.0,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 29.7,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 33.3,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 24.3,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 27.9,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 18,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 25.2,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 18.2,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 25.2,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 23.1,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 21.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 21.7,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 19.95,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 23.1,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 22.4,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 13.3,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              }
+            ],
+            "count": 10,
+            "average_score": 21.31
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2013-12-13",
+                "score": 16.9,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 22.1,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 20.15,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 24.7,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.96
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 27.3,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 28.35,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 34.65,
+                "meet": "COLG vs CHCR"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.1
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-01-15",
+                "score": 31.35,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.6,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 30.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 25.65,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 28.5,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 22.8,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 38.0,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 25.65,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 23.75,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 28.5,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 29.93,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 27.55,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 25.65,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 25.65,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 21.85,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 15,
+            "average_score": 27.46
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-11-15",
+                "score": 22.95,
+                "meet": "Marist College vs Colgate U"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 35.0,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 29.0,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 33.0,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 27.0,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 27.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 27.0,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 28.5,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 29.0,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 42.0,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 27.0,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 21.0,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 19.0,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 18.0,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 21.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 20.0,
+                "meet": "Terrier Invitational at (Boston University)"
+              }
+            ],
+            "count": 16,
+            "average_score": 26.72
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-04-28",
+                "score": 13.3,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.3
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-05-24",
+                "score": 14.5,
+                "meet": "Greg Louganis Southern California Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 21.0,
+                "meet": "2013 Rose Bowl Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-05-24",
+                "score": 21.0,
+                "meet": "Greg Louganis Southern California Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-03-02",
+                "score": 19.0,
+                "meet": "2013 Rose Bowl Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-07-11",
+                "score": 20.8,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-05-24",
+                "score": 17.4,
+                "meet": "Greg Louganis Southern California Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 22.8,
+                "meet": "2013 Rose Bowl Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.1
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-01-11",
+                "score": 29.75,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 30.6,
+                "meet": "University of Buffalo Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.18
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-07-11",
+                "score": 19.2,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-01-11",
+                "score": 27.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 24.75,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 16.5,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-01-11",
+                "score": 21.6,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 27.2,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 20.8,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-01-11",
+                "score": 23.25,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 24.75,
+                "meet": "University of Buffalo Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2013-07-11",
+                "score": 21.7,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-01-11",
+                "score": 27.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 21.75,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2013-07-11",
+                "score": 20.25,
+                "meet": "2013 USA Diving Summer Junior Zone E Championships"
+              },
+              {
+                "date": "2013-05-24",
+                "score": 24.75,
+                "meet": "Greg Louganis Southern California Invitational"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 20.25,
+                "meet": "2013 Rose Bowl Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.8
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-07",
+                "score": 20.15,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 24.7,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.7,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 19.5,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 22.1,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 10.4,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 18.85,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 20.06
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2015-05-11",
+                "score": 16.2,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 21.6,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 25.2,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 19.2,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 21.6,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 18.0,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 20.3
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 20.4,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 25.5,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 29.33,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 26.78,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 22.95,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 23.8,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.05,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 25.5,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 22.95,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 30.6,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 22.95,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 22.95,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 23.8,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 27.2,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 26.35,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 34.0,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 32.3,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 28.05,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 15.3,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              }
+            ],
+            "count": 19,
+            "average_score": 25.72
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-04-25",
+                "score": 24.0,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 23.2,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 21.6,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 27.2,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 27.2,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 25.6,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 27.2,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 24.8,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 22.4,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 24.0,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 14.4,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 15.2,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 24.0,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 12.8,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 15.2,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 23.2,
+                "meet": "SPA Championships"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 20.8,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 17,
+            "average_score": 21.93
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 25.3,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 28.6,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 37.95,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 31.35,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 27.5,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 26.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 29.7,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 31.35,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 24.2,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 45.1,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 29.7,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 28.6,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 27.5,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 33.0,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 19.8,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 23.1,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 29.7,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 33.0,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 18.7,
+                "meet": "2018 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 36.3,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 13.2,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 24.2,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 22.0,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 29.7,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 26.4,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 24.2,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 24.2,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 29.7,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 12.1,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 26.4,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 27.5,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 20.9,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 24.2,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 23.1,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 19.8,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 24.2,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 24.2,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 19.8,
+                "meet": "2012 MVND Southern California Invitational"
+              }
+            ],
+            "count": 38,
+            "average_score": 26.39
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 32.8,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 24.0,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 22.4,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 19.2,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 26.4,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 22.4,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 20.0,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 25.6,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 26.4,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 19.2,
+                "meet": "2018 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 32.0,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 28.8,
+                "meet": "Marina/Ocean View High School  Invitational"
+              }
+            ],
+            "count": 12,
+            "average_score": 24.93
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-02-24",
+                "score": 19.5,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 25.5,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 21.0,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 25.5,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 19.5,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 27.75,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 29.25,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 24.0,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 24.75,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 22.5,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 16.5,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 20.25,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 21.75,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 22.5,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 22.5,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 22.5,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 18.0,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 19.5,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 19.5,
+                "meet": "SPA Championships"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 9.0,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 20,
+            "average_score": 21.56
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-07",
+                "score": 24.75,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 23.25,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 20.25,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 17.25,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 18.75,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 18.0,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 17.25,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 24.0,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 15.75,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 15.75,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 19.5,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 19.5
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 27.0,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 31.0,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 37.5,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 28.5,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 29.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 24.0,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 33.0,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 23.0,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 18.0,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              }
+            ],
+            "count": 10,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-02",
+                "score": 35.7,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 24.23,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 22.95,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 24.65,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 21.25,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 24.65,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 20.4,
+                "meet": "2018 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 34.0,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 28.9,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 29.75,
+                "meet": "2018 Raincross Invite"
+              }
+            ],
+            "count": 10,
+            "average_score": 26.65
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 26.4,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 28.8,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 30.0,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 26.4,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 21.6,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 24.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.8,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 26.4,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 24.0,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 24.8,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 24.0,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 26.4,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 19.2,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 27.2,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 27.2,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 22.4,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 28.8,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 24.0,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 25.6,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 26.4,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 22.4,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 22.4,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 28.0,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 24.8,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 0.0,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 20.8,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 22.4,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 23.2,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 18.4,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 24.8,
+                "meet": "SPA Championships"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 19.2,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 31,
+            "average_score": 23.83
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-07",
+                "score": 27.2,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 25.6,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 24.8,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 20.8,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 28.0,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 24.0,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 23.2,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 28.0,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 27.2,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 25.6,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 25.6,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 22.4,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 16.8,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 26.4,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 24.0,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 23.2,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 24.0,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 24.0,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 17.6,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 15.2,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 22.4,
+                "meet": "SPA Championships"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 20.0,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 22,
+            "average_score": 23.45
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-07",
+                "score": 24.0,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 30.0,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 31.5,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 24.75,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 22.5,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 25.5,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 26.38
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-04-25",
+                "score": 17.5,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 23.1,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 25.2,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 23.1,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 28.0,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 28.7,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 23.8,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 21.0,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 21.0,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 17.5,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 16.1,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 18.9,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 21.7,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 23.1,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 21.7,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2011-06-17",
+                "score": 25.9,
+                "meet": "2011 USA Diving Summer Junior Region 9 Championships"
+              }
+            ],
+            "count": 16,
+            "average_score": 22.27
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-04-25",
+                "score": 25.6,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 25.6,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 22.4,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 25.6,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 22.4,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 26.4,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 21.6,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 21.6,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              }
+            ],
+            "count": 8,
+            "average_score": 23.9
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 36.3,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 34.1,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 36.3,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 39.6,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 33.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 31.9,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 31.35,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 37.95,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 30.8,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 44.0,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 35.2,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 34.1,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 36.3,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 36.3,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 25.3,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 26.4,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 26.4,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 28.6,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 19.8,
+                "meet": "2018 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 45.1,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 20.9,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 30.8,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-28",
+                "score": 23.1,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              }
+            ],
+            "count": 23,
+            "average_score": 32.33
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-04-28",
+                "score": 18.7,
+                "meet": "2017 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 20.4,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 23.8,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 23.8,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 19.55,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 23.8,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 15.3,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 17.0,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 20.29
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-12-05",
+                "score": 22.8,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 25.65,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-11-15",
+                "score": 0.0,
+                "meet": "Marist College vs Colgate U"
+              },
+              {
+                "date": "2019-02-20",
+                "score": 22.8,
+                "meet": "2019 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-01-11",
+                "score": 23.75,
+                "meet": "University of Buffalo Diving Invite"
+              },
+              {
+                "date": "2018-11-16",
+                "score": 17.1,
+                "meet": "Terrier Invitational at (Boston University)"
+              },
+              {
+                "date": "2018-05-07",
+                "score": 27.55,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-05-05",
+                "score": 23.75,
+                "meet": "2018 USA Diving Junior Region 12 Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 32.3,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 22.8,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 24.7,
+                "meet": "2018 Raincross Invite"
+              }
+            ],
+            "count": 11,
+            "average_score": 22.11
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-05-07",
+                "score": 21.25,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2018-04-24",
+                "score": 25.5,
+                "meet": "2018 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2018-04-07",
+                "score": 12.75,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2018-02-24",
+                "score": 24.65,
+                "meet": "2018 Raincross Invite"
+              },
+              {
+                "date": "2017-04-25",
+                "score": 19.55,
+                "meet": "2017 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2017-04-08",
+                "score": 22.1,
+                "meet": "2017 Pasadena Poly Diving Invitational"
+              },
+              {
+                "date": "2015-05-11",
+                "score": 19.55,
+                "meet": "CIF Southern Section Division 2 and 3  Diving Championships"
+              },
+              {
+                "date": "2015-04-28",
+                "score": 17.85,
+                "meet": "2015 Mission League Championships at Rose Bowl"
+              },
+              {
+                "date": "2015-04-25",
+                "score": 21.25,
+                "meet": "Bonita High School Diving Invitational"
+              },
+              {
+                "date": "2015-04-18",
+                "score": 9.35,
+                "meet": "Marina/Ocean View High School  Invitational"
+              },
+              {
+                "date": "2015-03-21",
+                "score": 16.15,
+                "meet": "CIF Immaculate Heart High School Invitational"
+              },
+              {
+                "date": "2014-03-07",
+                "score": 20.4,
+                "meet": "2014 USA Diving Spring Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-12-13",
+                "score": 16.15,
+                "meet": "2013 Chris Vonk Memorial Diving Invitational"
+              },
+              {
+                "date": "2013-06-07",
+                "score": 19.55,
+                "meet": "2013 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2013-03-16",
+                "score": 17.85,
+                "meet": "2013 USA Diving Spring Junior Region 9 Championships"
+              },
+              {
+                "date": "2013-03-02",
+                "score": 19.55,
+                "meet": "2013 Rose Bowl Invitational"
+              },
+              {
+                "date": "2013-01-26",
+                "score": 17.85,
+                "meet": "Pacific Diving Academy Winter Invitational"
+              },
+              {
+                "date": "2012-06-08",
+                "score": 14.45,
+                "meet": "2012 USA Diving Summer Junior Region 10 Championships"
+              },
+              {
+                "date": "2012-05-25",
+                "score": 11.9,
+                "meet": "2012 MVND Southern California Invitational"
+              },
+              {
+                "date": "2012-03-02",
+                "score": 17.0,
+                "meet": "2012 USA Diving Spring Region 9 Championships"
+              },
+              {
+                "date": "2012-01-28",
+                "score": 27.2,
+                "meet": "SPA Championships"
+              }
+            ],
+            "count": 21,
+            "average_score": 18.66
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-02-16",
+                "score": 25.2,
+                "meet": "2022 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2022-02-05",
+                "score": 28.35,
+                "meet": "CORU vs COLG vs STBU vs YALE"
+              },
+              {
+                "date": "2022-01-29",
+                "score": 37.8,
+                "meet": "COLG vs CHCR"
+              },
+              {
+                "date": "2022-01-15",
+                "score": 33.08,
+                "meet": "COLG vs BU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 29.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-18",
+                "score": 28.35,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2021-11-13",
+                "score": 28.35,
+                "meet": "COLG vs MC"
+              },
+              {
+                "date": "2021-10-29",
+                "score": 28.35,
+                "meet": "BING vs COLG"
+              },
+              {
+                "date": "2021-10-08",
+                "score": 25.2,
+                "meet": "COLG vs MASS vs STBU"
+              },
+              {
+                "date": "2021-10-02",
+                "score": 37.8,
+                "meet": "COLG Intrasquad Meet"
+              },
+              {
+                "date": "2020-02-19",
+                "score": 30.45,
+                "meet": "2020 PATRIOT LEAGUE CHAMPIONSHIP"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 22.05,
+                "meet": "2019 Rutgers Invitational"
+              },
+              {
+                "date": "2019-12-05",
+                "score": 19.95,
+                "meet": "2019 Rutgers Invitational"
+              }
+            ],
+            "count": 13,
+            "average_score": 28.79
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 23.26,
+        "best_dive_id": "101B",
+        "best_dive_avg": 24.17,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 26.0,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.23,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.78,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.06,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 27.9,
+        "best_dive_id": "403B",
+        "best_dive_avg": 30.1,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 26.5,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 26.72,
+        "grade": 3.3
+      },
+      "average_grade": 3.3
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 27.12,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.18,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 22.75,
+        "best_dive_id": "201C",
+        "best_dive_avg": 22.75,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 23.2,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 23.23,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.0,
+        "grade": 2.7
+      },
+      "Armstand": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "612C",
+        "best_dive_avg": 22.8,
+        "grade": 2.7
+      },
+      "average_grade": 2.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.17,
+        "best_dive_id": "104C",
+        "best_dive_avg": 26.39,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 26.1,
+        "best_dive_id": "203C",
+        "best_dive_avg": 27.5,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.52,
+        "best_dive_id": "301B",
+        "best_dive_avg": 26.65,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 31.1,
+        "best_dive_id": "403C",
+        "best_dive_avg": 32.33,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 25.73,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.79,
+        "grade": 3.4
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.2
+  }
+}

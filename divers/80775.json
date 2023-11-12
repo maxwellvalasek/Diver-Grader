@@ -1,0 +1,209 @@
+{
+  "name": "Sadie Mckune",
+  "gender": "F",
+  "age": "16",
+  "id": 80775,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 25.5,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 30.8,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 28.9,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 29.75,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 12.6,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 16.0,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 28.9,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 26.4,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 19.95,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.95
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 22.1,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-10",
+                "score": 19.0,
+                "meet": "2022 WIAA Girls State Swimming and Diving Championship 3A"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.15,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.8,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 29.32,
+        "best_dive_id": "202A",
+        "best_dive_avg": 29.75,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 14.3,
+        "best_dive_id": "302C",
+        "best_dive_avg": 16.0,
+        "grade": 1.9
+      },
+      "Inward": {
+        "top_2_avg": 27.65,
+        "best_dive_id": "402B",
+        "best_dive_avg": 28.9,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 21.02,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 22.1,
+        "grade": 2.8
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

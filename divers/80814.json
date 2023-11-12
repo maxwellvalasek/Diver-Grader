@@ -1,0 +1,388 @@
+{
+  "name": "Emma Thompson",
+  "gender": "F",
+  "age": "17",
+  "id": 80814,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 22.95,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 25.5,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 30.6,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.35
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.6,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 30.8,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 30.8,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 39.6,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 32.8,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 24.8,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 20.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 20.0,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.4
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 43.7,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 26.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 25.0,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 29.0,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 34.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 33.15,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 24.65,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 34.85,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 23.8,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.11
+          },
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-02",
+                "score": 25.5,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 20.4,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.95
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 26.25,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 35.25,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 25.5,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 25.5,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 32.25,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 46.2,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 33.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 28.6,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 39.6,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-11",
+                "score": 30.4,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 17.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 28.9,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 22.95,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.95
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 41.4,
+                "meet": "IHSA Girls State Diving Championship"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 33.35,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-04-02",
+                "score": 36.8,
+                "meet": "2023 Redbird Diving Spring Invite"
+              },
+              {
+                "date": "2023-03-10",
+                "score": 34.5,
+                "meet": "2023 Schroeder Spring Forward Invite"
+              },
+              {
+                "date": "2022-11-11",
+                "score": 36.8,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 5,
+            "average_score": 36.57
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.0,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.41,
+        "best_dive_id": "104C",
+        "best_dive_avg": 35.2,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 31.54,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.7,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.54,
+        "best_dive_id": "301B",
+        "best_dive_avg": 29.11,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 32.04,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.85,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 37.48,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 42.0,
+        "grade": 5.0
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

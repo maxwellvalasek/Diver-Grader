@@ -1,0 +1,174 @@
+{
+  "name": "Aidan Grady",
+  "gender": "M",
+  "age": "21",
+  "id": 82937,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 40.25,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 37.95,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.1
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 32.5,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 36.4,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.45
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 30.0,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 41.25,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.5,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 35.65,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.08
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 40.7,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 40.7,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 35.2,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              },
+              {
+                "date": "2023-02-24",
+                "score": 37.4,
+                "meet": "2023 ECAC Swimming and Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.78,
+        "best_dive_id": "104B",
+        "best_dive_avg": 39.1,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 35.62,
+        "best_dive_id": "204B",
+        "best_dive_avg": 35.62,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 35.08,
+        "best_dive_id": "304C",
+        "best_dive_avg": 35.08,
+        "grade": 4.7
+      },
+      "Inward": {
+        "top_2_avg": 40.7,
+        "best_dive_id": "403C",
+        "best_dive_avg": 40.7,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 36.3,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 36.3,
+        "grade": 4.8
+      },
+      "average_grade": 4.9
+    },
+    "overall_average_grade": 4.9
+  }
+}

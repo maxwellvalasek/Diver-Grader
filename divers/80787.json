@@ -1,0 +1,291 @@
+{
+  "name": "Ben Reiser",
+  "gender": "M",
+  "age": "14",
+  "id": 80787,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 19.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 20.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 17.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 19.5,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.25
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 22.4,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 25.9,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.15
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 20.25,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 17.25,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 26.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 17.55,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.77
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 36.1,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 34.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.15
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 19.5,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 18.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 21.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 19.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 29.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 28.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 20.5,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 19.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.75
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 24.0,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 14.25,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.12
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-11",
+                "score": 26.6,
+                "meet": "Atlanta Diving Invitational"
+              },
+              {
+                "date": "2022-11-12",
+                "score": 23.8,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.45,
+        "best_dive_id": "101C",
+        "best_dive_avg": 24.15,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 28.46,
+        "best_dive_id": "403C",
+        "best_dive_avg": 35.15,
+        "grade": 3.6
+      },
+      "average_grade": 3.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.45,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.8,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 19.44,
+        "best_dive_id": "200A",
+        "best_dive_avg": 19.75,
+        "grade": 2.6
+      },
+      "Inward": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

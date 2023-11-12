@@ -1,0 +1,531 @@
+{
+  "name": "Clara Hoag",
+  "gender": "F",
+  "age": "16",
+  "id": 82831,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 29.75,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 28.05,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 26.35,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.05
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 36.3,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 30.8,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 36.3,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.47
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 28.8,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 19.2,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.8,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.6
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 28.0,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 29.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 26.4,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 20.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 32.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.13
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 20.0,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 24.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 24.8,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 24.75,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 30.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.75
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 34.1,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 36.3,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 40.7,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.03
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 30.4,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 25.65,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 29.45,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.5
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 27.2,
+                "meet": "2023 Summer Championship Meet"
+              },
+              {
+                "date": "2023-04-29",
+                "score": 23.8,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.9,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.63
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 25.6,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.8
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 33.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 33.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 24.65,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 33.15,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.9
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 26.6,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 24.7,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 15.3,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 39.6,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.45
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 27.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 28.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 24.5,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 22.4,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.45
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 23.75,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 31.35,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 25.2,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 27.3,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 9.0,
+                "meet": "2023 USA Diving Junior Region 7 Championships"
+              },
+              {
+                "date": "2023-03-24",
+                "score": 20.0,
+                "meet": "MLA Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.26,
+        "best_dive_id": "104C",
+        "best_dive_avg": 34.47,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 26.97,
+        "best_dive_id": "203C",
+        "best_dive_avg": 28.33,
+        "grade": 3.6
+      },
+      "Reverse": {
+        "top_2_avg": 24.53,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.13,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 31.39,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.03,
+        "grade": 4.2
+      },
+      "Twister": {
+        "top_2_avg": 27.56,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 28.5,
+        "grade": 3.7
+      },
+      "average_grade": 3.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.9,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.0,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 27.27,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.9,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 27.48,
+        "best_dive_id": "303C",
+        "best_dive_avg": 27.5,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.55,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 20.38,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 26.25,
+        "grade": 2.5
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.5
+  }
+}

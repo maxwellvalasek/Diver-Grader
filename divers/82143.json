@@ -1,0 +1,176 @@
+{
+  "name": "Eleanor Feeney",
+  "gender": "F",
+  "age": "17",
+  "id": 82143,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 13.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 7.5,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 10.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 14.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 9.5,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 15.0,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 12.5,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.75
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 18.2,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 15.4,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.8
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 15.6,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 12.6,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 15.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 12.5,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 21.0,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 11.2,
+                "meet": "2023 Schroeder Winter Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.45,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.8,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "Inward": {
+        "top_2_avg": 16.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.1,
+        "grade": 2.1
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

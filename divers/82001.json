@@ -1,0 +1,121 @@
+{
+  "name": "Sadie Shepard",
+  "gender": "F",
+  "age": "16",
+  "id": 82001,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 9.0,
+                "meet": "2023 Kentucky High School Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 10.2,
+                "meet": "2023 Kentucky High School Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 15.4,
+                "meet": "2023 Kentucky High School Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 9.35,
+                "meet": "2023 Kentucky High School Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.35
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 11.9,
+                "meet": "2023 Kentucky High School Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 9.0,
+        "best_dive_id": "102B",
+        "best_dive_avg": 9.0,
+        "grade": 1.2
+      },
+      "Back": {
+        "top_2_avg": 10.2,
+        "best_dive_id": "202A",
+        "best_dive_avg": 10.2,
+        "grade": 1.4
+      },
+      "Inward": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "401C",
+        "best_dive_avg": 15.4,
+        "grade": 2.1
+      },
+      "Twister": {
+        "top_2_avg": 10.62,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 11.9,
+        "grade": 1.4
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.5
+  }
+}

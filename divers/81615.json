@@ -1,0 +1,350 @@
+{
+  "name": "Jade  Floyd",
+  "gender": "F",
+  "age": "16",
+  "id": 81615,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 17.5,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 20.3,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 14.7,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 12.6,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 4,
+            "average_score": 16.27
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 16.8,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 0.0,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 4,
+            "average_score": 4.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 22.95,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 20.4,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 20.4,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 16.15,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 4,
+            "average_score": 19.97
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 18.75,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 0.0,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 4,
+            "average_score": 4.69
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 0.0,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 3,
+            "average_score": 0.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 2,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 0.0,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 0.0,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 3,
+            "average_score": 0.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 0.0,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 2,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 6.3,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 4.5,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 3,
+            "average_score": 3.6
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 28.8,
+                "meet": "MIL Diving Championships at Kihei Aquatic Center Center"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 26.1,
+                "meet": "MIL 4 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 14.4,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 0.0,
+                "meet": "MIL 1 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.33
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 0.0,
+                "meet": "MIL 2 at Kihei Aquatic Center"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.23,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.27,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 12.33,
+        "best_dive_id": "201A",
+        "best_dive_avg": 19.97,
+        "grade": 1.6
+      },
+      "Reverse": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Inward": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "401A",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Twister": {
+        "top_2_avg": 11.45,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 17.33,
+        "grade": 1.5
+      },
+      "average_grade": 0.9
+    },
+    "overall_average_grade": 0.9
+  }
+}

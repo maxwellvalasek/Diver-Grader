@@ -1,0 +1,141 @@
+{
+  "name": "Brielle Rose",
+  "gender": "F",
+  "age": "8",
+  "id": 81240,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 17.25,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 12.75,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 17.25,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 16.2,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 17.85,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 26.78,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.78
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 14.7,
+                "meet": "Minnesota Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.55,
+        "best_dive_id": "102C",
+        "best_dive_avg": 17.85,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 26.78,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.78,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.7,
+        "grade": 2.0
+      },
+      "average_grade": 2.6
+    },
+    "overall_average_grade": 2.6
+  }
+}

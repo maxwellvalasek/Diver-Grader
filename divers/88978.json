@@ -1,0 +1,461 @@
+{
+  "name": "Elise Miller",
+  "gender": "F",
+  "age": "16",
+  "id": 88978,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 17.0,
+                "meet": "WMDA 2023 Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 23.25,
+                "meet": "WMDA 2023 Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 24.8,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 17.0,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 30.4,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 18.0,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 24.5,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 15.5,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.0
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 35.15,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 18.0,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.57
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 22.05,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 15.0,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.52
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 20.15,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 20.8,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 20.8,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.58
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 27.2,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 18.7,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 26.35,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.08
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 23.8,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 15.3,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 17.0,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.7
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 25.5,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 17.85,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.95,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 12.8,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 16.8,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 17.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.73
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 17.6,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 22.4,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 17.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 27.0,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 22.5,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.5,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 21.6,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 20.0,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.07
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 20.9,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 22.8,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 22.8,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.17
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 29.9,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 25.3,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.9,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.37
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.68,
+        "best_dive_id": "101B",
+        "best_dive_avg": 23.25,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 24.2,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.2,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 23.29,
+        "best_dive_id": "403C",
+        "best_dive_avg": 26.57,
+        "grade": 2.9
+      },
+      "Twister": {
+        "top_2_avg": 18.52,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 18.52,
+        "grade": 2.3
+      },
+      "average_grade": 2.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.33,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.08,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "202A",
+        "best_dive_avg": 22.1,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 17.46,
+        "best_dive_id": "302C",
+        "best_dive_avg": 19.2,
+        "grade": 2.3
+      },
+      "Inward": {
+        "top_2_avg": 22.54,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.0,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 25.27,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 28.37,
+        "grade": 3.4
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.8
+  }
+}

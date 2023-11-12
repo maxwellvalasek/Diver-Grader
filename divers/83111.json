@@ -1,0 +1,299 @@
+{
+  "name": "Lillian Chen",
+  "gender": "F",
+  "age": "12",
+  "id": 83111,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 19.0,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 24.0,
+                "meet": "Inland Empire Diving Invitational"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 19.2,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.6
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 24.0,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 21.7,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 30.4,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 34.85,
+                "meet": "Inland Empire Diving Invitational"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 28.05,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.45
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 21.7,
+                "meet": "Inland Empire Diving Invitational"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 16.1,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 30.6,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "5211D": {
+            "dd": "DD Not Found",
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 17.6,
+                "meet": "THDC Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.6
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 18.0,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 16.0,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 18.0,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 25.2,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 18.75,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 11.05,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.4,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 31.45,
+        "best_dive_id": "201A",
+        "best_dive_avg": 31.45,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 18.9,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.9,
+        "grade": 2.5
+      },
+      "Twister": {
+        "top_2_avg": 24.1,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 30.6,
+        "grade": 3.2
+      },
+      "average_grade": 3.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.98,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.2,
+        "grade": 2.7
+      },
+      "Inward": {
+        "top_2_avg": 11.05,
+        "best_dive_id": "401C",
+        "best_dive_avg": 11.05,
+        "grade": 1.4
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.7
+  }
+}

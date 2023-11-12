@@ -1,0 +1,231 @@
+{
+  "name": "Maya Williams",
+  "gender": "F",
+  "age": "18",
+  "id": 80696,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 30.6,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 31.45,
+                "meet": "Kuni Klassic 2022"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 24.3,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.78
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-05",
+                "score": 35.65,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.65
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 44.4,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 32.8,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.8
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 38.75,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 32.5,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.62
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 25.5,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 27.0,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 0.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 29.7,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 37.4,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 37.4,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 37.4,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.4
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-07",
+                "score": 42.5,
+                "meet": "2023 Splash into a New Year Diving Invitational"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 40.0,
+                "meet": "Kuni Klassic 2022"
+              }
+            ],
+            "count": 2,
+            "average_score": 41.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.02,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 34.68,
+        "best_dive_id": "204B",
+        "best_dive_avg": 35.62,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "301B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 23.52,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.55,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 39.33,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 41.25,
+        "grade": 5.2
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.3
+  }
+}

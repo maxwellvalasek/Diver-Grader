@@ -1,0 +1,530 @@
+{
+  "name": "Mac O'brien",
+  "gender": "M",
+  "age": "22",
+  "id": 81057,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 24.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 32.0,
+                "meet": "2023 SCAC Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 36.8,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.93
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 0.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 36.3,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.15
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 26.35,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 27.2,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 23.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 42.0,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 29.7,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 33.3,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "304C": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.3,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.3
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 19.6,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 19.6,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 28.0,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.8
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.6,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 45.15,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.38
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 31.05,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 43.2,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.12
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 25.2,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 40.95,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.08
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 39.0,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 22.4,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 26.4,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.4
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.5,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 29.7,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 24.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 30.75,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.38
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.6,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 36.8,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.2
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 21.25,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 45.0,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.12
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 24.0,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 32.0,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.0
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 27.6,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 32.2,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 36.3,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 42.9,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 39.6
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.8,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 46.2,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 28.75,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 37.95,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.35
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 30.45,
+                "meet": "2023 NCAA Division III Region 2 Diving Championships"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 37.8,
+                "meet": "2023 SCAC Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.12
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 25.82,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.93,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 29.84,
+        "best_dive_id": "205C",
+        "best_dive_avg": 32.9,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 30.1,
+        "best_dive_id": "301C",
+        "best_dive_avg": 31.5,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 38.25,
+        "best_dive_id": "403B",
+        "best_dive_avg": 39.38,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 33.04,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 33.08,
+        "grade": 4.1
+      },
+      "average_grade": 3.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.5,
+        "best_dive_id": "104C",
+        "best_dive_avg": 28.6,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 32.66,
+        "best_dive_id": "204B",
+        "best_dive_avg": 33.12,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 28.95,
+        "best_dive_id": "304C",
+        "best_dive_avg": 29.9,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 40.8,
+        "best_dive_id": "404C",
+        "best_dive_avg": 42.0,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 33.73,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 34.12,
+        "grade": 4.5
+      },
+      "average_grade": 4.3
+    },
+    "overall_average_grade": 4.1
+  }
+}

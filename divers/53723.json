@@ -1,0 +1,356 @@
+{
+  "name": "Grant Mcclure",
+  "gender": "M",
+  "age": "15",
+  "id": 53723,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-07-15",
+                "score": 13.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2017-07-16",
+                "score": 16.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2016-07-17",
+                "score": 9.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 12.83
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-07-15",
+                "score": 6.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-17",
+                "score": 15.2,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 17.25,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-07-15",
+                "score": 14.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2017-07-16",
+                "score": 16.1,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.05
+          },
+          "102C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-17",
+                "score": 0.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 18.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "202A": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 10.8,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              },
+              {
+                "date": "2017-07-16",
+                "score": 14.4,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 20.4,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-07-10",
+                "score": 14.7,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 20.15,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 17.55,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.85
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 24.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-08-04",
+                "score": 20.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 20.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 13.6,
+                "meet": "NVSL All-Star Meet"
+              },
+              {
+                "date": "2019-08-04",
+                "score": 18.4,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-07-31",
+                "score": 15.75,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.75
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-08-04",
+                "score": 21.0,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 16.23,
+        "best_dive_id": "101B",
+        "best_dive_avg": 17.25,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 14.4,
+        "best_dive_id": "201B",
+        "best_dive_avg": 18.0,
+        "grade": 1.8
+      },
+      "Reverse": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 20.4,
+        "grade": 2.5
+      },
+      "Inward": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "401B",
+        "best_dive_avg": 14.7,
+        "grade": 1.8
+      },
+      "average_grade": 2.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.57,
+        "best_dive_id": "103C",
+        "best_dive_avg": 24.0,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 20.2,
+        "best_dive_id": "201A",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 18.38,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.5
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.3
+  }
+}

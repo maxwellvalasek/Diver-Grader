@@ -1,0 +1,209 @@
+{
+  "name": "Gregory Brown",
+  "gender": "M",
+  "age": "18",
+  "id": 82493,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 16.1,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.1
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 12.6,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 9.6,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 11.9,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 12.75,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 8.0,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 13.6,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 18.2,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 8.0,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 8.1,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.1
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 18.9,
+                "meet": "2023 NCHSAA WEST 4A Diving Regional"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.1,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 12.32,
+        "best_dive_id": "202C",
+        "best_dive_avg": 12.75,
+        "grade": 1.6
+      },
+      "Reverse": {
+        "top_2_avg": 10.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 13.6,
+        "grade": 1.4
+      },
+      "Inward": {
+        "top_2_avg": 13.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 18.2,
+        "grade": 1.7
+      },
+      "Twister": {
+        "top_2_avg": 13.5,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 18.9,
+        "grade": 1.8
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

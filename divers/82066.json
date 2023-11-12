@@ -1,0 +1,144 @@
+{
+  "name": "Keira Mcdonald",
+  "gender": "F",
+  "age": "17",
+  "id": 82066,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 14.7,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 18.7,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 18.0,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 12.8,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 14.7,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 21.6,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "102C",
+        "best_dive_avg": 14.7,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 18.35,
+        "best_dive_id": "201A",
+        "best_dive_avg": 18.7,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 12.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 12.8,
+        "grade": 1.7
+      },
+      "Inward": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.7,
+        "grade": 2.0
+      },
+      "Twister": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 21.6,
+        "grade": 2.9
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

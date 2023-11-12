@@ -1,0 +1,745 @@
+{
+  "name": "Emma Schum",
+  "gender": "F",
+  "age": "20",
+  "id": 80182,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 17.25,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 44.85,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 20.8,
+                "meet": "Akron Zips Classic"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 44.85,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.2,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 31.2,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 29.9,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 29.25,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 42.9,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              }
+            ],
+            "count": 8,
+            "average_score": 34.37
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 36.23,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.05,
+                "meet": "Akron Zips Classic"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 44.85,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 46.58,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 36.8,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 31.05,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 27.6,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 39.68,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 27.6,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 9,
+            "average_score": 35.72
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.2,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 24.0,
+                "meet": "Akron Zips Classic"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 34.2,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 21.6,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 38.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 19.8,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 36.0,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.98
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-07",
+                "score": 25.2,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 45.0,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 28.8,
+                "meet": "Akron Zips Classic"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 43.2,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 23.4,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 39.6,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 37.2,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 41.4,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 45.0,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 38.4,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 9,
+            "average_score": 38.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 37.95,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.3,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 35.2,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 28.6,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 34.65,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 37.95,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 33.0,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 7,
+            "average_score": 34.81
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 36.23,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 31.05,
+                "meet": "Akron Zips Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.64
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.65,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-10-13",
+                "score": 32.55,
+                "meet": "Akron Zips Classic"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 37.8,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 34.65,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2023-01-06",
+                "score": 38.85,
+                "meet": "YSU vs DUQU vs NAIG"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.75,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 34.65,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 37.8,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 28.35,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 9,
+            "average_score": 35.12
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 39.6,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 32.4,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 27.0,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 36.0,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 34.2,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 30.6,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 38.4,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 7,
+            "average_score": 34.03
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 45.0,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 36.0,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 28.8,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 26.4,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 37.8,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 37.8,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 33.6,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 7,
+            "average_score": 35.06
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 32.78,
+                "meet": "YSU vs NIAG vs SFUP"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.78
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 41.4,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 43.13,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 28.75,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 31.05,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 25.88,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 24.15,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 6,
+            "average_score": 32.39
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 37.8,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 26.78,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 35.7,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 33.08,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 39.38,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 32.55,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.22
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 42.53,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 40.5,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-11-17",
+                "score": 33.75,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 44.55,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 44.55,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 36.45,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 6,
+            "average_score": 40.39
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-17",
+                "score": 30.45,
+                "meet": "WVU Invitational @WVU"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 29.93,
+                "meet": "YSU vs CS"
+              },
+              {
+                "date": "2022-10-29",
+                "score": 34.65,
+                "meet": "NIAG vs YSU vs Saint Francis University"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.68
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 34.5,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 33.0,
+                "meet": "DENI vs OWU vs YSU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.5,
+                "meet": "YSU vs CUP"
+              },
+              {
+                "date": "2022-10-07",
+                "score": 27.0,
+                "meet": "Akron Zips Classic (Quad)"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-29",
+                "score": 43.2,
+                "meet": "YSU vs NIAG vs SFUP"
+              },
+              {
+                "date": "2023-01-28",
+                "score": 43.2,
+                "meet": "DENI vs OWU vs YSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.47,
+        "best_dive_id": "105B",
+        "best_dive_avg": 34.37,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 35.72,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.72,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 30.34,
+        "best_dive_id": "303B",
+        "best_dive_avg": 30.98,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 38.0,
+        "best_dive_id": "403B",
+        "best_dive_avg": 38.0,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 34.98,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.12,
+        "grade": 4.7
+      },
+      "average_grade": 4.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 34.03,
+        "best_dive_id": "105B",
+        "best_dive_avg": 34.03,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 35.06,
+        "best_dive_id": "203A",
+        "best_dive_avg": 35.06,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 32.45,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.78,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 37.3,
+        "best_dive_id": "405C",
+        "best_dive_avg": 40.39,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 36.29,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 43.2,
+        "grade": 4.5
+      },
+      "average_grade": 4.4
+    },
+    "overall_average_grade": 4.5
+  }
+}

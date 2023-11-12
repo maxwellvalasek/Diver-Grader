@@ -1,0 +1,111 @@
+{
+  "name": "Zoe Maher",
+  "gender": "F",
+  "age": "12",
+  "id": 80957,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 17.5,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 34.0,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 18.5,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 24.65,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-02",
+                "score": 21.7,
+                "meet": "2022 Chris Vonk Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.75,
+        "best_dive_id": "103B",
+        "best_dive_avg": 34.0,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 21.57,
+        "best_dive_id": "202A",
+        "best_dive_avg": 24.65,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 21.7,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.7,
+        "grade": 2.9
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

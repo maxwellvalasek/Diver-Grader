@@ -1,0 +1,144 @@
+{
+  "name": "Kamryn Moran",
+  "gender": "F",
+  "age": "16",
+  "id": 82927,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 25.5,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 25.3,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 24.0,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 28.35,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 23.25,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 29.45,
+                "meet": "2023 District XI Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.4,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.35,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.35,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "401B",
+        "best_dive_avg": 23.25,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "5222D",
+        "best_dive_avg": 29.45,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

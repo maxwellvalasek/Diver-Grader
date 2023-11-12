@@ -1,0 +1,199 @@
+{
+  "name": "Naiyim Brathwaite",
+  "gender": "M",
+  "age": "12",
+  "id": 81040,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 15.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 13.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 14.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 16.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 16.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 28.05,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 25.9,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 29.75,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 13.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 13.0,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 14.0,
+        "grade": 1.8
+      },
+      "Reverse": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "300C",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 1.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.2,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.2,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 25.9,
+        "best_dive_id": "401C",
+        "best_dive_avg": 25.9,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 29.75,
+        "grade": 4.0
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 2.6
+  }
+}

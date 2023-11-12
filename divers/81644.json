@@ -1,0 +1,388 @@
+{
+  "name": "Connor Crawford",
+  "gender": "M",
+  "age": "10",
+  "id": 81644,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 12.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 13.5,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 13.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 14.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 15.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 17.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 15.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 13.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 14.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 15.0,
+                "meet": "Laura Wilkinson Golden Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.38
+          },
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 13.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 14.5,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 15.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.83
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 16.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 20.7,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 12.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.35
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 14.0,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.6,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 14.4,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-06",
+                "score": 16.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 20.25,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 17.25,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.8,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 15.2,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.6,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 19.6,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              },
+              {
+                "date": "2023-05-06",
+                "score": 9.5,
+                "meet": "2023 BASDT Space City Dive Meet"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.23
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 13.6,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.83,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 15.14,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.38,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.23,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.35,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "201C",
+        "best_dive_avg": 18.75,
+        "grade": 2.4
+      },
+      "Reverse": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 16.0,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 16.23,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.23,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 13.6,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 13.6,
+        "grade": 1.8
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.0
+  }
+}

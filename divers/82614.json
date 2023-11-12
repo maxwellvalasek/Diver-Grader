@@ -1,0 +1,131 @@
+{
+  "name": "Madison Kamensky",
+  "gender": "F",
+  "age": "16",
+  "id": 82614,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.8,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 10.4,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 16.8,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.0,
+                "meet": "Washington Metropolitan Interscholastic Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "103C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "202A",
+        "best_dive_avg": 20.4,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 10.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 10.4,
+        "grade": 1.4
+      },
+      "Inward": {
+        "top_2_avg": 16.8,
+        "best_dive_id": "401C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

@@ -1,0 +1,170 @@
+{
+  "name": "Kat Hueker",
+  "gender": "F",
+  "age": "16",
+  "id": 82032,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 15.0,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 23.2,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 22.95,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 21.25,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 15.2,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 11.9,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 24.7,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.7
+          },
+          "5222D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 12.35,
+                "meet": "2023 KHSAA Super Regional Regions 2,4,5,7"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 19.1,
+        "best_dive_id": "103C",
+        "best_dive_avg": 23.2,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.95,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 15.2,
+        "best_dive_id": "301C",
+        "best_dive_avg": 15.2,
+        "grade": 2.0
+      },
+      "Inward": {
+        "top_2_avg": 11.9,
+        "best_dive_id": "401C",
+        "best_dive_avg": 11.9,
+        "grade": 1.6
+      },
+      "Twister": {
+        "top_2_avg": 18.52,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 24.7,
+        "grade": 2.5
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

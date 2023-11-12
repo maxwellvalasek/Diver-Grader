@@ -1,0 +1,138 @@
+{
+  "name": "Brooklyn Carruth",
+  "gender": "F",
+  "age": "14",
+  "id": 80220,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 16.5,
+                "meet": "Woodlands Diving Skills Challenge 2023"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 17.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 14.0,
+                "meet": "Woodlands Diving Skills Challenge 2023"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 17.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 15.0,
+                "meet": "Woodlands Diving Skills Challenge 2023"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 15.0,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-08",
+                "score": 14.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 14.5,
+                "meet": "Woodlands Diving Skills Challenge 2023"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-28",
+                "score": 14.5,
+                "meet": "Woodlands Diving Skills Challenge 2023"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 15.5,
+                "meet": "2022 Conroe Diving Fall Classic"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.38,
+        "best_dive_id": "100B",
+        "best_dive_avg": 15.75,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "200B",
+        "best_dive_avg": 15.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

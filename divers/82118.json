@@ -1,0 +1,85 @@
+{
+  "name": "Ella Carlson",
+  "gender": "F",
+  "age": "17",
+  "id": 82118,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 24.65,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 24.0,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 24.75,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.65,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.65,
+        "grade": 3.3
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 24.75,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.75,
+        "grade": 3.3
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

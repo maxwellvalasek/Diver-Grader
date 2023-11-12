@@ -1,0 +1,768 @@
+{
+  "name": "Ava Conrad",
+  "gender": "F",
+  "age": "17",
+  "id": 80623,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 21.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 26.4,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 26.4,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 22.4,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 27.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.6
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 26.4,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 16.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 28.6,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.83
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 35.1,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 25.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 23.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.23
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 50.4,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 30.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 31.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 34.2,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 26.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 22.8,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.87
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 22.5,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 23.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 12.75,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.27
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 21.7,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 18.2,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 39.38,
+                "meet": "Jersey Diving Academy Summer Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.38
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 27.55,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 31.35,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 28.5,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.13
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 41.4,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 24.0,
+                "meet": "TNT Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 37.8,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 22.05,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.1,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.25,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.3
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 37.5,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 31.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 32.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 32.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.12
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 26.78,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 27.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 26.35,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.35,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 28.9,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.12
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 39.6,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 20.9,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 23.1,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 28.6,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.28
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 28.8,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 23.2,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.2,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 22.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 22.4,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 36.23,
+                "meet": "Jersey Diving Academy Summer Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.23
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 20.0,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 14.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 31.88,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 22.95,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.65,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 16.15,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.91
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 21.6,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 20.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 20.0,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.53
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 29.25,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 21.75,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.0,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.0
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 22.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 22.4,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.4
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 36.3,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 27.5,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.8,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 26.4,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 24.2,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.04
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-11",
+                "score": 22.8,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 24.7,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 19.0,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 3,
+            "average_score": 22.17
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 34.5,
+                "meet": "Jersey Diving Academy Summer Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-18",
+                "score": 28.6,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-13",
+                "score": 31.88,
+                "meet": "Jersey Diving Academy Summer Invite"
+              },
+              {
+                "date": "2023-03-11",
+                "score": 22.95,
+                "meet": "TNT Invitational"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 23.8,
+                "meet": "3rd Annual AAU Jersey Diving Academy Invite"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 21.25,
+                "meet": "2022 Marlins Cold Turkey Diving Invite"
+              },
+              {
+                "date": "2022-11-05",
+                "score": 22.95,
+                "meet": "Blue Diving Turkey Twister"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.57
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.84,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.6,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 30.72,
+        "best_dive_id": "203A",
+        "best_dive_avg": 34.2,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 26.53,
+        "best_dive_id": "301B",
+        "best_dive_avg": 27.87,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 34.93,
+        "best_dive_id": "403B",
+        "best_dive_avg": 39.38,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 30.21,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 33.12,
+        "grade": 3.8
+      },
+      "average_grade": 3.7
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.2,
+        "best_dive_id": "104C",
+        "best_dive_avg": 27.28,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 26.04,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.23,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 22.46,
+        "best_dive_id": "301B",
+        "best_dive_avg": 23.91,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 27.52,
+        "best_dive_id": "403C",
+        "best_dive_avg": 29.04,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 31.55,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 34.5,
+        "grade": 4.2
+      },
+      "average_grade": 3.6
+    },
+    "overall_average_grade": 3.6
+  }
+}

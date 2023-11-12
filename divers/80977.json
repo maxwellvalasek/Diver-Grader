@@ -1,0 +1,846 @@
+{
+  "name": "Dawson Wilson",
+  "gender": "M",
+  "age": "19",
+  "id": 80977,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 34.85,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 41.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 54.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 53.3,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 45.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 48.1,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 41.6,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 44.2,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 55.9,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 8,
+            "average_score": 48.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 27.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.1,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 36.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 34.5,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 42.55,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 37.95,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 35.65,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 34.5,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 28.75,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 8,
+            "average_score": 36.22
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 27.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 25.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 26.25,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 25.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.55
+          },
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-02",
+                "score": 37.5,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 36.0,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 54.0,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 36.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 27.0,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 27.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 48.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 46.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 46.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 45.6,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 40.8,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 44.4,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 42.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 44.4,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 8,
+            "average_score": 44.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 42.9,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 37.4,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 42.9,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 42.9,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 44.0,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 41.8,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 6,
+            "average_score": 41.98
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 43.75,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 48.75,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 48.75,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 37.5,
+                "meet": "Air Force Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 44.69
+          },
+          "5333D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 50.7,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 42.9,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 53.3,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 33.8,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 40.3,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 36.4,
+                "meet": "Lumberjack Invitational @NAU"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 46.8,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 7,
+            "average_score": 43.46
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 31.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 33.6,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.4
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 39.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 44.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 42.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 36.0,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 46.8,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 50.4,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 6,
+            "average_score": 43.2
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 29.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 30.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 36.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 39.2,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 49.0,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 37.8,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 46.2,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 7,
+            "average_score": 38.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 28.9,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 34.0,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.45
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 42.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 51.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 51.8,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 23.8,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 44.8,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 56.0,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 33.6,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 7,
+            "average_score": 43.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 34.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 27.0,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.6
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 53.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 40.6,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 49.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 32.2,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 51.8,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 54.6,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 37.8,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 7,
+            "average_score": 45.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 42.0,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 43.05,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.52
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 56.7,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 44.55,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 41.85,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 51.3,
+                "meet": "Air Force Diving Invitational"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 45.9,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 24.3,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 43.2,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 7,
+            "average_score": 43.97
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 40.95,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 48.3,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 2,
+            "average_score": 44.62
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 34.5,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-07",
+                "score": 50.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 38.4,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-03-07",
+                "score": 37.2,
+                "meet": "2023 NCAA Division II Mens-Womens Swimming-Diving"
+              },
+              {
+                "date": "2023-02-02",
+                "score": 43.2,
+                "meet": "Air Force Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 42.3
+          },
+          "5333D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 45.0,
+                "meet": "AFA vs BYU vs CSU vs MESA"
+              },
+              {
+                "date": "2023-01-07",
+                "score": 41.25,
+                "meet": "UTAH vs MESA"
+              },
+              {
+                "date": "2022-11-18",
+                "score": 47.5,
+                "meet": "Lumberjack Invitational @NAU"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.58
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 46.63,
+        "best_dive_id": "105B",
+        "best_dive_avg": 48.1,
+        "grade": 6.2
+      },
+      "Back": {
+        "top_2_avg": 35.2,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.22,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 36.28,
+        "best_dive_id": "305C",
+        "best_dive_avg": 38.1,
+        "grade": 4.8
+      },
+      "Inward": {
+        "top_2_avg": 42.87,
+        "best_dive_id": "403B",
+        "best_dive_avg": 44.85,
+        "grade": 5.7
+      },
+      "Twister": {
+        "top_2_avg": 43.91,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 44.69,
+        "grade": 5.9
+      },
+      "average_grade": 5.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.62,
+        "best_dive_id": "105B",
+        "best_dive_avg": 43.2,
+        "grade": 5.1
+      },
+      "Back": {
+        "top_2_avg": 40.74,
+        "best_dive_id": "205C",
+        "best_dive_avg": 43.4,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 42.27,
+        "best_dive_id": "305C",
+        "best_dive_avg": 45.6,
+        "grade": 5.3
+      },
+      "Inward": {
+        "top_2_avg": 43.65,
+        "best_dive_id": "405C",
+        "best_dive_avg": 43.97,
+        "grade": 5.5
+      },
+      "Twister": {
+        "top_2_avg": 44.6,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 44.62,
+        "grade": 5.6
+      },
+      "average_grade": 5.3
+    },
+    "overall_average_grade": 5.4
+  }
+}

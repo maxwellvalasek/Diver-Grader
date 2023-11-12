@@ -1,0 +1,85 @@
+{
+  "name": "Eric Xu",
+  "gender": "M",
+  "age": "7",
+  "id": 86167,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 14.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 15.5,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-24",
+                "score": 11.0,
+                "meet": "2023 Ron OBrien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "Twister": {
+        "top_2_avg": 11.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 11.0,
+        "grade": 1.5
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

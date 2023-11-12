@@ -1,0 +1,343 @@
+{
+  "name": "Logan Gibson",
+  "gender": "M",
+  "age": "16",
+  "id": 83458,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 22.95,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 5.1,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 37.4,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.82
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 8.05,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 29.9,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.98
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 21.6,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-22",
+                "score": 28.9,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 28.05,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.48
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 27.0,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 28.0,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 31.0,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.67
+          },
+          "205C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 10.5,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 9.0,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 24.0,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 23.2,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 31.2,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 28.0,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.47
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 12.6,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 24.15,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 40.95,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 22.5,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 26.25,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 30.0,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 15.2,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 26.4,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 36.3,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 36.3,
+                "meet": "Last Chance CIF Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5131D": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 0.0,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 25.0,
+                "meet": "Last Chance CIF Qualifier"
+              },
+              {
+                "date": "2023-03-17",
+                "score": 22.0,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.67
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-17",
+                "score": 28.35,
+                "meet": "Mt. Sac High School Winter Fest"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-26",
+                "score": 9.9,
+                "meet": "CIF-Southern Section Division 2 and 3 Diving Championships"
+              },
+              {
+                "date": "2023-04-22",
+                "score": 8.1,
+                "meet": "Last Chance CIF Qualifier"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.77,
+        "best_dive_id": "103B",
+        "best_dive_avg": 21.82,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 28.59,
+        "best_dive_id": "204C",
+        "best_dive_avg": 28.67,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 26.68,
+        "best_dive_id": "302C",
+        "best_dive_avg": 27.47,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 30.27,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 18.84,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.35,
+        "grade": 2.5
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.4
+  }
+}

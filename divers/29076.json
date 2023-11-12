@@ -1,0 +1,228 @@
+{
+  "name": "Kaeden Cogbill",
+  "gender": "M",
+  "age": "Age not found",
+  "id": 29076,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-09-25",
+                "score": 14.4,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 12.6,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2010-10-30",
+                "score": 16.8,
+                "meet": "Dive San Diego Spooktational"
+              },
+              {
+                "date": "2010-09-25",
+                "score": 13.3,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.23
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 13.6,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2010-10-30",
+                "score": 15.2,
+                "meet": "Dive San Diego Spooktational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-09-25",
+                "score": 5.95,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 5.95
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-10-30",
+                "score": 11.25,
+                "meet": "Dive San Diego Spooktational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.25
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 9.75,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 17.6,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2010-10-30",
+                "score": 16.8,
+                "meet": "Dive San Diego Spooktational"
+              },
+              {
+                "date": "2010-09-25",
+                "score": 15.2,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.53
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 14.0,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2010-10-30",
+                "score": 16.8,
+                "meet": "Dive San Diego Spooktational"
+              },
+              {
+                "date": "2010-09-25",
+                "score": 20.3,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.03
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2010-11-12",
+                "score": 16.15,
+                "meet": "2010 Glenn McCormick Memorial Diving Invitational"
+              },
+              {
+                "date": "2010-10-30",
+                "score": 18.7,
+                "meet": "Dive San Diego Spooktational"
+              },
+              {
+                "date": "2010-09-25",
+                "score": 13.6,
+                "meet": "Stars and Stripes 9-11 Memorial Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.4,
+        "best_dive_id": "101C",
+        "best_dive_avg": 14.4,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 10.5,
+        "best_dive_id": "201C",
+        "best_dive_avg": 11.25,
+        "grade": 1.4
+      },
+      "Reverse": {
+        "top_2_avg": 16.53,
+        "best_dive_id": "301C",
+        "best_dive_avg": 16.53,
+        "grade": 2.2
+      },
+      "Inward": {
+        "top_2_avg": 17.03,
+        "best_dive_id": "401C",
+        "best_dive_avg": 17.03,
+        "grade": 2.3
+      },
+      "Twister": {
+        "top_2_avg": 16.15,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 16.15,
+        "grade": 2.2
+      },
+      "average_grade": 2.0
+    },
+    "overall_average_grade": 2.0
+  }
+}

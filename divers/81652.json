@@ -1,0 +1,105 @@
+{
+  "name": "Grace Deng",
+  "gender": "F",
+  "age": "11",
+  "id": 81652,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 19.0,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "002B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 15.5,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 17.5,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 23.4,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-17",
+                "score": 15.5,
+                "meet": "Long Island Divers Team Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.45,
+        "best_dive_id": "101C",
+        "best_dive_avg": 23.4,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "average_grade": 2.4
+    },
+    "overall_average_grade": 2.4
+  }
+}

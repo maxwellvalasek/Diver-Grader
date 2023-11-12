@@ -1,0 +1,827 @@
+{
+  "name": "Maya Indiraraj",
+  "gender": "F",
+  "age": "19",
+  "id": 80405,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 20.4,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.4
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.78,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 27.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 30.6,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 32.3,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 25.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 26.78,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 6,
+            "average_score": 28.19
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 36.3,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 38.5,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 33.0,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.6,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 37.4,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 29.7,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 28.8,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 28.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 20.25,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 23.63,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.94
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 28.05,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 22.5,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 26.0,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 25.0,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 29.75,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 31.45,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 25.5,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.9
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.2,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 23.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.2
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 24.8,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 24.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.4
+          },
+          "310C": {
+            "dd": "DD Not Found",
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-04",
+                "score": 24.5,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 24.75,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 21.75,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 27.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 39.6,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 34.1,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 31.9,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 35.2,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 38.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 29.7,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 6,
+            "average_score": 34.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 27.08,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 21.85,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 22.8,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 35.15,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 29.45,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 17.1,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 6,
+            "average_score": 25.57
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 27.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 26.35,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 25.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 27.3,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.25
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 27.6,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 28.0,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 26.4,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 27.2,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 25.2,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.88
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 34.65,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 36.3,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 34.1,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 29.7,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 38.5,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 27.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 6,
+            "average_score": 33.46
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 32.3,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 34.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 26.78,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.03
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 30.6,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 33.6,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 30.0,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 30.0,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 37.2,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 33.6,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 6,
+            "average_score": 32.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 31.05,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 32.4,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 32.4,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 31.5,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 34.2,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 31.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 24.3,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.05
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 29.75,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 30.6,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.18
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 25.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 24.5,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 21.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.57
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.5,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 31.35,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 34.2,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 32.3,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 31.35,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 32.3,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 27.08,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 7,
+            "average_score": 31.01
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-15",
+                "score": 28.35,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 31.5,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 28.35,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 28.35,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 26.25,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.56
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.5,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              },
+              {
+                "date": "2023-02-15",
+                "score": 27.0,
+                "meet": "2023 WIAC Conference Diving Championships"
+              },
+              {
+                "date": "2023-02-04",
+                "score": 26.0,
+                "meet": "UIC Diving Invite @ University of Illinois at Chicago"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 35.0,
+                "meet": "UWLC vs UWOS"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 32.0,
+                "meet": "Phoenix Fall Classic @ UChicago"
+              },
+              {
+                "date": "2022-10-22",
+                "score": 30.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 31.97,
+        "best_dive_id": "104C",
+        "best_dive_avg": 35.75,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 28.28,
+        "best_dive_id": "201B",
+        "best_dive_avg": 28.4,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 27.8,
+        "best_dive_id": "301B",
+        "best_dive_avg": 28.9,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 33.74,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.83,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 25.87,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 26.77,
+        "grade": 3.4
+      },
+      "average_grade": 3.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 30.47,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.46,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 32.01,
+        "best_dive_id": "203A",
+        "best_dive_avg": 32.5,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 30.86,
+        "best_dive_id": "301C",
+        "best_dive_avg": 31.05,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 28.78,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.01,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 29.21,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.75,
+        "grade": 3.7
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.9
+  }
+}

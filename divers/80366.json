@@ -1,0 +1,632 @@
+{
+  "name": "Frankie Webb",
+  "gender": "F",
+  "age": "19",
+  "id": 80366,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 41.6,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 35.1,
+                "meet": "UNL vs KANS"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 28.6,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 39.0,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 32.5,
+                "meet": "UGA Bulldog Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 35.36
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 34.2,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 36.8,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 39.68,
+                "meet": "UNL vs KANS"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 36.8,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 35.65,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 28.75,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 36.23,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 6,
+            "average_score": 35.65
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.6,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 41.4,
+                "meet": "UNL vs KANS"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.5
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 42.0,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 36.75,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 33.6,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 36.23,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.14
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-21",
+                "score": 33.3,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 31.5,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 31.05,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.95
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 46.8,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 43.2,
+                "meet": "UNL vs KANS"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 45.6,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 40.8,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 39.6,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 41.4,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 6,
+            "average_score": 42.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.9,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 39.6,
+                "meet": "UNL vs KANS"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 45.1,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-21",
+                "score": 42.9,
+                "meet": "NCSU vs UNC vs UVA"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 36.3,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 37.95,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 6,
+            "average_score": 40.79
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 38.85,
+                "meet": "UNL vs IA"
+              },
+              {
+                "date": "2023-11-03",
+                "score": 36.23,
+                "meet": "UNL vs KANS"
+              },
+              {
+                "date": "2023-01-27",
+                "score": 37.8,
+                "meet": "NCSU vs UNCW vs ECU"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.63
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 42.0,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 43.2,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 45.0,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 3,
+            "average_score": 43.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 42.0,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 50.4,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 39.9,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 3,
+            "average_score": 44.1
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-03",
+                "score": 34.2,
+                "meet": "UGA Bulldog Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 51.8,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 33.6,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 39.9,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 40.95,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.42
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 37.8,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 47.25,
+                "meet": "UGA Bulldog Invitational"
+              },
+              {
+                "date": "2022-10-21",
+                "score": 40.5,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 3,
+            "average_score": 41.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-21",
+                "score": 31.5,
+                "meet": "NCSU vs UK"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-03",
+                "score": 33.75,
+                "meet": "UGA Bulldog Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.75
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-27",
+                "score": 37.2,
+                "meet": "NCSU vs UNCW vs ECU"
+              },
+              {
+                "date": "2023-01-03",
+                "score": 37.2,
+                "meet": "UGA Bulldog Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.2
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-04",
+                "score": 48.3,
+                "meet": "DUKE vs NCSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-04",
+                "score": 43.2,
+                "meet": "DUKE vs NCSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-04",
+                "score": 44.1,
+                "meet": "DUKE vs NCSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-02-04",
+                "score": 34.43,
+                "meet": "DUKE vs NCSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.43
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.17,
+        "best_dive_id": "105B",
+        "best_dive_avg": 35.36,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 35.65,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.65,
+        "grade": 4.8
+      },
+      "Reverse": {
+        "top_2_avg": 38.26,
+        "best_dive_id": "303B",
+        "best_dive_avg": 40.5,
+        "grade": 5.1
+      },
+      "Inward": {
+        "top_2_avg": 39.25,
+        "best_dive_id": "403B",
+        "best_dive_avg": 42.9,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 39.74,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 40.79,
+        "grade": 5.3
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 43.4,
+        "best_dive_id": "105B",
+        "best_dive_avg": 43.4,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 44.1,
+        "best_dive_id": "205C",
+        "best_dive_avg": 44.1,
+        "grade": 5.5
+      },
+      "Reverse": {
+        "top_2_avg": 39.87,
+        "best_dive_id": "305C",
+        "best_dive_avg": 42.7,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 41.28,
+        "best_dive_id": "405C",
+        "best_dive_avg": 41.85,
+        "grade": 5.2
+      },
+      "Twister": {
+        "top_2_avg": 36.05,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 37.2,
+        "grade": 4.5
+      },
+      "average_grade": 5.1
+    },
+    "Platform": {
+      "Back": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "203B",
+        "best_dive_avg": 48.3,
+        "grade": 5.7
+      },
+      "Inward": {
+        "top_2_avg": 43.2,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.2,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 44.1,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 44.1,
+        "grade": 5.2
+      },
+      "Armstand": {
+        "top_2_avg": 34.43,
+        "best_dive_id": "612B",
+        "best_dive_avg": 34.43,
+        "grade": 4.1
+      },
+      "average_grade": 5.0
+    },
+    "overall_average_grade": 5.0
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "name": "Ethan Horutz",
+  "gender": "M",
+  "age": "16",
+  "id": 83183,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 26.35,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 26.0,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 28.35,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 26.25,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 34.1,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 28.35,
+                "meet": "2023 PIAA State 3A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.35
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "103B",
+        "best_dive_avg": 26.35,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 26.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 26.0,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 28.35,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.35,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 30.18,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.1,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 28.35,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 28.35,
+        "grade": 3.8
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

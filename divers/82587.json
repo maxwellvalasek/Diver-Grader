@@ -1,0 +1,209 @@
+{
+  "name": "Michael  Wissert",
+  "gender": "M",
+  "age": "18",
+  "id": 82587,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 34.85,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 52.8,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 52.8
+          },
+          "106C": {
+            "dd": 2.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 36.25,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 28.9,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "204B": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 36.8,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 28.8,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          },
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 33.6,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 36.9,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.9
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 42.9,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 36.4,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.4
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 37.8,
+                "meet": "Tennessee Diving State meet  (TISCA)"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 44.52,
+        "best_dive_id": "105C",
+        "best_dive_avg": 52.8,
+        "grade": 5.9
+      },
+      "Back": {
+        "top_2_avg": 32.85,
+        "best_dive_id": "204B",
+        "best_dive_avg": 36.8,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "304C",
+        "best_dive_avg": 33.6,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 42.9,
+        "grade": 5.3
+      },
+      "Twister": {
+        "top_2_avg": 37.1,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 37.8,
+        "grade": 4.9
+      },
+      "average_grade": 4.9
+    },
+    "overall_average_grade": 4.9
+  }
+}

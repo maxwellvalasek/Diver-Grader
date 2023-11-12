@@ -1,0 +1,2146 @@
+{
+  "name": "Simon Borovkov",
+  "gender": "M",
+  "age": "18",
+  "id": 52342,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 18.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 23.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 19.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 21.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 17.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 19.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 17.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 21.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 23.4,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 22.2,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 18.6,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.4
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 27.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-16",
+                "score": 24.8,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 16.0,
+                "meet": "2017 Far Western Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.4
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 28.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 38.4,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 44.4,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-06-18",
+                "score": 18.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 18.5,
+                "meet": "2016 Far Western Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 26.25,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 35.25,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 30.75,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 25.5,
+                "meet": "2016 Far Western Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.44
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 32.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 21.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 20.8,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 25.5,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-16",
+                "score": 23.1,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 26.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 21.0,
+                "meet": "2016 Far Western Diving Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.57
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 35.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 37.4,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 39.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 25.3,
+                "meet": "2017 Far Western Diving Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.38
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2018-06-16",
+                "score": 25.3,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 31.9,
+                "meet": "2017 Far Western Diving Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.6
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2019-03-15",
+                "score": 34.65,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.65
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.7,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 26.35,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 24.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-07-16",
+                "score": 21.5,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 19.5,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 20.5,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.5
+          },
+          "002C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 21.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-03-19",
+                "score": 22.0,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-03-19",
+                "score": 18.5,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-04-01",
+                "score": 20.5,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 22.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 22.5,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 18.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 20.88
+          },
+          "101B": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 32.3,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 34.2,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.25
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 34.2,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 37.05,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 23.1,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 25.9,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 26.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 23.8,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 25.2,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 25.9,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 19.6,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 27.3,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 26.6,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 26.84
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 31.2,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 24.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 28.0,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 25.6,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.4
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-07-01",
+                "score": 27.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.5,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 24.75,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 27.75,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 26.25,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 5,
+            "average_score": 26.85
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 34.8,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 31.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          },
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 35.2,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 44.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.1,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 40.7,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 21.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 15.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 19.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.67
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 20.7,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 24.3,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 39.9,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 31.35,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.2,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 25.65,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 29.35
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2017-08-11",
+                "score": 25.5,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 29.75,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 34.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 22.95,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 35.7,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 36.55,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 27.2,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 24.65,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 32.3,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 29.84
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 27.5,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 36.3,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.9
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 30.4,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 30.4,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 30.4,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 24.7,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 36.1,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 33.25,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 19.95,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 7,
+            "average_score": 29.31
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 33.3,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 30.6,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 42.75,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 38.95,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 34.2,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 32.3,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 34.2,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 28.8,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 31.5,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 37.8,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 31.5,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 33.3,
+                "meet": "2016 Far Western Diving Championships"
+              }
+            ],
+            "count": 12,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 36.1,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 29.45,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 32.77
+          },
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 36.1,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 37.05,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 24.7,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 23.4,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 27.95,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 26.0,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 21.45,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 21.45,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 26.65,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 17.55,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 22.75,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 25.91
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 38.85,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 5.25,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.05
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 34.2,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 28.5,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 28.5,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 28.5,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 22.8,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 36.1,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 36.1,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 25.65,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 8,
+            "average_score": 30.04
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 41.85,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 18.9,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.38
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 36.75,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 33.6,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 29.45,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 34.2,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 30.4,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 31.35,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 28.35,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 44.1,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 47.25,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 13.65,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 10,
+            "average_score": 32.91
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 34.0,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 36.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 35.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-03-19",
+                "score": 21.0,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-03-19",
+                "score": 15.0,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 19.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 19.5,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 21.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.17
+          },
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 36.0,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 22.5,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-04-27",
+                "score": 37.8,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 30.6,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 22.2,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 25.8,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 24.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 22.2,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 23.4,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 21.0,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 19.8,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 21.6,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 25.2,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 24.93
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 34.85,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 27.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 25.5,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.18
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-08-11",
+                "score": 22.4,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 34.4,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 24.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.8,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 25.6,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 22.4,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 24.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 25.94
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 35.65,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 36.8,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.22
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 40.7,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 35.2,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 29.7,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 34.1,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.93
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 48.0,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-03-19",
+                "score": 18.5,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2016-08-12",
+                "score": 22.5,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 17.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 22.0,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.5
+          },
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 28.8,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.6,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 30.4,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 32.4,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 33.3,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 19.8,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 29.7,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 7,
+            "average_score": 29.14
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-08-11",
+                "score": 18.0,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 30.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 24.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 19.5,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 26.25,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 24.75,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 27.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 32.25,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 24.75,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 25.17
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 31.05,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 25.0,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 17.0,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 24.0,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 27.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 23.0,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 14.0,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 23.0,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 18.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 18.0,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 25.0,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.0,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 22.36
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 31.2,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 25.6,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-08-10",
+                "score": 36.9,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 33.3,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 27.0,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 28.8,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 24.0,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 31.2,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 26.4,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 21.6,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 32.8,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 27.2,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 24.0,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 30.4,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 14,
+            "average_score": 28.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-06-17",
+                "score": 19.2,
+                "meet": "Santa Clara Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 35.7,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 27.3,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 28.35,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.45
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 32.25,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 24.75,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 27.9,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 32.4,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.33
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 33.3,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 35.1,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 27.3,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 30.1,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 27.3,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 17.5,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 20.3,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2016-08-12",
+                "score": 29.4,
+                "meet": "2016 Far Western Diving Championships"
+              },
+              {
+                "date": "2016-07-16",
+                "score": 23.1,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2016-06-18",
+                "score": 24.5,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2016-03-19",
+                "score": 13.3,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 11,
+            "average_score": 25.56
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2019-04-26",
+                "score": 41.8,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 40.7,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 34.1,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 40.7,
+                "meet": "Capital Divers Invitational"
+              }
+            ],
+            "count": 4,
+            "average_score": 39.33
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 27.0,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 29.7,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 22.5,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 28.8,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-08-11",
+                "score": 33.25,
+                "meet": "2017 Far Western Diving Championships"
+              },
+              {
+                "date": "2017-07-01",
+                "score": 31.35,
+                "meet": "Capital Divers Invitational"
+              },
+              {
+                "date": "2017-06-17",
+                "score": 30.4,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 27.55,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 28.5,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 9,
+            "average_score": 28.78
+          },
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2018-08-10",
+                "score": 34.5,
+                "meet": "2018 Far Western Diving Championships"
+              },
+              {
+                "date": "2018-06-16",
+                "score": 40.25,
+                "meet": "Santa Clara Diving Invitational"
+              },
+              {
+                "date": "2018-04-27",
+                "score": 29.9,
+                "meet": "2018 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2018-04-14",
+                "score": 35.65,
+                "meet": "Capital Pre Region Invitational"
+              },
+              {
+                "date": "2017-04-21",
+                "score": 13.8,
+                "meet": "2017 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2017-04-01",
+                "score": 33.35,
+                "meet": "Capital Pre Region Invitational"
+              }
+            ],
+            "count": 6,
+            "average_score": 31.24
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 45.1,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              },
+              {
+                "date": "2019-04-26",
+                "score": 29.7,
+                "meet": "2019 USA Diving Junior Region 10 Championships"
+              },
+              {
+                "date": "2019-03-15",
+                "score": 35.2,
+                "meet": "The Dr. Ron O\\'Brien Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.67
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-05",
+                "score": 36.75,
+                "meet": "CIF San Diego Section Division 1 and 2 Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 34.7,
+        "best_dive_id": "105C",
+        "best_dive_avg": 37.2,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 27.25,
+        "best_dive_id": "201C",
+        "best_dive_avg": 29.44,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.8,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 32.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.38,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 30.62,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 34.65,
+        "grade": 3.6
+      },
+      "Armstand": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "612B",
+        "best_dive_avg": 26.35,
+        "grade": 3.1
+      },
+      "average_grade": 3.5
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 36.75,
+        "best_dive_id": "105C",
+        "best_dive_avg": 38.5,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 30.21,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.9,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 34.1,
+        "best_dive_id": "301C",
+        "best_dive_avg": 34.1,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 31.58,
+        "best_dive_id": "401B",
+        "best_dive_avg": 32.77,
+        "grade": 3.9
+      },
+      "Twister": {
+        "top_2_avg": 33.26,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 35.0,
+        "grade": 4.2
+      },
+      "average_grade": 4.1
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.15,
+        "best_dive_id": "105C",
+        "best_dive_avg": 48.0,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 29.38,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.05,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 28.93,
+        "best_dive_id": "303C",
+        "best_dive_avg": 30.45,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 34.33,
+        "best_dive_id": "403C",
+        "best_dive_avg": 39.33,
+        "grade": 4.6
+      },
+      "Twister": {
+        "top_2_avg": 36.69,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 36.75,
+        "grade": 4.9
+      },
+      "average_grade": 4.5
+    },
+    "overall_average_grade": 4.0
+  }
+}

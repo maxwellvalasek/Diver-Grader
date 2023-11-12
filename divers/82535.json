@@ -1,0 +1,144 @@
+{
+  "name": "Stanley Engroff",
+  "gender": "M",
+  "age": "18",
+  "id": 82535,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 14.0,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.6,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 23.8,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.0,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.6,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.8,
+                "meet": "2023 Mid Penn Conference AA and AAA Diving"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.8,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.6,
+        "grade": 2.4
+      },
+      "Back": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "302C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 26.6,
+        "best_dive_id": "401C",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "5111C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

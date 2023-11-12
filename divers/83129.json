@@ -1,0 +1,144 @@
+{
+  "name": "Michelina Soroka",
+  "gender": "F",
+  "age": "17",
+  "id": 83129,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 43.7,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 37.2,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 26.35,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.35
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 31.2,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 34.1,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-15",
+                "score": 41.4,
+                "meet": "2023 PIAA State 2A Girls Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.45,
+        "best_dive_id": "104B",
+        "best_dive_avg": 43.7,
+        "grade": 5.4
+      },
+      "Back": {
+        "top_2_avg": 26.35,
+        "best_dive_id": "201A",
+        "best_dive_avg": 26.35,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "302C",
+        "best_dive_avg": 31.2,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 34.1,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.1,
+        "grade": 4.5
+      },
+      "Twister": {
+        "top_2_avg": 41.4,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 41.4,
+        "grade": 5.5
+      },
+      "average_grade": 4.6
+    },
+    "overall_average_grade": 4.6
+  }
+}

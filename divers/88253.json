@@ -1,0 +1,137 @@
+{
+  "name": "Liam Hellman",
+  "gender": "M",
+  "age": "12",
+  "id": 88253,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 15.0,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 16.8,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 24.5,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 15.5,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 29.75,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 21.75,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5102A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 9.0,
+                "meet": "April Fools PreRegional in Fargo"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.65,
+        "best_dive_id": "102C",
+        "best_dive_avg": 24.5,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 25.75,
+        "best_dive_id": "201A",
+        "best_dive_avg": 29.75,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 9.0,
+        "best_dive_id": "5102A",
+        "best_dive_avg": 9.0,
+        "grade": 1.2
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

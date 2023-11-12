@@ -1,0 +1,209 @@
+{
+  "name": "Alex Bradshaw",
+  "gender": "M",
+  "age": "18",
+  "id": 82983,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.0,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.0
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 44.4,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 32.3,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 37.95,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 23.2,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 39.9,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 34.5,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 46.2,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.2
+          },
+          "404C": {
+            "dd": 2.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 50.4,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 33.35,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.35
+          },
+          "5225D": {
+            "dd": 2.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-24",
+                "score": 47.25,
+                "meet": "IHSA Boys State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "105C",
+        "best_dive_avg": 44.4,
+        "grade": 5.2
+      },
+      "Back": {
+        "top_2_avg": 35.12,
+        "best_dive_id": "203B",
+        "best_dive_avg": 37.95,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 31.55,
+        "best_dive_id": "303C",
+        "best_dive_avg": 39.9,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "404C",
+        "best_dive_avg": 50.4,
+        "grade": 6.4
+      },
+      "Twister": {
+        "top_2_avg": 40.3,
+        "best_dive_id": "5225D",
+        "best_dive_avg": 47.25,
+        "grade": 5.4
+      },
+      "average_grade": 5.2
+    },
+    "overall_average_grade": 5.2
+  }
+}

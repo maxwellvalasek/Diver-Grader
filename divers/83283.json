@@ -1,0 +1,144 @@
+{
+  "name": "Theodore Terrizzi",
+  "gender": "M",
+  "age": "15",
+  "id": 83283,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 28.8,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 20.25,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 22.4,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 20.9,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 22.0,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          },
+          "5323D": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-16",
+                "score": 8.4,
+                "meet": "2023 PIAA State 2A Boys Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "105C",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 20.25,
+        "best_dive_id": "201C",
+        "best_dive_avg": 20.25,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 22.4,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 20.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 20.9,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 15.2,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 22.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

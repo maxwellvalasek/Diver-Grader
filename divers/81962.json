@@ -1,0 +1,623 @@
+{
+  "name": "Neill Mauss",
+  "gender": "M",
+  "age": "19",
+  "id": 81962,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 19.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 15.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.4
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 19.95,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 18.9,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 19.95
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 20.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 24.0,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 19.2,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.33
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 29.75,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 20.4,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.07
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.75,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.38,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 18.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 20.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 20.7,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.7
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 28.0,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 27.2,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 24.0,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 12.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.07
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 23.8,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 19.6,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.7
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.6,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 24.0,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 20.8,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.35,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 22.95,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 22.95,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.08
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.1,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 15.3,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.7
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 19.6,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 21.7,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.65
+          },
+          "103C": {
+            "dd": 1.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 23.25,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 21.75,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.38,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 24.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.59
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 26.6,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 24.7,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.65
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 20.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.6,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 20.8,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-01-14",
+                "score": 22.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.0
+          },
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 25.2,
+                "meet": "GLVC conference Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "302C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 21.25,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 20.4,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 24.23,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 24.65,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.63
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 18.85,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 16.9,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.88
+          },
+          "402C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 22.4,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 23.1,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.0,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 17.5,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 21.0
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 19.95,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 20.9,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 25.65,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 24.7,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 24.3,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-02-08",
+                "score": 18.9,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-20",
+                "score": 21.6,
+                "meet": "MCU vs UMSL"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 25.2,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.5
+          },
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-08",
+                "score": 10.0,
+                "meet": "GLVC conference Championships"
+              },
+              {
+                "date": "2023-01-14",
+                "score": 25.0,
+                "meet": "MCU vs WUM"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.64,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.33,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 22.26,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.07,
+        "grade": 3.0
+      },
+      "Reverse": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.0,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 22.76,
+        "best_dive_id": "402C",
+        "best_dive_avg": 23.47,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 22.73,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 24.08,
+        "grade": 3.0
+      },
+      "average_grade": 3.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.94,
+        "best_dive_id": "103C",
+        "best_dive_avg": 22.59,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.65,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 23.14,
+        "best_dive_id": "301C",
+        "best_dive_avg": 25.2,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 21.9,
+        "best_dive_id": "403C",
+        "best_dive_avg": 22.8,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 20.83,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 22.5,
+        "grade": 2.6
+      },
+      "average_grade": 2.8
+    },
+    "overall_average_grade": 2.9
+  }
+}

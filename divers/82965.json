@@ -1,0 +1,149 @@
+{
+  "name": "USD WOMEN A TEAM",
+  "gender": "F",
+  "age": "2",
+  "id": 82965,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 37.2,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 39.2,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 47.6,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.6
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 43.2,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 39.6,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-22",
+                "score": 40.0,
+                "meet": "2023 Summit League Swimming and Diving Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.2,
+        "best_dive_id": "105B",
+        "best_dive_avg": 37.2,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 39.2,
+        "best_dive_id": "205C",
+        "best_dive_avg": 39.2,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 47.6,
+        "best_dive_id": "305C",
+        "best_dive_avg": 47.6,
+        "grade": 5.9
+      },
+      "average_grade": 5.2
+    },
+    "1 Meter": {
+      "Inward": {
+        "top_2_avg": 43.2,
+        "best_dive_id": "403B",
+        "best_dive_avg": 43.2,
+        "grade": 5.8
+      },
+      "Twister": {
+        "top_2_avg": 39.8,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 40.0,
+        "grade": 5.3
+      },
+      "average_grade": 5.5
+    },
+    "overall_average_grade": 5.3
+  }
+}

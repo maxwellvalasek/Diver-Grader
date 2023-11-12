@@ -1,0 +1,75 @@
+{
+  "name": "Audrey Kreher",
+  "gender": "F",
+  "age": "16",
+  "id": 81923,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 28.05,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 30.8,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-20",
+                "score": 18.0,
+                "meet": "2023 Girls Como Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.43,
+        "best_dive_id": "104C",
+        "best_dive_avg": 30.8,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

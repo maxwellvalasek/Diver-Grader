@@ -1,0 +1,180 @@
+{
+  "name": "Lily Nicaragua",
+  "gender": "F",
+  "age": "18",
+  "id": 81508,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 26.65,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.65
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 39.1,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 34.85,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.98
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 22.95,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 34.85,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 33.15,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 33.75,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 29.25,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 28.8,
+                "meet": "Chamblee HS vs St Pius HS"
+              },
+              {
+                "date": "2022-12-06",
+                "score": 29.6,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-06",
+                "score": 23.4,
+                "meet": "Chamblee/Lakeside Dual Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-19",
+                "score": 30.6,
+                "meet": "Chamblee HS vs St Pius HS"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 33.54,
+        "best_dive_id": "103B",
+        "best_dive_avg": 36.98,
+        "grade": 4.5
+      },
+      "Back": {
+        "top_2_avg": 30.32,
+        "best_dive_id": "202A",
+        "best_dive_avg": 34.0,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 30.35,
+        "best_dive_id": "401B",
+        "best_dive_avg": 31.5,
+        "grade": 4.0
+      },
+      "Twister": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "average_grade": 4.0
+    },
+    "overall_average_grade": 4.0
+  }
+}

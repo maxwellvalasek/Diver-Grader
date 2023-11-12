@@ -1,0 +1,248 @@
+{
+  "name": "Nicole Kuchyt",
+  "gender": "F",
+  "age": "15",
+  "id": 80738,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 32.3,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 39.1,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.1
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 34.1,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 25.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 44.85,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.85
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 29.0,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 33.15,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 25.6,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 26.4,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 22.5,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 37.2,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 28.6,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-18",
+                "score": 0.0,
+                "meet": "2023 GA Diving IL/WI Winter Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 36.3,
+                "meet": "IHSA Girls State Diving Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 36.6,
+        "best_dive_id": "104B",
+        "best_dive_avg": 39.1,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 36.92,
+        "best_dive_id": "203B",
+        "best_dive_avg": 44.85,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 29.77,
+        "best_dive_id": "301B",
+        "best_dive_avg": 33.15,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 32.9,
+        "best_dive_id": "403B",
+        "best_dive_avg": 37.2,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 18.15,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 36.3,
+        "grade": 2.4
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.1
+  }
+}

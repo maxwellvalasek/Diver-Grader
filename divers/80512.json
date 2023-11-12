@@ -1,0 +1,277 @@
+{
+  "name": "Carolinee Blankenbecler",
+  "gender": "F",
+  "age": "20",
+  "id": 80512,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 25.5,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 39.68,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 33.0,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 37.8,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 36.3,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 31.05,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 39.6,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 41.4,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 37.05,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.05
+          },
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 32.4,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-10-29",
+                "score": 34.2,
+                "meet": "GTWU vs VUW"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.59,
+        "best_dive_id": "104B",
+        "best_dive_avg": 39.68,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 33.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.0,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 37.8,
+        "best_dive_id": "303C",
+        "best_dive_avg": 37.8,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 36.3,
+        "best_dive_id": "403C",
+        "best_dive_avg": 36.3,
+        "grade": 4.8
+      },
+      "Twister": {
+        "top_2_avg": 31.05,
+        "best_dive_id": "5223D",
+        "best_dive_avg": 31.05,
+        "grade": 4.1
+      },
+      "average_grade": 4.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 39.6,
+        "best_dive_id": "105B",
+        "best_dive_avg": 39.6,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 41.4,
+        "best_dive_id": "203A",
+        "best_dive_avg": 41.4,
+        "grade": 5.2
+      },
+      "Reverse": {
+        "top_2_avg": 41.4,
+        "best_dive_id": "303B",
+        "best_dive_avg": 41.4,
+        "grade": 5.2
+      },
+      "Inward": {
+        "top_2_avg": 34.72,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.05,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 34.2,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 34.2,
+        "grade": 4.3
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.7
+  }
+}

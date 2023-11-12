@@ -1,0 +1,270 @@
+{
+  "name": "Emma Beatty",
+  "gender": "F",
+  "age": "15",
+  "id": 59322,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 18.6,
+                "meet": "Marlins Cold Turkey Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 17.5,
+                "meet": "Marlins Cold Turkey Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 39.95,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.95
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 39.6,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 25.5,
+                "meet": "Marlins Cold Turkey Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 18.75,
+                "meet": "Marlins Cold Turkey Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 32.8,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-11-17",
+                "score": 20.3,
+                "meet": "Marlins Cold Turkey Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 42.9,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.9
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 37.6,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 42.75,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.75
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 40.85,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2020-10-31",
+                "score": 42.0,
+                "meet": "2020 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.78,
+        "best_dive_id": "103B",
+        "best_dive_avg": 39.95,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 22.12,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 32.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 32.8,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 31.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 42.9,
+        "grade": 4.2
+      },
+      "average_grade": 4.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 37.6,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 42.75,
+        "best_dive_id": "301B",
+        "best_dive_avg": 42.75,
+        "grade": 5.3
+      },
+      "Inward": {
+        "top_2_avg": 40.85,
+        "best_dive_id": "403C",
+        "best_dive_avg": 40.85,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 42.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 42.0,
+        "grade": 5.2
+      },
+      "average_grade": 5.1
+    },
+    "overall_average_grade": 4.7
+  }
+}

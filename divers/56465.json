@@ -1,0 +1,947 @@
+{
+  "name": "Matthew Blommel",
+  "gender": "M",
+  "age": "18",
+  "id": 56465,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 33.15,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 31.45,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.75,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.45
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 26.4,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 50.7,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 36.4,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 31.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.43
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 42.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 42.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 27.2,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 24.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.4
+          },
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 0.0,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 22.5,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 36.23,
+                "meet": "OAKU vs GVSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.23
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 33.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 32.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.33
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-05-06",
+                "score": 22.95,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 29.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 26.4,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2017-03-04",
+                "score": 24.8,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.93
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 24.8,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 34.65,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 35.7,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 35.7,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 34.65,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.17
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 27.75,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 28.5,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 20.25,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 23.1,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2017-03-04",
+                "score": 26.4,
+                "meet": "TNT The Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 45.0,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 30.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.5
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 39.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 34.1,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 36.85
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-04",
+                "score": 36.3,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 38.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.4
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.9,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 50.7,
+                "meet": "2023 USA Diving Zone B Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 46.8
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 44.1,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 33.6,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 35.7,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 37.8
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 50.63,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 46.25,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 42.5,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 42.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 45.47
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 31.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 28.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 30.4,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 26.4,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 27.2,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.64
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-06-16",
+                "score": 34.8,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 28.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.8
+          },
+          "107C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 31.5,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 33.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 32.2,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 40.6,
+                "meet": "ODA Holiday Invitational 2022"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.48
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 34.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 26.1,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.15
+          },
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 18.7,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 25.5,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.08
+          },
+          "205C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 44.1,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 54.6,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 37.8,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 44.8,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 26.6,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 22.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 38.38
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 29.7,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 28.8,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 25.2,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 29.7,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 33.3,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 29.34
+          },
+          "305C": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.0,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 25.2,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 23.8,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 43.4,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 25.2,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 37.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 32.9
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 37.8,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 37.8,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 33.6,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 28.35,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 29.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 33.39
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 42.53,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 45.9,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 43.2,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 41.85,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 36.45,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 32.4,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 40.39
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 34.65,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 32.55,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 27.3,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 31.5
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 47.25,
+                "meet": "OAKU vs GVSU"
+              }
+            ],
+            "count": 1,
+            "average_score": 47.25
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 33.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 32.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 35.0,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 33.0,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.25
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-16",
+                "score": 38.4,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 42.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              },
+              {
+                "date": "2022-12-10",
+                "score": 43.2,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-06-16",
+                "score": 38.4,
+                "meet": "2022 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2022-05-06",
+                "score": 34.8,
+                "meet": "2022 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 39.36
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-10",
+                "score": 56.7,
+                "meet": "OAKU vs GVSU"
+              },
+              {
+                "date": "2023-06-16",
+                "score": 49.0,
+                "meet": "2023 USA Diving Zone B Championships"
+              },
+              {
+                "date": "2023-05-04",
+                "score": 49.0,
+                "meet": "2023 USA Diving Junior Region 3 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 51.57
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 40.07,
+        "best_dive_id": "105C",
+        "best_dive_avg": 42.0,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 34.05,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.23,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 31.64,
+        "best_dive_id": "303C",
+        "best_dive_avg": 35.17,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 37.17,
+        "best_dive_id": "403B",
+        "best_dive_avg": 37.5,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 45.91,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 46.8,
+        "grade": 6.1
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 33.59,
+        "best_dive_id": "107C",
+        "best_dive_avg": 34.48,
+        "grade": 4.2
+      },
+      "Back": {
+        "top_2_avg": 36.32,
+        "best_dive_id": "205C",
+        "best_dive_avg": 38.38,
+        "grade": 4.5
+      },
+      "Reverse": {
+        "top_2_avg": 31.28,
+        "best_dive_id": "305C",
+        "best_dive_avg": 32.9,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 37.21,
+        "best_dive_id": "405C",
+        "best_dive_avg": 40.39,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 50.49,
+        "best_dive_id": "5235D",
+        "best_dive_avg": 51.57,
+        "grade": 6.3
+      },
+      "average_grade": 4.7
+    },
+    "overall_average_grade": 4.9
+  }
+}

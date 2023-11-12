@@ -1,0 +1,312 @@
+{
+  "name": "Sophia  Roberts ",
+  "gender": "F",
+  "age": "17",
+  "id": 80213,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-27",
+                "score": 22.75,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.75
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.05,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 30.6,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 25.5,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.05
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 24.2,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 28.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 30.4,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 28.0,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 25.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.0
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 28.9,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 28.05,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 29.75,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 25.6,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 16.8,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 21.6,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.33
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 23.2,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 24.8,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 22.4,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.47
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 21.75,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 28.5,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 23.25,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.5
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-27",
+                "score": 27.2,
+                "meet": "FHSAA Region 4"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 31.9,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 39.6,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 29.7,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 33.73
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-12-10",
+                "score": 29.75,
+                "meet": "ODA Holiday Invitational 2022"
+              },
+              {
+                "date": "2022-10-27",
+                "score": 31.45,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 28.05,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.75
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-10-27",
+                "score": 26.45,
+                "meet": "FHSAA Region 4"
+              },
+              {
+                "date": "2022-10-08",
+                "score": 32.2,
+                "meet": "Jupiter Diving Club Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.33
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.39,
+        "best_dive_id": "103B",
+        "best_dive_avg": 28.05,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 28.45,
+        "best_dive_id": "202A",
+        "best_dive_avg": 28.9,
+        "grade": 3.8
+      },
+      "Reverse": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "302C",
+        "best_dive_avg": 23.47,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 32.1,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.73,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 29.58,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 29.75,
+        "grade": 3.9
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

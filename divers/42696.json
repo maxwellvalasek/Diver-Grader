@@ -1,0 +1,164 @@
+{
+  "name": "Finn Hansen",
+  "gender": "M",
+  "age": "15",
+  "id": 42696,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 21.5,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 16.0,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "102A": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 28.0,
+                "meet": "2021 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 16.0,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 28.9,
+                "meet": "2021 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 30.6,
+                "meet": "2021 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "300A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2013-10-26",
+                "score": 15.5,
+                "meet": "Halloween Classic  Team Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2021-10-30",
+                "score": 31.5,
+                "meet": "2021 Halloween Classic"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.0,
+        "best_dive_id": "102A",
+        "best_dive_avg": 28.0,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 29.75,
+        "best_dive_id": "202A",
+        "best_dive_avg": 30.6,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 15.5,
+        "best_dive_id": "300A",
+        "best_dive_avg": 15.5,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 31.5,
+        "best_dive_id": "401A",
+        "best_dive_avg": 31.5,
+        "grade": 4.2
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

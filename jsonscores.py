@@ -7,7 +7,6 @@ import pandas as pd
 import mechanize
 import os
 import time
-
 # Function to extract the first date in the format "Aug 1, 2012" from text
 def extract_first_date(text):
     pattern = r'(\bJan\b|\bFeb\b|\bMar\b|\bApr\b|\bMay\b|\bJun\b|\bJul\b|\bAug\b|\bSep\b|\bOct\b|\bNov\b|\bDec\b)\s+(\d{1,2}),\s+(\d{4})'
@@ -198,12 +197,11 @@ def calculate_rankings(events_data):
 
 async def dive_scores(diver_number):
     async with aiohttp.ClientSession(headers={"User-Agent": "Mozilla/5.0"}) as session:
+        start_time = time.time()
         dive_list, diver_name, diver_gender, diver_age = await fetch_dive_heights(session, diver_number)
         tasks = [fetch_scores_for_dive_height(session, diver_number, dive, height) for dive, height in dive_list]
         results = await asyncio.gather(*tasks)
-        print(diver_name)
-        print(diver_age)
-        print(diver_gender)
+
         # Combine results from all tasks into a single JSON structure
         combined_json_data = {}
         for result in results:
@@ -238,8 +236,9 @@ async def dive_scores(diver_number):
         # Write to JSON file
         with open(f'divers/{diver_number}.json', 'w') as json_file:
             json.dump(wrapped_json_data, json_file, ensure_ascii=False, indent=2)
-
-        return wrapped_json_data
+            
+        print(f"{diver_name} | {diver_number} | {(time.time() - start_time).__round__(2)}s")
+        #return wrapped_json_data
 
 # Load DD data from a CSV file
 dd_data = pd.read_csv('dd.csv')
@@ -247,10 +246,8 @@ dd_lookup = {(row['Dive'], str(row['Height'])): row['DD'] for index, row in dd_d
 
 # Main function to create a diver's JSON file
 def create_diver_json(divernumber):
-    start_time = time.time()
-    wrapped_json_data = asyncio.run(dive_scores(divernumber))
-    end_time = time.time()
-    print(f"Execution time for create_diver_json: {end_time - start_time} seconds")
+    
+    asyncio.run(dive_scores(divernumber))
 
 # Example usage
-create_diver_json("34255")
+#create_diver_json("83038")

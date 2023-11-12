@@ -1,0 +1,146 @@
+{
+  "name": "Gunnar Schonthal ",
+  "gender": "M",
+  "age": "9",
+  "id": 80824,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 14.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2022-11-19",
+                "score": 13.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 15.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 17.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 11.4,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 9.6,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 10.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 12.6,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 17.0,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2022-11-19",
+                "score": 17.0,
+                "meet": "2022 Glenn McCormick Memorial Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 17.85,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.03,
+        "best_dive_id": "100A",
+        "best_dive_avg": 16.25,
+        "grade": 2.0
+      },
+      "Back": {
+        "top_2_avg": 17.28,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.85,
+        "grade": 2.3
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

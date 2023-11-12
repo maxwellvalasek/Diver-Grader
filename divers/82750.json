@@ -1,0 +1,143 @@
+{
+  "name": "Cora Boylan",
+  "gender": "F",
+  "age": "7",
+  "id": 82750,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 19.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-09",
+                "score": 0.0,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 16.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-09",
+                "score": 15.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 19.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 17.0,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 16.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.5
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-01",
+                "score": 23.1,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-09",
+                "score": 18.5,
+                "meet": "LEE BRENNAN Memorial Invitational"
+              },
+              {
+                "date": "2023-04-01",
+                "score": 15.5,
+                "meet": "2nd Annual Los Alamitos Divers Invite"
+              },
+              {
+                "date": "2023-02-18",
+                "score": 15.0,
+                "meet": "CDC Novice Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 16.33
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 18.7,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.1,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 16.33,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.33,
+        "grade": 2.2
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

@@ -1,0 +1,375 @@
+{
+  "name": "Marcos Bruce",
+  "gender": "M",
+  "age": "8",
+  "id": 80188,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 18.0,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 18.0,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 18.0,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 13.5,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 13.5,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 19.5,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 18.75,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 19.12
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 17.0,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 15.6,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 19.8,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 16.2,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 17.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-10",
+                "score": 23.8,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 18.5,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 17.25,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 22.4,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 22.05,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.23
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 16.5,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 16.5,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 16.5,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 14.0,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.67
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-18",
+                "score": 16.5,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 12.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 16.5,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 19.5,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 18.0,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 18.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 17.0,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 23.1,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 27.3,
+                "meet": "2023 David Nielsen Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 17.0,
+                "meet": "2023 FGCDA Summer Championship"
+              },
+              {
+                "date": "2023-03-18",
+                "score": 14.25,
+                "meet": "2023 David Nielsen Invitational"
+              },
+              {
+                "date": "2023-02-10",
+                "score": 16.5,
+                "meet": "2023 Coral Springs Winter Invitational"
+              }
+            ],
+            "count": 3,
+            "average_score": 15.92
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-10",
+                "score": 15.5,
+                "meet": "2023 FGCDA Summer Championship"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.68,
+        "best_dive_id": "102C",
+        "best_dive_avg": 23.8,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 17.88,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.5,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 22.23,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.23,
+        "grade": 3.0
+      },
+      "average_grade": 2.7
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 20.88,
+        "best_dive_id": "101C",
+        "best_dive_avg": 25.2,
+        "grade": 2.6
+      },
+      "Back": {
+        "top_2_avg": 15.81,
+        "best_dive_id": "200A",
+        "best_dive_avg": 15.92,
+        "grade": 2.0
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.5
+  }
+}

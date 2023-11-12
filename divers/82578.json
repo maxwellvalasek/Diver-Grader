@@ -1,0 +1,162 @@
+{
+  "name": "Bella Davis",
+  "gender": "F",
+  "age": "11",
+  "id": 82578,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 18.0,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 18.0,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 23.8,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 22.4,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 23.1
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 17.5,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 19.5,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 30.6,
+                "meet": "Plantation Diving Invitational"
+              },
+              {
+                "date": "2023-02-25",
+                "score": 21.25,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 25.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-29",
+                "score": 21.0,
+                "meet": "Plantation Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-25",
+                "score": 25.2,
+                "meet": "Wellington Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.55,
+        "best_dive_id": "101A",
+        "best_dive_avg": 23.1,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 23.79,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.93,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 21.0,
+        "best_dive_id": "401C",
+        "best_dive_avg": 21.0,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

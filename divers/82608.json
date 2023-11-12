@@ -1,0 +1,144 @@
+{
+  "name": "Nika Renshaw",
+  "gender": "F",
+  "age": "20",
+  "id": 82608,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 34.85,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 38.0,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 32.3,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 29.25,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 41.8,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-02-03",
+                "score": 39.6,
+                "meet": "Boston Winter Open @BU"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.85,
+        "best_dive_id": "103B",
+        "best_dive_avg": 34.85,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 38.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 38.0,
+        "grade": 5.1
+      },
+      "Reverse": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.3,
+        "grade": 4.3
+      },
+      "Inward": {
+        "top_2_avg": 35.52,
+        "best_dive_id": "403C",
+        "best_dive_avg": 41.8,
+        "grade": 4.7
+      },
+      "Twister": {
+        "top_2_avg": 39.6,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 39.6,
+        "grade": 5.3
+      },
+      "average_grade": 4.8
+    },
+    "overall_average_grade": 4.8
+  }
+}

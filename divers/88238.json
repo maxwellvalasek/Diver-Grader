@@ -1,0 +1,128 @@
+{
+  "name": "Bryson Kirtley",
+  "gender": "M",
+  "age": "9",
+  "id": 88238,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 17.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 18.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 19.5,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 20.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 17.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5301A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-03-25",
+                "score": 16.0,
+                "meet": "LOBO DIVING CLUB DIVING INVITATIONAL"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 19.75,
+        "best_dive_id": "100C",
+        "best_dive_avg": 20.0,
+        "grade": 2.5
+      },
+      "Back": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 17.0,
+        "grade": 2.1
+      },
+      "Twister": {
+        "top_2_avg": 16.0,
+        "best_dive_id": "5301A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.2
+    },
+    "overall_average_grade": 2.2
+  }
+}

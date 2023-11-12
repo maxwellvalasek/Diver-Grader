@@ -1,0 +1,134 @@
+{
+  "name": "Mary Doerder",
+  "gender": "F",
+  "age": "74",
+  "id": 20424,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 26.6,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 32.3,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 34.85,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 32.25,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 22.5,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          },
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 33.25,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "103B",
+        "best_dive_avg": 32.3,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 34.85,
+        "best_dive_id": "201A",
+        "best_dive_avg": 34.85,
+        "grade": 4.6
+      },
+      "Inward": {
+        "top_2_avg": 32.25,
+        "best_dive_id": "401B",
+        "best_dive_avg": 32.25,
+        "grade": 4.3
+      },
+      "Twister": {
+        "top_2_avg": 27.88,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 33.25,
+        "grade": 3.7
+      },
+      "average_grade": 4.1
+    },
+    "overall_average_grade": 4.1
+  }
+}
