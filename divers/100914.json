@@ -1,0 +1,205 @@
+{
+  "name": "Michael Levesque",
+  "gender": "M",
+  "age": "48",
+  "id": 100914,
+  "events": {
+    "Platform": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 21.0,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 21.0,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 18.6,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 20.0,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 19.2,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 22.95,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 28.05,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 24.0,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 25.2,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-14",
+                "score": 28.8,
+                "meet": "2023 MASTERS DIVING SUMMER CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "Platform": {
+      "Front": {
+        "top_2_avg": 19.8,
+        "best_dive_id": "101A",
+        "best_dive_avg": 21.0,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 20.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 20.0,
+        "grade": 2.4
+      },
+      "average_grade": 2.3
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.07,
+        "best_dive_id": "103B",
+        "best_dive_avg": 22.95,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 26.02,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.05,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "402C",
+        "best_dive_avg": 28.8,
+        "grade": 3.6
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 2.8
+  }
+}

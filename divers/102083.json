@@ -1,0 +1,397 @@
+{
+  "name": "Maxwell Spencer",
+  "gender": "M",
+  "age": "19",
+  "id": 102083,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 56.55,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 58.5,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 54.6,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 56.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 46.58,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 50.03,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 48.3,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 48.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305C": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 51.75,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 49.5,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 60.75,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 54.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405C": {
+            "dd": 3.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 58.13,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 44.18,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 55.8,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 52.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 58.5,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 54.6,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 58.5,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 57.2
+          },
+          "5335D": {
+            "dd": 3.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 63.0,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 58.5,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 51.75,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 57.75
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.45,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 60.45,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 69.75,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 63.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 60.75,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 51.75,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 65.25,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 59.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 31.5,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 58.5,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 58.5,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 49.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 58.5,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 65.25,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 60.75,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 61.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 67.5,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 63.0,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 67.5,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 66.0
+          },
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 66.3,
+                "meet": "SCAR vs UNC"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 63.75,
+                "meet": "SCAR vs VT vs TAM"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 53.55,
+                "meet": "UNCW vs SCAR"
+              }
+            ],
+            "count": 3,
+            "average_score": 61.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 56.55,
+        "best_dive_id": "105B",
+        "best_dive_avg": 56.55,
+        "grade": 7.5
+      },
+      "Back": {
+        "top_2_avg": 48.3,
+        "best_dive_id": "203B",
+        "best_dive_avg": 48.3,
+        "grade": 6.4
+      },
+      "Reverse": {
+        "top_2_avg": 54.0,
+        "best_dive_id": "305C",
+        "best_dive_avg": 54.0,
+        "grade": 7.2
+      },
+      "Inward": {
+        "top_2_avg": 52.7,
+        "best_dive_id": "405C",
+        "best_dive_avg": 52.7,
+        "grade": 7.0
+      },
+      "Twister": {
+        "top_2_avg": 57.48,
+        "best_dive_id": "5335D",
+        "best_dive_avg": 57.75,
+        "grade": 7.7
+      },
+      "average_grade": 7.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 63.55,
+        "best_dive_id": "107B",
+        "best_dive_avg": 63.55,
+        "grade": 7.9
+      },
+      "Back": {
+        "top_2_avg": 59.25,
+        "best_dive_id": "205B",
+        "best_dive_avg": 59.25,
+        "grade": 7.4
+      },
+      "Reverse": {
+        "top_2_avg": 49.5,
+        "best_dive_id": "305B",
+        "best_dive_avg": 49.5,
+        "grade": 6.2
+      },
+      "Inward": {
+        "top_2_avg": 61.5,
+        "best_dive_id": "405B",
+        "best_dive_avg": 61.5,
+        "grade": 7.7
+      },
+      "Twister": {
+        "top_2_avg": 63.6,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 66.0,
+        "grade": 8.0
+      },
+      "average_grade": 7.4
+    },
+    "overall_average_grade": 7.3
+  }
+}

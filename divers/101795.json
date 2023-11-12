@@ -1,0 +1,75 @@
+{
+  "name": "Rohan Armillay",
+  "gender": "M",
+  "age": "10",
+  "id": 101795,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 17.55,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 28.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 22.5,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.55,
+        "best_dive_id": "101C",
+        "best_dive_avg": 17.55,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 25.25,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.0,
+        "grade": 3.4
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

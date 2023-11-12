@@ -1,0 +1,142 @@
+{
+  "name": "Will Hannink",
+  "gender": "M",
+  "age": "9",
+  "id": 101169,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 10.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 12.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 6.0,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 3,
+            "average_score": 9.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 14.4,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 16.8,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 15.6,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 16.8,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 15.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 7.25,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.25
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 18.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 12.6,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 14.4,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 25.2,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 17.77
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.9,
+        "best_dive_id": "101C",
+        "best_dive_avg": 15.9,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 7.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 7.25,
+        "grade": 1.0
+      },
+      "Twister": {
+        "top_2_avg": 17.77,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 17.77,
+        "grade": 2.4
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

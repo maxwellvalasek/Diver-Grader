@@ -1,0 +1,164 @@
+{
+  "name": "Alec Valencia",
+  "gender": "M",
+  "age": "14",
+  "id": 101232,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 19.6,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 23.8,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.7
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 36.3,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 29.7,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 11.9,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 21.25,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.57
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 20.8,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 23.1,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 22.4,
+                "meet": "Manor @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 25.2,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.35,
+        "best_dive_id": "104C",
+        "best_dive_avg": 33.0,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 16.57,
+        "best_dive_id": "201A",
+        "best_dive_avg": 16.57,
+        "grade": 2.2
+      },
+      "Reverse": {
+        "top_2_avg": 20.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 20.8,
+        "grade": 2.8
+      },
+      "Inward": {
+        "top_2_avg": 22.75,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.75,
+        "grade": 3.0
+      },
+      "Twister": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "5321D",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

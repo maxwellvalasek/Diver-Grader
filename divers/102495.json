@@ -1,0 +1,144 @@
+{
+  "name": "Kazuki Kadota-browner",
+  "gender": "M",
+  "age": "17",
+  "id": 102495,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 22.1,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 43.7,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 46.8,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 50.4,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 50.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 38.75,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.75
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 48.4,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 48.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.1,
+        "best_dive_id": "105B",
+        "best_dive_avg": 22.1,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 43.7,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.7,
+        "grade": 5.8
+      },
+      "Reverse": {
+        "top_2_avg": 46.8,
+        "best_dive_id": "303B",
+        "best_dive_avg": 46.8,
+        "grade": 6.2
+      },
+      "Inward": {
+        "top_2_avg": 50.4,
+        "best_dive_id": "403B",
+        "best_dive_avg": 50.4,
+        "grade": 6.7
+      },
+      "Twister": {
+        "top_2_avg": 43.58,
+        "best_dive_id": "5331D",
+        "best_dive_avg": 48.4,
+        "grade": 5.8
+      },
+      "average_grade": 5.5
+    },
+    "overall_average_grade": 5.5
+  }
+}

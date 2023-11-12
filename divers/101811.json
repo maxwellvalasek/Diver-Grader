@@ -1,0 +1,75 @@
+{
+  "name": "Charles Corsico",
+  "gender": "M",
+  "age": "9",
+  "id": 101811,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 10.8,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.8
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 11.7,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 11.2,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.2
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 11.25,
+        "best_dive_id": "101A",
+        "best_dive_avg": 11.7,
+        "grade": 1.5
+      },
+      "Back": {
+        "top_2_avg": 11.2,
+        "best_dive_id": "201A",
+        "best_dive_avg": 11.2,
+        "grade": 1.5
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.5
+  }
+}

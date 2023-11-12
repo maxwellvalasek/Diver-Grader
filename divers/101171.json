@@ -1,0 +1,152 @@
+{
+  "name": "Jack O'donnell",
+  "gender": "M",
+  "age": "11",
+  "id": 101171,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 10.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 9.5,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 4.5,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 12.5,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 9.0,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 10.0,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 6,
+            "average_score": 9.33
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 6.5,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 6.0,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 6.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 14.0,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 12.6,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 11.9,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 11.9,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 12.6,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 11.9,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 6,
+            "average_score": 12.48
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 16.1,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 11.2,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 14.0,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 14.7,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.09,
+        "best_dive_id": "102C",
+        "best_dive_avg": 14.0,
+        "grade": 1.7
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

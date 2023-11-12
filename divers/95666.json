@@ -1,0 +1,501 @@
+{
+  "name": "Derek Moore",
+  "gender": "M",
+  "age": "32",
+  "id": 95666,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 25.35,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.35
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 36.55,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 27.2,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.2
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 41.4,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 35.7,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.7
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 38.85,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 32.25,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 45.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 38.62
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 51.6,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 51.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 46.2,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 40.26,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 43.23
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 40.95,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.95
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 24.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 42.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 42.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 43.92,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 2,
+            "average_score": 42.96
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 31.5,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.5
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 38.5,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 38.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 37.05,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.05
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 33.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 28.7,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.7
+          },
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 44.1,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 35.34,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 35.34
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 39.0,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 39.0
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 40.8,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.8
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.5,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 30.75,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 32.8,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.8
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 43.7,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 28.7,
+                "meet": "2023 MASTERS DIVING SPRING CHAMPIONSHIPS"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 30.95,
+        "best_dive_id": "103B",
+        "best_dive_avg": 36.55,
+        "grade": 4.1
+      },
+      "Back": {
+        "top_2_avg": 34.3,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.4,
+        "grade": 4.6
+      },
+      "Reverse": {
+        "top_2_avg": 37.28,
+        "best_dive_id": "303C",
+        "best_dive_avg": 38.85,
+        "grade": 5.0
+      },
+      "Inward": {
+        "top_2_avg": 42.95,
+        "best_dive_id": "403B",
+        "best_dive_avg": 51.6,
+        "grade": 5.7
+      },
+      "Twister": {
+        "top_2_avg": 42.47,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 43.23,
+        "grade": 5.7
+      },
+      "average_grade": 5.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.98,
+        "best_dive_id": "105B",
+        "best_dive_avg": 42.96,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 35.0,
+        "best_dive_id": "203B",
+        "best_dive_avg": 38.5,
+        "grade": 4.4
+      },
+      "Reverse": {
+        "top_2_avg": 35.02,
+        "best_dive_id": "301B",
+        "best_dive_avg": 37.05,
+        "grade": 4.4
+      },
+      "Inward": {
+        "top_2_avg": 39.72,
+        "best_dive_id": "403B",
+        "best_dive_avg": 44.1,
+        "grade": 5.0
+      },
+      "Twister": {
+        "top_2_avg": 39.9,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 40.8,
+        "grade": 5.0
+      },
+      "average_grade": 4.7
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 30.75,
+        "best_dive_id": "103C",
+        "best_dive_avg": 30.75,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 38.25,
+        "best_dive_id": "203B",
+        "best_dive_avg": 43.7,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 28.7,
+        "best_dive_id": "401B",
+        "best_dive_avg": 28.7,
+        "grade": 3.4
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 4.5
+  }
+}

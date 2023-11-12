@@ -1,0 +1,317 @@
+{
+  "name": "Samuel Fricker",
+  "gender": "M",
+  "age": "21",
+  "id": 100776,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 66.03,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 66.03
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 43.8,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 43.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 32.4,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 54.0,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          },
+          "407C": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 68.34,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 68.34
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5154B": {
+            "dd": 3.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 70.38,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 70.38
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "109C": {
+            "dd": 3.7,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 64.75,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 64.75,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 64.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "207C": {
+            "dd": 3.3,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 67.65,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 85.8,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 76.72
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "307C": {
+            "dd": 3.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 83.3,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 79.9,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 81.6
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "407C": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 72.0,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 76.8,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 74.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5253B": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 68.8,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 73.6,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 71.2
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "6243D": {
+            "dd": 3.2,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 51.2,
+                "meet": "2023 USA Diving International Camp"
+              },
+              {
+                "date": "2023-04-28",
+                "score": 68.8,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 2,
+            "average_score": 60.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 66.03,
+        "best_dive_id": "107B",
+        "best_dive_avg": 66.03,
+        "grade": 8.3
+      },
+      "Back": {
+        "top_2_avg": 43.8,
+        "best_dive_id": "201B",
+        "best_dive_avg": 43.8,
+        "grade": 5.5
+      },
+      "Reverse": {
+        "top_2_avg": 32.4,
+        "best_dive_id": "301B",
+        "best_dive_avg": 32.4,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 61.17,
+        "best_dive_id": "407C",
+        "best_dive_avg": 68.34,
+        "grade": 7.6
+      },
+      "Twister": {
+        "top_2_avg": 70.38,
+        "best_dive_id": "5154B",
+        "best_dive_avg": 70.38,
+        "grade": 8.8
+      },
+      "average_grade": 6.8
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 64.75,
+        "best_dive_id": "109C",
+        "best_dive_avg": 64.75,
+        "grade": 7.6
+      },
+      "Back": {
+        "top_2_avg": 76.72,
+        "best_dive_id": "207C",
+        "best_dive_avg": 76.72,
+        "grade": 9.0
+      },
+      "Reverse": {
+        "top_2_avg": 81.6,
+        "best_dive_id": "307C",
+        "best_dive_avg": 81.6,
+        "grade": 9.6
+      },
+      "Inward": {
+        "top_2_avg": 74.4,
+        "best_dive_id": "407C",
+        "best_dive_avg": 74.4,
+        "grade": 8.8
+      },
+      "Twister": {
+        "top_2_avg": 71.2,
+        "best_dive_id": "5253B",
+        "best_dive_avg": 71.2,
+        "grade": 8.4
+      },
+      "Armstand": {
+        "top_2_avg": 60.0,
+        "best_dive_id": "6243D",
+        "best_dive_avg": 60.0,
+        "grade": 7.1
+      },
+      "average_grade": 8.4
+    },
+    "overall_average_grade": 7.6
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "name": "Charlotte Dean",
+  "gender": "F",
+  "age": "9",
+  "id": 101242,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 13.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 12.0,
+                "meet": "WGCC @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 17.5,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 12.6,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 16.8,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 17.5,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 12.6,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 15.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 8.25,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 4.75,
+                "meet": "Chevy @ Congo"
+              }
+            ],
+            "count": 2,
+            "average_score": 6.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 18.9,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.4,
+        "grade": 2.1
+      },
+      "Back": {
+        "top_2_avg": 6.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.5,
+        "grade": 0.9
+      },
+      "Twister": {
+        "top_2_avg": 18.9,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 18.9,
+        "grade": 2.5
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "name": "Ivy Thompson",
+  "gender": "F",
+  "age": "10",
+  "id": 101655,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 13.5,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 18.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 6.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 6.0,
+        "best_dive_id": "100A",
+        "best_dive_avg": 6.0,
+        "grade": 0.8
+      },
+      "average_grade": 0.8
+    },
+    "overall_average_grade": 0.8
+  }
+}

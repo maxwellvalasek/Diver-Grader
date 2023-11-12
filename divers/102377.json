@@ -1,0 +1,315 @@
+{
+  "name": "Brayden Leboeuf",
+  "gender": "M",
+  "age": "17",
+  "id": 102377,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.3,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 29.75,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.02
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.4,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 33.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 23.1,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 10.0,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "304C": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.45,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 33.6,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.02
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 35.2,
+                "meet": "Classic City Invitational"
+              },
+              {
+                "date": "2023-01-31",
+                "score": 40.7,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 2,
+            "average_score": 37.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.2,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          },
+          "5331D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-01-31",
+                "score": 31.9,
+                "meet": "Georgia High School State Championship 1-5A"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.9
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 30.4,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 44.4,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.05,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.3,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.3
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 30.4,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 32.01,
+        "best_dive_id": "105C",
+        "best_dive_avg": 33.0,
+        "grade": 4.3
+      },
+      "Back": {
+        "top_2_avg": 16.55,
+        "best_dive_id": "204C",
+        "best_dive_avg": 16.55,
+        "grade": 2.2
+      },
+      "Reverse": {
+        "top_2_avg": 30.02,
+        "best_dive_id": "304C",
+        "best_dive_avg": 30.02,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 37.95,
+        "best_dive_id": "403C",
+        "best_dive_avg": 37.95,
+        "grade": 5.1
+      },
+      "Twister": {
+        "top_2_avg": 28.55,
+        "best_dive_id": "5331D",
+        "best_dive_avg": 31.9,
+        "grade": 3.8
+      },
+      "average_grade": 3.9
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 37.4,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.4,
+        "grade": 4.7
+      },
+      "Back": {
+        "top_2_avg": 28.05,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.05,
+        "grade": 3.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.3,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.3,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 30.4,
+        "best_dive_id": "403C",
+        "best_dive_avg": 30.4,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 20.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 20.0,
+        "grade": 2.5
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.7
+  }
+}

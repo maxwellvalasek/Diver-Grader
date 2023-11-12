@@ -1,0 +1,277 @@
+{
+  "name": "Betsy Parker",
+  "gender": "F",
+  "age": "16",
+  "id": 101620,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.75,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.75
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 27.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 41.4,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 41.4
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.8,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.25,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 22.4,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.05,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.05
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.6,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.6
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.8,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 32.55,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 6.0,
+                "meet": "Classic City Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.68,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.75,
+        "grade": 3.8
+      },
+      "Back": {
+        "top_2_avg": 41.4,
+        "best_dive_id": "203B",
+        "best_dive_avg": 41.4,
+        "grade": 5.5
+      },
+      "Reverse": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 28.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 26.25,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 26.25,
+        "grade": 3.5
+      },
+      "average_grade": 4.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 22.4,
+        "best_dive_id": "103B",
+        "best_dive_avg": 22.4,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 27.33,
+        "best_dive_id": "201C",
+        "best_dive_avg": 28.05,
+        "grade": 3.4
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.8,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 32.55,
+        "best_dive_id": "403B",
+        "best_dive_avg": 32.55,
+        "grade": 4.1
+      },
+      "Twister": {
+        "top_2_avg": 6.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 6.0,
+        "grade": 0.8
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 3.5
+  }
+}

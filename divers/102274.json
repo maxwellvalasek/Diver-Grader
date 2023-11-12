@@ -1,0 +1,579 @@
+{
+  "name": "Riley Brennen",
+  "gender": "F",
+  "age": "19",
+  "id": 102274,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.15,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 29.33,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 36.55,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 28.05,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 25.5,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 5,
+            "average_score": 30.52
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 40.7,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 34.65,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 45.1,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 34.1,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 36.3,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.17
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.8,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 29.6,
+                "meet": "LEMC vs SMC"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 39.0,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 22.5,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 37.0,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 32.0,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 5,
+            "average_score": 32.3
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 33.15,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 24.65,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 24.65,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.48
+          },
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.8,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 20.4,
+                "meet": "STBU vs LEMC"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.6
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 26.4,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 30.4,
+                "meet": "LEMC vs SMC"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.0,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 33.0,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 24.0,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.0
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.0,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 30.4,
+                "meet": "LEMC vs SMC"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.2
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 37.4,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 31.35,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 37.4,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.9,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.51
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.9,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-21",
+                "score": 34.85,
+                "meet": "LEMC vs SMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 21.25,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 26.35,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.84
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 40.95,
+                "meet": "LEMC vs RWU"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 20.48,
+                "meet": "STBU vs LEMC"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.72
+          },
+          "5321D": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 28.8,
+                "meet": "LEMC vs SMC"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 25.2,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 25.6,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 24.0,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.93
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 29.75,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 24.65,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.2
+          },
+          "203A": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 25.2,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 36.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 40.8,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 22.95,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.5,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 26.1,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.15,
+                "meet": "STBU vs LEMC"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.15
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 25.65,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 22.8,
+                "meet": "COLG vs LEMC vs SUCC"
+              },
+              {
+                "date": "2023-10-06",
+                "score": 26.6,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.02
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 28.5,
+                "meet": "STBU vs LEMC"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 31.0,
+                "meet": "COLG vs LEMC vs SUCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 29.75
+          },
+          "5321D": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-06",
+                "score": 20.9,
+                "meet": "COLG vs LEMC vs MASS"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.35,
+        "best_dive_id": "104C",
+        "best_dive_avg": 38.17,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 31.41,
+        "best_dive_id": "203C",
+        "best_dive_avg": 32.3,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 27.85,
+        "best_dive_id": "302C",
+        "best_dive_avg": 28.4,
+        "grade": 3.7
+      },
+      "Inward": {
+        "top_2_avg": 32.74,
+        "best_dive_id": "403C",
+        "best_dive_avg": 34.51,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 30.08,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 30.72,
+        "grade": 4.0
+      },
+      "average_grade": 4.2
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 24.93,
+        "best_dive_id": "103B",
+        "best_dive_avg": 24.93,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 31.28,
+        "best_dive_id": "203A",
+        "best_dive_avg": 34.0,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 26.85,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.85,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "403C",
+        "best_dive_avg": 25.02,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 26.8,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 29.75,
+        "grade": 3.4
+      },
+      "average_grade": 3.4
+    },
+    "overall_average_grade": 3.8
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "name": "Finley Renner",
+  "gender": "F",
+  "age": "10",
+  "id": 101355,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 6.0,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 5.25,
+                "meet": "Kenwood @ Manor"
+              }
+            ],
+            "count": 2,
+            "average_score": 5.62
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 16.1,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 14.7,
+                "meet": "Kenwood @ Manor"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 8.0,
+                "meet": "Kenwood @ Manor"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 25.5,
+                "meet": "WGCC @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.51,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.4,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 16.75,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.5,
+        "grade": 2.2
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

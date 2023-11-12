@@ -1,0 +1,211 @@
+{
+  "name": "TJ Reardon",
+  "gender": "M",
+  "age": "14",
+  "id": 101445,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 21.0,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 19.8,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 19.8,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 18.6,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 19.8,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 19.8
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 27.2,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 25.6,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 31.2,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 28.8,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 25.6,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 27.68
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 28.9,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 26.35,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 33.15,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 28.9,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 27.2,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.9
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 19.5,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 20.25,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 23.25,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 22.5,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 18.75,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.85
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-17",
+                "score": 21.0,
+                "meet": "Congo @ WGCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 19.6,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.0,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-07-09",
+                "score": 17.5,
+                "meet": "WGCC @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 21.0,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.02
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.74,
+        "best_dive_id": "103C",
+        "best_dive_avg": 27.68,
+        "grade": 3.2
+      },
+      "Back": {
+        "top_2_avg": 24.88,
+        "best_dive_id": "201A",
+        "best_dive_avg": 28.9,
+        "grade": 3.3
+      },
+      "Inward": {
+        "top_2_avg": 20.02,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.02,
+        "grade": 2.7
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.1
+  }
+}

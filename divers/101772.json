@@ -1,0 +1,75 @@
+{
+  "name": "Andie Heaven",
+  "gender": "F",
+  "age": "10",
+  "id": 101772,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 22.1,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 19.2,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 24.8,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.65,
+        "best_dive_id": "101B",
+        "best_dive_avg": 22.1,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 24.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.8,
+        "grade": 3.3
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

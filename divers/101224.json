@@ -1,0 +1,123 @@
+{
+  "name": "Olivia Olson",
+  "gender": "F",
+  "age": "12",
+  "id": 101224,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 6.25,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 6.0,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 6.75,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 3,
+            "average_score": 6.33
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 17.5,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 12.6,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 14.7,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.93
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 7.0,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 5.0,
+                "meet": "Bethesda @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 5.75,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 3,
+            "average_score": 5.92
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 22.95,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 12.75,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 10.63,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.93,
+        "grade": 1.4
+      },
+      "Back": {
+        "top_2_avg": 10.69,
+        "best_dive_id": "201A",
+        "best_dive_avg": 17.85,
+        "grade": 1.4
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "name": "Zoe Schmidt",
+  "gender": "F",
+  "age": "11",
+  "id": 101927,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.5,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.5
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.5,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.5,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 21.0,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 22.2,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.5,
+                "meet": "Sherman Divers Fall Fun Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "101C",
+        "best_dive_avg": 22.2,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "average_grade": 2.5
+    },
+    "overall_average_grade": 2.5
+  }
+}

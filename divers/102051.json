@@ -1,0 +1,345 @@
+{
+  "name": "Sydney Bowling",
+  "gender": "F",
+  "age": "13",
+  "id": 102051,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 25.2,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 29.45,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.32
+          },
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 26.4,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 25.6,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 13.5,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          },
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 28.8,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.9
+          },
+          "202C": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 24.8,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.35,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 31.35,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 31.35
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.8,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 26.35,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 27.58
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 29.7,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 20.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 28.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 0.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 18.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 34.1,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.55
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 22.8,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 30.4,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 26.66,
+        "best_dive_id": "101C",
+        "best_dive_avg": 27.32,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 26.87,
+        "best_dive_id": "201B",
+        "best_dive_avg": 27.9,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "403C",
+        "best_dive_avg": 31.35,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 28.09,
+        "best_dive_id": "104C",
+        "best_dive_avg": 28.6,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "201B",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Reverse": {
+        "top_2_avg": 0.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 0.0,
+        "grade": 0.0
+      },
+      "Inward": {
+        "top_2_avg": 28.37,
+        "best_dive_id": "403C",
+        "best_dive_avg": 33.55,
+        "grade": 3.8
+      },
+      "Twister": {
+        "top_2_avg": 26.6,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.6,
+        "grade": 3.5
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 3.2
+  }
+}

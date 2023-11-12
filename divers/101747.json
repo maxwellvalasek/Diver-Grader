@@ -1,0 +1,111 @@
+{
+  "name": "Jackson Vagnucci",
+  "gender": "M",
+  "age": "14",
+  "id": 101747,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 23.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 26.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 30.6,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 27.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 28.6,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.6
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 24.9,
+        "best_dive_id": "103C",
+        "best_dive_avg": 26.4,
+        "grade": 3.3
+      },
+      "Back": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 30.6,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 28.6,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.6,
+        "grade": 3.8
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "Caroline Tracy",
+  "gender": "F",
+  "age": "8",
+  "id": 101191,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 15.4,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 13.3,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.35
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 12.6,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 6.75,
+                "meet": "WGCC @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.77,
+        "best_dive_id": "101A",
+        "best_dive_avg": 14.35,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 6.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.75,
+        "grade": 0.9
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

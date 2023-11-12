@@ -1,0 +1,56 @@
+{
+  "name": "Claire Baird",
+  "gender": "F",
+  "age": "7",
+  "id": 101456,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 11.0,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 6.5,
+                "meet": "Bethesda  @ WGCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 6.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.5,
+        "grade": 0.9
+      },
+      "average_grade": 0.9
+    },
+    "overall_average_grade": 0.9
+  }
+}

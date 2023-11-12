@@ -1,0 +1,124 @@
+{
+  "name": "Parker Bishop",
+  "gender": "F",
+  "age": "7",
+  "id": 101134,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 15.5,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 11.5,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 18.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 16.1,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 16.1,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 16.8,
+                "meet": "ANCC @ Bethesda"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 14.0,
+                "meet": "ANCC  @ WGCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 16.1,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 6,
+            "average_score": 16.33
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 25.5,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 27.2,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 20.4,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 23.8,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.22
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.33,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.33,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 24.22,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.22,
+        "grade": 3.2
+      },
+      "average_grade": 2.7
+    },
+    "overall_average_grade": 2.7
+  }
+}

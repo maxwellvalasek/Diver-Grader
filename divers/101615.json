@@ -1,0 +1,79 @@
+{
+  "name": "Mallory Brown",
+  "gender": "F",
+  "age": "9",
+  "id": 101615,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 18.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 14.7,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 13.65,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.65
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 14.7,
+        "best_dive_id": "101C",
+        "best_dive_avg": 14.7,
+        "grade": 1.8
+      },
+      "Inward": {
+        "top_2_avg": 13.65,
+        "best_dive_id": "401C",
+        "best_dive_avg": 13.65,
+        "grade": 1.7
+      },
+      "average_grade": 1.8
+    },
+    "overall_average_grade": 1.8
+  }
+}

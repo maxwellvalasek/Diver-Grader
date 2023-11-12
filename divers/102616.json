@@ -1,0 +1,124 @@
+{
+  "name": "Ayla  Sibay",
+  "gender": "F",
+  "age": "13",
+  "id": 102616,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 18.6,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.6
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.5,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.5
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 20.8,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 18.9,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 24.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.65,
+        "best_dive_id": "102C",
+        "best_dive_avg": 24.5,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 24.0,
+        "best_dive_id": "201C",
+        "best_dive_avg": 24.0,
+        "grade": 3.2
+      },
+      "Inward": {
+        "top_2_avg": 21.45,
+        "best_dive_id": "402C",
+        "best_dive_avg": 24.0,
+        "grade": 2.9
+      },
+      "average_grade": 3.0
+    },
+    "overall_average_grade": 3.0
+  }
+}

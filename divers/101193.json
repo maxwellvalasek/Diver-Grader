@@ -1,0 +1,217 @@
+{
+  "name": "Benjamin O'connell",
+  "gender": "M",
+  "age": "13",
+  "id": 101193,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 25.2,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 26.6,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 24.5,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 22.4,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.67
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 31.2,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 26.4,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 28.8
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 25.3,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 27.5,
+                "meet": "Bethesda @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 25.5,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 29.75,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 15.3,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 25.5,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.01
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 21.25,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 23.1,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 23.8,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 23.8,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.93
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-21",
+                "score": 20.9,
+                "meet": "2023 CCSDA Senior Championship @ ANCC"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 25.65,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 20.9,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 20.9,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 4,
+            "average_score": 22.09
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.6,
+        "best_dive_id": "103C",
+        "best_dive_avg": 28.8,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 23.46,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.01,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 22.93,
+        "best_dive_id": "401C",
+        "best_dive_avg": 22.93,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 22.09,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 22.09,
+        "grade": 2.9
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

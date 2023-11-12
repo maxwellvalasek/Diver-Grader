@@ -1,0 +1,206 @@
+{
+  "name": "Megan Sunderman",
+  "gender": "F",
+  "age": "19",
+  "id": 102455,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 28.9,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.9
+          },
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 26.45,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.45
+          },
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 40.7,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.7
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 25.6,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          },
+          "204C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 20.9,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 25.5,
+                "meet": "INSU vs LNWD"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 28.05,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 2,
+            "average_score": 26.77
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 23.8,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          },
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 27.5,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5124D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 33.35,
+                "meet": "INSU vs LNWD"
+              },
+              {
+                "date": "2023-10-20",
+                "score": 34.5,
+                "meet": "PUR vs UIND vs KC"
+              }
+            ],
+            "count": 2,
+            "average_score": 33.92
+          },
+          "5223D": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 31.05,
+                "meet": "INSU vs LNWD"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.05
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 34.8,
+        "best_dive_id": "104C",
+        "best_dive_avg": 40.7,
+        "grade": 4.6
+      },
+      "Back": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "202B",
+        "best_dive_avg": 25.6,
+        "grade": 3.1
+      },
+      "Reverse": {
+        "top_2_avg": 26.77,
+        "best_dive_id": "302B",
+        "best_dive_avg": 26.77,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 25.65,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 32.96,
+        "best_dive_id": "5124D",
+        "best_dive_avg": 33.92,
+        "grade": 4.4
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

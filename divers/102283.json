@@ -1,0 +1,302 @@
+{
+  "name": "Margaret Collins",
+  "gender": "F",
+  "age": "9",
+  "id": 102283,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.25,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.38
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.75,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.62
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.5,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.25,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.25
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-07",
+                "score": 17.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.25,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.25
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.5,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.0,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.75
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 18.75,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.62
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.5,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 18.0,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.75
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.0,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.5,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 17.5,
+                "meet": "Clavadistas del Sol"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5101A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.0,
+                "meet": "Pilgrims, Pies, and Perfect 10s Future Champions"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.58,
+        "best_dive_id": "100A",
+        "best_dive_avg": 17.75,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 18.5,
+        "best_dive_id": "200A",
+        "best_dive_avg": 18.5,
+        "grade": 2.5
+      },
+      "average_grade": 2.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 18.25,
+        "best_dive_id": "100C",
+        "best_dive_avg": 18.75,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 17.12,
+        "best_dive_id": "200C",
+        "best_dive_avg": 18.5,
+        "grade": 2.1
+      },
+      "Twister": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "5101A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.3
+  }
+}

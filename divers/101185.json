@@ -1,0 +1,151 @@
+{
+  "name": "Mac Pomponi",
+  "gender": "M",
+  "age": "7",
+  "id": 101185,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 14.7,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-12",
+                "score": 14.7,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 16.8,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 13.3,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 14.0,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 16.8,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 6,
+            "average_score": 15.05
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 0.0,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 7.0,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 5.5,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 7.5,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 3,
+            "average_score": 6.67
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 18.0,
+                "meet": "Bethesda @ Chevy"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 19.8,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.9
+          },
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 8.1,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.9,
+        "best_dive_id": "101A",
+        "best_dive_avg": 15.05,
+        "grade": 1.7
+      },
+      "Back": {
+        "top_2_avg": 6.67,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.67,
+        "grade": 0.9
+      },
+      "Twister": {
+        "top_2_avg": 15.3,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 18.9,
+        "grade": 2.0
+      },
+      "average_grade": 1.5
+    },
+    "overall_average_grade": 1.5
+  }
+}

@@ -1,0 +1,174 @@
+{
+  "name": "Phoenix Simons",
+  "gender": "M",
+  "age": "18",
+  "id": 102341,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 11.4,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 15.0,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.2
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 17.6,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 24.8,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 17.0,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 14.45,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.72
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 16.0,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 20.0,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 18.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 16.8,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 24.5,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.65
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 17.0,
+                "meet": "Dan Ross Indiana Intercollegiate @Purdue"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 0.0,
+                "meet": "Indiana D3 Invite"
+              }
+            ],
+            "count": 2,
+            "average_score": 8.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 17.2,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.2,
+        "grade": 2.3
+      },
+      "Back": {
+        "top_2_avg": 15.72,
+        "best_dive_id": "201A",
+        "best_dive_avg": 15.72,
+        "grade": 2.1
+      },
+      "Reverse": {
+        "top_2_avg": 18.0,
+        "best_dive_id": "301C",
+        "best_dive_avg": 18.0,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 20.65,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.65,
+        "grade": 2.8
+      },
+      "Twister": {
+        "top_2_avg": 8.5,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 8.5,
+        "grade": 1.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

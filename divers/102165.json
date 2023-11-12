@@ -1,0 +1,210 @@
+{
+  "name": "Everett Haugle",
+  "gender": "M",
+  "age": "8",
+  "id": 102165,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001D": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 17.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 14.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.75
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.0
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 12.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 16.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 16.0,
+                "meet": "2023 Conroe Diving Fall Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.0
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 13.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 13.0,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.0
+          },
+          "100B": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 8.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.5
+          },
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 12.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 14.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 15.5,
+                "meet": "2023 BASDT Kuni Klassic Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.17,
+        "best_dive_id": "100A",
+        "best_dive_avg": 15.0,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 15.17,
+        "best_dive_id": "200A",
+        "best_dive_avg": 16.0,
+        "grade": 2.0
+      },
+      "average_grade": 2.0
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 12.75,
+        "best_dive_id": "100A",
+        "best_dive_avg": 13.0,
+        "grade": 1.6
+      },
+      "Back": {
+        "top_2_avg": 15.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 15.5,
+        "grade": 1.9
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.8
+  }
+}

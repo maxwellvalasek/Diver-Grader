@@ -1,0 +1,212 @@
+{
+  "name": "Lily Grant",
+  "gender": "F",
+  "age": "14",
+  "id": 101154,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 23.4,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 24.05,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 24.7,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 21.45,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 23.4
+          },
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 28.9,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 36.55,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 29.75,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 27.2,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 24.65,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 34.85,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 17.85,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 28.9,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 26.56
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 28.0,
+                "meet": "ANCC @ Congo"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 27.2,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 29.6,
+                "meet": "Manor @ ANCC"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 26.4,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 4,
+            "average_score": 27.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 28.5,
+                "meet": "ANCC @ Congo"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          },
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 27.3,
+                "meet": "Chevy @ ANCC"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 21.7,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 19.8,
+                "meet": "ANCC @ Bethesda"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "103B",
+        "best_dive_avg": 30.6,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 27.18,
+        "best_dive_id": "202B",
+        "best_dive_avg": 27.8,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 25.83,
+        "best_dive_id": "401B",
+        "best_dive_avg": 28.5,
+        "grade": 3.4
+      },
+      "Twister": {
+        "top_2_avg": 19.8,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 19.8,
+        "grade": 2.6
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

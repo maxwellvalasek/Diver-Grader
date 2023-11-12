@@ -1,0 +1,154 @@
+{
+  "name": "Bz Cannova",
+  "gender": "F",
+  "age": "14",
+  "id": 101588,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 21.6,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 22.2,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.9
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 23.8,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 25.2,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 24.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 32.3,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 28.05,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.17
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 20.25,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 25.5,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 22.88
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 20.3,
+                "meet": "WGCC @ Chevy"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 27.0,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.2,
+        "best_dive_id": "102C",
+        "best_dive_avg": 24.5,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 26.52,
+        "best_dive_id": "201A",
+        "best_dive_avg": 30.17,
+        "grade": 3.5
+      },
+      "Inward": {
+        "top_2_avg": 20.3,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.3,
+        "grade": 2.7
+      },
+      "Twister": {
+        "top_2_avg": 27.0,
+        "best_dive_id": "5111A",
+        "best_dive_avg": 27.0,
+        "grade": 3.6
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

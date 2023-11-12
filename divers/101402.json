@@ -1,0 +1,80 @@
+{
+  "name": "Henry Mcgowen",
+  "gender": "M",
+  "age": "7",
+  "id": 101402,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-26",
+                "score": 6.25,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.25
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 12.6,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 16.8,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 14.0,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 3,
+            "average_score": 14.47
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-12",
+                "score": 15.4,
+                "meet": "WGCC @ Kenwood"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 18.2,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 2,
+            "average_score": 16.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 15.4,
+        "best_dive_id": "102C",
+        "best_dive_avg": 16.8,
+        "grade": 2.1
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "name": "Rachel Rusch",
+  "gender": "F",
+  "age": "16",
+  "id": 102462,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101B": {
+            "dd": 1.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 26.65,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.65
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 26.4,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 30.6,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.6
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 0.0,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 33.0,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 16.8,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 28.8,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 29.25,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.25
+          },
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 20.8,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.8
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 32.4,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.4
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 33.15,
+                "meet": "FHSAA District 10/11/12"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.15
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 26.52,
+        "best_dive_id": "101B",
+        "best_dive_avg": 26.65,
+        "grade": 3.5
+      },
+      "Back": {
+        "top_2_avg": 31.8,
+        "best_dive_id": "203C",
+        "best_dive_avg": 33.0,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 22.8,
+        "best_dive_id": "302C",
+        "best_dive_avg": 28.8,
+        "grade": 3.0
+      },
+      "Inward": {
+        "top_2_avg": 25.02,
+        "best_dive_id": "401B",
+        "best_dive_avg": 29.25,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 32.77,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 33.15,
+        "grade": 4.4
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 3.7
+  }
+}

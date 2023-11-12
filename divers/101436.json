@@ -1,0 +1,94 @@
+{
+  "name": "Philip Mclaughin",
+  "gender": "M",
+  "age": "9",
+  "id": 101436,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 10.5,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 7.5,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 9.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 5.75,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 5.0,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 5.38
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 5.25,
+                "meet": "Bethesda  @ WGCC"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 5.25,
+                "meet": "ANCC  @ WGCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 5.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 5.38,
+        "best_dive_id": "100A",
+        "best_dive_avg": 5.38,
+        "grade": 0.7
+      },
+      "Back": {
+        "top_2_avg": 5.25,
+        "best_dive_id": "200A",
+        "best_dive_avg": 5.25,
+        "grade": 0.7
+      },
+      "average_grade": 0.7
+    },
+    "overall_average_grade": 0.7
+  }
+}

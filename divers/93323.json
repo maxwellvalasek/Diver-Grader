@@ -1,0 +1,973 @@
+{
+  "name": "Alexander Broadwater",
+  "gender": "M",
+  "age": "17",
+  "id": 93323,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-09-30",
+                "score": 32.3,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 28.9,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 36.55,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.3,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 32.51
+          },
+          "105B": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 46.8,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 42.9,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 41.6,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 48.1,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 46.8,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 45.24
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 19.2,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 21.6,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 23.2,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.33
+          },
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 34.5,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 41.4,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 40.25,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 29.9,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 37.95,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 37.95,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 36.99
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 23.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 25.5,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 25.5,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.93
+          },
+          "303B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 33.6,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 26.4,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 32.4,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 30.8
+          },
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 31.5,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 36.75,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 39.9,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 3,
+            "average_score": 36.05
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.75,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 31.5,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 30.0,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.75
+          },
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 50.4,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 44.4,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 51.6,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 48.0,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 40.8,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 43.2,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 46.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 38.5,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 39.6,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 37.4,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.5
+          },
+          "5134D": {
+            "dd": 2.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 48.75,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 41.6,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 50.7,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 45.5,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 45.5,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 44.2,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 46.04
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 33.75,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-30",
+                "score": 43.75,
+                "meet": "MICH Instrasquad Meet"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 45.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 46.25,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 42.5,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 48.75,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 6,
+            "average_score": 43.33
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 31.2,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 31.2,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 27.2,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.87
+          },
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 45.0,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 43.2,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 42.0,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 48.0,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 43.2,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 44.28
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 24.3,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 24.3,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 21.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.4
+          },
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 26.4,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 33.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 37.4,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 29.7,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.62
+          },
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 29.45,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 25.65,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 31.35,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 30.4,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.13
+          },
+          "303B": {
+            "dd": 2.3,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 27.6,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 37.95,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 36.8,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 34.12
+          },
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 28.5,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 32.0,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 2,
+            "average_score": 30.25
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 37.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 37.8,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 43.05,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 39.55
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 48.6,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 44.55,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 48.6,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 51.3,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 5,
+            "average_score": 38.61
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 37.8,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 38.85,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 38.85,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 38.5
+          },
+          "5134D": {
+            "dd": 2.5,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              },
+              {
+                "date": "2023-06-23",
+                "score": 48.75,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 41.25,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 47.5,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 4,
+            "average_score": 34.38
+          },
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 49.5,
+                "meet": "UW vs MICH"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.5
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 43.2,
+                "meet": "2023 USA Diving Zone C Championships"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 39.6,
+                "meet": "KIMBALL KLASSIC"
+              },
+              {
+                "date": "2023-04-21",
+                "score": 39.6,
+                "meet": "2023 USA Diving Junior Region 5 Championships"
+              }
+            ],
+            "count": 3,
+            "average_score": 40.8
+          },
+          "5235D": {
+            "dd": 2.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-20",
+                "score": 42.0,
+                "meet": "UW vs MICH"
+              },
+              {
+                "date": "2023-09-29",
+                "score": 0.0,
+                "meet": "MICH vs HOPC vs CALC"
+              }
+            ],
+            "count": 2,
+            "average_score": 21.0
+          }
+        }
+      }
+    },
+    "Platform": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 33.6,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 33.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201C": {
+            "dd": 1.5,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 23.25,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.25
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 26.4,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 28.0,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.2,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 34.1,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 34.1
+          },
+          "5231D": {
+            "dd": 2.1,
+            "height": "5",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 44.1,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 44.1
+          }
+        }
+      },
+      "Armstand": {
+        "dives": {
+          "612B": {
+            "dd": 1.9,
+            "height": "10",
+            "performance": [
+              {
+                "date": "2023-06-23",
+                "score": 40.85,
+                "meet": "2023 USA Diving Zone C Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 39.58,
+        "best_dive_id": "105B",
+        "best_dive_avg": 45.24,
+        "grade": 5.3
+      },
+      "Back": {
+        "top_2_avg": 31.77,
+        "best_dive_id": "203B",
+        "best_dive_avg": 36.99,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 33.43,
+        "best_dive_id": "303C",
+        "best_dive_avg": 36.05,
+        "grade": 4.5
+      },
+      "Inward": {
+        "top_2_avg": 40.52,
+        "best_dive_id": "403B",
+        "best_dive_avg": 46.4,
+        "grade": 5.4
+      },
+      "Twister": {
+        "top_2_avg": 44.69,
+        "best_dive_id": "5134D",
+        "best_dive_avg": 46.04,
+        "grade": 6.0
+      },
+      "average_grade": 5.1
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 38.88,
+        "best_dive_id": "105B",
+        "best_dive_avg": 44.28,
+        "grade": 4.9
+      },
+      "Back": {
+        "top_2_avg": 31.19,
+        "best_dive_id": "203B",
+        "best_dive_avg": 31.62,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 32.57,
+        "best_dive_id": "303B",
+        "best_dive_avg": 34.12,
+        "grade": 4.1
+      },
+      "Inward": {
+        "top_2_avg": 38.96,
+        "best_dive_id": "403B",
+        "best_dive_avg": 39.55,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 42.97,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 49.5,
+        "grade": 5.4
+      },
+      "average_grade": 4.6
+    },
+    "Platform": {
+      "Front": {
+        "top_2_avg": 33.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 33.6,
+        "grade": 4.0
+      },
+      "Back": {
+        "top_2_avg": 23.25,
+        "best_dive_id": "201C",
+        "best_dive_avg": 23.25,
+        "grade": 2.7
+      },
+      "Reverse": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "301C",
+        "best_dive_avg": 26.4,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 28.0,
+        "best_dive_id": "401B",
+        "best_dive_avg": 28.0,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 39.1,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 44.1,
+        "grade": 4.6
+      },
+      "Armstand": {
+        "top_2_avg": 40.85,
+        "best_dive_id": "612B",
+        "best_dive_avg": 40.85,
+        "grade": 4.8
+      },
+      "average_grade": 3.7
+    },
+    "overall_average_grade": 4.5
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "name": "Sloan Bryson",
+  "gender": "F",
+  "age": "18",
+  "id": 93774,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 18.2,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 8.4,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.4
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 22.1,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 13.5,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-14",
+                "score": 17.0,
+                "meet": "2023 Clovis West Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.3,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 17.8,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.1,
+        "grade": 2.4
+      },
+      "Twister": {
+        "top_2_avg": 17.0,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.0,
+        "grade": 2.3
+      },
+      "average_grade": 2.1
+    },
+    "overall_average_grade": 2.1
+  }
+}

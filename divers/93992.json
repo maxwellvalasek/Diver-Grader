@@ -1,0 +1,128 @@
+{
+  "name": "Jacob Brandenburg ",
+  "gender": "M",
+  "age": "14",
+  "id": 93992,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 16.0,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 10.0,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 10.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 12.5,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 13.2,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 13.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 16.5,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5102A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-04-21",
+                "score": 14.0,
+                "meet": "Future Champions Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 12.85,
+        "best_dive_id": "101C",
+        "best_dive_avg": 13.2,
+        "grade": 1.7
+      },
+      "Back": {
+        "top_2_avg": 16.5,
+        "best_dive_id": "200C",
+        "best_dive_avg": 16.5,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 14.0,
+        "best_dive_id": "5102A",
+        "best_dive_avg": 14.0,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

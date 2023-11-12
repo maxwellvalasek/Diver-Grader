@@ -1,0 +1,266 @@
+{
+  "name": "Jazlynn Reid",
+  "gender": "F",
+  "age": "11",
+  "id": 101574,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 8.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 8.0
+          },
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 15.5,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 9.5,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 20.0,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.0
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 21.7,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.7
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 15.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-30",
+                "score": 20.5,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.5
+          },
+          "200C": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 15.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 16.8,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              },
+              {
+                "date": "2023-06-30",
+                "score": 24.5,
+                "meet": "Inland Empire Diving Invitational"
+              }
+            ],
+            "count": 2,
+            "average_score": 20.65
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 11.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 15.5,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 11.5,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 23.2,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 9.0,
+                "meet": "Inland Empire Diving Spooktober Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 9.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.85,
+        "best_dive_id": "101A",
+        "best_dive_avg": 21.7,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 17.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 20.5,
+        "grade": 2.4
+      },
+      "Inward": {
+        "top_2_avg": 20.65,
+        "best_dive_id": "401C",
+        "best_dive_avg": 20.65,
+        "grade": 2.8
+      },
+      "average_grade": 2.6
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 17.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 23.2,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 9.0,
+        "best_dive_id": "200C",
+        "best_dive_avg": 9.0,
+        "grade": 1.1
+      },
+      "average_grade": 1.6
+    },
+    "overall_average_grade": 2.1
+  }
+}

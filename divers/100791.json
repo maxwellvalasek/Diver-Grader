@@ -1,0 +1,131 @@
+{
+  "name": "Brittany O’brien",
+  "gender": "F",
+  "age": "25",
+  "id": 100791,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "107B": {
+            "dd": 3.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 40.3,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 40.3
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "205B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 46.5,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 46.5
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "305B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 67.5,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 67.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "405B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 54.0,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 54.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5152B": {
+            "dd": 3.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-04-28",
+                "score": 58.5,
+                "meet": "2023 USA Diving International Camp"
+              }
+            ],
+            "count": 1,
+            "average_score": 58.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 40.3,
+        "best_dive_id": "107B",
+        "best_dive_avg": 40.3,
+        "grade": 5.0
+      },
+      "Back": {
+        "top_2_avg": 46.5,
+        "best_dive_id": "205B",
+        "best_dive_avg": 46.5,
+        "grade": 5.8
+      },
+      "Reverse": {
+        "top_2_avg": 67.5,
+        "best_dive_id": "305B",
+        "best_dive_avg": 67.5,
+        "grade": 8.4
+      },
+      "Inward": {
+        "top_2_avg": 54.0,
+        "best_dive_id": "405B",
+        "best_dive_avg": 54.0,
+        "grade": 6.8
+      },
+      "Twister": {
+        "top_2_avg": 58.5,
+        "best_dive_id": "5152B",
+        "best_dive_avg": 58.5,
+        "grade": 7.3
+      },
+      "average_grade": 6.7
+    },
+    "overall_average_grade": 6.7
+  }
+}

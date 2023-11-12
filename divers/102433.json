@@ -1,0 +1,134 @@
+{
+  "name": "Asha Vakharia",
+  "gender": "F",
+  "age": "12",
+  "id": 102433,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 19.8,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 19.8
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 21.0,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 22.1,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.1
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 24.65,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.65
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 24.75,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.75
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-04",
+                "score": 28.5,
+                "meet": "2023 Schroeder Fall Back Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 20.4,
+        "best_dive_id": "102B",
+        "best_dive_avg": 21.0,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 23.38,
+        "best_dive_id": "202A",
+        "best_dive_avg": 24.65,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 24.75,
+        "best_dive_id": "401B",
+        "best_dive_avg": 24.75,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 28.5,
+        "grade": 3.8
+      },
+      "average_grade": 3.2
+    },
+    "overall_average_grade": 3.2
+  }
+}

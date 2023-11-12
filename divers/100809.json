@@ -1,0 +1,176 @@
+{
+  "name": "Seth Miller",
+  "gender": "M",
+  "age": "13",
+  "id": 100809,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 14.5,
+                "meet": "WMDA 2023 Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.5
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 11.5,
+                "meet": "WMDA 2023 Spring Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 14.4,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 13.5,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.95
+          },
+          "102B": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 15.75,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 11.5,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 13.62
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 21.25,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 9.5,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 15.38
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 16.1,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 12.5,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.3
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-05-20",
+                "score": 16.2,
+                "meet": "WMDA 2023 Spring Invitational"
+              },
+              {
+                "date": "2023-05-13",
+                "score": 12.0,
+                "meet": "KIMBALL KLASSIC"
+              }
+            ],
+            "count": 2,
+            "average_score": 14.1
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.79,
+        "best_dive_id": "101C",
+        "best_dive_avg": 13.95,
+        "grade": 1.8
+      },
+      "Back": {
+        "top_2_avg": 15.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 15.38,
+        "grade": 2.1
+      },
+      "Inward": {
+        "top_2_avg": 14.3,
+        "best_dive_id": "401C",
+        "best_dive_avg": 14.3,
+        "grade": 1.9
+      },
+      "Twister": {
+        "top_2_avg": 14.1,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 14.1,
+        "grade": 1.9
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

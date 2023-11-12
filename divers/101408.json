@@ -1,0 +1,90 @@
+{
+  "name": "Jacob Ben-zvi",
+  "gender": "M",
+  "age": "9",
+  "id": 101408,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 6.5,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 6.5,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 5.5,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 3,
+            "average_score": 6.17
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 20.3,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 20.3,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 18.9,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 13.3,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 18.2
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-19",
+                "score": 0.0,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.04,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.2,
+        "grade": 1.7
+      },
+      "average_grade": 1.7
+    },
+    "overall_average_grade": 1.7
+  }
+}

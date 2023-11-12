@@ -1,0 +1,101 @@
+{
+  "name": "Mabel Donaldson",
+  "gender": "F",
+  "age": "7",
+  "id": 101556,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 7.5,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 7.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 18.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 0.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 0.0
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 11.0,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.0
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-24",
+                "score": 18.7,
+                "meet": "Greater Atlanta Diving League Championships"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.7
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 13.1,
+        "best_dive_id": "101A",
+        "best_dive_avg": 18.7,
+        "grade": 1.7
+      },
+      "Back": {
+        "top_2_avg": 14.85,
+        "best_dive_id": "201A",
+        "best_dive_avg": 18.7,
+        "grade": 2.0
+      },
+      "average_grade": 1.9
+    },
+    "overall_average_grade": 1.9
+  }
+}

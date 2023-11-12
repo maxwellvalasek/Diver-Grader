@@ -1,0 +1,118 @@
+{
+  "name": "Harper  Hansen",
+  "gender": "F",
+  "age": "9",
+  "id": 102245,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001B": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 14.0,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "002A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 15.5,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 16.5,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.5
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 16.8,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 15.5,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 15.5
+          },
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-08",
+                "score": 21.25,
+                "meet": "Kansas Diving Invitational"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.25
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 16.65,
+        "best_dive_id": "101C",
+        "best_dive_avg": 16.8,
+        "grade": 2.2
+      },
+      "Back": {
+        "top_2_avg": 18.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 21.25,
+        "grade": 2.5
+      },
+      "average_grade": 2.3
+    },
+    "overall_average_grade": 2.3
+  }
+}

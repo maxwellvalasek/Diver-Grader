@@ -1,0 +1,277 @@
+{
+  "name": "Lucas Zocher",
+  "gender": "M",
+  "age": "18",
+  "id": 102459,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.5,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 31.45,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.45
+          },
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 25.2,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 24.2,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 24.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 1.8,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 23.4,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.4
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 21.6,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 29.45,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.45
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 31.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.0
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401B": {
+            "dd": 1.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 14.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          },
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 20.9,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 20.9
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5211A": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-21",
+                "score": 26.0,
+                "meet": "All Wisconsin Swimming and Diving College Showcase"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 25.5,
+        "best_dive_id": "103B",
+        "best_dive_avg": 25.5,
+        "grade": 3.4
+      },
+      "Back": {
+        "top_2_avg": 30.23,
+        "best_dive_id": "201A",
+        "best_dive_avg": 31.45,
+        "grade": 4.0
+      },
+      "Reverse": {
+        "top_2_avg": 25.2,
+        "best_dive_id": "301A",
+        "best_dive_avg": 25.2,
+        "grade": 3.4
+      },
+      "Inward": {
+        "top_2_avg": 24.2,
+        "best_dive_id": "403C",
+        "best_dive_avg": 24.2,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 23.4,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 23.4,
+        "grade": 3.1
+      },
+      "average_grade": 3.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 21.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 21.6,
+        "grade": 2.7
+      },
+      "Back": {
+        "top_2_avg": 29.45,
+        "best_dive_id": "201A",
+        "best_dive_avg": 29.45,
+        "grade": 3.7
+      },
+      "Reverse": {
+        "top_2_avg": 31.0,
+        "best_dive_id": "301A",
+        "best_dive_avg": 31.0,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 17.45,
+        "best_dive_id": "403C",
+        "best_dive_avg": 20.9,
+        "grade": 2.2
+      },
+      "Twister": {
+        "top_2_avg": 26.0,
+        "best_dive_id": "5211A",
+        "best_dive_avg": 26.0,
+        "grade": 3.2
+      },
+      "average_grade": 3.1
+    },
+    "overall_average_grade": 3.3
+  }
+}

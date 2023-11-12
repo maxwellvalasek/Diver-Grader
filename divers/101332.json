@@ -1,0 +1,79 @@
+{
+  "name": "Ben  Ela",
+  "gender": "M",
+  "age": "9",
+  "id": 101332,
+  "events": {
+    "1 Meter": {
+      "Unknown": {
+        "dives": {
+          "001A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 12.0,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 6.5,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-28",
+                "score": 6.75,
+                "meet": "Chevy @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.75
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 6.5,
+        "best_dive_id": "100A",
+        "best_dive_avg": 6.5,
+        "grade": 0.9
+      },
+      "Back": {
+        "top_2_avg": 6.75,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.75,
+        "grade": 0.9
+      },
+      "average_grade": 0.9
+    },
+    "overall_average_grade": 0.9
+  }
+}

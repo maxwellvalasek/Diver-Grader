@@ -1,0 +1,108 @@
+{
+  "name": "Jude Michelini",
+  "gender": "M",
+  "age": "17",
+  "id": 102518,
+  "events": {
+    "1 Meter": {
+      "Back": {
+        "dives": {
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 36.55,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 36.55
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "302C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 31.2,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "402C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 26.4,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 26.4
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-28",
+                "score": 32.3,
+                "meet": "2023 Halloween Classic Invite"
+              }
+            ],
+            "count": 1,
+            "average_score": 32.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Back": {
+        "top_2_avg": 36.55,
+        "best_dive_id": "202A",
+        "best_dive_avg": 36.55,
+        "grade": 4.9
+      },
+      "Reverse": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "302C",
+        "best_dive_avg": 31.2,
+        "grade": 4.2
+      },
+      "Inward": {
+        "top_2_avg": 26.4,
+        "best_dive_id": "402C",
+        "best_dive_avg": 26.4,
+        "grade": 3.5
+      },
+      "Twister": {
+        "top_2_avg": 32.3,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 32.3,
+        "grade": 4.3
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.2
+  }
+}

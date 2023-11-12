@@ -1,0 +1,473 @@
+{
+  "name": "Hattie Opdahl",
+  "gender": "F",
+  "age": "18",
+  "id": 102257,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 39.1,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 36.8,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 35.65,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 40.25,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 37.95
+          },
+          "105C": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 43.2,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.0,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 42.0,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 26.4,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 33.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.3,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 36.8,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 39.1,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 27.6,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 36.8,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 35.08
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 29.4,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 27.3,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 23.1,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 39.9,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 29.93
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 38.4,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 38.4,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 46.8,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 43.2,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 41.7
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-10-14",
+                "score": 32.55,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 35.7,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 2,
+            "average_score": 34.12
+          },
+          "5233D": {
+            "dd": 2.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 43.75,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 37.5,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 2,
+            "average_score": 40.62
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105B": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 37.2,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 37.2,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 19.2,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 31.2,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203B": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 30.8,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 30.8,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 20.9,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 40.7,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 30.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 34.0,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 29.0,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 26.0,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 25.0,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403B": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 39.9,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 33.6,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 38.85,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 34.65,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 36.75
+          },
+          "405C": {
+            "dd": 2.7,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 49.95,
+                "meet": "ST vs STCL"
+              }
+            ],
+            "count": 1,
+            "average_score": 49.95
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-10-27",
+                "score": 29.0,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 30.0,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 26.0,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.33
+          },
+          "5233D": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-11",
+                "score": 43.2,
+                "meet": "ST vs STCL"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 38.4,
+                "meet": "UMIN vs ST vs SDSU"
+              },
+              {
+                "date": "2023-10-14",
+                "score": 43.2,
+                "meet": "ST vs USD"
+              },
+              {
+                "date": "2023-10-07",
+                "score": 44.4,
+                "meet": "ST vs AUSF"
+              }
+            ],
+            "count": 4,
+            "average_score": 42.3
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 35.92,
+        "best_dive_id": "104B",
+        "best_dive_avg": 37.95,
+        "grade": 4.8
+      },
+      "Back": {
+        "top_2_avg": 35.08,
+        "best_dive_id": "203B",
+        "best_dive_avg": 35.08,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 29.93,
+        "best_dive_id": "303C",
+        "best_dive_avg": 29.93,
+        "grade": 4.0
+      },
+      "Inward": {
+        "top_2_avg": 41.7,
+        "best_dive_id": "403B",
+        "best_dive_avg": 41.7,
+        "grade": 5.6
+      },
+      "Twister": {
+        "top_2_avg": 37.37,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 40.62,
+        "grade": 5.0
+      },
+      "average_grade": 4.8
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "105B",
+        "best_dive_avg": 31.2,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 30.8,
+        "best_dive_id": "203B",
+        "best_dive_avg": 30.8,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "303C",
+        "best_dive_avg": 28.5,
+        "grade": 3.6
+      },
+      "Inward": {
+        "top_2_avg": 39.39,
+        "best_dive_id": "405C",
+        "best_dive_avg": 49.95,
+        "grade": 4.9
+      },
+      "Twister": {
+        "top_2_avg": 36.31,
+        "best_dive_id": "5233D",
+        "best_dive_avg": 42.3,
+        "grade": 4.5
+      },
+      "average_grade": 4.2
+    },
+    "overall_average_grade": 4.5
+  }
+}

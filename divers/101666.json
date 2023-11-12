@@ -1,0 +1,69 @@
+{
+  "name": "Tinsley Schneider",
+  "gender": "F",
+  "age": "9",
+  "id": 101666,
+  "events": {
+    "3 Meter": {
+      "Unknown": {
+        "dives": {
+          "002D": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 14.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 14.0
+          }
+        }
+      },
+      "Front": {
+        "dives": {
+          "100C": {
+            "dd": 1.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 6.0,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          },
+          "101A": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-09",
+                "score": 12.8,
+                "meet": "Wally Martin Memorial Three-Meter Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 12.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 9.4,
+        "best_dive_id": "101A",
+        "best_dive_avg": 12.8,
+        "grade": 1.2
+      },
+      "average_grade": 1.2
+    },
+    "overall_average_grade": 1.2
+  }
+}

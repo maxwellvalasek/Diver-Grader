@@ -1,0 +1,397 @@
+{
+  "name": "Mary Thompson",
+  "gender": "F",
+  "age": "18",
+  "id": 102290,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "104C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.6,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 30.8,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.2,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 27.87
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 2.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 26.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 28.0,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 33.0,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 29.0
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.1,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 18.9,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 22.05,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.15,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.7
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 27.5,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 19.8,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.2,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.83
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5122D": {
+            "dd": 1.9,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.5,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 25.65,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 26.6,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 26.92
+          },
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 24.65,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 13.6,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 25.5,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.25
+          }
+        }
+      }
+    },
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "105C": {
+            "dd": 2.2,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.6,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 29.7,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 28.6,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.97
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "203C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 19.95,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 25.65,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.7,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 23.43
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "303C": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 17.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 29.0,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 28.0,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 24.67
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "404C": {
+            "dd": 2.4,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 34.8,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 37.2,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 33.6,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 35.2
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5132D": {
+            "dd": 2.1,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 28.35,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 26.25,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 29.4,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 28.0
+          },
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-11-03",
+                "score": 24.0,
+                "meet": "Coyote Extravaganza @USD"
+              },
+              {
+                "date": "2023-10-28",
+                "score": 29.0,
+                "meet": "SDSU vs ISU"
+              },
+              {
+                "date": "2023-10-27",
+                "score": 24.0,
+                "meet": "UMIN vs ST vs SDSU"
+              }
+            ],
+            "count": 3,
+            "average_score": 25.67
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 27.87,
+        "best_dive_id": "104C",
+        "best_dive_avg": 27.87,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 29.0,
+        "best_dive_id": "203C",
+        "best_dive_avg": 29.0,
+        "grade": 3.9
+      },
+      "Reverse": {
+        "top_2_avg": 21.7,
+        "best_dive_id": "303C",
+        "best_dive_avg": 21.7,
+        "grade": 2.9
+      },
+      "Inward": {
+        "top_2_avg": 23.83,
+        "best_dive_id": "403C",
+        "best_dive_avg": 23.83,
+        "grade": 3.2
+      },
+      "Twister": {
+        "top_2_avg": 24.08,
+        "best_dive_id": "5122D",
+        "best_dive_avg": 26.92,
+        "grade": 3.2
+      },
+      "average_grade": 3.4
+    },
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 28.97,
+        "best_dive_id": "105C",
+        "best_dive_avg": 28.97,
+        "grade": 3.6
+      },
+      "Back": {
+        "top_2_avg": 23.43,
+        "best_dive_id": "203C",
+        "best_dive_avg": 23.43,
+        "grade": 2.9
+      },
+      "Reverse": {
+        "top_2_avg": 24.67,
+        "best_dive_id": "303C",
+        "best_dive_avg": 24.67,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 35.2,
+        "best_dive_id": "404C",
+        "best_dive_avg": 35.2,
+        "grade": 4.4
+      },
+      "Twister": {
+        "top_2_avg": 26.83,
+        "best_dive_id": "5132D",
+        "best_dive_avg": 28.0,
+        "grade": 3.4
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.4
+  }
+}

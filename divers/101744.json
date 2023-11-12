@@ -1,0 +1,88 @@
+{
+  "name": "Isaac Aaron",
+  "gender": "M",
+  "age": "13",
+  "id": 101744,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 21.45,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 21.45
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 25.6,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 28.0,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.0
+          },
+          "202B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-26",
+                "score": 30.4,
+                "meet": "2023 Montgomery County Dive League All-Stars"
+              }
+            ],
+            "count": 1,
+            "average_score": 30.4
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 23.52,
+        "best_dive_id": "103C",
+        "best_dive_avg": 25.6,
+        "grade": 3.1
+      },
+      "Back": {
+        "top_2_avg": 29.2,
+        "best_dive_id": "202B",
+        "best_dive_avg": 30.4,
+        "grade": 3.9
+      },
+      "average_grade": 3.5
+    },
+    "overall_average_grade": 3.5
+  }
+}

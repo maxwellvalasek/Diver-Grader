@@ -1,0 +1,191 @@
+{
+  "name": "Lucy Peppo",
+  "gender": "F",
+  "age": "11",
+  "id": 101195,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 22.4,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 19.6,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 18.9,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 24.5,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 14.7,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 20.02
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 18.4,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 20.8,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 24.8,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 25.6,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 21.6,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 22.24
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 20.4,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 25.5,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 30.6,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 23.8,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 23.8,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 24.82
+          },
+          "202A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 16.15,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.15
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 27.2,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-05",
+                "score": 30.6,
+                "meet": "WGCC @ Chevy"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 30.6,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 27.2,
+                "meet": "Chevy @ Congo"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 28.9,
+                "meet": "Manor @ Chevy"
+              }
+            ],
+            "count": 5,
+            "average_score": 28.9
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.13,
+        "best_dive_id": "103C",
+        "best_dive_avg": 22.24,
+        "grade": 2.8
+      },
+      "Back": {
+        "top_2_avg": 23.38,
+        "best_dive_id": "201A",
+        "best_dive_avg": 24.82,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 28.9,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 28.9,
+        "grade": 3.9
+      },
+      "average_grade": 3.3
+    },
+    "overall_average_grade": 3.3
+  }
+}

@@ -1,0 +1,88 @@
+{
+  "name": "Keegan Park",
+  "gender": "M",
+  "age": "12",
+  "id": 101177,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "100A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 6.5,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.5
+          },
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 16.8,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 16.8
+          },
+          "102C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 11.9,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 11.9
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "200A": {
+            "dd": 1.0,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-05",
+                "score": 6.0,
+                "meet": "Manor @ ANCC"
+              }
+            ],
+            "count": 1,
+            "average_score": 6.0
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 14.35,
+        "best_dive_id": "101A",
+        "best_dive_avg": 16.8,
+        "grade": 1.9
+      },
+      "Back": {
+        "top_2_avg": 6.0,
+        "best_dive_id": "200A",
+        "best_dive_avg": 6.0,
+        "grade": 0.8
+      },
+      "average_grade": 1.4
+    },
+    "overall_average_grade": 1.4
+  }
+}

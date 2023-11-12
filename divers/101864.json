@@ -1,0 +1,121 @@
+{
+  "name": "Connor Hogan",
+  "gender": "M",
+  "age": "14",
+  "id": 101864,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 18.9,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 18.9
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 25.6,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 25.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 22.95,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 22.95
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "401C": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 23.1,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.1
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5111B": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-30",
+                "score": 17.85,
+                "meet": "NVSL All-Star Meet"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 22.25,
+        "best_dive_id": "103C",
+        "best_dive_avg": 25.6,
+        "grade": 3.0
+      },
+      "Back": {
+        "top_2_avg": 22.95,
+        "best_dive_id": "201A",
+        "best_dive_avg": 22.95,
+        "grade": 3.1
+      },
+      "Inward": {
+        "top_2_avg": 23.1,
+        "best_dive_id": "401C",
+        "best_dive_avg": 23.1,
+        "grade": 3.1
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5111B",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}

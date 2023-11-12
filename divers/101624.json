@@ -1,0 +1,251 @@
+{
+  "name": "Maria  Rodriguez Rivera",
+  "gender": "F",
+  "age": "19",
+  "id": 101624,
+  "events": {
+    "3 Meter": {
+      "Front": {
+        "dives": {
+          "103B": {
+            "dd": 1.6,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 29.6,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.8,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 37.8,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 37.8
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301B": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 31.35,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.35
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 1.9,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 28.5,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5231D": {
+            "dd": 2.0,
+            "height": "3",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 23.0,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.0
+          }
+        }
+      }
+    },
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 29.6,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 29.6
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201B": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 31.2,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 31.2
+          }
+        }
+      },
+      "Reverse": {
+        "dives": {
+          "301C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 28.8,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 28.8
+          }
+        }
+      },
+      "Inward": {
+        "dives": {
+          "403C": {
+            "dd": 2.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 27.5,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 27.5
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5221D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-15",
+                "score": 23.8,
+                "meet": "2023 California Games"
+              }
+            ],
+            "count": 1,
+            "average_score": 23.8
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "3 Meter": {
+      "Front": {
+        "top_2_avg": 29.6,
+        "best_dive_id": "103B",
+        "best_dive_avg": 29.6,
+        "grade": 3.7
+      },
+      "Back": {
+        "top_2_avg": 37.8,
+        "best_dive_id": "201B",
+        "best_dive_avg": 37.8,
+        "grade": 4.7
+      },
+      "Reverse": {
+        "top_2_avg": 31.35,
+        "best_dive_id": "301B",
+        "best_dive_avg": 31.35,
+        "grade": 3.9
+      },
+      "Inward": {
+        "top_2_avg": 28.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 28.5,
+        "grade": 3.6
+      },
+      "Twister": {
+        "top_2_avg": 23.0,
+        "best_dive_id": "5231D",
+        "best_dive_avg": 23.0,
+        "grade": 2.9
+      },
+      "average_grade": 3.8
+    },
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 29.6,
+        "best_dive_id": "103C",
+        "best_dive_avg": 29.6,
+        "grade": 3.9
+      },
+      "Back": {
+        "top_2_avg": 31.2,
+        "best_dive_id": "201B",
+        "best_dive_avg": 31.2,
+        "grade": 4.2
+      },
+      "Reverse": {
+        "top_2_avg": 28.8,
+        "best_dive_id": "301C",
+        "best_dive_avg": 28.8,
+        "grade": 3.8
+      },
+      "Inward": {
+        "top_2_avg": 27.5,
+        "best_dive_id": "403C",
+        "best_dive_avg": 27.5,
+        "grade": 3.7
+      },
+      "Twister": {
+        "top_2_avg": 23.8,
+        "best_dive_id": "5221D",
+        "best_dive_avg": 23.8,
+        "grade": 3.2
+      },
+      "average_grade": 3.8
+    },
+    "overall_average_grade": 3.8
+  }
+}

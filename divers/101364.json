@@ -1,0 +1,189 @@
+{
+  "name": "Noa Ben-zvi",
+  "gender": "F",
+  "age": "10",
+  "id": 101364,
+  "events": {
+    "1 Meter": {
+      "Front": {
+        "dives": {
+          "101A": {
+            "dd": 1.4,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 16.8,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 23.8,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 24.5,
+                "meet": "Congo @ Kenwood"
+              }
+            ],
+            "count": 3,
+            "average_score": 21.7
+          },
+          "101C": {
+            "dd": 1.2,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-06-21",
+                "score": 15.6,
+                "meet": "Kenwood @ Bethesda"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 19.2,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 2,
+            "average_score": 17.4
+          },
+          "103C": {
+            "dd": 1.6,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 16.8,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 21.6,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 20.8,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 24.8,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 25.6,
+                "meet": "Kenwood @ Bethesda"
+              }
+            ],
+            "count": 5,
+            "average_score": 21.92
+          }
+        }
+      },
+      "Back": {
+        "dives": {
+          "201A": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 21.25,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              },
+              {
+                "date": "2023-07-10",
+                "score": 30.6,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-21",
+                "score": 22.1,
+                "meet": "Kenwood @ Bethesda"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 28.9,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 25.71
+          },
+          "202C": {
+            "dd": 1.5,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-10",
+                "score": 21.75,
+                "meet": "Kenwood @ Manor"
+              },
+              {
+                "date": "2023-06-28",
+                "score": 24.0,
+                "meet": "Chevy @ Kenwood"
+              },
+              {
+                "date": "2023-06-26",
+                "score": 24.0,
+                "meet": "Congo @ Kenwood"
+              },
+              {
+                "date": "2023-06-19",
+                "score": 26.25,
+                "meet": "Kenwood @ ANCC"
+              }
+            ],
+            "count": 4,
+            "average_score": 24.0
+          }
+        }
+      },
+      "Twister": {
+        "dives": {
+          "5121D": {
+            "dd": 1.7,
+            "height": "1",
+            "performance": [
+              {
+                "date": "2023-07-20",
+                "score": 17.85,
+                "meet": "2023 CCSDA Junior Championship @ Kenwood"
+              }
+            ],
+            "count": 1,
+            "average_score": 17.85
+          }
+        }
+      }
+    }
+  },
+  "rankings": {
+    "1 Meter": {
+      "Front": {
+        "top_2_avg": 21.84,
+        "best_dive_id": "103C",
+        "best_dive_avg": 21.92,
+        "grade": 2.9
+      },
+      "Back": {
+        "top_2_avg": 24.86,
+        "best_dive_id": "201A",
+        "best_dive_avg": 25.71,
+        "grade": 3.3
+      },
+      "Twister": {
+        "top_2_avg": 17.85,
+        "best_dive_id": "5121D",
+        "best_dive_avg": 17.85,
+        "grade": 2.4
+      },
+      "average_grade": 2.9
+    },
+    "overall_average_grade": 2.9
+  }
+}
